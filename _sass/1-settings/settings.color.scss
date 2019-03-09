@@ -1,0 +1,15 @@
+// base colors to get consistent color scheme
+$color-light-base: #fff;
+$color-light-light-base: #eee;
+$color-medium-light-base: #aaa;
+$color-medium-base: #808080;
+$color-dark-base: #262626;
+$color-light-green: #ccffcc;
+
+// general colors
+$color-background: $color-light-base;
+$color-text: $color-dark-base;
+$color-subtext: $color-medium-base;
+$color-highlight: $color-medium-light-base;
+$color-highlight-hover: $color-medium-base;
+$color-accent: $color-light-green;

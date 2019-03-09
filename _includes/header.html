@@ -1,0 +1,33 @@
+<header class="header">
+    <div class="container">
+
+        <!-- branding aka title of page and logo -->
+        <div class="branding">
+            <a href="{{ site.url }}">
+                {% if page.layout == 'home' %}
+                <h1 class="branding-title" hidden="hidden">{{ site.title }} - {{ site.subtitle }}</h1>
+                {% endif %}
+                <img class="branding-logo branding-logo--large" src="/assets/logos/logo.png" alt="{{ site.title }} - {{ site.subtitle }}" width="300px" />
+                <img class="branding-logo branding-logo--small" src="/assets/logos/logo-mobile.jpg" alt="{{ site.title }} - {{ site.subtitle }}" width="100px" />
+            </a>
+        </div>
+
+        <!-- primary navigation -->
+        <nav class="navigation">
+            <a class="nav-link-menu fas fa-bars" href="#" title="öffnen des Menüs." aria-label="Menü Button" aria-expanded="false" onclick="menuLinkClicked()"></a>
+            <a class="nav-link-search fas fa-search" href="/pages/search.html" title="Zu Suchen-Seite" aria-label="Suche Button"></a>
+            <ul class="menu menu-main menu-main--hidden">
+                <li class="menu-main-item" aria-labelledby="menu-main-item-link-1">
+                    <a id="menu-main-item-link-1" class="menu-item-link" href="/pages/faq.html">Minimalismus</a>
+                </li>
+                <li class="menu-main-item" aria-labelledby="menu-main-item-link-2">
+                    <a id="menu-main-item-link-2" class="menu-item-link" href="/pages/faq.html">Zero Waste</a>
+                </li>
+                <li class="menu-main-item" aria-labelledby="menu-main-item-link-3">
+                    <a id="menu-main-item-link-3" class="menu-item-link" href="/pages/faq.html">Fair Fashion</a>
+                </li>
+            </ul>
+        </nav>
+
+    </div>
+</header>

@@ -1,0 +1,66 @@
+body {
+  background-color: $color-background;
+}
+
+article,
+aside,
+address,
+header,
+nav,
+main,
+section,
+footer,
+div {
+  display: block;
+}
+
+div,
+p,
+span,
+a,
+em,
+i,
+b,
+strong,
+sup,
+sub,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include playfairFont;
+}
+
+div,
+p,
+span,
+a,
+em,
+i,
+b,
+strong,
+sup,
+sub {
+  font-size: $font-size-text;
+  font-weight: 300;
+  line-height: $line-height-base;
+  color: $color-text;
+}
+
+a {
+  font-family: inherit;
+  font-size: inherit;
+
+  > * {
+    color: inherit;
+  }
+}
+
+p,
+ul,
+ol,
+dl {
+  margin-bottom: $margin-base;
+}

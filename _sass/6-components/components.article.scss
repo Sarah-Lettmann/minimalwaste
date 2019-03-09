@@ -1,0 +1,9 @@
+$max-width-article-content: calc(700px + 2*1.25rem);
+
+.post {
+
+  &-body {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+}

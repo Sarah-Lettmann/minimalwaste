@@ -1,0 +1,28 @@
+.comments-area {
+  //@extend .entry-content
+}
+
+.comment-respond {
+
+  .comment {
+    &-form-comment,
+    &-form-author,
+    &-form-email,
+    &-form-url {
+
+      label {
+        display: block;
+      }
+
+      textarea,
+      input {
+        width: 100%;
+        padding: 0.25*$padding-base;
+        font-size: $font-size-base;
+        line-height: $line-height-base;
+      }
+    }
+
+  }
+
+}

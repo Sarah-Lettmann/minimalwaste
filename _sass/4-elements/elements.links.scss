@@ -1,0 +1,10 @@
+a {
+  color: $color-highlight;
+  text-decoration: none;
+
+  @include transition(color);
+
+  @include attention() {
+    color: $color-highlight-hover;
+  }
+}

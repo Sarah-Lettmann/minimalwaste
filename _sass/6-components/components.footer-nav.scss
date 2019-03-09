@@ -1,0 +1,15 @@
+.menu-footer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: -0.5*$margin-base;
+  margin-right: -0.5*$margin-base;
+
+  &-item {
+    margin: 0 0.5*$margin-base;
+
+    a {
+
+    }
+  }
+}

@@ -1,0 +1,26 @@
+$background-color-footer: $color-light-light-base;
+$color-footer: $color-medium-base;
+
+.footer {
+  background-color: $background-color-footer;
+  margin-top: 4*$margin-base;
+  color: $color-footer;
+
+  .container {
+    padding-top: 2*$padding-base;
+    padding-bottom: 2*$padding-base;
+    text-align: center;
+  }
+
+  * {
+    color: inherit;
+  }
+
+  a {
+    @include transition(color);
+
+    &:hover {
+      color: $color-dark-base;
+    }
+  }
+}

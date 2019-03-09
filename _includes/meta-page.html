@@ -1,0 +1,20 @@
+<title>{{ page.title }} | {{ site.title }}</title>
+<meta name="description" content="{{ page.description | escape }}" />
+<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}"/>
+
+<!-- Open Graph Data -->
+<meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+<meta property="og:description" content="{{ page.description | escape }}" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:site_name" content="{{ site.title }}" />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+<meta name="twitter:description" content="{{ page.description | escape }}">
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta name="twitter:image" content="{{ page.title_image }}">

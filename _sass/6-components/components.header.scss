@@ -1,0 +1,16 @@
+$height-header: 120px;
+
+.header {
+  @include box-shadow(0px, 0px, 20px, 0px, $color-light-light-base, false);
+  position: relative;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: $height-header;
+    padding-top: 0.7*$padding-base;
+    padding-bottom: 0.7*$padding-base;
+    margin-bottom: 4*$margin-base;
+  }
+}

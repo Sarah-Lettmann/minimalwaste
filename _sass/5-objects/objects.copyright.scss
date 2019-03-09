@@ -1,0 +1,14 @@
+.copyright {
+  margin-top: 3*$margin-base;
+  font-size: $font-size-base;
+  letter-spacing: 0.5px;
+
+  * {
+    font-size: inherit;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}

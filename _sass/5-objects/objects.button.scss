@@ -1,0 +1,7 @@
+.submit-button {
+  color: $color-button;
+  background-color: $background-color-button;
+  @include attention() {
+    background-color: $color-highlight-hover;
+  }
+}

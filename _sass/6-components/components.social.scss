@@ -1,0 +1,14 @@
+.social {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: -$margin-base;
+  margin-right: -$margin-base;
+  margin-bottom: 0.5*$margin-base;
+
+  &-icon {
+    font-size: 1.75*$font-size-base;
+    margin: 0 $margin-base;
+    line-height: 1.5*$line-height-base;
+  }
+}

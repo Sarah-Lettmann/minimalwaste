@@ -1,0 +1,22 @@
+$font-size-button: $font-size-base;
+$padding-button: 1rem 1.5rem;
+$background-color-button: $color-dark-base;
+$color-button: $color-light-base;
+
+button,
+input[type="submit"],
+input[type="reset"] {
+  padding: $padding-button;
+  border: none;
+  @include latoFont;
+  font-size: $font-size-button;
+  text-transform: uppercase;
+  cursor: pointer;
+  @include transition(color);
+  @include transition(background-color);
+}
+
+textarea,
+input {
+  border: 1px solid $color-medium-base;
+}

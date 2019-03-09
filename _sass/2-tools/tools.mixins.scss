@@ -1,0 +1,80 @@
+/********************
+Breakpoints
+********************/
+@mixin breakpoint($size) {
+  @if $size == mobile {
+    @media (max-width: $breakpoint-mobile - 1) { @content; }
+  }
+  @else if $size == tablet {
+    @media (min-width: $breakpoint-mobile) and (max-width: $breakpoint-medium - 1) { @content; }
+  }
+  @else if $size == desktop {
+    @media (min-width: $breakpoint-medium) { @content; }
+  }
+  @else if $size == logo-small {
+    @media (max-width: $breakpoint-logo) { @content; }
+  }
+  @else if $size == logo-large {
+    @media (min-width: $breakpoint-logo + 1) { @content; }
+  }
+}
+// @include breakpoint(breakpointname) { ... }
+
+
+
+/********************
+Fonts
+********************/
+@mixin latoFont {
+  font-family: 'Lato', Verdana, sans-serif;
+}
+
+@mixin playfairFont {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+
+
+/********************
+Apply attention in one go
+********************/
+@mixin attention() {
+  &:hover,
+  &:active,
+  &:focus {
+    @content;
+  }
+}
+// @include attention() { text-decoration: underline; }
+
+
+
+/********************
+Transitions
+********************/
+@mixin transition($property) {
+  -webkit-transition: $property $transition-duration;
+  -moz-transition: $property $transition-duration;
+  -ms-transition: $property $transition-duration;
+  -o-transition: $property $transition-duration;
+  transition: $property $transition-duration;
+}
+// @include transition(color);
+
+
+
+/********************
+Box-Shadow
+********************/
+@mixin box-shadow($top, $left, $blur, $spread, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $spread $color;
+    -moz-box-shadow:inset $top $left $blur $spread $color;
+    box-shadow:inset $top $left $blur $spread $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $spread $color;
+    -moz-box-shadow: $top $left $blur $spread $color;
+    box-shadow: $top $left $blur $spread $color;
+  }
+}
+// @include box-shadow(0px, 0px, 20px, 0px, #ddd, false);
