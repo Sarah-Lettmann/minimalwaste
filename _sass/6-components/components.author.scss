@@ -1,32 +1,22 @@
-$width-author-avatar: 50px;
-$height-author-avatar: $width-author-avatar;
+$width-author-image: 150px;
 
-.author-info {
+.post-author {
   display: flex;
-  margin: $margin-base 0;
 
-  .avatar {
-    width: $width-author-avatar;
-    height: $height-author-avatar;
+  &-image {
+    width: $width-author-image;
     border-radius: 50%;
   }
 
-  .author-text {
+  &-content {
     margin-left: $margin-base;
-    margin-right: 2 * $margin-base;
-
-    > p {
-      margin-bottom: 0;
-      font-family: inherit;
-    }
   }
 
-  .author-name {
-    font-size: $font-size-base;
+  &-name {
     margin-top: 0;
+  }
 
-    > a {
-      font-size: inherit;
-    }
+  &-bio {
+    margin-bottom: 0;
   }
 }

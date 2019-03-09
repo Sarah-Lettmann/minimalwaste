@@ -1,0 +1,8 @@
+<section id="post-author" class="post-author" aria-label="Autor dieses Posts">
+  {% assign author = site[page.author] %}
+  <img class="post-author-image" src="{{ author.picture }}" alt="Autor {{ author.name }}" title="Bild von {{ author.name }}" />
+  <div class="post-author-content">
+    <h3 class="post-author-name">{{ author.name }}</h3>
+    <p class="post-author-bio">{{ author.bio }}</p>
+  </div>
+</section>

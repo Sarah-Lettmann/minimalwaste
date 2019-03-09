@@ -6,11 +6,12 @@ layout: wrapper
     <div class="post-header">
         <h1 id="post-title" class="post-title">{{ page.title }}</h1>
         <span>veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}</span>
-        <span>von {{ page.author }}</span>
+        <span>von <a href="#post-author" title="Mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
         <span>in {{ page.categories | join: ', ' | escape }}</span>
         <img class="post-cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
     </div>
     <div class="post-body">
         {{ content }}
     </div>
+    {% include author.html %}
 </article>

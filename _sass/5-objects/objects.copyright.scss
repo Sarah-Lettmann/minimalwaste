@@ -2,6 +2,7 @@
   margin-top: 3*$margin-base;
   font-size: $font-size-base;
   letter-spacing: 0.5px;
+  @include latoFont;
 
   * {
     font-size: inherit;

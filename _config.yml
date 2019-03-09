@@ -19,7 +19,7 @@ email: dienste@minimalwaste.de
 description: >- # this means to ignore newlines until "baseurl:"
   Schön, dass du hier bist! Ich bin Sarah und auf MinimalWaste schreibe ich über Minimalismus, Zero Waste und
   gebe Tipps zu weniger Konsum und mehr Nachhaltigkeit.
-baseurl: "https://minimalwaste.de" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minimalwaste.de" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
 
@@ -29,6 +29,14 @@ instagram-link: https://www.instagram.com/minimalwaste.de/
 pinterest-link: https://www.pinterest.de/minimalwaste/
 patreon-link: https://www.patreon.com/minimalwaste
 email-website: info@minimalwaste.de
+
+# Authors
+sarah-lettmann:
+  name: Sarah Lettmann
+  bio: Hi, ich bin Sarah. Hier auf MinimalWaste schreibe ich über über Zero Waste und Minimalismus
+        und gebe Tipps wie man sein Leben nachhaltiger gestalten kann. Neben dieser Leidenschaft
+        programmiere ich außerdem sehr gerne und koche mit meinem Freund.
+  picture: /assets/sarahlettmann.jpg
 
 # Build settings
 future: true

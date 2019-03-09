@@ -20,20 +20,22 @@ $color-header-menu: $color-medium-base;
   top: $height-header;
   left: 0;
   right: 0;
-  padding: $padding-base;
   color: $color-header-menu;
   background-color: $background-color-header-menu;
   text-align: center;
+  @include latoFont;
 
   &--hidden {
     display: none;
   }
 
   &-item {
-    margin: $margin-base 0;
+    border-bottom: 1px solid $color-light-base;
     color: inherit;
 
     a {
+      display: block;
+      padding: $padding-base 0;
       @include transition(color);
 
       &:hover {

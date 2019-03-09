@@ -2,8 +2,8 @@ $background-color-footer: $color-light-light-base;
 $color-footer: $color-medium-base;
 
 .footer {
+  margin-top: $marginToContent;
   background-color: $background-color-footer;
-  margin-top: 4*$margin-base;
   color: $color-footer;
 
   .container {
