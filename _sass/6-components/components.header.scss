@@ -5,6 +5,8 @@ $height-mobile-header: 80px;
   position: relative;
   margin-bottom: $margin-to-content;
   border-bottom: 1px solid $color-light-light-base;
+  background-color: $color-background;
+  @include transition(margin-bottom);
   @include breakpoint(small) {
     margin-bottom: 0.5*$margin-to-content;
   }

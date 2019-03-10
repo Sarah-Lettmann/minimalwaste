@@ -1,5 +1,3 @@
-$max-width-article-content: calc(700px + 2*1.25rem);
-
 .post {
 
   &-header {
@@ -8,8 +6,7 @@ $max-width-article-content: calc(700px + 2*1.25rem);
   }
 
   &-body {
-    max-width: $max-width-content;
-    margin: 0 auto $margin-between-content auto;
+    position: relative;
 
     p:first-of-type {
 
@@ -18,6 +15,9 @@ $max-width-article-content: calc(700px + 2*1.25rem);
         line-height: 0.8;
         float: left;
         margin-right: 0.25*$margin-base;
+        @include breakpoint(small) {
+          font-size: 3*$font-size-text;
+        }
       }
     }
   }

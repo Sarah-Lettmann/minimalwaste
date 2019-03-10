@@ -8,14 +8,14 @@ layout: wrapper
         <span>veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}</span>
         <span>von <a href="#author" title="Mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
         <span>in {{ page.categories | join: ', ' | escape }}</span>
-        <img class="post-cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
+        <img class="post-cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="960" height="640" />
     </div>
-    <div class="post-body">
+    <div class="post-body content">
         {{ content }}
         {% if page.affiliate == true %}
           <p class="post-affiliate-hint">{{ site.affiliate-hint }}</p>
         {% endif %}
+        {% include sharing.html %}
     </div>
-    {% include sharing.html %}
     {% include author.html %}
 </article>

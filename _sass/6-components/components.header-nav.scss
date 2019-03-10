@@ -16,10 +16,13 @@ $color-header-menu: $color-medium-base;
 }
 
 .menu-main {
+  display: none;
   position: absolute;
   top: $height-header;
   left: 0;
   right: 0;
+  border-top: 1px solid $color-light-light-base;
+  border-bottom: 1px solid $color-light-light-base;
   color: $color-header-menu;
   background-color: $background-color-header-menu;
   text-align: center;
@@ -28,13 +31,17 @@ $color-header-menu: $color-medium-base;
     top: $height-mobile-header;
   }
 
-  &--hidden {
-    display: none;
-  }
-
   &-item {
     border-bottom: 1px solid $color-light-base;
     color: inherit;
+    @include attention() {
+      background-color: $color-background;
+    }
+    @include transition(background-color);
+
+    &:last-of-type {
+      border-bottom: none;
+    }
 
     a {
       display: block;

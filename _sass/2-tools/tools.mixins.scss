@@ -17,6 +17,9 @@ Breakpoints
   @else if $size == large {
     @media (min-width: $breakpoint-small + 1) { @content; }
   }
+  @else if $size == sharing {
+    @media (min-width: $breakpoint-sharing) { @content; }
+  }
 }
 // @include breakpoint(breakpointname) { ... }
 
@@ -53,11 +56,11 @@ Apply attention in one go
 Transitions
 ********************/
 @mixin transition($property) {
-  -webkit-transition: $property $transition-duration;
-  -moz-transition: $property $transition-duration;
-  -ms-transition: $property $transition-duration;
-  -o-transition: $property $transition-duration;
-  transition: $property $transition-duration;
+  -webkit-transition: $property $transition-duration linear;
+  -moz-transition: $property $transition-duration linear;
+  -ms-transition: $property $transition-duration linear;
+  -o-transition: $property $transition-duration linear;
+  transition: $property $transition-duration linear;
 }
 // @include transition(color);
 
