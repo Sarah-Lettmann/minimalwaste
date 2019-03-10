@@ -10,6 +10,7 @@ keywords: [ökologischer Fußabdruck, Emissionen]
 permalink: /blog/:title
 image: "/assets/title-images/2019-03-08-mein-oekologischer-fussabdruck-in-punkten.jpg"
 author: sarah-lettmann
+affiliate: false
 ---
 
 Vor Kurzem bin ich in einem Beitrag auf die Website
@@ -243,21 +244,91 @@ Produkten und natürlich allen dazugehörigen Punkten.
     </tr>
 </table>
 
-Und hier noch eine kleine Tabelle, in der meine Klamotten aufgelistet sind. Das ist natürlich nicht alles was ich habe, aber manche Dinge werden im Punkterechner einfach nicht beachtet.
+Und hier noch eine kleine Tabelle, in der meine Klamotten aufgelistet sind.
+Das ist natürlich nicht alles was ich habe, aber manche Dinge werden im
+Punkterechner einfach nicht beachtet.
 
 <table>
 <tr>
     <td>1 Paar Sportschuhe (36 Monate)</td>
     <td>0,1</td>
 </tr>
+<tr>
+    <td>1 Paar Sandalen (18 Monate)</td>
+    <td>0,4</td>
+</tr>
+<tr>
+    <td>1 Paar Lederschuhe (24 Monate)</td>
+    <td>0,4</td>
+</tr>
+<tr>
+    <td>3 Paar Stiefel (durchschnittlich 24 Monate))</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>2 normale Jeans (24 Monate)</td>
+    <td>1,2</td>
+</tr>
+<tr>
+    <td>6 T-Shirts/Oberteile (36 Monate)</td>
+    <td>0,4</td>
+</tr>
+<tr>
+    <td>3 Bio T-Shirts (24 Monate)</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>3 Jacken (36 Monate)</td>
+    <td>0,4</td>
+</tr>
+<tr>
+    <td>4 Pullis (24 Monate)</td>
+    <td>0,2</td>
+</tr>
+<tr>
+    <td>Gesamtwert</td>
+    <td>8,1</td>
+</tr>
 </table>
 
-1 Paar Sandalen (18 Monate)	0,4
-1 Paar Lederschuhe (24 Monate)	0,4
-3 Paar Stiefel (durchschnittlich 24 Monate)	5
-2 normale Jeans (24 Monate)	1,2
-6 T-Shirts/Oberteile (36 Monate)	0,4
-3 Bio T-Shirts (24 Monate)	0
-3 Jacken (36 Monate)	0,4
-4 Pullis (24 Monate)	0,2
-Gesamtwert	8,1
+## Mein Fazit
+Ich habe es tatsächlich geschafft unter den 100 Punkten zu bleiben.
+Da bin ich ehrlich gesagt ziemlich stolz drauf und das spornt mich an.
+
+Ich denke aber, dass es gerade am Wochenende ein paar Punkte mehr als 100 sind,
+da wir da oft mal mit der Straßenbahn in die Stadt fahren, Essen gehen oder Wäsche waschen.
+Nichtsdestotrotz würde sich das dann wieder mit den guten Tagen unter der Woche ausgleichen.
+
+Die Methode finde ich als Idee auch ziemlich gut. Allerdings muss man sagen,
+dass sie nicht unbedingt genau ist, da einfach nicht jedes einzelne Lebensmittel und jedes
+Kleidungsstück aufgelistet sind und werden können. Trotzdem bietet der Rechner eine gute
+Übersicht über Umweltsünden und zeigt einem wo man Potenzial hat. Wenn man sich einen
+Account erstellt kann man leicht Alternativen testen und so seinen Punktestand optimieren.
+
+Schwierig finde ich, dass bisher nicht wirklich auf Secondhand-Käufe eingegangen wird.
+Natürlich musste das Produkt produziert werden, aber man wollte ja eben nicht,
+dass dafür neue Ressourcen verschwendet werden, weshalb man gebraucht gekauft hat.
+Bei der aktuellen Methode kann man secondhand als Option nicht wählen und kann nur angeben,
+wie lange das Produkt schon benutzt wird. Aber das ist bei secondhand eben auch
+schwer einzuschätzen. Ich persönlich würde Dinge, die gebraucht gekauft wurden mit 0 Punkten bewerten.
+Das würde auch nochmal einen Fokus auf den enormen ökologischen Vorteil von secondhand Sachen legen.
+
+Aber trotzdem wird eigentlich schon gängiges Wissen mit Fakten aufgefrischt.
+Mehr Bewegung, gesünderer Ernährung in Form von mehr Gemüse und Obst, weniger Konsum,
+Ökostrom und die Nutzung von öffentlichen Verkehrsmittel sind gut für die Umwelt
+und – ich kann es leider nicht lassen und muss es nochmal betonen –
+gut für das Wohlbefinden und den Geldbeutel.
+
+Wenn du noch mehr zum Thema Nachhaltigkeit und weniger Konsum wissen willst,
+dann empfehle ich dir folgende Beiträge:
+
+Leben in der Konsumgesellschaft: Warum ist das so?
+
+Die Philosophie hinter Zero Waste
+
+8 alltägliche Dinge für die es Zero Waste Alternativen gibt
+
+Mich würde interessieren, was du machst, um deinen ökologischen Fußabdruck klein zu halten
+und wie dein bester Tag bisher aussieht. Lass es mich gerne wissen. Bis zum nächsten Mal.
+
+– Sarah

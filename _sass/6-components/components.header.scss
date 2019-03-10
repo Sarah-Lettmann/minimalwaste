@@ -1,9 +1,13 @@
 $height-header: 120px;
+$height-mobile-header: 80px;
 
 .header {
   position: relative;
-  margin-bottom: $marginToContent;
+  margin-bottom: $margin-to-content;
   border-bottom: 1px solid $color-light-light-base;
+  @include breakpoint(small) {
+    margin-bottom: 0.5*$margin-to-content;
+  }
 
   .container {
     display: flex;
@@ -12,5 +16,8 @@ $height-header: 120px;
     height: $height-header;
     padding-top: 0.7*$padding-base;
     padding-bottom: 0.7*$padding-base;
+    @include breakpoint(small) {
+      height: $height-mobile-header;
+    }
   }
 }

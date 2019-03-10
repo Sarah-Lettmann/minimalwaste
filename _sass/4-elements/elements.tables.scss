@@ -1,0 +1,28 @@
+$border-table: 1px solid $color-medium-light-base;
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+  tr {
+    border-bottom: $border-table;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  th {
+    text-align: left;
+  }
+
+  td,
+  th {
+    padding: 0.5rem;
+    border-right: $border-table;
+
+    &:last-child {
+      border-right: none;
+    }
+  }
+}

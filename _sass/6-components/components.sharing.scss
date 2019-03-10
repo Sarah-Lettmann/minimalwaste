@@ -1,0 +1,24 @@
+.sharing {
+  max-width: $max-width-content;
+  margin: 0 auto $margin-between-content auto;
+  @include breakpoint(mobile) {
+    text-align: center;
+  }
+
+  &-title {
+    display: inline;
+    font-size: $font-size-text;
+    @include breakpoint(mobile) {
+      display: block;
+      margin-bottom: 0.75*$margin-base;
+    }
+  }
+
+  &-icon {
+    margin: 0 0.5*$margin-base;
+    color: $color-text;
+    @include breakpoint(mobile) {
+      font-size: 1.5*$font-size-base;
+    }
+  }
+}

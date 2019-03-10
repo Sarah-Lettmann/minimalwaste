@@ -1,15 +1,36 @@
-$width-author-image: 150px;
+$width-author-image: 125px;
+$height-author-image: $width-author-image;
+$width-mobile-author-image: 100px;
+$height-mobile-author-image: $width-mobile-author-image;
 
-.post-author {
+.author {
   display: flex;
+  max-width: $max-width-content;
+  margin: 0 auto $margin-between-content auto;
+  @include breakpoint(mobile) {
+    flex-direction: column;
+    align-items: center;
+  }
 
   &-image {
     width: $width-author-image;
+    height: $height-author-image;
     border-radius: 50%;
+    @include breakpoint(mobile) {
+      margin-bottom: 0.5*$margin-base;
+    }
+    @include breakpoint(small) {
+      width: $width-mobile-author-image;
+      height: $height-mobile-author-image
+    }
   }
 
   &-content {
     margin-left: $margin-base;
+    @include breakpoint(mobile) {
+      margin-left: 0;
+      text-align: center;
+    }
   }
 
   &-name {
@@ -18,5 +39,6 @@ $width-author-image: 150px;
 
   &-bio {
     margin-bottom: 0;
+    font-size: $font-size-base;
   }
 }

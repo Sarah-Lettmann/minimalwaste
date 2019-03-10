@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minimalwaste.de" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
+affiliate-hint: "* Dieser Beiträg enthält Affiliate-Links. Dadurch kann ich über Produkte
+                und Dienste, die ich gerne Nutze, etwas verdienen ohne dass du mehr bezahlen musst."
 
 # Social
 facebook-link: https://www.facebook.com/MinimalWasteBlog/
@@ -29,14 +31,14 @@ instagram-link: https://www.instagram.com/minimalwaste.de/
 pinterest-link: https://www.pinterest.de/minimalwaste/
 patreon-link: https://www.patreon.com/minimalwaste
 email-website: info@minimalwaste.de
+twitter-username: MinimalWaste
 
 # Authors
 sarah-lettmann:
   name: Sarah Lettmann
   bio: Hi, ich bin Sarah. Hier auf MinimalWaste schreibe ich über über Zero Waste und Minimalismus
-        und gebe Tipps wie man sein Leben nachhaltiger gestalten kann. Neben dieser Leidenschaft
-        programmiere ich außerdem sehr gerne und koche mit meinem Freund.
-  picture: /assets/sarahlettmann.jpg
+        und gebe Tipps wie man sein Leben nachhaltiger gestalten kann.
+  picture: /assets/authors/sarahlettmann.jpg
 
 # Build settings
 future: true
@@ -46,8 +48,8 @@ plugins:
   - jekyll-feed
 
 # Sass
-sass:
-  style: compressed
+#sass:
+  #style: compressed
 
 # agent
 web-dev: Sarah Lettmann

@@ -11,11 +11,11 @@ Breakpoints
   @else if $size == desktop {
     @media (min-width: $breakpoint-medium) { @content; }
   }
-  @else if $size == logo-small {
-    @media (max-width: $breakpoint-logo) { @content; }
+  @else if $size == small {
+    @media (max-width: $breakpoint-small) { @content; }
   }
-  @else if $size == logo-large {
-    @media (min-width: $breakpoint-logo + 1) { @content; }
+  @else if $size == large {
+    @media (min-width: $breakpoint-small + 1) { @content; }
   }
 }
 // @include breakpoint(breakpointname) { ... }

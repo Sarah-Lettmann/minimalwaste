@@ -29,6 +29,9 @@ h6 {
 h1 {
   font-size: $font-size-h1;
   margin: 1rem 0;
+  @include breakpoint(small) {
+    font-size: 0.8*$font-size-h1;
+  }
 
   a {
     font-size: inherit;
@@ -37,6 +40,9 @@ h1 {
 
 h2 {
   font-size: $font-size-h2;
+  @include breakpoint(small) {
+    font-size: 0.8*$font-size-h2;
+  }
 
   a {
     font-size: inherit;
@@ -45,6 +51,9 @@ h2 {
 
 h3 {
   font-size: $font-size-h3;
+  @include breakpoint(small) {
+    font-size: 0.9*$font-size-h3;
+  }
 
   a {
     font-size: inherit;
@@ -53,6 +62,9 @@ h3 {
 
 h4 {
   font-size: $font-size-h4;
+  @include breakpoint(small) {
+    font-size: 0.9*$font-size-h4;
+  }
 
   a {
     font-size: inherit;
@@ -61,6 +73,9 @@ h4 {
 
 h5 {
   font-size: $font-size-h5;
+  @include breakpoint(small) {
+    font-size: 0.9*$font-size-h5;
+  }
 
   a {
     font-size: inherit;
@@ -69,6 +84,9 @@ h5 {
 
 h6 {
   font-size: $font-size-h6;
+  @include breakpoint(small) {
+    font-size: 0.9*$font-size-h6;
+  }
 
   a {
     font-size: inherit;

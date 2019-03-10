@@ -24,6 +24,9 @@ $color-header-menu: $color-medium-base;
   background-color: $background-color-header-menu;
   text-align: center;
   @include latoFont;
+  @include breakpoint(small) {
+    top: $height-mobile-header;
+  }
 
   &--hidden {
     display: none;

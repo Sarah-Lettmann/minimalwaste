@@ -1,5 +1,4 @@
 blockquote {
-  display: block;
   font-size: 2.5rem;
   font-style: italic;
   color: $color-subtext;
@@ -9,7 +8,6 @@ blockquote {
 }
 
 q {
-  display: inline;
 
   &::before {
     content: open-quote;

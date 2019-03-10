@@ -1,5 +1,6 @@
 body {
   background-color: $color-background;
+  @include playfairFont;
 }
 
 article,
@@ -10,46 +11,31 @@ nav,
 main,
 section,
 footer,
-div {
+div,
+p,
+blockquote,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
   display: block;
 }
 
-div,
-p,
-span,
+
 a,
+span,
 em,
 i,
 b,
 strong,
 sup,
 sub,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  @include playfairFont;
-}
-
-div,
-p,
-span,
-a,
-em,
-i,
-b,
-strong,
-sup,
-sub {
-  font-size: $font-size-text;
-  font-weight: 300;
-  line-height: $line-height-base;
-  color: $color-text;
-}
-
-a {
+mark,
+q,
+cite {
+  display: inline;
   font-family: inherit;
   font-size: inherit;
 
@@ -58,9 +44,23 @@ a {
   }
 }
 
+div,
+p {
+  font-size: $font-size-text;
+  font-weight: 300;
+  line-height: $line-height-base;
+  color: $color-text;
+  @include breakpoint(small) {
+    font-size: $font-size-base;
+  }
+}
+
 p,
 ul,
 ol,
-dl {
+dl,
+table,
+img,
+figure {
   margin-bottom: $margin-base;
 }

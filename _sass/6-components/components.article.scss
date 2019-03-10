@@ -4,14 +4,30 @@ $max-width-article-content: calc(700px + 2*1.25rem);
 
   &-header {
     margin-bottom: $margin-base;
+    font-size: $font-size-base;
   }
 
   &-body {
-    max-width: 700px;
-    margin: 0 auto 4*$margin-base auto;
+    max-width: $max-width-content;
+    margin: 0 auto $margin-between-content auto;
+
+    p:first-of-type {
+
+      &::first-letter {
+        font-size: 3.5*$font-size-text;
+        line-height: 0.8;
+        float: left;
+        margin-right: 0.25*$margin-base;
+      }
+    }
   }
 
   &-cover {
     margin: $margin-base 0;
+  }
+
+  &-affiliate-hint {
+    font-size: $font-size-base;
+    font-style: italic;
   }
 }
