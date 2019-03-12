@@ -1,35 +1,12 @@
 .sharing {
-  max-width: $max-width-content;
-  margin: $margin-between-content 0;
-
-  @include breakpoint(sharing) {
-
-    &--posabsolute {
-      position: absolute;
-    }
-
-    &--posfixed {
-      position: fixed;
-    }
-
-    top: 0;
-    left: -4*$margin-base;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-  }
 
   @include breakpoint(mobile) {
     text-align: center;
   }
 
-
   &-title {
     display: inline;
     font-size: $font-size-text;
-    @include breakpoint(sharing) {
-      display: none;
-    }
     @include breakpoint(mobile) {
       display: block;
       margin-bottom: 0.75*$margin-base;
@@ -40,8 +17,5 @@
     margin: 0 0.5*$margin-base;
     font-size: 1.5*$font-size-base;
     color: $color-text;
-    @include breakpoint(sharing) {
-      margin-bottom: $margin-base;
-    }
   }
 }

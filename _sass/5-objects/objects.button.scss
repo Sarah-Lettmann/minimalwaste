@@ -1,4 +1,7 @@
-.submit-button {
+$background-color-button: $color-dark-base;
+$color-button: $color-light-base;
+
+.cta {
   color: $color-button;
   background-color: $background-color-button;
   @include attention() {

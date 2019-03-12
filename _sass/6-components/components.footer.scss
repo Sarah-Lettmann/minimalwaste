@@ -5,6 +5,7 @@ $color-footer: $color-medium-base;
   margin-top: $margin-to-content;
   background-color: $background-color-footer;
   color: $color-footer;
+  overflow: hidden;
 
   .container {
     padding-top: 2*$padding-base;

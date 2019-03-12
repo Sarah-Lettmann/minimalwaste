@@ -1,4 +1,4 @@
-.menu-footer {
+.menu--footer {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -6,11 +6,7 @@
   margin-right: -0.5*$margin-base;
   @include latoFont;
 
-  &-item {
+  .menu-item {
     margin: 0 0.5*$margin-base;
-
-    a {
-
-    }
   }
 }

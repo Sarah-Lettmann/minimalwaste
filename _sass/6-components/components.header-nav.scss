@@ -15,7 +15,7 @@ $color-header-menu: $color-medium-base;
   }
 }
 
-.menu-main {
+.menu--main {
   display: none;
   position: absolute;
   top: $height-header;
@@ -31,7 +31,7 @@ $color-header-menu: $color-medium-base;
     top: $height-mobile-header;
   }
 
-  &-item {
+  .menu-item {
     border-bottom: 1px solid $color-light-base;
     color: inherit;
     @include attention() {
@@ -43,7 +43,7 @@ $color-header-menu: $color-medium-base;
       border-bottom: none;
     }
 
-    a {
+    .menu-link {
       display: block;
       padding: $padding-base 0;
       @include transition(color);

@@ -15,7 +15,8 @@ layout: wrapper
         {% if page.affiliate == true %}
           <p class="post-affiliate-hint">{{ site.affiliate-hint }}</p>
         {% endif %}
-        {% include sharing.html %}
     </div>
+    {% include newsletter.html %}
+    {% include sharing.html %}
     {% include author.html %}
 </article>

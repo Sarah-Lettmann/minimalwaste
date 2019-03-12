@@ -2,16 +2,16 @@ function menuLinkClicked() {
 
     // set classes to show or hide the main menu and pushes main are down
     var mainMenuToggle = $(".nav-link-menu");
-    var mainMenu = $(".menu-main");
-    var menuHeight = parseInt($(".menu-main").height());
+    var mainMenu = $(".menu--main");
+    var menuHeight = parseInt(mainMenu.height());
     header = $(".header");
     marginHeader = parseInt(header.css("margin-bottom").replace("px", ""));
 
-    if(mainMenu.hasClass("menu-main--hidden")) {
+    if(mainMenu.hasClass("menu--hidden")) {
 
       // menu is hidden -> make it visible
-      mainMenu.removeClass("menu-main--hidden");
-      mainMenu.addClass("menu-main--visible");
+      mainMenu.removeClass("menu--hidden");
+      mainMenu.addClass("menu--visible");
       // set aria-expanded=true
       mainMenuToggle.attr("aria-expanded", true);
       // add height of menu to original margin of header
@@ -22,8 +22,8 @@ function menuLinkClicked() {
     } else {
 
       // menu is visible -> make it hidden
-      mainMenu.removeClass("menu-main--visible");
-      mainMenu.addClass("menu-main--hidden");
+      mainMenu.removeClass("menu--visible");
+      mainMenu.addClass("menu--hidden");
       // set aria-expanded=false
       mainMenuToggle.attr("aria-expanded", false);
       // reset margin of header

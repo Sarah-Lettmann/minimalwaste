@@ -46,7 +46,7 @@ future: true
 markdown: kramdown
 theme:
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
 
 # Sass
 #sass:

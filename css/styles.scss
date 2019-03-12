@@ -4,13 +4,9 @@
 
 @import "1-settings/settings.global";
 @import "1-settings/settings.font";
+@import "1-settings/settings.fontawesome.scss";
 @import "1-settings/settings.color";
 @import "1-settings/settings.breakpoints.scss";
-
-@import "8-fontawesome/fontawesome.scss";
-@import "8-fontawesome/regular.scss";
-@import "8-fontawesome/solid.scss";
-@import "8-fontawesome/brands.scss";
 
 @import "2-tools/tools.mixins";
 @import "2-tools/tools.functions.scss";
@@ -31,7 +27,6 @@
 @import "4-elements/elements.images.scss";
 @import "4-elements/elements.text.scss";
 
-@import "5-objects/objects.branding.scss";
 @import "5-objects/objects.button.scss";
 @import "5-objects/objects.fontawesome.scss";
 @import "5-objects/objects.copyright.scss";
@@ -47,3 +42,5 @@
 @import "6-components/components.footer-nav.scss";
 @import "6-components/components.social.scss";
 @import "6-components/components.sharing.scss";
+@import "6-components/components.branding.scss";
+@import "6-components/components.newsletter.scss";

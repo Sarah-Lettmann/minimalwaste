@@ -1,12 +1,9 @@
 $font-size-button: $font-size-base;
-$padding-button: 1rem 1.5rem;
-$background-color-button: $color-dark-base;
-$color-button: $color-light-base;
 
 button,
 input[type="submit"],
 input[type="reset"] {
-  padding: $padding-button;
+  padding: 0.75rem 1rem;
   border: none;
   @include latoFont;
   font-size: $font-size-button;
