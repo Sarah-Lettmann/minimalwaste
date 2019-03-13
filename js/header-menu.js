@@ -17,7 +17,7 @@ function menuLinkClicked() {
       // add height of menu to original margin of header
       newMargin =  marginHeader + menuHeight;
       header.css("margin-bottom", newMargin);
-      mainMenu.slideDown();
+      mainMenu.slideDown(200);
 
     } else {
 
@@ -29,7 +29,7 @@ function menuLinkClicked() {
       // reset margin of header
       newMargin =  marginHeader - menuHeight;
       header.css("margin-bottom", newMargin);
-      mainMenu.slideUp();
+      mainMenu.slideUp(200);
 
     }
 };

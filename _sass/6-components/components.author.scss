@@ -13,6 +13,7 @@ $height-mobile-author-image: $width-mobile-author-image;
   &-image {
     width: $width-author-image;
     height: $height-author-image;
+    margin-bottom: 0;
     border-radius: 50%;
     @include breakpoint(mobile) {
       margin-bottom: 0.5*$margin-base;
