@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html lang="de-de">
 
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1">
-        {% if page.layout == 'home' %}
-            {% include meta-home.html %}
-        {% else %}
-            {% include meta-page.html %}
-        {% endif %}
-        <!-- favicon -->
-        <link rel="shortcut icon" type="image/png" href="/assets/logos/favicon.png">
-        <!-- included stylesheets -->
-        <link rel="stylesheet" href="/css/styles.css">
-        <!-- included scripts -->
-        <script src="/js/jquery-3.3.1.min.js"></script>
-        <script src="/js/header-menu.js"></script>
-        <!-- google analytics -->
-      
-    </head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    {% if page.layout == 'home' %}
+        {% include meta-home.html %}
+    {% else %}
+        {% include meta-page.html %}
+    {% endif %}
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/png" href="/assets/logos/favicon.png">
+    <!-- included stylesheets -->
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- included scripts -->
+    <script src="/js/jquery-3.3.1.min.js"></script>
+    <script src="/js/header-menu.js"></script>
+    <!-- google analytics -->
+  </head>
 
-    <body class="site">
-        {% include header.html %}
-        <main class="main">
-            <div class="container">
-                {{ content }}
-            </div>
-        </main>
-        {% include footer.html %}
-    </body>
+  <body class="site">
+    {% include header.html %}
+    <main class="main">
+      {% if page.title == '404' %}
+        <div class="container container--404">
+            {{ content }}
+        </div>
+      {% else %}
+        <div class="container">
+            {{ content }}
+        </div>
+      {% endif %}
+    </main>
+    {% include footer.html %}
+  </body>
 
 </html>
