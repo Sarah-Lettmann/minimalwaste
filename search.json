@@ -6,7 +6,7 @@
 
     "title"    : "{{ post.title | escape }}",
     "url"      : "{{ post.permalink }}",
-    "category" : "{{ post.category | join: ', ' }}",
+    "category" : "{{ post.categories | join: ', ' }}",
     "tags"     : "{{ post.tags | join: ', ' }}",
     "date"     : "{{ post.date }}"
 

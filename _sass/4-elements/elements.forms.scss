@@ -15,5 +15,9 @@ input[type="reset"] {
 
 textarea,
 input {
+  width: 100%;
   border: 1px solid $color-medium-base;
+  font-size: $font-size-text;
+  padding: 0.5*$padding-base;
+  margin-bottom: $margin-base;
 }
