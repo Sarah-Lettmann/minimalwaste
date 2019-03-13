@@ -1,34 +1,55 @@
 ---
 layout: post
-title: "Reiniger DIYs für den Frühjahrsputz"
+title: "4 müllfreie DIYs für einen sauberen Haushalt"
 date: 2019-03-15
-categories: cat
+categories: [Zero Waste, DIY]
 description: ""
-keywords: [1, 2]
+keywords: [müllfreie DIYs]
 image: "/assets/title-images/"
 author: sarah-lettmann
 affiliate: false
 ---
 
-Klarspüler: https://www.pinterest.de/pin/821555157001177340/
+Langsam werden die Tage wieder länger, die Vögel fangen an zu singen und die Stimmung wird besser. Der Frühling steht vor der Tür somit wird es Zeit entwas aufzuräumen und sauber zu machen, um gut in die wärmeren Tage starten zu können. Dafür möchte ich dir ein paar einfache DIYs zeigen, die natürlich ohne Müll auskommen und dir helfen deine Wohnunung oder dein Haus sauber zu halten.
 
-Schimmelspray: https://www.pinterest.de/pin/821555157001177372/
+Letztes Jahr habe ich ja schon meine Basics geszeigt, wenn es um selbst gemachte Reiniger geht. Dieses Mal soll es nicht direkt um Reiniger gehen, sondern um allerlei Mittelchen, die man im Haushalt benötigt. Genauer zeigen will ich dir ein selbst gemachtes Spülmaschinenpulver sowie Klarspüler. Außerdem gibt es noch ein Textilspray mit dem du deine Möbelbezüge und Vorhänge auffrischen kannst und ich zeige dir, wie du deine Spülbürste effektiv reinigen kannst. Als kleinen Bonus gibt es noch den Tipp wie du Etiketten von Gläsern entfernen kannst. Dann lass uns mal anfangen ;-).
 
-Spülmaschinentabs: https://www.pinterest.de/pin/821555157001177378/ https://www.pinterest.de/pin/821555156998098887/
+## Das Spülmaschinenpulver
+Für das Spülmaschinenpulver brauchen wir nur drei Zutaten: **Natron**, **Zitronensäure** und **Waschsoda** (manchmal auch reines Soda genannt). Das bekommst du alles günstig im Unverpackt Laden in deiner Nähe oder in jeder Drogerie. Diese Zutaten mischen wir zu gleichen Teilen zusammen und füllen sie in ein Glas zur Aufbewahrung.
 
-Toilettenreiniger
+Tja, und damit ist das Pulver auch schon fertig zum Einsatz. Du kannst es individuell dosieren und bei starken Verschmutzungen auch mal etwas mehr ins Maschinenfach geben. Generell sollte aber ein gehäufter Teelöffel den Dienst tun.
+
+## Der Klarspüler
+Wenn man keine handelsüblichen Tabs für die Spülmaschine verwendet, dann muss man sich auch um Salz und Klarspüler Gedanken machen. Salz für die Spülmaschine gibt es in jeder Drogerie und das sogar im Pappkarton, also alles plastikfrei :). Mit Klarspüler wird es da schon schwieriger.
+
+Ich hatte schon öfter gehört, dass Essig als Klarspüler verwendet werden kann. Mir sollte das recht sein, denn dafür muss man ja nichts machen, nur den **Essig** oder die **Essigessenz** in der Glasflasche kaufen - fertig. Die Essigessenz habe ich nochmal verdünnt in eine andere Flasche umgefüllt, weil sie doch schon recht stark ist. Ein Verhältnis von 1:1 mit abgekochtem Wasser sollte reichen.
+
+Bisher habe ich immer einen Klarspüler und auch Pulver aus dem Unverpackt Laden benutzt. Aber leider haben sie nicht gut gereinigt. Keine Ahnung ob das nur an einem dieser beiden Dinge lag oder an der Kombination. Auf jeden Fall wollte ich eine Alternative. Mit diesen beiden DIYs wird mein Geschirr in der Maschinen nur wirklich sauber.
+
+## Das Textilspray
+Nun kommen wir zu einem einfachen aber effektiven Textilspray. Das kannst du für die Matratze, das Sofa oder die Vorhänge verwenden. Daszu brauchst du für eine **300ml Sprühflasche** folgende Zutaten:
+- Wasser (abgekochtes)
+- 1 TL Natron
+- 2 TL Alkohol (Vodka, Korn, weißer Rum)
+- ein ätherisches Öl deiner Wahl
+
+Zuerst wird das **Wasser abgekocht**. Dann geben wir das **Natron** in die Sprühflasche, geben den **Alkohol** dazu und füllen alles mit Wasser auf. Zum Schluss kannst du noch ein paar Tropfen **ätherisches Öl** dazu geben. Und das war es auch schon. Ab jetzt kannst du deine Textilien super einfach auffrischen und das auch noch müllfrei.
+
+## Reinigen der Spülbürste
+Auch wenn wir alle schon super nachhaltig und konsequent unsere Holzspülbürsten verwenden (:P) wollen wir doch dass diese trotzdem lange leben. Damit du das Leben deiner Spülbürste verlängern kannst ist es wichtig, dass du sie immer nach der Benutzung gut reinigst. Zusätzlich dazu kannst du sie aber auch jede Woche oder jeden Monat (je nach dem wie häufig du sie verwendest) in ein Essigbad stellen. Das hilft sie zu desinfizieren und hält Keime fern, die wir natürlich nicht am Geschirr haben wollen.
+
+Das Essigbad kannst du dir ganz einfach selbst machen. Nehme dir ein Gefäß in das die Spülbürste gut gestellt werden kann und gebe zwei Esslöffel Essig hinein. Koche Wasser auf und fülle damit das Gefäß so weit, dass die Spülbürste völlig bedeckt wird. Stelle die Spülbürste in die Flüssigkeit und lass alles fünf Minuten einwirken.
+
+Vor dieser ganzen Prozedur solltest du die Bürste natürlich von allen gröberen Verschmutzungen wie Essensresten befreien.
+
+Dieses Essigbad kannst du außerdem auch verwenden, um deine Zahnbürste zu desinfizieren und sie so länger nutzen zu können. Wie bei so gut wie allem gilt hier auch: Das spart Geld und schont die Umwelt :).
 
 
 
-Reinigen einer Spülbürste: etwas Essig in ein Glas geben, Wasser aufkochen, drauf gießen und Spülbürste darin 5 Minuten stehen lassen, Bei Speiseresten Spülbürste erst unter fließendem heißen Wasser davon befreien.
 
 
 Etiketten von Gläsern entfernen: https://www.pinterest.de/pin/821555156996712461/
 
-Spülbürste reinigen / Zahnbürste : Essigbad
+Schimmelspray: https://www.pinterest.de/pin/821555157001177372/
 
-
-https://www.pinterest.de/pin/821555156997691222/ 
-
-
-Textilienspray selbst machen
+Toilettenreiniger

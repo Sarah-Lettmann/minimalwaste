@@ -11,8 +11,8 @@
     p:first-of-type {
 
       &::first-letter {
-        font-size: 3.5*$font-size-text;
-        line-height: 0.8;
+        font-size: 3.1*$font-size-text;
+        line-height: 0.9;
         float: left;
         margin-right: 0.25*$margin-base;
         @include breakpoint(small) {
