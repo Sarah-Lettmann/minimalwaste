@@ -3,7 +3,23 @@
   bottom: 0;
   right: 0;
   margin: $margin-base;
-  padding: $padding-base;
+  padding: 0.75*$padding-base;
   background-color: $color-light-base;
   border: 1px solid $color-medium-light-base;
+
+  &--hidden {
+    display: none;
+  }
+
+  &--visible {
+    display: flex;
+  }
+
+  &-content {
+    display: flex;
+    flex-direction: column;
+    margin-right: $margin-base;
+    font-size: $font-size-base;
+    @include latoFont;
+  }
 }
