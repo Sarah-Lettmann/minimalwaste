@@ -1,0 +1,21 @@
+.category {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -$padding-base;
+  margin-right: -$padding-base;
+}
+
+.post--category {
+  flex-basis: 50%;
+  flex-grow: 2;
+  padding: $padding-base;
+
+  .post-cover {
+    margin: 0;
+  }
+
+  .post-title {
+    font-size: 2rem;
+    text-align: center;
+  }
+}

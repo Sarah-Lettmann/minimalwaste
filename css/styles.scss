@@ -33,13 +33,15 @@
 
 @import "6-components/components.header.scss";
 @import "6-components/components.header-nav.scss";
-@import "6-components/components.container.scss";
-@import "6-components/components.main.scss";
-@import "6-components/components.post.scss";
-@import "6-components/components.author.scss";
-@import "6-components/components.commentform.scss";
 @import "6-components/components.footer.scss";
 @import "6-components/components.footer-nav.scss";
+@import "6-components/components.main.scss";
+@import "6-components/components.container.scss";
+
+@import "6-components/components.post.scss";
+@import "6-components/components.category.scss";
+@import "6-components/components.author.scss";
+@import "6-components/components.commentform.scss";
 @import "6-components/components.social.scss";
 @import "6-components/components.sharing.scss";
 @import "6-components/components.branding.scss";

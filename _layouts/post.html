@@ -7,7 +7,12 @@ layout: wrapper
         <h1 id="post-title" class="post-title">{{ page.title }}</h1>
         <span>veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}</span>
         <span>von <a href="#author" title="Mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
-        <span>in {{ page.categories | join: ', ' | escape }}</span>
+        <span>in
+          <a href="/pages/{{ page.categories.first | downcase | replace: ' ', '-' }}.html" title="Zur Kategorie">{{ page.categories.first }}</a>
+          {% for category in page.categories offset:1 %}
+            <a href="/pages/{{ category | downcase | replace: ' ', '-' }}.html" title="Zur Kategorie">, {{ category }}</a>
+          {% endfor %}
+        </span>
         <img class="post-cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="960" height="640" />
     </div>
     <div class="post-body content">
