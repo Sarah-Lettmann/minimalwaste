@@ -1,19 +1,24 @@
 ---
 layout: wrapper
 ---
-
-<h1>Kategorie: {{ page.category }}</h1>
-<p>{{ page.description }}</p>
-
 <div class="category">
-{% for post in site.categories[page.category] %}
-  <article class="post post--category" aria-label="{{ post.title }}">
-    <a href="{{ post.url }}" title="Zum Post">
-      <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
-    </a>
-    <h2 class="post-title">
-      <a href="{{ post.url }}" title="Zum Post">{{ post.title }}</a>
-    </h2>
-  </article>
-{% endfor %}
+  <h1 class="category-title">Kategorie: {{ page.category }}</h1>
+  <p class="category-description">{{ page.description }}</p>
+
+  <div class="category-posts">
+  {% for post in site.categories[page.category] %}
+    <article class="post post--category" aria-label="{{ post.title }}">
+      <a href="{{ post.url }}" title="Zum Post">
+        <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
+      </a>
+      <h2 class="post-title">
+        <a href="{{ post.url }}" title="Zum Post">{{ post.title }}</a>
+      </h2>
+      <div class="post-meta">
+        <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
+        <span>von {{ site[post.author].name }}</span>
+      </div>
+    </article>
+  {% endfor %}
+  </div>
 </div>

@@ -1,21 +1,33 @@
-.category {
+.category-description {
+  @include breakpoint(small) {
+    margin-bottom: 0.5*$margin-base;
+  }
+}
+
+.category-posts {
   display: flex;
   flex-wrap: wrap;
   margin-left: -$padding-base;
   margin-right: -$padding-base;
-}
+  text-align: center;
 
-.post--category {
-  flex-basis: 33.3333%;
-  flex-grow: 0;
-  padding: $padding-base;
+  .post {
+    flex-basis: 33.3333%;
+    flex-grow: 1;
+    min-width: 300px;
+    padding: $padding-base;
 
-  .post-cover {
-    margin: 0;
-  }
+    &-cover {
+      margin: 0;
+    }
 
-  .post-title {
-    font-size: 1.5rem;
-    text-align: center;
+    &-title {
+      font-size: 1.5rem;
+    }
+
+    &-meta > span {
+      display: inline-block;
+      width: 100%;
+    }
   }
 }

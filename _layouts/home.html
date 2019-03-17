@@ -5,7 +5,7 @@ layout: wrapper
 <!-- latest post -->
 <div class="home home--first">
   {% assign post = site.posts.first %}
-  <article class="post post--home-first">
+  <article class="post" aria-label="{{ post.title }}">
     <a href="{{ post.url }}" title="Zum Post">
       <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" />
     </a>
@@ -33,7 +33,7 @@ layout: wrapper
 {% for post in site.posts offset:1 limit:4 %}
   <article class="post" aria-label="{{ post.title }}">
     <a href="{{ post.url }}" title="Zum Post">
-      <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
+      <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" />
     </a>
     <h2 class="post-title">
       <a href="{{ post.url }}" title="Zum Post">{{ post.title }}</a>
@@ -45,14 +45,26 @@ layout: wrapper
 <!-- rest of posts -->
 <div class="home home--third">
 {% for post in site.posts offset:5 %}
-  <article class="post post--home-second" aria-label="{{ post.title }}">
+  <article class="post" aria-label="{{ post.title }}">
     <a href="{{ post.url }}" title="Zum Post">
-      <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
+      <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" />
     </a>
-    <h2 class="post-title">
-      <a href="{{ post.url }}" title="Zum Post">{{ post.title }}</a>
-    </h2>
-    {{ post.excerpt }}
+    <div class="post-teaser-text">
+      <h2 class="post-title">
+        <a href="{{ post.url }}" title="Zum Post">{{ post.title }}</a>
+      </h2>
+      <div class="post-meta">
+        <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
+        <span>von {{ site[post.author].name }}</span>
+        <span>in
+          <a href="/pages/{{ post.categories.first | downcase | replace: ' ', '-' }}.html" title="Zur Kategorie">{{ post.categories.first }}</a>
+          {% for category in post.categories offset:1 %}
+            , <a href="/pages/{{ category | downcase | replace: ' ', '-' }}.html" title="Zur Kategorie">{{ category }}</a>
+          {% endfor %}
+        </span>
+      </div>
+      <p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+    </div>
   </article>
 {% endfor %}
 </div>
