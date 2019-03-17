@@ -13,5 +13,21 @@ dd {
 }
 
 li {
+  margin-bottom: 0.5*$margin-base;
+}
 
+ul {
+  margin-left: 0;
+
+  li {
+    list-style-type: none;
+    padding-left: 1.25rem;
+    position: relative;
+
+    &::before {
+      content: '-';
+      position: absolute;
+      left: 0;
+    }
+  }
 }

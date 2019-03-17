@@ -6,7 +6,7 @@
 }
 
 .post--category {
-  flex-basis: 50%;
+  flex-basis: 33.3333%;
   flex-grow: 2;
   padding: $padding-base;
 
@@ -15,7 +15,7 @@
   }
 
   .post-title {
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
   }
 }
