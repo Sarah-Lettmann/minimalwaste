@@ -1,0 +1,51 @@
+.home {
+
+  p {
+    margin: 0;
+  }
+
+  .post {
+
+
+    &-cover {
+      margin: 0;
+    }
+  }
+}
+
+// home first
+.home--first {
+  margin-bottom: 1.5*$margin-base;
+
+  .post-title {
+    margin-bottom: 0;
+  }
+
+  .post-meta {
+    padding-left: 3*$padding-base;
+    margin-bottom: 0.5*$margin-base;
+  }
+
+  .post-teaser-text {
+    padding: 0 2*$padding-base;
+  }
+}
+
+// home second
+.home--second {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -$padding-base;
+  margin-right: -$padding-base;
+  margin-bottom: 1.5*$margin-base;
+
+  .post {
+    flex-basis: 25%;
+    flex-grow: 0;
+    padding: $padding-base;
+
+    &-title {
+      font-size: 1rem;
+    }
+  }
+}
