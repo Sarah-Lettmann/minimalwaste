@@ -14,8 +14,8 @@
 
     <!-- primary navigation -->
     <nav class="navigation">
-      <a class="nav-link-menu fas fa-bars" href="#" title="Öffnen oder Schließen des Menüs" aria-label="Menü Button" aria-expanded="false" onclick="menuLinkClicked()"></a>
-      <a class="nav-link-search fas fa-search" href="/pages/search.html" title="Zur Suchen-Seite" aria-label="Suche Button"></a>
+      <!-- menu -->
+      <a class="nav-link nav-link--menu fas fa-bars" href="#" title="Öffnen oder Schließen des Menüs" aria-label="Menü Button" aria-expanded="false" onclick="menuLinkClicked()"></a>
       <ul class="menu menu--main menu--hidden">
         <li class="menu-item" aria-labelledby="menu-link-1">
           <a id="menu-link-1" class="menu-link" href="/pages/zero-waste.html">Zero Waste</a>
@@ -33,6 +33,12 @@
           <a id="menu-link-5" class="menu-link" href="/pages/emissionen.html">Emissionen</a>
         </li>
       </ul>
+      <!-- search -->
+      <a class="nav-link nav-link--search fas fa-search" href="#" title="Öffnen und Schließen der Suche" aria-label="Suche Button" aria-expanded="false" onclick="searchLinkClicked()"></a>
+      <div class="search search--hidden">
+        <input type="text" id="search" class="search-input" placeholder="Suchbegriff hier eingeben...">
+        <ul id="results-container" class="search-results"></ul>
+      </div>
     </nav>
 
   </div>

@@ -8,7 +8,7 @@ sitemap:
 ---
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
-## Verantwortlicher
+## Verantwortliche Person
 Lettmann, Sarah  
 Havelstraße 22  
 64295 Darmstadt  
@@ -130,7 +130,9 @@ Soweit Daten in den USA verarbeitet werden, weisen wir daraufhin, dass Google un
 <br>
 Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a target="_blank" href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a target="_blank" href="https://adssettings.google.com/authenticated">(https://adssettings.google.com/authenticated</a>).<br>
 <br>
-Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.</span></p><p></p><h2 id="dsg-ga-universal">Google Universal Analytics</h2><p></p><p><span class="ts-muster-content">Wir setzen Google Analytics in der Ausgestaltung als „<a target="_blank" href="https://support.google.com/analytics/answer/2790010?hl=de&amp;ref_topic=6010376">Universal-Analytics</a>“ ein. „Universal Analytics“ bezeichnet ein Verfahren von Google Analytics, bei dem die Nutzeranalyse auf Grundlage einer pseudonymen Nutzer-ID erfolgt und damit ein pseudonymes Profil des Nutzers mit Informationen aus der Nutzung verschiedener Geräten erstellt wird (sog. „Cross-Device-Tracking“).</span></p><p></p><h2 id="dsg-socialmedia">Onlinepräsenzen in sozialen Medien</h2><p></p><p><span class="ts-muster-content">Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können.<br>
+Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.</span></p><p></p>
+<a href="javascript:gaOptout()">Klicken Sie hier, um Google Analytics zu deaktivieren.</a>
+<h2 id="dsg-ga-universal">Google Universal Analytics</h2><p></p><p><span class="ts-muster-content">Wir setzen Google Analytics in der Ausgestaltung als „<a target="_blank" href="https://support.google.com/analytics/answer/2790010?hl=de&amp;ref_topic=6010376">Universal-Analytics</a>“ ein. „Universal Analytics“ bezeichnet ein Verfahren von Google Analytics, bei dem die Nutzeranalyse auf Grundlage einer pseudonymen Nutzer-ID erfolgt und damit ein pseudonymes Profil des Nutzers mit Informationen aus der Nutzung verschiedener Geräten erstellt wird (sog. „Cross-Device-Tracking“).</span></p><p></p><h2 id="dsg-socialmedia">Onlinepräsenzen in sozialen Medien</h2><p></p><p><span class="ts-muster-content">Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können.<br>
 <br>
 Wir weisen darauf hin, dass dabei Daten der Nutzer außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer erschwert werden könnte. Im Hinblick auf US-Anbieter die unter dem Privacy-Shield zertifiziert sind, weisen wir darauf hin, dass sie sich damit verpflichten, die Datenschutzstandards der EU einzuhalten.<br>
 <br>
