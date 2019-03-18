@@ -1,8 +1,16 @@
 .search {
-  position: absolute;
-  bottom: -68px;
 
-  &--hidden {
-    //display: none;
+  &-input {
+    //border: none;
+    width: 100%;
+    @include latoFont;
+  }
+
+  &-results {
+    @extend .category-posts;
+  }
+
+  &-no-results {
+    margin: 0 $padding-base;
   }
 }

@@ -3,7 +3,7 @@ blockquote {
   font-style: italic;
   color: $color-subtext;
   padding-left: 0.75*$padding-base;
-  border-left: 7px solid #ccffcc;
+  border-left: 7px solid $color-light-light-base;
   margin: 1rem 2rem;
 }
 

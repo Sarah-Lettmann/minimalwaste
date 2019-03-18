@@ -2,16 +2,15 @@ $height-header: 120px;
 $height-mobile-header: 80px;
 
 .header {
-  position: relative;
   margin-bottom: $margin-to-content;
-  border-bottom: 1px solid $color-light-light-base;
+  border-bottom: $border;
   background-color: $color-background;
   @include transition(margin-bottom);
   @include breakpoint(small) {
     margin-bottom: 0.5*$margin-to-content;
   }
 
-  .container {
+  > .container {
     display: flex;
     justify-content: space-between;
     align-items: center;

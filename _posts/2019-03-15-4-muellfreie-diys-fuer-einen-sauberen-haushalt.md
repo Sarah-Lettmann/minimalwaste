@@ -48,7 +48,7 @@ Dieses Essigbad kannst du außerdem auch verwenden, um deine Zahnbürste zu desi
 ## Etiketten von Gläsern entfernen
 Um Etiketten leicht von Gläsern abzubekommen, hilft in den meisten Fällen das Einweichen in Wasser. Solltest du damit nicht weiter kommen, habe ich folgenden Tipp: Koche etwas Wasser auf und gieße das heiße Wasser in das Glas mit den Überresten vom Etikett. Oft handelt es sich, wenn du mit Einweichen nicht weiter gekommen bist, um Rückstände vom Kleber. Dieser löst sich durch die Hitze oft. Wenn du das Ganze 10 Minuten stehen lassen hast, kannst du probieren, die Reste zu entfernen.
 
-Machnmal hilft dieser Tipp, aber es gibt auch Etiketten, die sind mit einem zu starken Kleber aufgetragen. Da kann man leider nichts machen :(.
+Manchmal hilft dieser Tipp, aber es gibt auch Etiketten, die sind mit einem zu starken Kleber aufgetragen. Da kann man leider nichts machen :(.
 
 &nbsp;
 

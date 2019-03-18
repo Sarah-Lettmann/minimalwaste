@@ -2,11 +2,11 @@
   # main stylesheet of the project
 ---
 
-@import "1-settings/settings.global";
 @import "1-settings/settings.font";
-@import "1-settings/settings.fontawesome.scss";
 @import "1-settings/settings.color";
 @import "1-settings/settings.breakpoints.scss";
+@import "1-settings/settings.global";
+@import "1-settings/settings.fontawesome.scss";
 
 @import "2-tools/tools.mixins";
 @import "2-tools/tools.functions.scss";

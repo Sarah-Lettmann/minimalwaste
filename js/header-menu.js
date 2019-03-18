@@ -1,7 +1,7 @@
 function menuLinkClicked() {
 
     // set classes to show or hide the main menu and pushes main are down
-    var mainMenuToggle = $(".nav-link-menu");
+    var mainMenuToggle = $(".nav-link--menu");
     var mainMenu = $(".menu--main");
     var menuHeight = parseInt(mainMenu.height());
     header = $(".header");
