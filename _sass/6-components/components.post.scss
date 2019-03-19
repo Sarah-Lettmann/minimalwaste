@@ -7,6 +7,10 @@
   &-meta {
     font-size: $font-size-base;
     @include latoFont;
+
+    a {
+      border-bottom: $link-decoration;
+    }
   }
 
   &-body {
@@ -23,6 +27,10 @@
           font-size: 3*$font-size-text;
         }
       }
+    }
+
+    a {
+      border-bottom: $link-decoration;
     }
   }
 

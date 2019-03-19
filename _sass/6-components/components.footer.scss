@@ -1,5 +1,5 @@
-$background-color-footer: $color-light-light-base;
-$color-footer: $color-medium-base;
+$background-color-footer: $color-dark-base;
+$color-footer: $color-light-light-base;
 
 .footer {
   margin-top: $margin-to-content;
@@ -19,9 +19,8 @@ $color-footer: $color-medium-base;
 
   a {
     @include transition(color);
-
-    &:hover {
-      color: $color-dark-base;
+    @include attention() {
+      color: $color-highlight-hover;
     }
   }
 }
