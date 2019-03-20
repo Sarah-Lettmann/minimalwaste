@@ -1,5 +1,4 @@
 $background-color-header-menu: $color-light-light-base;
-$color-header-menu: $color-medium-base;
 
 .header .navigation {
   display: flex;
@@ -10,8 +9,10 @@ $color-header-menu: $color-medium-base;
   }
 
   .nav-link {
-    margin: 0 0.5*$margin-base;
     font-size: 1.75*$font-size-base;
+    @include breakpoint(largeAndUp) {
+      display: none;
+    }
   }
 }
 
@@ -21,14 +22,21 @@ $color-header-menu: $color-medium-base;
   top: $height-header;
   left: 0;
   right: 0;
-  border-top: 1px solid $color-light-light-base;
-  border-bottom: 1px solid $color-light-light-base;
-  color: $color-header-menu;
-  background-color: $background-color-header-menu;
+  border-top: 1px solid $color-dark-base;
+  border-bottom: 1px solid $color-dark-base;
+  color: $color-light-base;
+  background-color: $color-dark-base;
   text-align: center;
   @include latoFont;
   @include breakpoint(small) {
     top: $height-mobile-header;
+  }
+  @include breakpoint(largeAndUp) {
+    display: flex;
+    position: unset;
+    border: none;
+    color: $color-text;
+    background: none;
   }
 
   .menu-item {
@@ -38,6 +46,21 @@ $color-header-menu: $color-medium-base;
       background-color: $color-background;
     }
     @include transition(background-color);
+    @include breakpoint(largeAndUp) {
+      border-bottom: none;
+
+      &:first-of-type {
+        .menu-link {
+          margin-left: 0;
+        }
+      }
+
+      &:last-of-type {
+        .menu-link {
+          margin-right: 0;
+        }
+      }
+    }
 
     &:last-of-type {
       border-bottom: none;
@@ -45,11 +68,49 @@ $color-header-menu: $color-medium-base;
 
     .menu-link {
       display: block;
-      padding: $padding-base 0;
+      padding: 0.75*$padding-base 0;
       @include transition(color);
+      @include breakpoint(largeAndUp) {
+        padding: 0;
+        margin: 0 0.75*$padding-base;
+        border-bottom: 2px solid $color-light-base;
+        @include transition(border-color);
+      }
 
-      &:hover {
+      @include attention() {
         color: $color-dark-base;
+        @include breakpoint(largeAndUp) {
+          border-bottom: $link-decoration;
+        }
+      }
+
+      &--search {
+        @include breakpoint(largeAndUp) {
+          border-bottom: none;
+          margin-left: 0;
+          @include attention() {
+            border-bottom: none;
+          }
+        }
+
+        .link-icon {
+          margin-right: 0.25*$margin-base;
+          @include breakpoint(largeAndUp) {
+            padding: 0.5*$padding-base;
+            margin-right: 0;
+            border: 2px solid $color-light-base;
+            @include transition(border-color);
+            @include attention() {
+              border: $link-decoration;
+            }
+          }
+        }
+
+        .link-text {
+          @include breakpoint(largeAndUp) {
+            display: none;
+          }
+        }
       }
     }
   }

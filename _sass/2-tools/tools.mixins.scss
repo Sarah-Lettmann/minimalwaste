@@ -2,23 +2,17 @@
 Breakpoints
 ********************/
 @mixin breakpoint($size) {
-  @if $size == mobile {
-    @media (max-width: $breakpoint-mobile - 1) { @content; }
-  }
-  @else if $size == tablet {
-    @media (min-width: $breakpoint-mobile) and (max-width: $breakpoint-medium - 1) { @content; }
-  }
-  @else if $size == desktop {
-    @media (min-width: $breakpoint-medium) { @content; }
+  @if $size == xsmall {
+    @media (max-width: $breakpoint-xsmall) { @content; }
   }
   @else if $size == small {
     @media (max-width: $breakpoint-small) { @content; }
   }
-  @else if $size == large {
+  @else if $size == mediumAndLarge {
     @media (min-width: $breakpoint-small + 1) { @content; }
   }
-  @else if $size == sharing {
-    @media (min-width: $breakpoint-sharing) { @content; }
+  @else if $size == largeAndUp {
+    @media (min-width: $breakpoint-large + 1) { @content; }
   }
 }
 // @include breakpoint(breakpointname) { ... }

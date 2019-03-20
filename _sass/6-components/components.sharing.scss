@@ -1,13 +1,13 @@
 .sharing {
 
-  @include breakpoint(mobile) {
+  @include breakpoint(xsmall) {
     text-align: center;
   }
 
   &-title {
     display: inline;
     font-size: $font-size-text;
-    @include breakpoint(mobile) {
+    @include breakpoint(xsmall) {
       display: block;
       margin-bottom: 0.75*$margin-base;
     }

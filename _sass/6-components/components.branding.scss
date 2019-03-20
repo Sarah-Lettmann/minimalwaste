@@ -18,7 +18,7 @@
   }
 
   &-logo--small {
-    @include breakpoint(large) {
+    @include breakpoint(mediumAndLarge) {
       display: none;
     }
   }

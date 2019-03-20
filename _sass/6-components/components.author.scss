@@ -5,7 +5,7 @@ $height-mobile-author-image: $width-mobile-author-image;
 
 .author {
   display: flex;
-  @include breakpoint(mobile) {
+  @include breakpoint(xsmall) {
     flex-direction: column;
     align-items: center;
   }
@@ -15,7 +15,7 @@ $height-mobile-author-image: $width-mobile-author-image;
     height: $height-author-image;
     margin-bottom: 0;
     border-radius: 50%;
-    @include breakpoint(mobile) {
+    @include breakpoint(xsmall) {
       margin-bottom: 0.5*$margin-base;
     }
     @include breakpoint(small) {
@@ -26,7 +26,7 @@ $height-mobile-author-image: $width-mobile-author-image;
 
   &-content {
     margin-left: $margin-base;
-    @include breakpoint(mobile) {
+    @include breakpoint(xsmall) {
       margin-left: 0;
       text-align: center;
     }
