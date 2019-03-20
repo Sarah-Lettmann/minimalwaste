@@ -39,6 +39,7 @@
   }
 
   &-affiliate-hint {
+    @include latoFont;
     font-size: $font-size-base;
     font-style: italic;
   }

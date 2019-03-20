@@ -17,7 +17,6 @@ $color-button: $color-light-base;
   color: $color-button;
   background-color: $background-color-button;
   @include attention() {
-    background-color: $color-highlight-hover;
     color: $color-button;
   }
 }

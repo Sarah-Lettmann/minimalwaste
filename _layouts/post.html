@@ -3,7 +3,7 @@ layout: wrapper
 ---
 
 <article class="post" aria-labelledby="post-title">
-    <div class="post-header">
+    <header class="post-header">
         <h1 id="post-title" class="post-title">{{ page.title }}</h1>
         <div class="post-meta">
           <span>veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}</span>
@@ -16,15 +16,15 @@ layout: wrapper
           </span>
         </div>
         <img class="post-cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="960" height="640" />
-    </div>
+    </header>
     <div class="post-body content">
         {{ content }}
         {% if page.affiliate == true %}
           <p class="post-affiliate-hint">{{ site.affiliate-hint }}</p>
         {% endif %}
     </div>
-    {% include newsletter.html %}
     {% include sharing.html %}
     {% include author.html %}
+    {% include newsletter.html %}
     {% include patreon.html %}
 </article>

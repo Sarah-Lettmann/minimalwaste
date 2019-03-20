@@ -1,5 +1,5 @@
 $background-color-footer: $color-dark-base;
-$color-footer: $color-light-light-base;
+$color-footer: $color-light-base;
 
 .footer {
   margin-top: $margin-to-content;
@@ -17,10 +17,4 @@ $color-footer: $color-light-light-base;
     color: inherit;
   }
 
-  a {
-    @include transition(color);
-    @include attention() {
-      color: $color-highlight-hover;
-    }
-  }
 }
