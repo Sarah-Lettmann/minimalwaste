@@ -77,217 +77,221 @@ wohingegen 100g Paprika nur mit 0,3 Punkten berechnet werden.
 Nun aber zu den Einzelheiten. Hier findest du meine Tabelle mit allen Tätigkeiten und
 Produkten und natürlich allen dazugehörigen Punkten.
 
-<table>
-    <tr>
-        <th>Zeit</th>
-        <th>Aktivität</th>
-        <th>Aktueller Verbrauch</th>
-        <th>Punkte</th>
-    </tr>
-    <tr>
-        <td>6:00</td>
-        <td>Aufstehen (Stromverbrauch)</td>
-        <td>2600 kWh im Zweipersonenhaushalt – Ökostrom</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>6:15</td>
-        <td>Joggen</td>
-        <td>Sport draußen</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>7:00</td>
-        <td>Duschen</td>
-        <td>erst warm, dann kalt</td>
-        <td>1,5</td>
-    </tr>
-    <tr>
-        <td>7:30</td>
-        <td>Arbeiten am Laptop</td>
-        <td>1 Stunde, Ökostrom</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>7:45</td>
-        <td>Tee mit Milch</td>
-        <td>1 Tasse Tee inklusive Zubereitung + Milch</td>
-        <td>0,7 + 0,9 = 1,6</td>
-    </tr>
-    <tr>
-        <td>8:15</td>
-        <td>Frühstück</td>
-        <td>Müsli (Haferflocke, Obst, Joghurt)</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>8:45</td>
-        <td>zur Arbeit gehen</td>
-        <td>zu Fuß oder mit dem Rad</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>9:00</td>
-        <td>Arbeiten am Computer</td>
-        <td>4 Stunden, kein Ökostrom</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>11:00</td>
-        <td>Snack</td>
-        <td>Obst, Müsliriegel, Gemüse mit Hummus</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>13:00</td>
-        <td>nach Hause gehen</td>
-        <td>zu Fuß oder mit dem Rad</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>13:30</td>
-        <td>Mittagessen</td>
-        <td>variiert, aber meistens vegetarisch und manchmal vegan</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>14:00</td>
-        <td>Arbeiten im Laptop</td>
-        <td>4 Stunden, Ökostrom</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>15:30</td>
-        <td>Tee mit Milch</td>
-        <td>1 Tasse Tee inklusive Zubereitung + Milch</td>
-        <td>0,7 + 0,9 = 1,6</td>
-    </tr>
-    <tr>
-        <td>18:00</td>
-        <td>Spazieren gehen / Yoga</td>
-        <td>draußen oder drinnen</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>18:30</td>
-        <td>Abendessen</td>
-        <td>Brot + Aufschnitt + Gemüse + Ei</td>
-        <td>2 + 5 + 2 + 3 = 12</td>
-    </tr>
-    <tr>
-        <td>19:00</td>
-        <td>Spülen</td>
-        <td>eigentlich 7 Punkte, aber da die Spülmaschine nur 2 Mal pro Woche läuft</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>19:15</td>
-        <td>Youtube, Filme oder Serien</td>
-        <td>am Laptop, auf dem Beamer, Ökostrom</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>21:00</td>
-        <td>Lesen</td>
-        <td>ein Buch oder auf dem Smartphone</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>22:00</td>
-        <td>Schlafen (Handy laden)</td>
-        <td>1 Smartphone für 6 Jahre</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Trinken</td>
-        <td>Leitungswasser</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Snacks</td>
-        <td>Schokolade oder Chips</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Klamotten</td>
-        <td>größtenteils Secondhand</td>
-        <td>8,1</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Laptop</td>
-        <td>Besitzen für 4 Jahre</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Toilettenpapier</td>
-        <td>100% Recyclingpapier</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Basiswert</td>
-        <td>für öffentlichen Konsum</td>
-        <td>43</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td>Gesamtpunktzahl</td>
-        <td>94,8</td>
-    </tr>
-</table>
+<div class="table">
+  <table>
+      <tr>
+          <th>Zeit</th>
+          <th>Aktivität</th>
+          <th>Aktueller Verbrauch</th>
+          <th>Punkte</th>
+      </tr>
+      <tr>
+          <td>6:00</td>
+          <td>Aufstehen (Stromverbrauch)</td>
+          <td>2600 kWh im Zweipersonenhaushalt – Ökostrom</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>6:15</td>
+          <td>Joggen</td>
+          <td>Sport draußen</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>7:00</td>
+          <td>Duschen</td>
+          <td>erst warm, dann kalt</td>
+          <td>1,5</td>
+      </tr>
+      <tr>
+          <td>7:30</td>
+          <td>Arbeiten am Laptop</td>
+          <td>1 Stunde, Ökostrom</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>7:45</td>
+          <td>Tee mit Milch</td>
+          <td>1 Tasse Tee inklusive Zubereitung + Milch</td>
+          <td>0,7 + 0,9 = 1,6</td>
+      </tr>
+      <tr>
+          <td>8:15</td>
+          <td>Frühstück</td>
+          <td>Müsli (Haferflocke, Obst, Joghurt)</td>
+          <td>5</td>
+      </tr>
+      <tr>
+          <td>8:45</td>
+          <td>zur Arbeit gehen</td>
+          <td>zu Fuß oder mit dem Rad</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>9:00</td>
+          <td>Arbeiten am Computer</td>
+          <td>4 Stunden, kein Ökostrom</td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td>11:00</td>
+          <td>Snack</td>
+          <td>Obst, Müsliriegel, Gemüse mit Hummus</td>
+          <td>1</td>
+      </tr>
+      <tr>
+          <td>13:00</td>
+          <td>nach Hause gehen</td>
+          <td>zu Fuß oder mit dem Rad</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>13:30</td>
+          <td>Mittagessen</td>
+          <td>variiert, aber meistens vegetarisch und manchmal vegan</td>
+          <td>10</td>
+      </tr>
+      <tr>
+          <td>14:00</td>
+          <td>Arbeiten im Laptop</td>
+          <td>4 Stunden, Ökostrom</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>15:30</td>
+          <td>Tee mit Milch</td>
+          <td>1 Tasse Tee inklusive Zubereitung + Milch</td>
+          <td>0,7 + 0,9 = 1,6</td>
+      </tr>
+      <tr>
+          <td>18:00</td>
+          <td>Spazieren gehen / Yoga</td>
+          <td>draußen oder drinnen</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>18:30</td>
+          <td>Abendessen</td>
+          <td>Brot + Aufschnitt + Gemüse + Ei</td>
+          <td>2 + 5 + 2 + 3 = 12</td>
+      </tr>
+      <tr>
+          <td>19:00</td>
+          <td>Spülen</td>
+          <td>eigentlich 7 Punkte, aber da die Spülmaschine nur 2 Mal pro Woche läuft</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>19:15</td>
+          <td>Youtube, Filme oder Serien</td>
+          <td>am Laptop, auf dem Beamer, Ökostrom</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>21:00</td>
+          <td>Lesen</td>
+          <td>ein Buch oder auf dem Smartphone</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>22:00</td>
+          <td>Schlafen (Handy laden)</td>
+          <td>1 Smartphone für 6 Jahre</td>
+          <td>1</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Trinken</td>
+          <td>Leitungswasser</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Snacks</td>
+          <td>Schokolade oder Chips</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Klamotten</td>
+          <td>größtenteils Secondhand</td>
+          <td>8,1</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Laptop</td>
+          <td>Besitzen für 4 Jahre</td>
+          <td>1</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Toilettenpapier</td>
+          <td>100% Recyclingpapier</td>
+          <td>1</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Basiswert</td>
+          <td>für öffentlichen Konsum</td>
+          <td>43</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>Gesamtpunktzahl</td>
+          <td>94,8</td>
+      </tr>
+  </table>
+</div>
 
 Und hier noch eine kleine Tabelle, in der meine Klamotten aufgelistet sind.
 Das ist natürlich nicht alles was ich habe, aber manche Dinge werden im
 Punkterechner einfach nicht beachtet.
 
-<table>
-<tr>
-    <td>1 Paar Sportschuhe (36 Monate)</td>
-    <td>0,1</td>
-</tr>
-<tr>
-    <td>1 Paar Sandalen (18 Monate)</td>
-    <td>0,4</td>
-</tr>
-<tr>
-    <td>1 Paar Lederschuhe (24 Monate)</td>
-    <td>0,4</td>
-</tr>
-<tr>
-    <td>3 Paar Stiefel (durchschnittlich 24 Monate))</td>
-    <td>5</td>
-</tr>
-<tr>
-    <td>2 normale Jeans (24 Monate)</td>
-    <td>1,2</td>
-</tr>
-<tr>
-    <td>6 T-Shirts/Oberteile (36 Monate)</td>
-    <td>0,4</td>
-</tr>
-<tr>
-    <td>3 Bio T-Shirts (24 Monate)</td>
-    <td>0</td>
-</tr>
-<tr>
-    <td>3 Jacken (36 Monate)</td>
-    <td>0,4</td>
-</tr>
-<tr>
-    <td>4 Pullis (24 Monate)</td>
-    <td>0,2</td>
-</tr>
-<tr>
-    <td>Gesamtwert</td>
-    <td>8,1</td>
-</tr>
-</table>
+<div class="table">
+  <table>
+  <tr>
+      <td>1 Paar Sportschuhe (36 Monate)</td>
+      <td>0,1</td>
+  </tr>
+  <tr>
+      <td>1 Paar Sandalen (18 Monate)</td>
+      <td>0,4</td>
+  </tr>
+  <tr>
+      <td>1 Paar Lederschuhe (24 Monate)</td>
+      <td>0,4</td>
+  </tr>
+  <tr>
+      <td>3 Paar Stiefel (durchschnittlich 24 Monate))</td>
+      <td>5</td>
+  </tr>
+  <tr>
+      <td>2 normale Jeans (24 Monate)</td>
+      <td>1,2</td>
+  </tr>
+  <tr>
+      <td>6 T-Shirts/Oberteile (36 Monate)</td>
+      <td>0,4</td>
+  </tr>
+  <tr>
+      <td>3 Bio T-Shirts (24 Monate)</td>
+      <td>0</td>
+  </tr>
+  <tr>
+      <td>3 Jacken (36 Monate)</td>
+      <td>0,4</td>
+  </tr>
+  <tr>
+      <td>4 Pullis (24 Monate)</td>
+      <td>0,2</td>
+  </tr>
+  <tr>
+      <td>Gesamtwert</td>
+      <td>8,1</td>
+  </tr>
+  </table>
+</div>
 
 ## Mein Fazit
 Ich habe es tatsächlich geschafft unter den 100 Punkten zu bleiben.

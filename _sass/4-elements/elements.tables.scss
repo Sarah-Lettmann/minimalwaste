@@ -7,6 +7,10 @@ table {
   tr {
     border-bottom: $border-table;
 
+    &:nth-child(odd) {
+      background-color: $color-light-light-base;
+    }
+
     &:last-child {
       border-bottom: none;
     }
@@ -14,6 +18,8 @@ table {
 
   th {
     text-align: left;
+    background-color: $color-dark-base;
+    color: $color-light-base;
   }
 
   td,

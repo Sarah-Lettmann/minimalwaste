@@ -3,7 +3,7 @@
 
     <!-- branding aka title of page and logo -->
     <div class="branding">
-      <a href="{{ site.url }}">
+      <a href="{{ site.url }}" title="zur Startseite">
         {% if page.layout == 'home' %}
           <h1 class="branding-title">{{ site.title }} - {{ site.subtitle }}</h1>
         {% endif %}
@@ -15,7 +15,7 @@
     <!-- primary navigation -->
     <nav class="navigation">
       <!-- menu -->
-      <a class="nav-link nav-link--menu fas fa-bars" href="#" title="Öffnen oder Schließen des Menüs" aria-label="Menü Button" aria-expanded="false" onclick="menuLinkClicked()"></a>
+      <a class="nav-link nav-link--menu fas fa-bars" href="#" title="öffnen oder Schließen des Menüs" aria-label="Menü Button" aria-expanded="false" onclick="menuLinkClicked()"></a>
       <ul class="menu menu--main menu--hidden">
         <li class="menu-item" aria-labelledby="menu-link-1">
           <a id="menu-link-1" class="menu-link" href="/pages/zero-waste.html">Zero Waste</a>
@@ -32,6 +32,7 @@
         <li class="menu-item" aria-labelledby="menu-link-5">
           <a id="menu-link-5" class="menu-link" href="/pages/emissionen.html">Emissionen</a>
         </li>
+        <!-- search -->
         <li class="menu-item" aria-labelledby="menu-link-6">
           <a id="menu-link-6" class="menu-link menu-link--search" href="/pages/search.html" title="zur Suche">
             <span class="link-icon fas fa-search"></span>
@@ -39,8 +40,6 @@
           </a>
         </li>
       </ul>
-      <!-- search -->
-
     </nav>
 
   </div>

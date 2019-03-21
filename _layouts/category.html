@@ -1,18 +1,20 @@
 ---
 layout: wrapper
 ---
-<div class="category">
-  <h1 class="category-title">Kategorie: {{ page.category }}</h1>
-  <p class="category-description">{{ page.description }}</p>
+<article class="category">
+  <header class="category-header">
+    <h1 class="category-title">Kategorie: {{ page.category }}</h1>
+    <p class="category-description">{{ page.description }}</p>
+  </header>
 
   <div class="category-posts">
   {% for post in site.categories[page.category] %}
     <article class="post post--category" aria-label="{{ post.title }}">
-      <a href="{{ post.url }}" title="Zum Post">
+      <a href="{{ post.url }}" title="zum Post {{ post.title }}">
         <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
       </a>
       <h2 class="post-title">
-        <a href="{{ post.url }}" title="Zum Post">{{ post.title }}</a>
+        <a href="{{ post.url }}" title="zum Post {{ post.title }}">{{ post.title }}</a>
       </h2>
       <div class="post-meta">
         <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
@@ -21,4 +23,4 @@ layout: wrapper
     </article>
   {% endfor %}
   </div>
-</div>
+</article>
