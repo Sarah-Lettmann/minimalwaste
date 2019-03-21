@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "25+ Nachhaltige Produkte für weniger Müll"
+subtitle: "Für fast alles gibt es eine wiederverwendbare Alternative"
 date: 2016-09-02
 categories: [Zero Waste]
 description: "Die meisten Dinge im Haushalt können durch nachhaltige Produkte ersetzen
@@ -16,11 +17,13 @@ Außerdem möchte ich anmerken, dass ich nicht alle Produkte selbst benutze und/
 
 ## Abschminken
 Ich habe früher zum Abschminken immer Wattepads und Creme verwendet. Das fand ich nie ganz optimal, da die Schminke meist trotzdem nicht so gut abging und ich danach überall Überbleibsel der Wattepads im Gesicht hatte. Sehr gut zum Abschminken eigenen sich hingegen kleine Mikrofasertücher oder Pads aus Molton. Durch die feine Struktur reicht Wasser aus, um die Schminke zu lösen. Einfach super :D. Die Tücher können nach Gebrauch ganz einfach in der Waschmaschine gewaschen werden.  
--> <a href="http://www.monomeer.de/index.php?page=product_search" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="https://kulmine.de/" target="_blank" rel="noopener noreferrer">Kulmine</a>, <a href="https://www.avocadostore.de/c/48-wohnen-und-leben-wellness-und-pflege-koerperpflege?page=2#q%3Dpad%26t%3Dno%26cats%3D3Wohnen%2520%2526%2520Leben%253EWellness%2520%2526%2520Pflege%253EGesichtspflege%26catl%3D4Wohnen%2520%2526%2520Leben%253EWellness%2520%2526%2520Pflege%253EGesichtspflege%26p%3D1%26ci%3DCategory_facet%253D1%253A4Wohnen%2520%2526%2520Leben%253EWellness%2520%2526%2520Pflege%253EGesichtspflege" target="_blank" rel="noopener noreferrer">Avocadostore</a>
+-> [Monomeer](http://www.monomeer.de/index.php?page=product_search),
+[Kulmine](https://kulmine.de/),
+[Avocadostore](https://www.avocadostore.de/c/48-wohnen-und-leben-wellness-und-pflege-koerperpflege?page=2#q%3Dpad%26t%3Dno%26cats%3D3Wohnen%2520%2526%2520Leben%253EWellness%2520%2526%2520Pflege%253EGesichtspflege%26catl%3D4Wohnen%2520%2526%2520Leben%253EWellness%2520%2526%2520Pflege%253EGesichtspflege%26p%3D1%26ci%3DCategory_facet%253D1%253A4Wohnen%2520%2526%2520Leben%253EWellness%2520%2526%2520Pflege%253EGesichtspflege)
 
 ## Badezusatz
 Es gibt nichts schöneres, als nach einem langen Tag abends in der Badewanne zu entspannen. Leider kommen Badezusätze meist in Plastikflaschen, was zumindest bei mir einen Krampf auslöst. Alternativ gibt es noch einige Varianten in Glasflaschen, wahlweise auch Salze oder feste Zusätze, die allerdings auch in Plastiktütchen verkauft werden. Bei Lush gibt es Badebomben, Ölbäder und Schaumbäder zu kaufen - im festen Zustand versteht sich und ganz ohne Verpackung. Lush schafft es ganz ohne Mikroplastik auszukommen, ohne auf Luxus zu verzichten.  
--> <a href="http://www.lush-shop.de/baden.635.0.html" target="_blank" rel="noopener noreferrer">Lush</a>
+-> [Lush](http://www.lush-shop.de/baden.635.0.html)
 
 ## Batterien
 Es ist schwer komplett ohne Batterien auszukommen. Entweder man braucht ein paar für die Maus oder den Milchaufschäumer oder sonst irgendein kleines Haushaltsgerät. Eine Alternative, die sich wesentlich öfter als ein Mal verwenden lässt, sind Akkus. Sie sehen genauso aus wie Batterien, lassen sich aber in einer Ladestation klemmen und wieder aufladen. Wirklich praktisch! Wir haben Akkus und eine alte Ladestation von meinem Vater bekommen :).
@@ -28,28 +31,34 @@ Es ist schwer komplett ohne Batterien auszukommen. Entweder man braucht ein paar
 ![Ein Akkuladegerät](/assets/inpost-images/2016-09-02-akkuladegeraet.jpg "© {{ site.title }}")
 
 ## Bildschirm-Reinigungstücher
-Zur Reinigung von Bildschirmen werden ja gerne feuchte Einwegtücher in extra Verpackung verwendet. Aber auch hierzu gibt es Alternativen, die man waschen kann. Ich habe mir damals (leider noch) auf Amazon so ein Bildschirm-Reinigungstuch gekauft (<a href="https://www.amazon.de/gp/product/B00WNA0ZTG/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1" target="_blank" rel="noopener noreferrer">Blum - Mikrofasertuch</a>). Das tolle daran ist, dass man es trocken oder nass oder teils teils benutzen kann. Mit etwas Wasser gehen hartnäckigere Flecken weg und mit dem Rest des Tuches kann der Bildschirm wieder getrocknet werden. Das ganze funktioniert natürlich bei Monitoren, Laptops, Tablets und Smartphones.
+Zur Reinigung von Bildschirmen werden ja gerne feuchte Einwegtücher in extra Verpackung verwendet. Aber auch hierzu gibt es Alternativen, die man waschen kann. Ich habe mir damals (leider noch) auf Amazon so ein Bildschirm-Reinigungstuch gekauft ([Blum - Mikrofasertuch](https://www.amazon.de/gp/product/B00WNA0ZTG/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)). Das tolle daran ist, dass man es trocken oder nass oder teils teils benutzen kann. Mit etwas Wasser gehen hartnäckigere Flecken weg und mit dem Rest des Tuches kann der Bildschirm wieder getrocknet werden. Das ganze funktioniert natürlich bei Monitoren, Laptops, Tablets und Smartphones.
 
 ## Brillenputztücher
 Das gleiche wie bei Bildschirm-Reinigungstüchern gilt natürlich auch für Brillenputztücher. Allerdings dürften die kleinen waschbaren Mikrofasertücher recht bekannt sein. Also muss auch zur Brillenreinigung kein Verpackungsmüll angehäuft werden. Außerdem können die kleinen Tücher mehrfach verwendet und im Portemonnaie aufbewahrt werden (ich trage zwar keine Brille, aber mein Freund macht das so). So hat er auch immer ein Tuch zur Hand, wenn die Brille mal unterwegs dreckig wird.
 
 ## Deodorant
 Unverpacktes Deodorant gibt es in Form von Deosticks in Papierhüllen oder als festen Block ganz ohne Verpackung. Ein üblicher Inhaltsstoff ist Natron, das Gerüche neutralisiert und nebenbei auch noch über viele weitere tolle Eigenschaften verfügt.  
--> <a href="http://www.monomeer.de/index.php?page=product_overview&category=20" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="http://www.lush-shop.de/deo-puder.667.0.html" target="_blank" rel="noopener noreferrer">Lush</a>, <a href="https://www.einfach-ohne-plastik.at/shop/koerperpflege/177-organic-essence-organic-deodorant.html" target="_blank" rel="noopener noreferrer">Plasticarian</a>
+-> [Monomeer](http://www.monomeer.de/index.php?page=product_overview&category=20),
+[Lush](http://www.lush-shop.de/deo-puder.667.0.html),
+[Plasticarian](https://www.einfach-ohne-plastik.at/shop/koerperpflege/177-organic-essence-organic-deodorant.html)
 
 ## Einkaufstaschen
 Eine der größten Umweltsünden sind wohl die endlos vielen Plastiktaschen, die man beim Einkaufen teils aufgezwungen bekommt. Dazu gehören nicht nur die Tüten, die man an der Kasse kaufen kann, sondern auch die kleinen Tütchen in der Obst- und Gemüseabteilung. Dieses ganze Plastik wird meist nur einmal verwendet. Alternativen dazu sind wieder verwendbare Einkaufstaschen aus Stoff oder Baumwollnetze für Obst und Gemüse.  
--> <a href="https://www.avocadostore.de/brands/re-sack" target="_blank" rel="noopener noreferrer">Avocadostore</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=14&artnr=86&product=Naturtasche+Gemsebeutel+3er-Set" target="_blank" rel="noopener noreferrer">Monomeer</a>
+-> [Avocadostore](https://www.avocadostore.de/brands/re-sack),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=14&artnr=86&product=Naturtasche+Gemsebeutel+3er-Set)
 
 ## Geschenkpapier
-Statt Geschenke oder kleine Aufmerksamkeiten weiter in das übliche Papier einzupacken, verwende doch Bereits benutzte Reste, Zeitungspapier oder schöne Tücher. Besonders gut eignen sich dazu <a href="http://minimalwaste.de/furoshiki-tuecher-als-zero-waste-geschenkpapier" target="_blank" rel="noopener noreferrer">Furoshiki Tücher</a>.
+Statt Geschenke oder kleine Aufmerksamkeiten weiter in das übliche Papier einzupacken, verwende doch Bereits benutzte Reste, Zeitungspapier oder schöne Tücher. Besonders gut eignen sich dazu [Furoshiki Tücher](http://minimalwaste.de/furoshiki-tuecher-als-zero-waste-geschenkpapier).
 
 ## Getränke
 Anstelle Wasser in Flaschen zu kaufen, kann auch Leitungswasser problemlos getrunken werden. Das spart nicht nur Geld sondern auch Müll. Das Leitungswasser in Deutschland verfügt über eine sehr gut Qualität. Wenn Du Wasser in Flaschen kaufst, handelt es sich heutzutage leider oft um Einwegflaschen. Mehrwegflaschen aus dickerem Plastik oder am besten aus Glas sind da schon sinnvoller. Mehrweg Glasflaschen können nämliche bis zu 50-mal und Plastikflaschen bis zu 25-mal wieder befüllt werden. Bei Getränken also immer auf das Mehrwegzeichen achten.
 
 ## Haarschampoo
 Zu normalem Schampoo aus der Flasche gibt es tolle Alternativen. Ich selbst nutze gerne die Shampoobars von Lush. Sie sind normalen Shampoos sehr ähnlich, aber ganz ohne Silikone. Es gibt aber auch noch sogenannte Haarwaschseifen. Bei der Anwendung muss beachtet werden, dass ein zusätzlichen Ausspülen der Haare mit Essigwasser nötig sein könnte, wenn das Wasser zu kalkhaltig ist. Das spült Seifenresten aus den Haaren, die sich durch Reaktion mit dem Kalk dort ablagern.  
--> <a href="http://www.lush-shop.de/shampoo-fest.656.0.html" target="_blank" rel="noopener noreferrer">Lush</a>, <a href="http://www.savion.de/default/haarwaschseifen-1.html" target="_blank" rel="noopener noreferrer">Savion</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=10&artnr=332&product=Rasierhobel+Olivenholz" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="http://www.plasno.de/produkte/1660/de/haarwaschseife-plastikfreies-shampoo.html" target="_blank" rel="noopener noreferrer">Plasno</a>
+-> [Lush](http://www.lush-shop.de/shampoo-fest.656.0.html),
+[Savion](http://www.savion.de/default/haarwaschseifen-1.html),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=10&artnr=332&product=Rasierhobel+Olivenholz),
+[Plasno](http://www.plasno.de/produkte/1660/de/haarwaschseife-plastikfreies-shampoo.html)
 
 ![Unverpackte Seife von Lush](/assets/inpost-images/2016-09-02-seife.jpg "© {{ site.title }}")
 
@@ -69,51 +78,71 @@ Verwende beim Putzen Tücher aus Stoff, die gewaschen werden können statt beisp
 
 ## Rasierer
 Ein weiteres Produkt, dass viel zu viel Müll produziert und nebenbei noch total überteuert verkauft wird ist: der Rasierer. Umweltfreundlicher und günstiger ist die Verwendung von einem klassischen Rasierhobel mit Rasierklingen. Ich selbst besitze so ein schmuckes Teil und bin sehr zufrieden damit. Er muss etwas anders gehalten werden, als ein herkömmlicher Rasierer, das bekommt man aber sehr schnell raus ;-). Die Klingen sind aus gehärtetem Stahl und die meisten Materialien können nicht wie Stahl ohne Qualitätsverluste unbegrenzt wiederverwertet werden.  
--> <a href="http://www.monomeer.de/index.php?page=product_details&category=10&artnr=331&product=Rasierhobel+Kirschholz" target="_blank" rel="noopener noreferrer">Monomeer</a>
+-> [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=10&artnr=331&product=Rasierhobel+Kirschholz)
 
 ![Rasierhobel](/assets/inpost-images/2016-09-02-rasierhobel.jpg "© {{ site.title }}")
 
 ## Seife
 Als Ersatz für Flüssigseife zum Händewaschen und auch für Duschgel können feste Seifen verwendet werden. Die gibt es in jeder Drogerie zu kaufen und sind schonmal für sich eine gute Alternative. Noch besser wird das ganze unverpackt. Auch hier ist die Vielfalt groß.  
--> <a href="http://www.lush-shop.de/seife.634.0.html" target="_blank" rel="noopener noreferrer">Lush</a>, <a href="http://www.savion.de/default/koerperseifen-1.html" target="_blank" rel="noopener noreferrer">Savion</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=4&artnr=13&product=JOIK+Luxurise+Gesichtsseife+fr+normale+und+fettige+Haut" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="https://www.dm.de/dalli-haushalts-kernseife-3er-pack-p4012400532612.html" target="_blank" rel="noopener noreferrer">DM</a>
+-> [Lush](http://www.lush-shop.de/seife.634.0.html),
+[Savion](http://www.savion.de/default/koerperseifen-1.html),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=4&artnr=13&product=JOIK+Luxurise+Gesichtsseife+fr+normale+und+fettige+Haut),
+[DM](https://www.dm.de/dalli-haushalts-kernseife-3er-pack-p4012400532612.html)
 
 ## Sonnencreme
 Für mich ist Sonnenschutz eine Notwendigkeit (ich habe so helle Haut, dass ich regelmäßig im Sommer als Krebs rumlaufe). Selbst diesen gibt es inzwischen in fester Form für den geneigten Zero Wastler. Wie bei anderen Produkten wird so eine Plastikflasche vermieden und die festen Blöcke lassen sich besser auf Reisen mitnehmen.  
--> <a href="http://www.lush-shop.de/the-sunblock-fester-sonnenschutz-lsf-30-hoch-100g.6763.html" target="_blank" rel="noopener noreferrer">Lush</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=19&artnr=152&product=Sonnencreme-Stick+LSF+30" target="_blank" rel="noopener noreferrer">Monomeer</a>
+-> [Lush](http://www.lush-shop.de/the-sunblock-fester-sonnenschutz-lsf-30-hoch-100g.6763.html),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=19&artnr=152&product=Sonnencreme-Stick+LSF+30)
 
 ## Tampons
 Hä, wie kann man denn Tampons ersetzen? Mit einer sogenannten Menstruationstasse! Menstruationstassen sind auch ohne auf Müllvermeidung zu achten eine clevere Investition. Die Verwendung ist einfach, gesünder als die von Tampons und spart Geld [[4]](#quellen). Tampons sind oft chemisch behandelt wohingegen Menstruationstassen aus medizinischem Silikon gefertigt sind. Kurz darüber nachdenken - Was würde man wohl lieber nutzen ;-)?  
--> <a href="http://www.monomeer.de/index.php?page=product_details&category=41&artnr=159&product=mooncup+Menstruationskappe+Gre+A" target="_blank" rel="noopener noreferrer">Mooncup</a>, <a href="https://www.lunette.com/de/" target="_blank" rel="noopener noreferrer">Lunette</a>, <a href="http://www.ladycup.de/" target="_blank" rel="noopener noreferrer">Ladycup</a>, <a href="http://www.ruby-cup.com/de/" target="_blank" rel="noopener noreferrer">RubyCup</a>, <a href="http://www.me-luna.eu/" target="_blank" rel="noopener noreferrer">MeLuna</a>, <a href="http://divacup.com/de/" target="_blank" rel="noopener noreferrer">DivaCup</a> und <a href="http://www.menstruationstasse.de/" target="_blank" rel="noopener noreferrer">Yuuki</a>
+-> [Mooncup](http://www.monomeer.de/index.php?page=product_details&category=41&artnr=159&product=mooncup+Menstruationskappe+Gre+A),
+[Lunette](https://www.lunette.com/de/),
+[Ladycup](http://www.ladycup.de/),
+[RubyCup](http://www.ruby-cup.com/de/),
+[MeLuna](http://www.me-luna.eu/),
+[DivaCup](http://divacup.com/de/) und
+[Yuuki](http://www.menstruationstasse.de/)
 
 ## Taschentücher
 Taschentücher sind leider in viel zu viele Schichten Plastik verpackt. Eine ganz einfache Alternative bieten Taschentuchboxen. Sie enthalten meist 100 Blatt und bestehen zum großen Teil aus Papier. Die unten verlinkte Box besteht vollständig aus Papier, auch die Lasche an der Öffnung, Wenn das nicht konsequent ist :-D. Besser noch sind Stofftaschentücher, die schonender für die Nase sind, als die weichsten Papiertaschentücher und können immer wieder verwendet werden. Mein Freund ist eine echte Schnupfennase und hat unsere Stofftaschentücher ausführlich getestet und für sehr gut befunden. Außerdem gibt es tolle Designs, durch die die Tücher sehr hochwertig aussehen.  
--> <a href="https://www.dm.de/soft-und-sicher-taschentuecher-box-recycling-p4010355127068.html" target="_blank" rel="noopener noreferrer">DM</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=41&artnr=52&product=Lehner+Stofftaschentuch+Herren+wei" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="http://shop.kulmine.de/Taschentuecher/" target="_blank" rel="noopener noreferrer">Kulmine</a>
+-> [DM](https://www.dm.de/soft-und-sicher-taschentuecher-box-recycling-p4010355127068.html),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=41&artnr=52&product=Lehner+Stofftaschentuch+Herren+wei),
+[Kulmine](http://shop.kulmine.de/Taschentuecher/)
 
 ## Toilettenpapier
 Auf Toilettenpapier wollen die meisten wohl nicht verzichten, es bleibt also eine ökologische Alternative zu nutzen. Smoothpanda bietet so ein Toilettenpapier an. Es wird aus dem schnell wachsenden Rohstoff Bambus gefertigt. Bambus ist sehr genügsam und benötigt wenig Wasser. Er produziert viel mehr Zellstoff als Bäume, wodurch mehr Klopapier hergestellt werden kann. Zudem wächst Bambus einfach weiter, wenn er einmal abgeschlagen wurde.  
--> <a href="http://www.smoothpanda.de/" target="_blank" rel="noopener noreferrer">Smoothpanda</a>
+-> [Smoothpanda](http://www.smoothpanda.de/)
 
 ![Bambus Toilettenpapier](/assets/inpost-images/2016-09-02-bambus-toilettenpapier.jpg "© {{ site.title }}")
 
 ## Trinkgefäße
 Eine sehr einfache Möglichkeit Müll einzusparen, bieten Trinkflaschen und Thermobecher. Hier bieten sich solche aus rostfreiem Edelstahl an, da diese nicht so schwer sind wie Glas, aber genauso gut zu reinigen. Außerdem nimmt Edelstahl auch keine Gerüche an. Das ist sehr angenehm, wenn man verschiedene Getränke in dem Behältnis transportieren möchte. Ich selbst besitze eine große Flasche, in der ich immer Wasser für unterwegs mitnehme und eine Thermoflasche für Getränke, die entweder warm- oder kühl gehalten werden. Mein Freund verwendet einen Isolierbecher aus rostfreiem Edelstahl, um morgens seinen Kaffee mit auf die Arbeit zu nehmen.  
--> <a href="http://www.beechange.com/suche?controller=search&orderby=position&orderway=desc&search_query=trinkflasche&submit_search=Suche" target="_blank" rel="noopener noreferrer">Beechange</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=14&artnr=10&product=soulbottle+" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="http://www.plasno.de/produkte/1784/de/wasserflasche-100-nachhaltig-diverse-designs.html" target="_blank" rel="noopener noreferrer">Plasno</a>
+-> [Beechange](http://www.beechange.com/suche?controller=search&orderby=position&orderway=desc&search_query=trinkflasche&submit_search=Suche),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=14&artnr=10&product=soulbottle+),
+[Plasno](http://www.plasno.de/produkte/1784/de/wasserflasche-100-nachhaltig-diverse-designs.html)
 
 ## Wattestäbchen
 So gut wie immer bestehen Wattestäbchen aus einem Plastikstil und Watte, die entweder aus Baumwolle oder ebenfalls aus Plastik gefertigt ist. Besser sind Alternativen aus Holz, Bambus oder Papier und Baumwolle. So sind die kleinen Helfer kompostierbar und man hat trotzdem immer saubere Ohren. Auch interessant sind Ohrenreniger, die völlig ohne Müll auskommen und immer wieder verwendet werden können.  
--> <a href="https://www.avocadostore.de/products/64294-ohrstaebchen-lamazuna" target="_blank" rel="noopener noreferrer">Avocadostore</a>, <a href="http://www.hydrophil.biz/wattestaebchen-aus-bambus-baumwolle.html" target="_blank" rel="noopener noreferrer">Hydrophil</a>, <a href="https://www.dm.de/ebelin-bio-wattestaebchen-p4010355914019.html" target="_blank" rel="noopener noreferrer">DM</a>
+-> [Avocadostore](https://www.avocadostore.de/products/64294-ohrstaebchen-lamazuna),
+[Hydrophil](http://www.hydrophil.biz/wattestaebchen-aus-bambus-baumwolle.html),
+[DM](https://www.dm.de/ebelin-bio-wattestaebchen-p4010355914019.html)
 
 ## Zahnbürste
 Zahnbürsten aus Bambus sind kompostierbar und verbrauchen weniger Ressourcen in der Herstellung. Bambus ist ein sehr schnell nachwachsener Rohstoff. Er braucht wenig Pflege, weniger Wasser als Bäume und enthält mehr verwertbaren Zellstoff. Er ist also perfekt für nachhaltig produzierte Zahnbürsten geeignet. Außerdem gibt es noch Holzzahnbürsten mit Naturborsten oder SWAK Zahnbürsten. Miswak ist ein tolles Material, das aus einem speziellen Baum gewonnen wird. Dank natürlich vorkommener Inhaltsstoffe, die für die Gesundheit der Zähne sorgen, muss weder Wasser noch Zahnpasta genutzt werden. Miswak wird schon seit dem Altertum zum Putzen der Zähne verwendet.  
--> <a href="http://www.hydrophil.biz/nachhaltige-zahnbuerste-natur.html" target="_blank" rel="noopener noreferrer">Hydrophil</a>, <a href="https://www.avocadostore.de/products/38374-zahnbuerste-aus-bambus-weich-mittel-hart-ecobamboo" target="_blank" rel="noopener noreferrer">Avocadostore</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=11&artnr=215&product=SWAK+Zahnbrste+naturfarben" target="_blank" rel="noopener noreferrer">Monomeer</a>, <a href="https://www.sidco.de/" target="_blank" rel="noopener noreferrer">Sideco</a>
+-> [Hydrophil](http://www.hydrophil.biz/nachhaltige-zahnbuerste-natur.html),
+[Avocadostore](https://www.avocadostore.de/products/38374-zahnbuerste-aus-bambus-weich-mittel-hart-ecobamboo),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=11&artnr=215&product=SWAK+Zahnbrste+naturfarben),
+[Sideco](https://www.sidco.de/)
 
 ## Zahnpasta
 Zu Zahnpasta aus der Tube gibt es einige Alternativen. Vorneweg Zahnputztabletten. Diese sind quasi Zahnpasta in fester Form, portioniert und komplett in Papier verpackt. Vorteil: gut für Reisen geeignet. Außerdem gibt es noch Zahnputzpulver, welches aber oft in Plastik verpackt ist, aber im Gegensatz zu herkömmlicher Zahnpasta zumindest keine winzigen Plastikpartikel enthalten, welche letzendlich im Meer landen.
--> <a href="http://www.lush-shop.de/zahnpflege.734.0.html" target="_blank" rel="noopener noreferrer">Lush</a>, <a href="http://www.monomeer.de/index.php?page=product_details&category=11&artnr=218&product=Denttabs+Zahnputztabletten+lose+ohne+Fluorid+100g" target="_blank" rel="noopener noreferrer">Monomeer</a>
+-> [Lush](http://www.lush-shop.de/zahnpflege.734.0.html),
+[Monomeer](http://www.monomeer.de/index.php?page=product_details&category=11&artnr=218&product=Denttabs+Zahnputztabletten+lose+ohne+Fluorid+100g)
 
 ## Zahnseide
 Herkömmliche Zahnseide kommt in einer Plastikverpackung und besteht meist aus Nylon. Es gibt zwar auch Fäden, die aus Seide gefertigt sind, das sind aber eher einzelne Produkte und auch bei diesen bleibt immer noch die lästige Verpackung. Die allermeisten Zahnseiden sind also nicht biologisch abbaubar. Nachaltige Zahnseide ist kompostierbar und kann im Nachfüllpack geordert werden.  
--> <a href="http://www.monomeer.de/index.php?page=product_details&category=11&artnr=222&product=Vmel+Zahnseide" target="_blank" rel="noopener noreferrer">Monomeer</a>  
+-> [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=11&artnr=222&product=Vmel+Zahnseide)
 
 &nbsp;
 
@@ -123,35 +152,13 @@ Fällt dir noch etwas ein, was unbedingt auf die Liste sollte? Lass es mich wiss
 
 
 ### Weitere Infos:
-<ol style="text-align: left;">
-  <li>
-    <a href="http://www.lush-shop.de/artikel-wir-glitzern-ganz-ohne-plastik.809.0.html?sid=kibu7m49p4pc34737lmhk7m0n7" target="_blank" rel="noopener noreferrer">Lush: Wir glitzern ganz ohne Plastik</a>
-  </li>
-  <li>
-    <a href="https://de.wikipedia.org/wiki/Natriumhydrogencarbonat" target="_blank" rel="noopener noreferrer">Wikipedia: Natriumhydrogencarbonat</a>
-  </li>
-  <li>
-    <a href="http://www.mehrweg.org/mehrwegsystem/funktionsweise/" target="_blank" rel="noopener noreferrer">Arbeitskreis Mehrweg Gbr: Funktionsweise</a>
-  </li>
-  <li>
-    <a href="https://www.menstruationstasse.net/vor-und-nachteile" target="_blank" rel="noopener noreferrer">Menstruationstasse.net: Vor- & Nachteile</a>
-  </li>
-  <li>
-    <a href="http://swak.de/miswak.htm" target="_blank" rel="noopener noreferrer">SWAK Zahnpflege: Miswak-Zahnbürsten &#8211; Zahnpflege Tipps, Anleitung, Handhabung</a>
-  </li>
-  <li>
-    <a href="http://www.bund.net/fileadmin/bundnet/pdfs/meere/131119_bund_meeresschutz_mikroplastik_produktliste.pdf" target="_blank" rel="noopener noreferrer">Der Bund: Mikroplastik &#8211; Die unsichtbare Gefahr, 2015</a>
-  </li>
-  <li>
-    <a href="http://www.stahl-online.de/wp-content/uploads/2013/08/Recycling_V2.pdf" target="_blank" rel="noopener noreferrer">Stahl-online.de: Recycling-Weltmeister Stahl</a>
-  </li>
-  <li>
-    <a href="http://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/dateien/2_tab_trinkwasser_2015-07-14.pdf" target="_blank" rel="noopener noreferrer">Umweltbundesamt: Qualität des Trinkwassers aus größeren Wasserwerken Deutschlands, 2013 </a>
-  </li>
-  <li>
-    <a href="https://de.wikipedia.org/wiki/Sisalfaser" target="_blank" rel="noopener noreferrer">Wikipedia: Sisalfaser</a>
-  </li>
-  <li>
-    <a href="https://de.wikipedia.org/wiki/Sisal-Agave" target="_blank" rel="noopener noreferrer">Wikipedia: Sisal-Agave</a>
-  </li>
-</ol>
+1. [Lush: Wir glitzern ganz ohne Plastik](http://www.lush-shop.de/artikel-wir-glitzern-ganz-ohne-plastik.809.0.html?sid=kibu7m49p4pc34737lmhk7m0n7)
+2. [Wikipedia: Natriumhydrogencarbonat](https://de.wikipedia.org/wiki/Natriumhydrogencarbonat)
+3. [Arbeitskreis Mehrweg Gbr: Funktionsweise](http://www.mehrweg.org/mehrwegsystem/funktionsweise/)
+4. [Menstruationstasse.net: Vor- & Nachteile](https://www.menstruationstasse.net/vor-und-nachteile)
+5. [SWAK Zahnpflege: Miswak-Zahnbürsten &#8211; Zahnpflege Tipps, Anleitung, Handhabung](http://swak.de/miswak.htm)
+6. [Der Bund: Mikroplastik &#8211; Die unsichtbare Gefahr, 2015](http://www.bund.net/fileadmin/bundnet/pdfs/meere/131119_bund_meeresschutz_mikroplastik_produktliste.pdf)
+7. [Stahl-online.de: Recycling-Weltmeister Stahl](http://www.stahl-online.de/wp-content/uploads/2013/08/Recycling_V2.pdf)
+8. [Umweltbundesamt: Qualität des Trinkwassers aus größeren Wasserwerken Deutschlands, 2013](http://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/dateien/2_tab_trinkwasser_2015-07-14.pdf)
+9. [Wikipedia: Sisalfaser](https://de.wikipedia.org/wiki/Sisalfaser)
+10. [Wikipedia: Sisal-Agave](https://de.wikipedia.org/wiki/Sisal-Agave)

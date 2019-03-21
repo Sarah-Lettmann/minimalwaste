@@ -4,6 +4,14 @@
     margin-bottom: $margin-base;
   }
 
+  &-subtitle {
+    color: $color-subtext;
+    font-size: 1.5*$font-size-base;
+    @include breakpoint(small) {
+      font-size: 1.3*$font-size-base;
+    }
+  }
+
   &-meta {
     font-size: $font-size-base;
     @include latoFont;

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "4 müllfreie DIYs für einen sauberen Haushalt"
+subtitle: "Mittel, die ohne Müll auskommen und trotzdem wirken" 
 date: 2019-03-15
 categories: [Zero Waste, DIY]
 description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer schön sauber halten

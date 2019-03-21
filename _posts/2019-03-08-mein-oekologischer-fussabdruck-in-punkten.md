@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mein ökologischer Fußabdruck in Punkten"
+subtitle: "Ein guter Tag hat 100 Punkte"
 date: 2019-03-08
 categories: Emissionen
 description: "Ein vertretbarer ökologischer Fußabdruck hat maximal 100 Punkte sagt

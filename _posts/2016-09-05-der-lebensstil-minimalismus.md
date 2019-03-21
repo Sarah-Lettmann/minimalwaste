@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Der Lebensstil Minimalismus"
+subtitle: "Das Besondere an diesem Lebensstil und wie er dich verändert"
 date: 2016-09-05
 categories: [Minimalismus]
 description: "Der Lebensstil Minimalismus beschäftigt immer mehr Menschen. Aber was genau steckt dahinter und auf welche Bereiche des Lebens wirkt er sich aus?"

@@ -16,6 +16,7 @@ layout: wrapper
       <h2 class="post-title">
         <a href="{{ post.url }}" title="zum Post {{ post.title }}">{{ post.title }}</a>
       </h2>
+      <p class="post-subtitle">{{ post.subtitle }}</p>
       <div class="post-meta">
         <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
         <span>von {{ site[post.author].name }}</span>

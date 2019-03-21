@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Zero Waste Superlativ: Waschmittel aus Kastanien"
+subtitle: "Die bessere Alternative zu Waschnüssen"
 date: 2016-10-25
-categories: [Zero Wasze, DIY]
+categories: [Zero Waste, DIY]
 description: "Dieses Waschmittel aus Kastanien ist das tollste, was es gibt, wenn man Zero Waste leben möchte. Es ist kompostierbar, umsonst und ganz natürlich."
 keywords: [Waschmittel aus Kastanien]
 image: "/assets/title-images/2016-10-25-waschmittel-aus-kastanien.jpg"
@@ -40,11 +41,5 @@ Um die Kastanien haltbar zu machen, sollte man sie trocknen (ich habe gelesen, d
 &nbsp;
 
 ### Hier findest du weitere Infos:
-<ol>
-  <li>
-    <a href="https://de.wikipedia.org/wiki/Gew%C3%B6hnliche_Rosskastanie#Nutzung">Wikipedia: Gewöhnliche Rosskastanie, Nutzung</a>
-  </li>
-  <li>
-    <a href="https://de.wikipedia.org/wiki/Waschnussbaum">Wikipedia: Waschnussbaum</a>
-  </li>
-</ol>
+1. [Wikipedia: Gewöhnliche Rosskastanie, Nutzung](https://de.wikipedia.org/wiki/Gew%C3%B6hnliche_Rosskastanie#Nutzung)
+2. [Wikipedia: Waschnussbaum](https://de.wikipedia.org/wiki/Waschnussbaum)

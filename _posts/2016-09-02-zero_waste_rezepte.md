@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Zero Waste Rezepte"
+subtitle: "Nachhaltige und müllreduzierte Reiniger zum einfachen Selbermachen"
 date: 2016-09-02
 categories: [Zero Waste, DIY]
 description: "Selber machen ist angesagt! Zero Waste Rezepte helfen dir dabei weniger Müll zu produzieren und weniger schädliche Stoffe in die Umwelt zu entlassen."
@@ -61,17 +62,7 @@ Dieses Waschmittel verwenden wir jetzt schon einige Zeit. Die Kernseife muss zue
 &nbsp;
 
 ### Hier findest du weitere Infos:
-  <ol>
-    <li>
-      <a href="https://de.wikipedia.org/wiki/2-Propanol#Chemische_Eigenschaften_.28Sicherheit.29" target="_blank" rel="noopener">Wikipedia: 2-Propanol</a>
-    </li>
-    <li>
-      <a href="https://de.wikipedia.org/wiki/%C3%84therische_%C3%96le#Verwendung" target="_blank" rel="noopener">Wikipedia: Ätherische Öle</a>
-    </li>
-    <li>
-      <a href="https://de.wikipedia.org/wiki/Natriumhydrogencarbonat" target="_blank" rel="noopener">Wikipedia: Natriumhydrogencarbonat</a>
-    </li>
-    <li>
-      <a href="http://www.jetzt-clever-sauber.de/wp-content/uploads/2016/10/Essig-Essenz-Tipps.pdf" target="_blank" rel="noopener">Jetzt-Clever-Sauber.de: Essig-Essenz-Tipps</a>
-    </li>
-  </ol>
+1. [Wikipedia: 2-Propanol](https://de.wikipedia.org/wiki/2-Propanol#Chemische_Eigenschaften_.28Sicherheit.29)
+2. [Wikipedia: Ätherische Öle](https://de.wikipedia.org/wiki/%C3%84therische_%C3%96le#Verwendung)
+3. [Wikipedia: Natriumhydrogencarbonat](https://de.wikipedia.org/wiki/Natriumhydrogencarbonat)
+4. [Jetzt-Clever-Sauber.de: Essig-Essenz-Tipps](http://www.jetzt-clever-sauber.de/wp-content/uploads/2016/10/Essig-Essenz-Tipps.pdf)

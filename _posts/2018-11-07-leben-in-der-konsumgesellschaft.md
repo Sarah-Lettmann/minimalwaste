@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Leben in der Konsumgesellschaft: Warum ist das so?'
+title: "Leben in der Konsumgesellschaft: Warum ist das so?"
+subtitle: "Oder: Wie Werbung uns manipuliert"
 date: 2018-11-07
 categories: [Minimalismus]
 description: "Wir leben in einer Konsumgesellschaft. Doch was sind die Gründe hinter dem ständigen Konsum? Und wie werden wir von Marken und Werbung manipuliert?"
@@ -71,7 +72,7 @@ Doch nicht nur die Werbung (auch in Form von Umverpackung) an sich verführt uns
 
 Da kommt auch wieder Starbucks ins Spiel. Mir ist aufgefallen, dass Mischgetränke wie Chai-Latte oder Ähnliches, sehr viel süßer sind, als bei anderen Kaffeehäusern. Das ist mir sicher auch nur aufgefallen, da ich normalerweise nie zu Starbucks gehe. Diese Kette scheint die Kunden also nicht nur mit einem gewissen Image und einem Lebensgefühl zu binden, sondern sie ebenfalls abhängig zu machen.
 
-Achja, noch was am Rande: Starbucks stattet seinen Kaffee übrigens auch mit einem imaginativen Wert aus: dem Fair Trade-Versprechen. Der Kunde glaubt, er kauft guten, ehrlich produzierten Kaffee und wird dabei nur hinters Licht geführt. Dazu empfehle ich auch die [Doku “Starbucks ungefiltert” von Arte](https://www.arte.tv/de/videos/073442-000-A/starbucks-ungefiltert/ "Zur Doku"){:target="_blank"} (leider momentan nicht verfügbar).
+Achja, noch was am Rande: Starbucks stattet seinen Kaffee übrigens auch mit einem imaginativen Wert aus: dem Fair Trade-Versprechen. Der Kunde glaubt, er kauft guten, ehrlich produzierten Kaffee und wird dabei nur hinters Licht geführt. Dazu empfehle ich auch die [Doku “Starbucks ungefiltert” von Arte](https://www.arte.tv/de/videos/073442-000-A/starbucks-ungefiltert/) (leider momentan nicht verfügbar).
 
 &nbsp;
 
@@ -79,11 +80,11 @@ Die ganze Werbung und das Produktdesign sind so schlimm, weil sie uns ständig v
 
 Wenn dich das Thema interessiert und vielleicht auch, was man dagegen tun kann, dann empfehle ich dir folgende Beiträge:
 
-<a href="http://minimalwaste.de/blog/die-tragoedien-hinter-fast-fashion/" target="_blank" rel="noopener">Die Tragödien hinter Fast Fashion</a>
+[Die Tragödien hinter Fast Fashion](http://minimalwaste.de/blog/die-tragoedien-hinter-fast-fashion/)
 
-<a href="http://minimalwaste.de/blog/minimalistisch-leben/" target="_blank" rel="noopener">Minimalistisch leben: Warum du anfangen solltest!</a>
+[Minimalistisch leben: Warum du anfangen solltest!](http://minimalwaste.de/blog/minimalistisch-leben/)
 
-<a href="http://minimalwaste.de/blog/der-lebensstil-minimalismus/" target="_blank" rel="noopener">Der Lebensstil Minimalismus</a>
+[Der Lebensstil Minimalismus](http://minimalwaste.de/blog/der-lebensstil-minimalismus/)
 
 Bis nächste Woche.
 
