@@ -1,0 +1,11 @@
+---
+layout: wrapper
+---
+
+<article class="page page--author" aria-labelledby="page-title">
+  <img class="page-image" src="{{ page.image }}" alt="Autor {{ page.title }}" title="Bild von {{ page.title }}" width="300" height="300" />
+  <div class="page-content">
+    <h1 id="page-title" class="page-title">Über {{ page.title }}</h1>
+    {{ content }}
+  </div>
+</article>

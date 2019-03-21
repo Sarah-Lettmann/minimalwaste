@@ -40,4 +40,8 @@ $height-mobile-author-image: $width-mobile-author-image;
     margin-bottom: 0;
     font-size: $font-size-base;
   }
+
+  &-link {
+    border-bottom: $link-decoration;
+  }
 }

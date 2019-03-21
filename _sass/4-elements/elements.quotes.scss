@@ -1,12 +1,22 @@
 // defines a section that is quotes from another source
 blockquote {
-  font-size: 2.5rem;
   padding-left: 0.75*$padding-base;
   border-left: 7px solid $color-accent;
-  margin: 1rem 2rem;
+  margin: 0.75*$margin-base 1.25*$margin-base;
+  color: $color-medium-base;
+  @include breakpoint(small) {
+    margin: 0.5*$margin-base 0.75*$margin-base;
+  }
 
   * {
     color: inherit;
+  }
+
+  p {
+    font-size: 1.5*$font-size-base;
+    @include breakpoint(small) {
+      font-size: 1.2*$font-size-base;
+    }
   }
 }
 

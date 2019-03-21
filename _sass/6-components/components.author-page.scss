@@ -1,0 +1,14 @@
+.page--author {
+  display: flex;
+
+  .page-image {
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 0;
+    margin-right: 2*$margin-base;
+  }
+
+  .page-title {
+    margin-top: 0;
+  }
+}

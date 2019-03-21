@@ -40,6 +40,7 @@ sarah-lettmann:
   bio: Hi, ich bin Sarah. Hier auf MinimalWaste schreibe ich über Zero Waste und Minimalismus
         und gebe Tipps wie man sein Leben nachhaltiger gestalten kann.
   picture: /assets/authors/sarahlettmann.jpg
+  more-page: /author/sarah-lettmann
 
 # Build settings
 future: true

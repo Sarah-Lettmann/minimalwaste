@@ -3,6 +3,9 @@
   <img class="author-image" src="{{ author.picture }}" alt="Autor {{ author.name }}" title="Bild von {{ author.name }}" width="125" height="125" />
   <div class="author-content">
     <h3 class="author-name">{{ author.name }}</h3>
-    <p class="author-bio">{{ author.bio }}</p>
+    <p class="author-bio">
+      {{ author.bio }}
+      <a class="author-link" href="{{ author.more-page }}">Mehr über {{ author.name }}.</a>
+    </p>
   </div>
 </section>
