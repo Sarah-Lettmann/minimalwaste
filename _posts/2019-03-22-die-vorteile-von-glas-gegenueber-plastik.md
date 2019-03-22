@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Das sind die Vorteile von Glas gegenüber Plastik"
+title: "Die Vorteile von Glas gegenüber Plastik"
 subtitle: "Wie Glasrecycling geht und warum es so nachhaltig ist"
 date: 2019-03-15
 categories: [Zero Waste, Emissionen]
 description: "Glasrecyling ist nachhaltig und effizient. Warum das so ist und wie Altglas recycelt wird erkläre ich dir in diesem Beitrag."
-keywords: [Glasrecycling, Altglas recycling]
-image: "/assets/title-images/"
+keywords: [Glasrecycling, Vorteile von Glas]
+image: "/assets/title-images/2019-03-22-die-vorteile-von-glas-gegenueber-plastik.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
@@ -30,29 +30,33 @@ Entgegen einem häufigen Mythos, wird das Glas, wenn die Container geleert werde
 Also alles eigentlich relativ einfach. Aber was sind nun genau die Vorteile von Glasrecycling gegenüber Plastikrecycling?
 
 ## Wie funktioniert Glasrecycling
-Wenn das Altglas eingesammelt und mit dem LKW zum Recyclinghof gebracht wurde, kann es losgehen. Dabei werden zunächst grobe verunreinigungen aussortiert, teils durch den Menschen und teils mit Maschinen. Den, glaube es oder nicht, <mark>es landet sehr viel mehr als nur altes Glas in den Containern, wie beispielsweise Plastikverpackungen oder Porzellan</mark>. Aber auch Fehlwürfe werden korrigiert. Das ist wichtig, denn wenn nur zwei grüne Flaschen auf eine ganze Tonne Weißglas übrig bleiben, kann diese nicht verwertet werden.
+Wenn das Altglas eingesammelt und mit dem LKW zum Recyclinghof gebracht wurde, kann es losgehen. Dabei werden zunächst grobe Verunreinigungen aussortiert, teils durch den Menschen und teils mit Maschinen. Denn, glaube es oder nicht, <mark>es landet sehr viel mehr als nur altes Glas in den Containern, wie beispielsweise Plastikverpackungen oder Porzellan</mark>. Aber auch Fehlwürfe werden korrigiert. Das ist wichtig, denn wenn nur zwei grüne Flaschen auf eine ganze Tonne Weißglas übrig bleiben, kann dieses nicht verwertet werden.
 
 Außerdem werden natürlich die Deckel aussortiert und die Gläser durch Waschen von ihren Etiketten befreit. Danach wird alles geschreddert und ein Scanner sortiert andersfarbige Scherben aus. Zum Schluss folgt noch eine letzte Kontrolle mit dem menschlichen Auge, um nicht erkannte Fremdkörper rauszufiltern, denn diese dürfen zum Schluss nur 20% der Gesamtmenge ausmachen. Danach geht das Glas ins Glaswerk wo es eingeschmolzen und wieder zu neuen Verpackungen verarbeitet wird.
 
 Dort werden dann die Scherben des Altglas mit Sand, Soda und Kalk zusammengemischt und eingeschmolzen. Je nachdem welche Glasfarbe erzielt werden soll, werden auch noch weiteren Zutaten untergemengt. <mark>Dabei reichen kleinste Mengen Eisen (nicht in der Reinform, sondern vorhanden in anderen Stoffen) aus, um beispielsweise Grünglas zu erzeugen.</mark>
 
 ## Wieso Glas so nachhaltig ist
-Bei neuem Glas kann der **Recyclinganteil bis zu 90%** betragen. Außerdem spart das Recycling Energie und das nicht zu knapp. Die Scherben des Altglas brauchen 50% weniger Energie, weil sie schneller Schmelzen als der Sand, aus dem neues Glas gefertigt wird. Das wiederum spart Emissionen an CO2 und Stickoxiden.
+Bei neuem Glas kann der **Anteil von Altlgas bis zu 90%** betragen. Außerdem spart das Recycling Energie und das nicht zu knapp. Die Scherben des Altglas brauchen 50% weniger Energie, weil sie schneller Schmelzen als der Sand, aus dem neues Glas gefertigt wird. Das wiederum spart Emissionen an CO2 und Stickoxiden.
 
-Hinzu kommt, dass Glas beliebig oft wieder eingeschmolzen werden kann. Es ist **zu 100% recycelbar** und das immer und immer wieder. So kommt man auf eine **Recyclingquote von 90%**, was schon sehr beachtlich ist, wie ich finde. Deshalb gilt das Recycling von Glas auch als erste Form der Kreislaufwirtschaft, in der ein Materialkreislauf geschlossen wird und so Ressourcen und Energie gespspart werden.
+Hinzu kommt, dass Glas beliebig oft wieder eingeschmolzen werden kann. Es ist **zu 100% recycelbar** und das immer und immer wieder. Hier in Deutschland kommen wir bei Glas auf eine **Recyclingquote von 90%**, was schon sehr beachtlich ist, wie ich finde. Deshalb gilt das Recycling von Glas auch als erste Form der Kreislaufwirtschaft, in der ein Materialkreislauf geschlossen wird und so Ressourcen und Energie gespspart werden.
 
-Hinzu kommen wie ich finde sehr wichtige weitere Faktoren. Zum Beispiel reagiert Glas nicht mit dem Inhalt, den es Verpackt und gibt auch keine Stoffe ab.
+Hinzu kommen wie ich finde sehr wichtige weitere Faktoren. Zum Beispiel reagiert Glas nicht mit dem Inhalt, den es Verpackt und gibt auch keine Stoffe ab - anders als Plastik. Und genau das ist auch das Geheimnis, warum es zu 100% recycelbar ist.
 
-Außerdem gibt es ja dann noch die Mehrweggläser und -flaschen, wie sie für Getränke, Joghurt oder Milch im Umlauf sind. Diese sind sogar doppelt nachhaltig. Ein Mehrwegglas kann bis zu **50 Mal wiederbefüllt** werden und sind im Schnitt **sechs Jahre im Umlauf**. Wenn es dann irgendwann zu weit abgenutzt ist, wird es recycelt. Das heißt es wird wieder eingeschmolzen und ein neues Mehrwegglas entsteht.
+Außerdem gibt es dann noch die Mehrweggläser und -flaschen, wie sie für Getränke, Joghurt oder Milch im Umlauf sind. Diese sind sogar doppelt nachhaltig. Ein Mehrwegglas kann bis zu **50 Mal wiederbefüllt** werden und ist im Schnitt **sechs Jahre im Umlauf**. Wenn es dann irgendwann zu weit abgenutzt ist, wird es recycelt. Das heißt es wird wieder eingeschmolzen und ein neues Mehrwegglas entsteht.
 
 ![Der doppelte Mehrwegkreislauf](/assets/inpost-images/2019-03-22-der-doppelte-mehrwegkreislauf.jpg "Quelle: https://www.glasaktuell.de/nachhaltigkeit/mehrweg/")
 
+Normale Verpackungen aus Plastik haben im Vergleich dazu nur eine Recyclingquote von rund 46.7%. Und auch die Einweg PET Flaschen haben keinen großen Vorteil, denn sie werden nicht neu befüllt, sondern geschreddert. Durch Verfärbungen können daraus oft aber keine durchsichtigen Flaschen mehr produziert werden und so müssen sie für andere Güter herhalten.
+
 ## Transportwege
-Ein Punkt, der mich persönlich schon immer interessiert hat, war die Auswirkung des Gewichts auf die Emissionen, die Glas beim TRansport erzeugt.
+Ein Punkt, der mich persönlich schon immer interessiert hat, war die Auswirkung des Gewichts auf die Emissionen, die Glas beim Transport erzeugt. Viele genaue Zahlen habe ich hier nicht gefunden, dafür aber einige Aussagen, die die Tendenz deutlich machen.
 
-Nun, zuerstmal geht es ja um die Transportwege beim Recycling an sich. Da stellt sich raus, dass Glasrecycling und -produktion etwas sehr lokales ist. **70% der Rohstoffe kommen aus einem Umkreis von weniger als 300 Kilometern**, die fertigen Produkte werden zu mehr als 50% in einem Umkreis von maximal 300 Kilometern ausgeliefert. Das hört sich schonmal recht gut an und spart jede Menge Emissionen, die bei weitern Transportwegen verursacht werden würden.
+Nun, zuerstmal geht es ja um die Transportwege beim Recycling an sich. Da stellt sich raus, dass Glasrecycling und -produktion etwas sehr lokales ist. **70% der Rohstoffe kommen aus einem Umkreis von weniger als 300 Kilometern**, die fertigen Produkte werden zu mehr als 50% in einem Umkreis von maximal 300 Kilometern ausgeliefert. Das hört sich schonmal recht gut an und spart jede Menge Emissionen, die bei weiteren Transportwegen verursacht werden würden.
 
-Hinzu kommt, dass Altglas zunächst einmal günstiger zu transportieren ist, da es aus der Region kommt, wo es eingesammelt wird.
+Hinzu kommt außerdem, dass Altglas gegenüber den Rohstoffen für neues Glas günstiger zu transportieren ist, da es aus der Region kommt, wo es eingesammelt wird.
+
+Zu den Emissionen, die bei Lieferungen von ferig verpackten Produkten entstehen, habe ich leider nicht viel gefunden. Aber bei Plastikflaschen mit Pfand ist der Transportweg oft weiter, da sie meist in einer zentralen Anlage abgefüllt werden. Wasser in Glasflaschen stammt oft aus der Region. <mark>Normale Kunststoffverpackungen ohne Pfand, werden zum Aufarbeiten außerdem oft nach China verschifft</mark>. Über die Ökobilanz von diesem Transportweg müssen wir glaube ich nicht weiter sprechen.
 
 ![Glascontainer](/assets/inpost-images/2019-03-22-altglascontainer.jpg "© {{ site.title }}")
 
@@ -69,7 +73,13 @@ Hinzu kommt, dass Altglas zunächst einmal günstiger zu transportieren ist, da 
 
 <mark>Wenn du also Glass Verpackungen kaufst - egal ob Mehrweg oder Einweg - dann ist das quasi aktiver Umweltschutz.</mark> Ich finde, da kann man sich schonmal auf die Schulter klopfen.
 
-Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders macht und wie du durch den Kauf und das Wiederverwerten von Glasverpackungen der Umwelt etwas Gutes tust. Also ich fand das alles sehr spannend und fühle mich in der Nutzung von Glas bestärkt :D . Mach es gut und bis zum nächsten Mal
+Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders macht und wie du durch den Kauf und das Wiederverwerten von Glasverpackungen der Umwelt etwas Gutes tust. Also ich fand das alles sehr spannend und fühle mich in der Nutzung von Glas bestärkt. Hier findest du noch weitere Infos zu Recycling und anderen Rohstoffen:
+
+[Was ist Plastik eigentlich genau? – Plastik unter der Lupe (1)](https://minimalwaste.de/blog/was-ist-plastik/)
+[Wie nachhaltig ist Bio-Baumwolle?](https://minimalwaste.de/blog/wie-nachhaltig-ist-bio-baumwolle/)
+[Die Philosophie hinter Zero Waste](https://minimalwaste.de/blog/die-philosophie-hinter-zero-waste/)
+
+Mach es gut und bis zum nächsten Mal,
 
 \- Sarah
 
@@ -84,3 +94,6 @@ Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders
 Federation (FEVE): Environmental, social and economic contribution of the
 Container Glass sector in Europe](https://feve.org/wp-content/uploads/2016/04/Ernst-and-Young-Study-Environmental-social-and-economic-contribution-of-the-container-glass-sector-in-Europe.pdf)
 6. [YouTube: Recycling: Wie aus Scherben Flaschen werden](https://www.youtube.com/watch?v=X8NVrA5lHx8)
+7. [Umweltbundesamt: Glas- und Mineralfaserindustrie](https://www.umweltbundesamt.de/themen/wirtschaft-konsum/industriebranchen/mineralindustrie/glas-mineralfaserindustrie#textpart-5)
+8. [Utopia: Einweg oder Mehrweg, Glas- oder Plastikflaschen: Was ist umweltfreundlicher?](https://utopia.de/ratgeber/einweg-oder-mehrweg-glas-oder-plastikflaschen-was-ist-umweltfreundlicher/)
+9. [Umweltbundesamt: Kunststoffabfälle](https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/kunststoffabfaelle)
