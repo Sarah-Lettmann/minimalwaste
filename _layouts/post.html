@@ -10,9 +10,9 @@ layout: wrapper
           <span>veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}</span>
           <span>von <a href="#author" title="mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
           <span>in
-            <a href="/pages/{{ page.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ page.categories.first }}">{{ page.categories.first }}</a>
+            <a href="/category/{{ page.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ page.categories.first }}">{{ page.categories.first }}</a>
             {% for category in page.categories offset:1 %}
-              , <a href="/pages/{{ category | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ category }}">{{ category }}</a>
+              , <a href="/category/{{ category | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ category }}">{{ category }}</a>
             {% endfor %}
           </span>
         </div>
