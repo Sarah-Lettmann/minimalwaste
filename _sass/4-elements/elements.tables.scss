@@ -3,6 +3,7 @@ $border-table: 1px solid $color-medium-light-base;
 table {
   width: 100%;
   border-collapse: collapse;
+  margin-bottom: 0;
 
   tr {
     border-bottom: $border-table;
