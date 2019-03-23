@@ -1,10 +1,10 @@
 .post {
 
-  &-header {
+  &__header {
     margin-bottom: $margin-base;
   }
 
-  &-subtitle {
+  &__subtitle {
     color: $color-subtext;
     font-size: 1.5*$font-size-base;
     @include breakpoint(small) {
@@ -12,16 +12,16 @@
     }
   }
 
-  &-meta {
+  &__meta {
     font-size: $font-size-base;
     @include latoFont;
-
-    a {
-      border-bottom: $link-decoration;
-    }
   }
 
-  &-body {
+  &__link {
+    border-bottom: $link-decoration;
+  }
+
+  &__body {
     position: relative;
 
     > p:first-of-type {
@@ -42,11 +42,11 @@
     }
   }
 
-  &-cover {
+  &__cover {
     margin: $margin-base 0;
   }
 
-  &-affiliate-hint {
+  &__affiliate-hint {
     @include latoFont;
     font-size: $font-size-base;
     font-style: italic;

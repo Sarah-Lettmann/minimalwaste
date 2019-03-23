@@ -2,24 +2,24 @@
 layout: wrapper
 ---
 <article class="category">
-  <header class="category-header">
-    <h1 class="category-title">Kategorie: {{ page.category }}</h1>
-    <p class="category-description">{{ page.description }}</p>
+  <header class="category__header">
+    <h1 class="category__title">Kategorie: {{ page.category }}</h1>
+    <p class="category__description">{{ page.description }}</p>
   </header>
 
-  <div class="category-posts">
+  <div class="category__posts">
   {% for post in site.categories[page.category] %}
     <article class="post post--category" aria-label="{{ post.title }}">
       <a href="{{ post.url }}" title="zum Post {{ post.title }}">
-        <img class="post-cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
+        <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
       </a>
-      <h2 class="post-title">
+      <h2 class="post__title">
         <a href="{{ post.url }}" title="zum Post {{ post.title }}">{{ post.title }}</a>
       </h2>
-      <p class="post-subtitle">{{ post.subtitle }}</p>
-      <div class="post-meta">
+      <p class="post__subtitle">{{ post.subtitle }}</p>
+      <div class="post__meta">
         <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
-        <span>von {{ site[post.author].name }}</span>
+        <span>von <a class="post__link" href="{{ site[post.author].more-page }}">{{ site[post.author].name }}</a></span>
       </div>
     </article>
   {% endfor %}

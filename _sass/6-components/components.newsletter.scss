@@ -13,22 +13,22 @@
     align-items: center;
   }
 
-  &-content {
+  &__content {
     @include breakpoint(small) {
       margin-bottom: $margin-base;
     }
   }
 
-  &-title {
+  &__title {
     margin-top: 0;
   }
 
-  &-description {
+  &__description {
     margin-bottom: 0;
     font-size: $font-size-base;
   }
 
-  &-button {
+  &__button {
     margin-left: $margin-base;
     @include breakpoint(small) {
         margin-left: 0;

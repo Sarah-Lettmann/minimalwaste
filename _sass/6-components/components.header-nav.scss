@@ -3,12 +3,12 @@ $background-color-header-menu: $color-light-light-base;
 .header .navigation {
   display: flex;
 
-  .nav-link,
-  .menu-link {
+  .nav__link,
+  .menu__link {
     color: inherit;
   }
 
-  .nav-link {
+  .nav__link {
     font-size: 1.75*$font-size-base;
     @include breakpoint(largeAndUp) {
       display: none;
@@ -39,7 +39,7 @@ $background-color-header-menu: $color-light-light-base;
     background: none;
   }
 
-  .menu-item {
+  .menu__item {
     border-bottom: 1px solid $color-light-base;
     color: inherit;
     @include attention() {
@@ -50,13 +50,13 @@ $background-color-header-menu: $color-light-light-base;
       border-bottom: none;
 
       &:first-of-type {
-        .menu-link {
+        .menu__link {
           margin-left: 0;
         }
       }
 
       &:last-of-type {
-        .menu-link {
+        .menu__link {
           margin-right: 0;
         }
       }
@@ -66,7 +66,7 @@ $background-color-header-menu: $color-light-light-base;
       border-bottom: none;
     }
 
-    .menu-link {
+    .menu__link {
       display: block;
       padding: 0.75*$padding-base 0;
       @include transition(color);
@@ -93,7 +93,7 @@ $background-color-header-menu: $color-light-light-base;
           }
         }
 
-        .link-icon {
+        .link__icon {
           margin-right: 0.25*$margin-base;
           @include breakpoint(largeAndUp) {
             padding: 0.5*$padding-base;
@@ -106,7 +106,7 @@ $background-color-header-menu: $color-light-light-base;
           }
         }
 
-        .link-text {
+        .link__text {
           @include breakpoint(largeAndUp) {
             display: none;
           }

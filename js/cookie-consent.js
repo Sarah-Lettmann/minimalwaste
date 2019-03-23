@@ -29,7 +29,7 @@ $(document).ready(function() {
     $('#cookie-notice').addClass("cookie-notice--visible");
   }
 
-  $('#cookie-notice-accept').click(function() {
+  $('#cookie-notice__button').click(function() {
     createCookie('cookie-notice-dismissed','true',31);
     $('#cookie-notice').removeClass("cookie-notice--visible");
     $('#cookie-notice').addClass("cookie-notice--hidden");

@@ -4,7 +4,7 @@
     text-align: center;
   }
 
-  &-title {
+  &__title {
     display: inline;
     font-size: $font-size-text;
     @include breakpoint(xsmall) {
@@ -13,7 +13,7 @@
     }
   }
 
-  &-icon {
+  &__icon {
     margin: 0 0.5*$margin-base;
     font-size: 1.5*$font-size-base;
     color: $color-text;

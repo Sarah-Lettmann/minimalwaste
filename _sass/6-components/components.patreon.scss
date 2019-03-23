@@ -9,7 +9,7 @@ $patreon-color: #e85b46;
     color: inherit;
   }
 
-  &-link {
+  &__link {
     display: flex;
     padding: $padding-base;
     background-color: $patreon-color;
@@ -25,7 +25,7 @@ $patreon-color: #e85b46;
     }
   }
 
-  &-logo {
+  &__logo {
     width: $width-patreon-image;
     height: $height-patreon-image;
     margin-bottom: 0;
@@ -36,7 +36,7 @@ $patreon-color: #e85b46;
     }
   }
 
-  &-content {
+  &__content {
     margin-left: $margin-base;
     @include latoFont();
     @include breakpoint(small) {
@@ -44,11 +44,11 @@ $patreon-color: #e85b46;
     }
   }
 
-  &-title {
+  &__title {
     margin-top: 0
   }
 
-  &-description {
+  &__description {
     margin-bottom: 0;
     font-size: $font-size-base;
   }

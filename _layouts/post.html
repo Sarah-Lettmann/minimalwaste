@@ -2,28 +2,28 @@
 layout: wrapper
 ---
 
-<article class="post" aria-labelledby="post-title">
-    <header class="post-header">
-        <h1 id="post-title" class="post-title">{{ page.title }}</h1>
-        <p class="post-subtitle">{{ page.subtitle }}</p>
-        <div class="post-meta">
+<article class="post" aria-labelledby="post__title">
+    <header class="post__header">
+        <h1 id="post__title" class="post__title">{{ page.title }}</h1>
+        <p class="post__subtitle">{{ page.subtitle }}</p>
+        <div class="post__meta">
           <span>veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}</span>
-          <span>von <a href="#author" title="mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
+          <span>von <a class="post__link" href="#author" title="mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
           {% if page.categories.first %}
             <span>in
-              <a href="/category/{{ page.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ page.categories.first }}">{{ page.categories.first }}</a>
+              <a class="post__link" href="/category/{{ page.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ page.categories.first }}">{{ page.categories.first }}</a>
               {% for category in page.categories offset:1 %}
-                , <a href="/category/{{ category | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ category }}">{{ category }}</a>
+                , <a class="post__link" href="/category/{{ category | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ category }}">{{ category }}</a>
               {% endfor %}
             </span>
           {% endif %}
         </div>
-        <img class="post-cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="960" height="640" />
+        <img class="post__cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="960" height="640" />
     </header>
-    <div class="post-body content">
+    <div class="post__body content">
         {{ content }}
         {% if page.affiliate == true %}
-          <p class="post-affiliate-hint">{{ site.affiliate-hint }}</p>
+          <p class="post__affiliate-hint">{{ site.affiliate-hint }}</p>
         {% endif %}
     </div>
     {% include sharing.html %}

@@ -1,25 +1,25 @@
 .branding {
   height: 100%;
 
-  &-title {
+  &__title {
     display: none;
   }
 
-  &-logo {
+  &__logo {
     height: 100%;
     width: auto;
     margin-bottom: 0;
-  }
 
-  &-logo--large {
-    @include breakpoint(small) {
-      display: none;
+    &--large {
+      @include breakpoint(small) {
+        display: none;
+      }
     }
-  }
 
-  &-logo--small {
-    @include breakpoint(mediumAndLarge) {
-      display: none;
+    &--small {
+      @include breakpoint(mediumAndLarge) {
+        display: none;
+      }
     }
   }
 }

@@ -1,11 +1,11 @@
 <section id="author" class="author content" aria-label="Autor dieses Posts">
   {% assign author = site[page.author] %}
-  <img class="author-image" src="{{ author.picture }}" alt="Autor {{ author.name }}" title="Bild von {{ author.name }}" width="125" height="125" />
-  <div class="author-content">
-    <h3 class="author-name">{{ author.name }}</h3>
-    <p class="author-bio">
+  <img class="author__image" src="{{ author.picture }}" alt="Autor {{ author.name }}" title="Bild von {{ author.name }}" width="125" height="125" />
+  <div class="author__content">
+    <h3 class="author__name">{{ author.name }}</h3>
+    <p class="author__bio">
       {{ author.bio }}
-      <a class="author-link" href="{{ author.more-page }}">Mehr über {{ author.name }}.</a>
+      <a class="author__link" href="{{ author.more-page }}">Mehr über {{ author.name }}.</a>
     </p>
   </div>
 </section>

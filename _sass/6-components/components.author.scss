@@ -10,7 +10,7 @@ $height-mobile-author-image: $width-mobile-author-image;
     align-items: center;
   }
 
-  &-image {
+  &__image {
     width: $width-author-image;
     height: $height-author-image;
     margin-bottom: 0;
@@ -24,7 +24,7 @@ $height-mobile-author-image: $width-mobile-author-image;
     }
   }
 
-  &-content {
+  &__content {
     margin-left: $margin-base;
     @include breakpoint(xsmall) {
       margin-left: 0;
@@ -32,16 +32,16 @@ $height-mobile-author-image: $width-mobile-author-image;
     }
   }
 
-  &-name {
+  &__name {
     margin-top: 0;
   }
 
-  &-bio {
+  &__bio {
     margin-bottom: 0;
     font-size: $font-size-base;
   }
 
-  &-link {
+  &__link {
     border-bottom: $link-decoration;
   }
 }
