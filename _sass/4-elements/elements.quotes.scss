@@ -3,7 +3,7 @@ blockquote {
   padding-left: 0.75*$padding-base;
   border-left: 7px solid $color-accent;
   margin: 0.75*$margin-base 1.25*$margin-base;
-  color: $color-medium-base;
+  @include latoFont;
   @include breakpoint(small) {
     margin: 0.5*$margin-base 0.75*$margin-base;
   }

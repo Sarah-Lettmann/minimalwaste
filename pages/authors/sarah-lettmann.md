@@ -14,4 +14,4 @@ Dieser Blog ist mein Herzensprojekt und ich hoffe mit gutem Beispiel voran zu ge
 
 > Wir brauchen keine 500 Menschen, die perfekt sind, sondern Millionen von Menschen, die ihr bestes geben.
 
-In diesem Sinne hoffe ich, dass du ein paar Dinge von MinimalWaste mitnimmst, sie ausprobierst und auf jeden Fall anderen davon erzählst. Denn nur so können wir was bewegen: indem wir andere inspirieren.
+In diesem Sinne hoffe ich, dass du ein paar Dinge von MinimalWaste mitnimmst, sie ausprobierst und auf jeden Fall anderen davon erzählst. Denn nur so können wir was bewegen: indem wir andere inspirieren und selbst die Veränderung sind, die wir uns wünschen.

@@ -61,7 +61,7 @@ Ich habe mir dazu einen wunderschönen alten Teller genommen, den ich von meiner
 ## Super einfache Fensterdeko
 Fensterdekoration sorgt immer für Weihnachtsstimmung und rundet das Gesamtbild finde ich ab. Eine Möglichkeit ist beispielsweise das aufhängen von selbst gebastelten Schneeflocken mit einer Kordel und einem Türhaken, sodass du kein Tesafilm oder sowas benötigst (außerdem sieht es schöner aus ;-)) oder aber du benutzt einen Kalkstift, um das Fenster an sich zu bemalen.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YeR5p8OocUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YeR5p8OocUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Paper snowflake tutorial - learn how to make snowflakes in 5 minutes - EzyCraft"></iframe>
 
 Ich hatte mir vor kurzem einem gekauft, weil ich damit eigentlich unsere Gläser für den Unverpackt-Laden beschriften wollte. Allerdings stellte sich sehr schnell heraus, dass Kalk sehr empfindlich ist. Nur einmal leicht mit dem Finger drüber und schon war alles wieder weg. Dann kam mir Glücklichen aber die Idee, dass ich damit ja auch auf die Fensterscheiben malen könnte. Inspiration habe ich unter anderem hier gefunden: [Let it snow - Fenstermalereien](https://schweizergarten.blogspot.de/2014/12/let-it-snow-fenstermalereien.html) oder eben auf Pinterest oder der Google Bildersuche. Du kannst wirklich kreativ sein. Male Schneeflocken, Sterne, verzierte Schriftzüge oder gestalte ein ganzes Fenster neu. Schließlich lässt sich alles wieder ganz schnell mit einem Lappen weg wischen. Super einfach!
 
@@ -74,7 +74,7 @@ Mein Freund und ich haben uns also eines Nachmittages auf den Weg zum Wald begeb
 
 Du kannst dir auch deinen eigenen Baumschmuck aus Papier basteln. Dazu gibt es im Internet ganz viele tolle Idee, beispielsweise hier:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JA8ib4f6vDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JA8ib4f6vDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="5 EASY MINIMALIST XMAS DECOR DIY | a very mustard xmas #1"></iframe>
 
 Ich gucke die Videos von Jenny Mustard wirklich gerne, auch wenn sie nicht Zero Waste ist, aber Minimalistin. Ihr Dekor und Einrichtung sind einfach sehr inspirierend. Statt Kleber zu verwenden, kannst du übrigens auch jeweils ein Loch oben in die Sterne machen und die Kordel oder das Band dort hindurchziehen. Außerdem kannst du aus diesem Baumschmuck eine tolle Upcycling Idee machen. Nutze dazu einfach alte Notenblätter, Briefe oder alte Studienunterlagen. Dadurch bekommt der Baumschmuck eine ganz persönliche Note.
 
