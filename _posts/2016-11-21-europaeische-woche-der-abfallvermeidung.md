@@ -6,7 +6,7 @@ date: 2016-11-21
 categories: [Zero Waste]
 description: "Diese Woche ist Europäische Woche der Abfallvermeidung und es dreht sich alles um Müllreduzierung, Wiederverwendung und Recycling."
 keywords: [Europäische Woche der Abfallvermeidung]
-image: "/assets/title-images/2016-11-21-europaeische-woche-der-abfallvermeidung.png"
+image: "/assets/title-images/2016-11-21-europaeische-woche-der-abfallvermeidung.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
