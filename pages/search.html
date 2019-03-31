@@ -21,15 +21,18 @@ und lass dir gefundene Beiträge anzeigen.</p>
         noResultsText:"<p class='search-no-results'>Es konnten leider keine Ergebnisse gefunden werden :(</p>",
         searchResultTemplate:
         '<article class="post post--search" aria-label="{title}">' +
-          '<a href="{url}" title="Zum Post">' +
-            '<img class="post-cover" src="{image}" alt="{title}" width="960" height="640" />' +
+          '<a class="post__link" href="{url}" title="zum Post {{ post.title }}">' +
+            '<img class="post__cover" src="{image}" alt="{title}" width="960" height="640" />' +
           '</a>' +
-          '<h2 class="post-title">' +
-            '<a href="{url}" title="Zum Post">{title}</a>' +
-          '</h2>' +
-          '<div class="post-meta">' +
-            '<span>veröffentlicht am {date}</span>' +
-            '<span>von {author}</span>' +
+          '<div class="post__text">' +
+            '<h2 class="post__title">' +
+              '<a href="{url}" title="zum Post">{title}</a>' +
+            '</h2>' +
+            '<p class="post__subtitle">{subtitle}</p>' +
+            '<div class="post__meta">' +
+              '<span>veröffentlicht am {date}</span>' +
+              '<span>von <a class="post__link" href="{author-page}">{author}</a></span>' +
+            '</div>' +
           '</div>' +
         '</article>'
     })
