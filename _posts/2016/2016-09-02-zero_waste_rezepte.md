@@ -6,7 +6,7 @@ date: 2016-09-02
 categories: [Zero Waste, DIY]
 description: "Selber machen ist angesagt! Zero Waste Rezepte helfen dir dabei weniger Müll zu produzieren und weniger schädliche Stoffe in die Umwelt zu entlassen."
 keywords: [Zero Waste Rezepte, müllfreie Rezepte]
-image: "/assets/title-images/2016-09-02-zero-waste-rezepte.jpg"
+image: "/assets/title-images/2016/2016-09-02-zero-waste-rezepte.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

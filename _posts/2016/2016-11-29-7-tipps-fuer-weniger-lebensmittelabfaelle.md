@@ -6,7 +6,7 @@ date: 2016-11-29
 categories: [Zero Waste]
 description: "Auch auf Lebensmittelabfälle sollte man achten, denn auch sie sind im Übermaß schlecht für die Umwelt. Wie du sie verringerst zeige ich dir hier."
 keywords: [Lebensmittelabfälle, Lebensmittel wegwerfen]
-image: "/assets/title-images/2016-11-29-7-tipps-fuer-weniger-lebensmittelabfaelle.jpg"
+image: "/assets/title-images/2016/2016-11-29-7-tipps-fuer-weniger-lebensmittelabfaelle.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
@@ -32,14 +32,14 @@ Müllvermeidung fängt schon beim Einkaufen an. Das gilt nicht nur bei Umverpack
 
 Für eine gute Planung solltest du außerdem darauf achten, nicht zu viel auf Vorrat zu kaufen und deine Lebensmittel an einigen wenigen Orten aufzubewahren. So läufst du nicht Gefahr den Überblick zu verlieren, weil du vergessen hast in den x-ten Schrank zu gucken oder etwas ganz hinten im Regal verschwunden ist. Aus Erfahrung kann ich dir sagen, dass es dadurch auch oft vorkommt, dass man nach Jahren abgelaufene Lebensmittel entdeckt, von denen man gar nicht wusste, dass es sie noch gibt xD. Nicht so schön.
 
-![Die richtigen Mengen kaufen](/assets/inpost-images/2016-11-29-richtige-mengen-kaufen.jpg "© {{ site.title }}")
+![Die richtigen Mengen kaufen](/assets/inpost-images/2016/2016-11-29-richtige-mengen-kaufen.jpg "© {{ site.title }}")
 
 Wenn du also einen konkreten Plan hast und mit einem Einkaufszettel bewaffnet losziehen kannst, dann guck vorher doch mal nach, ob es einen Unverpackt-Laden in deiner Nähe gibt. Ein Vorteil neben der reduzierten Menge an Verpackungsmüll ist nämlich auch, dass man exakt die Mengen kaufen kann, die man braucht. Wenn du ein Brot backen willst und dafür 350g Weizenmehl und 475g Roggenmehl brauchst, dann kannst du eben genau so viel kaufen. Noch deutlicher wird das bei Lebensmittel wie Nüsse, von denen man ab und zu mal kleinere Mengen für den Salat oder zu knabbern braucht. Also probier es doch mal aus. [Hier findest du eine Liste von Unverpackt-Läden](/blog/unverpackt-einkaufen-alle-laeden).
 
 ## 2. Auch hässliches Obst und Gemüse kaufen
 Vielleicht hast du ja schon mal was von Kampagnen wie [UglyFruitAndVeg](http://www.endfoodwaste.org/ugly-fruit---veg.html) gehört. Sie setzen sich dafür ein, dass auch Obst und Gemüse wieder gekauft wird, dass nicht der Norm entspricht. Denn auch in diesem Fall liegt es leider auch an uns den Verbrauchern. Die Supermärkte wollen solche Lebensmittel nicht mehr verkaufen, weil sie eben nicht gern gesehen sind beim Kunden. Also werden sie von vornherein weggeschmissen. Das zeigte auch die Studie des WWF. Dieser zufolge könnten in diesem Bereich 90% der Lebensmittelabfälle vermieden werden, wenn die Verbraucher auch Gemüse und Obst kaufen würden, was nicht mehr ganz frisch aussieht oder Macken hat, aber noch essbar ist.
 
-![Auch Obst und Gemüse mit Stellen kaufen](/assets/inpost-images/2016-11-29-haessliches-obst-und-gemuese.jpg "© {{ site.title }}")
+![Auch Obst und Gemüse mit Stellen kaufen](/assets/inpost-images/2016/2016-11-29-haessliches-obst-und-gemuese.jpg "© {{ site.title }}")
 
 Die gleiche Problematik gibt es übrigens auch hinsichtlich des Mindesthaltbarkeitsdatums (MHD). Ich habe mal einen Beitrag darüber gesehen, dass viele Lebensmittel einfach nicht mehr gekauft werden, wenn sie nur noch ein oder zwei Tage vor dem MHD sind. Deshalb werden sie einfach aus dem Regal genommen und durch neue ersetzt. Was passiert dann mit den "schlechten" Joghurts, dem Käse oder Milch? Richtig! Sie wandern in die Tonne. Dabei ist es gerade bei diesen Produkten so gut wie immer der Fall, dass sie noch Tage, wenn nicht sogar Woche über das MHD hinaus essbar sind. Es gibt also keinen Grund sie nicht zu kaufen, außer man ist nicht gut informiert. Lebensmittel die in diesem Bereich kritisch sind werden mit _ist zu verbrauchen bis_ gekennzeichnet, also Fisch oder Fleisch. Diese sollten nach dem angegebenen Datum wirklich nicht mehr konsumiert werden.
 
@@ -55,7 +55,7 @@ Wenn du also das nächste mal beispielsweise Frühlingszwiebeln kaufst, kannst d
 
 Wir haben auch unsere eigenen Kräuter auf der Fensterbank stehen. Man kann sich einfach ein paar Blätter abzwicken und muss nicht einen ganzen Bund Petersilie kaufen, von dem man kaum was braucht. Das hat mich früher immer fürchterlich genervt. Die meisten Kräuter brauchen auch kaum Pflege. Sie müssen nur gegossen werden und ab und zu müssen auch mal alte Blätter entfernt werden, aber alles in allem sind sie sehr genügsam.
 
-![Selbst anbauen oder nachwachsen lassen](/assets/inpost-images/2016-11-29-selbst-anpflanzen.jpg "© {{ site.title }}")
+![Selbst anbauen oder nachwachsen lassen](/assets/inpost-images/2016/2016-11-29-selbst-anpflanzen.jpg "© {{ site.title }}")
 
 ## 5. Foodsharing
 Foodsharing ist eine so großartige Möglichkeit deine Lebensmittelabfälle zu minimieren. Du kannst Foodsharing nutzen um Lebensmittel an andere Leute weiterzugeben, die sie aufbrauchen können. Das ist nützlich, wenn du Sachen entdeckst, die bald ablaufen und dir sicher bist, dass du sie nicht aufbrauchen wirst. Oder aber wenn du in den Urlaub fährst und ebenfalls alles, was in dieser Zeit ablaufen oder schlecht werden wird, weiter zu geben. [Hier kannst du dich anmelden und deine Lebensmittelreste einstellen](https://foodsharing.de/). Oder du suchst dir einen Fairteiler in deiner Stadt und bringst deine Lebensmittel dort hin. Bitte beachte aber die Auflagen! Leicht verderbliche Lebensmittel wie Fleisch oder Fisch dürfen nicht in die Fairteiler.
@@ -63,7 +63,7 @@ Foodsharing ist eine so großartige Möglichkeit deine Lebensmittelabfälle zu m
 ## 6. Müll mit nach Hause nehmen
 Ja, auch das sorgt für weniger Müll. Warum? Weil all der Müll, der in diesen einfachen Mülleimern in der Stadt oder im Park landet im Restmüll landet und somit verbrannt wird [[6]](#quellen). Das heißt, du bist besser beraten deine Lebensmittelabfälle lieber zu Hause in deinen Biomüll zu werfen. Ich nehme auch immer meine Reste aus dem Büro mit nach Hause, weil wir da auch nur einen Mülleimer pro Tisch haben, dessen Inhalt unter Garantie auch in den Restmüll wandert. Dazu kann man sich entweder von vornherein ein Gefäß mitnehmen, oder ein Stofftaschentuch verwenden, wie ich das hier getan habe.
 
-![Abfälle mit nach Hause nehmen](/assets/inpost-images/2016-11-29-abfaelle-mit-nach-hause-nehmen.jpg "© {{ site.title }}")
+![Abfälle mit nach Hause nehmen](/assets/inpost-images/2016/2016-11-29-abfaelle-mit-nach-hause-nehmen.jpg "© {{ site.title }}")
 
 ## 7. Reste aus dem Restaurant mitnehmen
 Wenn etwas im Restaurant übrig bleibt, wäre es doch viel zu schade es weg zu schmeißen. Lass dir deine Reste einfach einpacken. Schließlich hast du ja auch für das Essen bezahlt. Inzwischen gibt es Seiten und Apps, die erkannt haben, dass Reste in Restaurants einfach viel zu häufig weggeworfen werden - Pro Gast sind es rund 23,6 Kilogramm Lebensmittel im Jahr. Zum einen gibt es die Seite [restlos-geniessen.de](https://www.restlos-geniessen.de/startseite/), die Restaurants aufruft seine Gäste das Mitnehmen anzubieten. Dazu gibt es eine spezielle Box aus Papier, die zu 100% biologisch abbaubar ist und recycelt werden kann. Meiner Meinung nach ist das schon mal eine enorme Verbesserung gegenüber den normalerweise verwendeten Aluboxen mit beschichteten Pappdeckeln.

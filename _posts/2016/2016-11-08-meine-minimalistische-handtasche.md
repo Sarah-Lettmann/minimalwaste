@@ -6,7 +6,7 @@ date: 2016-11-08
 categories: [Minimalismus]
 description: "Ich liebe meine minimalistische Handtasche. Wieso ich mich dafür entschieden habe und welche Vorteile das hat, erzähl ich dir in diesem Beitrag."
 keywords: [minimalistische Handtasche]
-image: "/assets/title-images/2016-11-08-meine-minimalistische-handtasche.jpg"
+image: "/assets/title-images/2016/2016-11-08-meine-minimalistische-handtasche.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
@@ -32,7 +32,7 @@ Bei meiner Handtasche hingegen habe ich mich für ein sehr kleines Modell entsch
 
 Eine Wasserflasche passt nicht hinein. Will ich auch gar nicht, denn meistens nutze ich die Handtasche, wenn ich abends weggehe. Also beispielsweise ins Restaurant, eine Bar oder Kneipe, also solche Orte, an denen ich sowieso was zu trinken bestelle. Und wenn ich mal tagsüber in der Stadt unterwegs bin, pack ich eine Flasche Wasser in den Stoffbeutel, den ich immer mit dabei habe. Außerdem ist sie so klein, dass sie auch mit allen anderen Dingen in den Rucksack passt. So bin ich immer voll ausgestattet.
 
-![Handtasche und Portmonee](/assets/inpost-images/2016-11-08-handtasche-und-portmonee.jpg "© {{ site.title }}")
+![Handtasche und Portmonee](/assets/inpost-images/2016/2016-11-08-handtasche-und-portmonee.jpg "© {{ site.title }}")
 
 Bevor ich mir diese sehr kleine Handtasche gekauft habe, hatte ich so ein typisches Frauen-Portmonee. Damit mein ich so ein richtig großes, das für sich selbst fast schon wieder als Handtasche herhalten kann xD. Naja, das habe ich dann abgeschafft. Nach ein bisschen googlen und recherchieren habe ich herausgefunden, dass es extra sehr kleine Geldbörsen gibt, in die nur Geld und ein paar Karten passen. Nach vielem Überlegen, habe ich dann bei Karstadt auf dem Wühltisch gesucht und bin fündig geworden: es sollte ein Schlüsseletui werden. Ich entfernte die Kette und den Ring aus der kleinen Ledertasche, steckte alle meine Scheckkarte und mein Geld hinein und bin seitdem sehr sehr glücklich damit. Und damit meine ich: Es ist wirklich einfach ein Traum! Als Frau hat man ja oft das Problem, dass Kleidung sehr eng am Körper sitzt und man deshalb so ziemlich gar nichts mehr in den Hosentaschen unterbringen kann. Tja, dieses Problem habe ich jetzt nicht mehr. Zumindest nicht mehr mit meinem Portmonee. Das Smartphone ist eine ganz andere Sache.
 
@@ -54,7 +54,7 @@ Hier mal typische Dinge, die sich in einer Frauenhandtasche befinden können un
   * Spiegel
   * Bürste oder Kamm
 
-![Inhalt meiner Handtasche](/assets/inpost-images/2016-11-08-inhalt-meiner-handtasche.jpg "© {{ site.title }}")
+![Inhalt meiner Handtasche](/assets/inpost-images/2016/2016-11-08-inhalt-meiner-handtasche.jpg "© {{ site.title }}")
 
 Beim Portmonee ist das eine etwas andere Sache. Da sammelt sich eher aus Gewohnheit oder Faulheit eine ganze Menge an. Gutscheine, Rabattkarten und Kassenbons haben mein Portmonee früher regelrecht verstopft. Der Vorteil von meinem kleinen Liebling ist, dass dieser ganze Müll einfach nicht mehr rein passt. Und ich merke auch immer ziemlich schnell, wenn ich zu viel Kleingeld habe und versuche es immer schnell los zu werden. So gammelt es auch nicht zu Hause in der Spardose vor sich hin. Kassenzettel, Flyer, Gutschein usw. lehne ich inzwischen immer ab. Alle mein Scheckkarten sind sauber und platzsparend aufgereiht und, ja, ich komme an jede einzelne gut dran. Ein paar Dinge, die du bei deinem Portmonee beachten solltest:
   * Erinnerungsfotos. Guckst du sie dir wirklich an? Wäre sie an einer Wand nicht besser aufgehoben?

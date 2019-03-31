@@ -6,7 +6,7 @@ date: 2016-11-01
 categories: [Zero Waste]
 description: "Coffee-to-go Becher belasten die Umwelt, werden aber sehr häufig verwendet. Was ist also die Lösung? Richtig, ein Pfandsystem!"
 keywords: [Coffee-to-go Becher, Coffe to go Becher]
-image: "/assets/title-images/2016-11-01-coffee-to-go-becher-ein-pfandsystem.jpg"
+image: "/assets/title-images/2016/2016-11-01-coffee-to-go-becher-ein-pfandsystem.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

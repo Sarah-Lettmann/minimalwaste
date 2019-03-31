@@ -6,7 +6,7 @@ date: 2016-09-05
 categories: [Minimalismus]
 description: "Der Lebensstil Minimalismus beschäftigt immer mehr Menschen. Aber was genau steckt dahinter und auf welche Bereiche des Lebens wirkt er sich aus?"
 keywords: [Lebensstil Minimalismus, minimalistisch leben]
-image: "/assets/title-images/2016-09-05-der-lebensstil-minimalismus.jpg"
+image: "/assets/title-images/2016/2016-09-05-der-lebensstil-minimalismus.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

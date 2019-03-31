@@ -6,7 +6,7 @@ date: 2019-03-15
 categories: [Zero Waste, Emissionen]
 description: "Glasrecyling ist nachhaltig und effizient. Warum das so ist und wie Altglas recycelt wird erkläre ich dir in diesem Beitrag."
 keywords: [Glasrecycling, Vorteile von Glas]
-image: "/assets/title-images/2019-03-22-die-vorteile-von-glas-gegenueber-plastik.jpg"
+image: "/assets/title-images/2019/2019-03-22-die-vorteile-von-glas-gegenueber-plastik.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
@@ -23,7 +23,7 @@ Also, hier ein paar Regeln:
 3. Wirklich sicher kommen nur Flaschen, Konservengläser oder andere Glasverpackungen in die Container. Viele andere Dinge wie **Trinkgläser, Bleiglas oder Blumenvasen gehören nicht hinein**. Infos dazu [was ins Altglas gehört](https://www.gruener-punkt.de/fileadmin/layout/redaktion/Download/Der_Gruene_Punkt/Fehlwurfvermeidung/deutsch/TRENNHILFE_GLAS_DE.pdf "Quelle: www.gruener-punkt.de") hat der Grüne Punkt zusammengestellt.
 4. Auf dem Glas sind Symbole zu finden, die angeben, in welchen Container das Glas entsorgt werden muss. <mark>70 steht dabei für farbloses oder weißes Glas, 71 für grünes Glas und 72 für braunes Glas.</mark>
 
-![Recyclingcode](/assets/inpost-images/2019-03-22-recyclingcode.jpg "Quelle: https://de.wikipedia.org/wiki/Glas-Recycling")
+![Recyclingcode](/assets/inpost-images/2019/2019-03-22-recyclingcode.jpg "Quelle: https://de.wikipedia.org/wiki/Glas-Recycling")
 
 Entgegen einem häufigen Mythos, wird das Glas, wenn die Container geleert werden, **nicht einfach wieder zusammen geworfen**. Der LKW hat drei Abteile, eines für Weiß-, eines für Grün- und eines für Braunglas.
 
@@ -45,7 +45,7 @@ Hinzu kommen wie ich finde sehr wichtige weitere Faktoren. Zum Beispiel reagiert
 
 Außerdem gibt es dann noch die Mehrweggläser und -flaschen, wie sie für Getränke, Joghurt oder Milch im Umlauf sind. Diese sind sogar doppelt nachhaltig. Ein Mehrwegglas kann bis zu **50 Mal wiederbefüllt** werden und ist im Schnitt **sechs Jahre im Umlauf**. Wenn es dann irgendwann zu weit abgenutzt ist, wird es recycelt. Das heißt es wird wieder eingeschmolzen und ein neues Mehrwegglas entsteht.
 
-![Der doppelte Mehrwegkreislauf](/assets/inpost-images/2019-03-22-der-doppelte-mehrwegkreislauf.jpg "Quelle: https://www.glasaktuell.de/nachhaltigkeit/mehrweg/")
+![Der doppelte Mehrwegkreislauf](/assets/inpost-images/2019/2019-03-22-der-doppelte-mehrwegkreislauf.jpg "Quelle: https://www.glasaktuell.de/nachhaltigkeit/mehrweg/")
 
 Normale Verpackungen aus Plastik haben im Vergleich dazu nur eine Recyclingquote von rund 46.7%. Und auch die Einweg PET Flaschen haben keinen großen Vorteil, denn sie werden nicht neu befüllt, sondern geschreddert. Durch Verfärbungen können daraus oft aber keine durchsichtigen Flaschen mehr produziert werden und so müssen sie für andere Güter herhalten.
 
@@ -58,7 +58,7 @@ Hinzu kommt außerdem, dass Altglas gegenüber den Rohstoffen für neues Glas g�
 
 Zu den Emissionen, die bei Lieferungen von ferig verpackten Produkten entstehen, habe ich leider nicht viel gefunden. Aber bei Plastikflaschen mit Pfand ist der Transportweg oft weiter, da sie meist in einer zentralen Anlage abgefüllt werden. Wasser in Glasflaschen stammt oft aus der Region. <mark>Normale Kunststoffverpackungen ohne Pfand, werden zum Aufarbeiten außerdem oft nach China verschifft</mark>. Über die Ökobilanz von diesem Transportweg müssen wir glaube ich nicht weiter sprechen.
 
-![Glascontainer](/assets/inpost-images/2019-03-22-altglascontainer.jpg "© {{ site.title }}")
+![Glascontainer](/assets/inpost-images/2019/2019-03-22-altglascontainer.jpg "© {{ site.title }}")
 
 ## Zusammenfassung
 - Es werden zwei Millionen Tonnen Altlgas pro Jahr in Deutschland gesammelt
@@ -76,7 +76,9 @@ Zu den Emissionen, die bei Lieferungen von ferig verpackten Produkten entstehen,
 Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders macht und wie du durch den Kauf und das Wiederverwerten von Glasverpackungen der Umwelt etwas Gutes tust. Also ich fand das alles sehr spannend und fühle mich in der Nutzung von Glas bestärkt. Hier findest du noch weitere Infos zu Recycling und anderen Rohstoffen:
 
 [Was ist Plastik eigentlich genau? – Plastik unter der Lupe (1)](https://minimalwaste.de/blog/was-ist-plastik/)
+
 [Wie nachhaltig ist Bio-Baumwolle?](https://minimalwaste.de/blog/wie-nachhaltig-ist-bio-baumwolle/)
+
 [Die Philosophie hinter Zero Waste](https://minimalwaste.de/blog/die-philosophie-hinter-zero-waste/)
 
 Mach es gut und bis zum nächsten Mal,

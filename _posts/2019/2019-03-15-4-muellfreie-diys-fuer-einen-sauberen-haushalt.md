@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "4 müllfreie DIYs für einen sauberen Haushalt"
-subtitle: "Mittel, die ohne Müll auskommen und trotzdem wirken" 
+subtitle: "Mittel, die ohne Müll auskommen und trotzdem wirken"
 date: 2019-03-15
 categories: [Zero Waste, DIY]
 description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer schön sauber halten
               kannst. Die Zutaten sind günstig und die Mittel schnell zusammengemischt."
 keywords: [müllfreie DIYs]
-image: "/assets/title-images/2019-03-15-muellfreie-diys-fuer-einen-sauberen-haushalt.jpg"
+image: "/assets/title-images/2019/2019-03-15-muellfreie-diys-fuer-einen-sauberen-haushalt.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

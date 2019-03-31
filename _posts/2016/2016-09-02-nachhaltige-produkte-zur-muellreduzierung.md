@@ -7,7 +7,7 @@ categories: [Zero Waste]
 description: "Die meisten Dinge im Haushalt können durch nachhaltige Produkte ersetzen
               werden. Hier findest du meine Liste an Alternativen."
 keywords: [nachhaltige Produkte, Alternativen]
-image: "/assets/title-images/2016-09-02-nachhaltige-produkte-zur-muellreduzierung.jpg"
+image: "/assets/title-images/2016/2016-09-02-nachhaltige-produkte-zur-muellreduzierung.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
@@ -28,7 +28,7 @@ Es gibt nichts schöneres, als nach einem langen Tag abends in der Badewanne zu 
 ## Batterien
 Es ist schwer komplett ohne Batterien auszukommen. Entweder man braucht ein paar für die Maus oder den Milchaufschäumer oder sonst irgendein kleines Haushaltsgerät. Eine Alternative, die sich wesentlich öfter als ein Mal verwenden lässt, sind Akkus. Sie sehen genauso aus wie Batterien, lassen sich aber in einer Ladestation klemmen und wieder aufladen. Wirklich praktisch! Wir haben Akkus und eine alte Ladestation von meinem Vater bekommen :).
 
-![Ein Akkuladegerät](/assets/inpost-images/2016-09-02-akkuladegeraet.jpg "© {{ site.title }}")
+![Ein Akkuladegerät](/assets/inpost-images/2016/2016-09-02-akkuladegeraet.jpg "© {{ site.title }}")
 
 ## Bildschirm-Reinigungstücher
 Zur Reinigung von Bildschirmen werden ja gerne feuchte Einwegtücher in extra Verpackung verwendet. Aber auch hierzu gibt es Alternativen, die man waschen kann. Ich habe mir damals (leider noch) auf Amazon so ein Bildschirm-Reinigungstuch gekauft ([Blum - Mikrofasertuch](https://www.amazon.de/gp/product/B00WNA0ZTG/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)). Das tolle daran ist, dass man es trocken oder nass oder teils teils benutzen kann. Mit etwas Wasser gehen hartnäckigere Flecken weg und mit dem Rest des Tuches kann der Bildschirm wieder getrocknet werden. Das ganze funktioniert natürlich bei Monitoren, Laptops, Tablets und Smartphones.
@@ -60,12 +60,12 @@ Zu normalem Schampoo aus der Flasche gibt es tolle Alternativen. Ich selbst nutz
 [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=10&artnr=332&product=Rasierhobel+Olivenholz),
 [Plasno](http://www.plasno.de/produkte/1660/de/haarwaschseife-plastikfreies-shampoo.html)
 
-![Unverpackte Seife von Lush](/assets/inpost-images/2016-09-02-seife.jpg "© {{ site.title }}")
+![Unverpackte Seife von Lush](/assets/inpost-images/2016/2016-09-02-seife.jpg "© {{ site.title }}")
 
 ## Kräuter
 Kräuter gibt's ja oft nur in kleinen Plastikpäckchen oder in Bündeln mit Gummiband zu kaufen. Auch wenn das keinen Plastikmüll produzieren würde, hätte es mich genervt, da diese Mengen meist viel zu viel sind und man das unmöglich alles aufbrauchen kann, wenn man es für ein Gericht einkauft :-/. Da wir aber nun endlich einen tollen Balkon besitzen, hat mir meine beste Freundin gleich ein paar Kräuter geschenkt. Natürlich habe ich das ganze inzwischen erweitert. Und nicht nur Kräuter hausen auf unserem Balkon, sondern auch zwei Salate :-D. Salat ist im Einkauf nämlich auch eher schwierig. Entweder in der Plastiktüte kaufen (und auf Frische verzichten) oder einen riesigen Salatkopf mitnehmen, den man auch wieder nicht aufbrauchen kann. Unser Pflücksalat hält ab und zu abends mit ein paar Blättern her und wächst fröhlich weiter. In Zukunft werden wir sicherlich noch ein paar Gemüsesorten mitaufnehmen.
 
-![Selbst angebauter Salat](/assets/inpost-images/2016-09-02-selbst-angebauter-salat.jpg "© {{ site.title }}")
+![Selbst angebauter Salat](/assets/inpost-images/2016/2016-09-02-selbst-angebauter-salat.jpg "© {{ site.title }}")
 
 ## Küchenrolle
 Für Küchenrolle oder Zewa gibt es einen wirklich simplen Ersatz: Stofftücher. Zum Abwischen von Tischen oder wegwischen von Flecken nutzen wir ein nasses Spültuch. Und sogar um Fisch oder Fleisch nach dem Abwaschen trocken zu tupfen, benutzen wir einfache Geschirrtücher oder alte Tücher, die schon ein paar Flecken haben. Danach wandern sie in die Wäsche und wir haben keine unnötigen Ressourcen verbraucht.
@@ -80,7 +80,7 @@ Verwende beim Putzen Tücher aus Stoff, die gewaschen werden können statt beisp
 Ein weiteres Produkt, dass viel zu viel Müll produziert und nebenbei noch total überteuert verkauft wird ist: der Rasierer. Umweltfreundlicher und günstiger ist die Verwendung von einem klassischen Rasierhobel mit Rasierklingen. Ich selbst besitze so ein schmuckes Teil und bin sehr zufrieden damit. Er muss etwas anders gehalten werden, als ein herkömmlicher Rasierer, das bekommt man aber sehr schnell raus ;-). Die Klingen sind aus gehärtetem Stahl und die meisten Materialien können nicht wie Stahl ohne Qualitätsverluste unbegrenzt wiederverwertet werden.  
 -> [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=10&artnr=331&product=Rasierhobel+Kirschholz)
 
-![Rasierhobel](/assets/inpost-images/2016-09-02-rasierhobel.jpg "© {{ site.title }}")
+![Rasierhobel](/assets/inpost-images/2016/2016-09-02-rasierhobel.jpg "© {{ site.title }}")
 
 ## Seife
 Als Ersatz für Flüssigseife zum Händewaschen und auch für Duschgel können feste Seifen verwendet werden. Die gibt es in jeder Drogerie zu kaufen und sind schonmal für sich eine gute Alternative. Noch besser wird das ganze unverpackt. Auch hier ist die Vielfalt groß.  
@@ -114,7 +114,7 @@ Taschentücher sind leider in viel zu viele Schichten Plastik verpackt. Eine gan
 Auf Toilettenpapier wollen die meisten wohl nicht verzichten, es bleibt also eine ökologische Alternative zu nutzen. Smoothpanda bietet so ein Toilettenpapier an. Es wird aus dem schnell wachsenden Rohstoff Bambus gefertigt. Bambus ist sehr genügsam und benötigt wenig Wasser. Er produziert viel mehr Zellstoff als Bäume, wodurch mehr Klopapier hergestellt werden kann. Zudem wächst Bambus einfach weiter, wenn er einmal abgeschlagen wurde.  
 -> [Smoothpanda](http://www.smoothpanda.de/)
 
-![Bambus Toilettenpapier](/assets/inpost-images/2016-09-02-bambus-toilettenpapier.jpg "© {{ site.title }}")
+![Bambus Toilettenpapier](/assets/inpost-images/2016/2016-09-02-bambus-toilettenpapier.jpg "© {{ site.title }}")
 
 ## Trinkgefäße
 Eine sehr einfache Möglichkeit Müll einzusparen, bieten Trinkflaschen und Thermobecher. Hier bieten sich solche aus rostfreiem Edelstahl an, da diese nicht so schwer sind wie Glas, aber genauso gut zu reinigen. Außerdem nimmt Edelstahl auch keine Gerüche an. Das ist sehr angenehm, wenn man verschiedene Getränke in dem Behältnis transportieren möchte. Ich selbst besitze eine große Flasche, in der ich immer Wasser für unterwegs mitnehme und eine Thermoflasche für Getränke, die entweder warm- oder kühl gehalten werden. Mein Freund verwendet einen Isolierbecher aus rostfreiem Edelstahl, um morgens seinen Kaffee mit auf die Arbeit zu nehmen.  

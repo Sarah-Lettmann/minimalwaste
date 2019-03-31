@@ -6,7 +6,7 @@ date: 2016-11-14
 categories: [Sustainable Fashion]
 description: "Faire und nachhaltige Mode gibt es immer häufiger zu kaufen. Hier findest du eine Liste von Shops, bei denen du unbedingt mal vorbei schauen solltest."
 keywords: [nachhaltige Mode, faire Mode]
-image: "/assets/title-images/2016-11-14-onlineshops-fuer-faire-und-nachhaltige-mode.jpg"
+image: "/assets/title-images/2016/2016-11-14-onlineshops-fuer-faire-und-nachhaltige-mode.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

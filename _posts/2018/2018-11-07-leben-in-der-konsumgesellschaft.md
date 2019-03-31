@@ -6,7 +6,7 @@ date: 2018-11-07
 categories: [Minimalismus]
 description: "Wir leben in einer Konsumgesellschaft. Doch was sind die Gründe hinter dem ständigen Konsum? Und wie werden wir von Marken und Werbung manipuliert?"
 keywords: [Konsumgesellschaft]
-image: "/assets/title-images/2018-11-07-leben-in-der-konsumgesellschaft-warum-ist-das-so.jpg"
+image: "/assets/title-images/2018/2018-11-07-leben-in-der-konsumgesellschaft-warum-ist-das-so.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
@@ -23,7 +23,7 @@ Von **Grundbedürfnisse** hingegen hängt nicht zwangsläufig unsere Existenz ab
 
 Nun kommen wir zu den **Luxusbedürfnissen**. Ich denke du kannst dir vorstellen, was hierunter fällt. Güter, die wir nicht wirklich brauchen, aber die wir trotzdem haben wollen. Klassische Luxusgüter sind z.B. ein Auto, Schmuck oder auch Markenklamotten oder teures Essen wie Kaviar oder Champagner.
 
-![Die Bedürfnis Pyramide](/assets/inpost-images/2018-11-07-beduerfnis-pyramide.jpg "© {{ site.title }}")
+![Die Bedürfnis Pyramide](/assets/inpost-images/2018/2018-11-07-beduerfnis-pyramide.jpg "© {{ site.title }}")
 
 Wir haben also ein Bedürfnis, wenn wir in einer dieser Kategorien einen Mangel empfinden. Dabei ist es ganz egal, ob dieser Mangel real ist oder nur eingebildet. Wenn wir uns nun entschließen, dass wir aus diesem Mangel heraus, etwas kaufen wollen, um unsere Bedürfnisse (wenn auch sehr subjektiv) sicher zu stellen, dann entsteht ein **Bedarf**.
 
@@ -57,7 +57,7 @@ Interessant ist auch der **imaginative Wert**. Dieser Wert kommt indirekt mit de
 
 Werbung und Marketing spielen mit dieser Wertvorstellung. Wir denken wir kaufen ein Shampoo, weil wir eben was brauchen, was unsere Haare sauber macht (funktionaler Wert), aber in Wirklichkeit kaufen wir das Shampoo, weil wir es in der Werbung gesehen haben. Diese Werbung hat erst eine unglückliche Frau mit krausen Haaren gezeigt. Nachdem sie aber dieses Shampoo benutzt hat, waren ihre Haare nicht nur sauber und glänzend, nein, sie war auch glücklich und hatte Freunde um sich herum (positionaler Wert). Wenn dann noch ein Sticker auf der Flasche klebt, auf dem steht: “Fair Trade”, “Nur natürliche Inhaltsstoffe”, “Vegan” oder “Unterstütze mit dem Kauf Projekt xxx”, dann ist es um uns geschehen (imaginative Wert).
 
-![Supermakr-Regale](/assets/inpost-images/2018-11-07-supermarkt-regale.jpg "Foto von Fancycrave auf Unsplash")
+![Supermakr-Regale](/assets/inpost-images/2018/2018-11-07-supermarkt-regale.jpg "Foto von Fancycrave auf Unsplash")
 
 Werbung und geschickt designte Verpackungen sorgen dafür, dass wir inzwischen mehrere Shampoos zu Hause stehen haben (wtf?), ständig neue Klamotten wollen, immer unzufrieden mit unserer Figur sind und immer glauben wir könnten glücklicher sein, wenn wir nur dieses eine Top oder diese neue Creme hätten. **Hinzu kommt, dass Werbung heutzutage überall ist: im Fernsehn, im Radio, auf YouTube, auf vielen Websites, auf Bussen und Straßenbahnen, auf Plakaten und Litfaßsäulen.**
 
