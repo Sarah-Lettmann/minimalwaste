@@ -55,9 +55,9 @@ Einfach die Stelle anfeuchten, Natron drauf geben und mit einem Lappen drüber g
   * 250g Waschsoda
   * Essigessenz/Citro-essenz
 
-Dieses Waschmittel verwenden wir jetzt schon einige Zeit. Die Kernseife muss zuerst mit einer Küchenreibe gerieben werden. Danach kannst du Soda abwiegen und die Seife sowie zwei Tütchen Natron dazu geben. Alles gut durchmengen. Fertig! Das Waschmittel kommt sogar gegen starke Verschmutzungen wie eingetrocknete Essensreste an. Für einen Waschgang benötigt man lediglich einen Esslöffel der Mischung. Um die Maschine gegen Kalkablagerungen zu schützen, kann man bei jedem Waschgang noch einen kleinen Schuss Essigessenz oder Citro-essenz ins Weichspülerfach geben. [Hier habe ich übrigens ein Waschmittel aus Kastanien ausprobiert](/blog/zero-waste-superlativ-waschmittel-aus-kastanien).
+Dieses Waschmittel verwenden wir jetzt schon einige Zeit. Die Kernseife muss zuerst mit einer Küchenreibe gerieben werden. Danach kannst du Soda abwiegen und die Seife sowie zwei Tütchen Natron dazu geben. Alles gut durchmengen. Fertig! Das Waschmittel kommt sogar gegen starke Verschmutzungen wie eingetrocknete Essensreste an. Für einen Waschgang benötigt man lediglich einen Esslöffel der Mischung. Um die Maschine gegen Kalkablagerungen zu schützen, kann man bei jedem Waschgang noch einen kleinen Schuss Essigessenz oder Citro-essenz ins Weichspülerfach geben. [Hier habe ich übrigens ein Waschmittel aus Kastanien ausprobiert](zero-waste-superlativ-waschmittel-aus-kastanien).
 
-![Ein Akkuladegerät](/assets/inpost-images/2016-09-02-selbst-gemachtes-waschmittel.jpg "© {{ site.title }}")
+![Selbst gemachtes Waschmittel](/assets/inpost-images/2016/2016-09-02-selbst-gemachtes-waschmittel.jpg "© {{ site.title }}")
 
 &nbsp;
 
