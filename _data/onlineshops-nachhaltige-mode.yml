@@ -1,0 +1,363 @@
+- name: "Alma & Lovis"
+  url: https://www.almalovis.de
+  products: "Kleidung"
+  vegan: "nein"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "Amour Vert"
+  url: https://amourvert.com/
+  products: "Kleidung"
+  vegan: "nein"
+  fair: "ja"
+  located: "USA"
+
+- name: "ARMEDANGELS"
+  url: https://www.armedangels.de/
+  products: "Kleidung"
+  vegan: "nein"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "avesu"
+  url: https://www.avesu.de/
+  products: "Schuhe, Rucksäcke, Taschen"
+  vegan: "ja"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "Avocado Store"
+  url: https://www.avocadostore.de/
+  products: "Haushalt, Küche, Kleidung, Büro, Lebensmittel"
+  vegan: "teilweise"
+  fair: "teilweise"
+  located: "Deutschland"
+
+- name: "bleed"
+  url: https://www.bleed-clothing.com/deutsch/
+  products: "Outdoor-Kleidung"
+  vegan: "ja"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "Bourgeois Boheme"
+  url: http://www.bboheme.com/
+  products: "Schuhe"
+  vegan: "ja"
+  fair: "ja"
+  located: "UK"
+
+- name: "Brothers we Stand"
+  url: http://www.brotherswestand.com/
+  products: "Männermode"
+  vegan: "nein"
+  fair: "ja"
+  located: ""
+
+- name: "Charlie Feist"
+  url: https://charliefeist.com/
+  products: "Rucksäcke"
+  vegan: "ja"
+  fair: ""
+  located: "UK"
+
+- name: "erlich textil"
+  url: https://erlich-textil.de/
+  products: "Unterwäsche und Basics"
+  vegan: ""
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "ETHLETIC"
+  url: https://shop.ethletic.com
+  products: "vegane Converse Duplikate"
+  vegan: "ja"
+  fair: ""
+  located: "Deutschland"
+
+- name: "Ethnotek"
+  url: https://www.ethnotek.de/
+  products: "Rucksäcke, Taschen"
+  vegan: "ja"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "Fair-a-porter"
+  url: http://fairaporter.com/
+  products: "Kleidung"
+  vegan: ""
+  fair: "teilweise"
+  located: ""
+
+- name: "FOLKDAYS"
+  url: http://folkdays.de/
+  products: "Kleidung"
+  vegan: "nein"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "glore"
+  url: https://www.glore.de/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "Gossypium"
+  url: https://www.gossypium.co.uk/
+  products: "Yogakleidung"
+  vegan: "ja"
+  fair: ""
+  located: "UK"
+
+- name: "GREENALITY"
+  url: https://www.greenality.de/
+  products: "Yogakleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "grundstoff"
+  url: https://www.grundstoff.net/
+  products: "Kleidung"
+  vegan: ""
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "hessnatur"
+  url: http://www.hessnatur.com/de/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "HiGH FEELS"
+  url: https://highfeels.com/
+  products: "Schuhe"
+  vegan: "ja"
+  fair: ""
+  located: "Hong Kong"
+
+- name: "JAN 'N JUNE"
+  url: https://jannjune.com/
+  products: "Kleidung"
+  vegan: "nein"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "JW PEI"
+  url: https://www.jwpei.com/
+  products: "Vegane Taschen und Rucksäcke"
+  vegan: "ja"
+  fair: "ja"
+  located: "Kanada"
+
+- name: "KleiderKreisel"
+  url: https://www.kleiderkreisel.de/
+  products: "Secondhand Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "Kowtow"
+  url: https://www.kowtowclothing.com/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: ""
+
+- name: "Kuyichi"
+  url: https://kuyichi.com/
+  products: "Kleidung (Schwerpunkt Jeansstoff)"
+  vegan: ""
+  fair: ""
+  located: ""
+
+- name: "LANIUS"
+  url: https://shop.lanius-koeln.de/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "Lendemain"
+  url: https://www.lendemainorganic.com/
+  products: "Kleidung, Schuhe, Taschen"
+  vegan: "ja"
+  fair: "ja"
+  located: "Dänemark"
+
+- name: "Less Too Late"
+  url: https://www.lesstoolate.com/
+  products: "Kleidungsstücke zur Unterstützung wichtiger Projekte"
+  vegan: ""
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "loveco"
+  url: https://loveco-shop.de/
+  products: "Kleidung"
+  vegan: "ja"
+  fair: ""
+  located: "Deutschland"
+
+- name: "Lovjoi"
+  url: https://www.lovjoi.com/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "MATT & NAT"
+  url: https://mattandnat.com/
+  products: "Handtaschen, Schuhe"
+  vegan: "ja"
+  fair: ""
+  located: "Kanada"
+
+- name: "Mädchen Flohmarkt"
+  url: https://www.maedchenflohmarkt.de/
+  products: "Secondhand Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "MeUndies"
+  url: https://www.meundies.com/
+  products: "Unterwäsche"
+  vegan: ""
+  fair: "ja"
+  located: "USA"
+
+- name: "Moeon"
+  url: https://www.moeon.de/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "nois"
+  url: https://noisnewyork.com/
+  products: "Kleidung"
+  vegan: "ja"
+  fair: ""
+  located: "USA"
+
+- name: "organic basics"
+  url: https://organicbasics.com/
+  products: "Unterwäsche und Basics"
+  vegan: "ja"
+  fair: "ja"
+  located: "Dänemark"
+
+- name: "People Tree"
+  url: http://www.peopletree.de/
+  products: "Kleidung"
+  vegan: ""
+  fair: ""
+  located: ""
+
+- name: "PHILOMENA ZANETTI"
+  url: https://www.philomenazanetti.com/
+  products: "High End Fashion"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
+- name: "PO ZU"
+  url: https://po-zu.com/
+  products: "Schuhe"
+  vegan: "teilweise"
+  fair: "ja"
+  located: "UK"
+
+- name: "Reformation"
+  url: https://www.thereformation.com/
+  products: "Kleidung"
+  vegan: "nein"
+  fair: "ja"
+  located: "USA"
+
+- name: "Seasalt"
+  url: https://www.seasaltcornwall.co.uk/
+  products: "Kleidung, Haushalt, Küche, Bad"
+  vegan: "teilweise"
+  fair: "ja"
+  located: "UK"
+
+- name: "Swedish Stockings"
+  url: https://en.swedishstockings.com/
+  products: "Strumpfhosen, Strümpfe"
+  vegan: ""
+  fair: ""
+  located: "Schweden"
+
+- name: "ThokkThokk"
+  url: https://www.thokkthokkmarket.com/
+  products: "T-Shirts mit Print"
+  vegan: "nein"
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "thought (ehemals Braintree)"
+  url: http://www.wearethought.com/
+  products: "Kleidung"
+  vegan: "nein"
+  fair: ""
+  located: "UK"
+
+- name: "thredUP"
+  url: https://www.thredup.com/
+  products: "Secondhand Kleidung"
+  vegan: ""
+  fair: ""
+  located: "USA"
+
+- name: "TWOTHIRDS"
+  url: https://twothirds.com/
+  products: "Kleidung"
+  vegan: "teilweise"
+  fair: ""
+  located: "Spanien"
+
+- name: "Unicorn Goods"
+  url: https://unicorngoods.com/
+  products: "alles vegan, Kleidung, Haushalt, Pflegeprodukte"
+  vegan: "ja"
+  fair: ""
+  located: ""
+
+- name: "Veja"
+  url: http://www.veja-store.com/
+  products: "Schuhe"
+  vegan: ""
+  fair: ""
+  located: ""
+
+- name: "VIVOBAREFOOT"
+  url: http://www.vivobarefoot.de/
+  products: "Barfußschuhe"
+  vegan: "teilweise"
+  fair: ""
+  located: "Deutschland"
+
+- name: "Wildling"
+  url: https://wildling.shoes/webshop/
+  products: "Barfußschuhe für Kinder"
+  vegan: ""
+  fair: ""
+  located: ""
+
+- name: "YOOX"
+  url: http://www.yoox.com/de/damen
+  products: "Kleidung, Taschen, Schuhe"
+  vegan: "nein"
+  fair: "nein"
+  located: "Italien"
+
+- name: "ZAQQ"
+  url: https://www.zaqq.de/
+  products: "Barfußschuhe"
+  vegan: "teilweise"
+  fair: "ja"
+  located: "Deutschland"
