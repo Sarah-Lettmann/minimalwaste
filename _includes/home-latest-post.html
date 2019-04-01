@@ -1,0 +1,25 @@
+<section class="home latest-post">
+  {% assign post = site.posts.first %}
+  <article class="post" aria-label="{{ post.title }}">
+    <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
+      <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
+    </a>
+    <div class="post__text">
+      <h2 class="post__title">
+        <a href="{{ post.url }}" title="zum Post {{ post.title }}">{{ post.title }}</a>
+      </h2>
+      <p class="post__subtitle">{{ post.subtitle }}</p>
+      <p class="post__excerpt">{{ post.excerpt | strip_html }}</p>
+      <div class="post__meta">
+        <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
+        <span>von <a class="post__link" href="{{ site[post.author].more-page }}">{{ site[post.author].name }}</a></span>
+        <span>in
+          <a class="post__link" href="/category/{{ post.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie">{{ post.categories.first }}</a>
+          {% for category in post.categories offset:1 %}
+            , <a class="post__link" href="/category/{{ category | downcase | replace: ' ', '-' }}.html" title="zur Kategorie">{{ category }}</a>
+          {% endfor %}
+        </span>
+      </div>
+    </div>
+  </article>
+</section>

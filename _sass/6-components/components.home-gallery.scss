@@ -1,0 +1,13 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: -7.5px;
+  margin-right: -7.5px;
+
+  &__image {
+    flex-basis: 180px;
+    padding: 7.5px;
+    margin-bottom: 0;
+  }
+}

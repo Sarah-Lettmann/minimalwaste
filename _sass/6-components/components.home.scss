@@ -1,8 +1,7 @@
 .home {
-  text-align: center;
+  margin-bottom: 3*$margin-base;
 
   .post {
-    margin-bottom: 3*$margin-base;
 
     &-cover {
       margin-top: 0;
@@ -19,41 +18,5 @@
     &-teaser-text {
       padding: 0 2*$padding-base;
     }
-  }
-}
-
-// home home--first
-.home--first {
-
-}
-
-// home home--second
-.home--second {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: -$padding-base;
-  margin-right: -$padding-base;
-  margin-bottom: 2*$margin-base;
-
-  .post {
-    flex-basis: 25%;
-    flex-grow: 0;
-    padding: $padding-base;
-    margin-bottom: 0;
-
-    &-title {
-      font-size: 1rem;
-    }
-
-    &-cover {
-      margin-bottom: 0;
-    }
-  }
-}
-
-// home home--third
-.home--third {
-  .post {
-
   }
 }
