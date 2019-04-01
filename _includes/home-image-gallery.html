@@ -1,6 +1,8 @@
 <section class="home gallery" aria-label="Gallerie">
-  {% assign gallery-image = site.static_files | where: "gallery", true %}
-  {% for img in gallery-image %}
-    <img class="gallery__image" src="{{ img.path }}" alt="{{ img.path | remove: '/assets/gallery/' | remove: '.jpg' | replace: '-', ' ' | capitalize }}" />
-  {% endfor %}
+  <div class="gallery__image-container">
+    {% assign gallery-image = site.static_files | where: "gallery", true %}
+    {% for img in gallery-image %}
+      <img class="gallery__image" src="{{ img.path }}" alt="{{ img.path | remove: '/assets/gallery/' | remove: '.jpg' | replace: '-', ' ' | capitalize }}" />
+    {% endfor %}
+  </div>
 </section>

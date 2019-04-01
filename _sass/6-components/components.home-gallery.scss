@@ -1,13 +1,39 @@
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
   margin-left: -7.5px;
   margin-right: -7.5px;
+  overflow: hidden;
+
+  &__image-container {
+    display: flex;
+    position: relative;
+    //animation: gallery-animation 30s infinite;
+    @include animation(gallery-animation, 1s, 30s, ease-in-out, infinite);
+  }
 
   &__image {
     flex-basis: 180px;
     padding: 7.5px;
     margin-bottom: 0;
+  }
+}
+
+@include keyframe(gallery-animation) {
+  0%, 100% {
+    left: 0;
+  }
+  10%, 90% {
+    left: -195px;
+  }
+  20%, 80% {
+    left: -390px;
+  }
+  30%, 70% {
+    left: -585px;
+  }
+  40%, 60% {
+    left: -780px;
+  }
+  50% {
+    left: -975px;
   }
 }

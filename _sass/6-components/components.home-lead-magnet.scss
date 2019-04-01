@@ -1,0 +1,11 @@
+.lead-magnet {
+  position: absolute;
+  top: -$margin-to-content;
+  left: 0;
+  right: 0;
+  background-image: url("/assets/logos/plastik-tuete.jpg");
+  background-size: cover;
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+  background-color: $color-light-green;
+}
