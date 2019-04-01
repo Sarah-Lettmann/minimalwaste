@@ -37,7 +37,7 @@ Außerdem werden natürlich die Deckel aussortiert und die Gläser durch Waschen
 Dort werden dann die Scherben des Altglas mit Sand, Soda und Kalk zusammengemischt und eingeschmolzen. Je nachdem welche Glasfarbe erzielt werden soll, werden auch noch weiteren Zutaten untergemengt. <mark>Dabei reichen kleinste Mengen Eisen (nicht in der Reinform, sondern vorhanden in anderen Stoffen) aus, um beispielsweise Grünglas zu erzeugen.</mark>
 
 ## Wieso Glas so nachhaltig ist
-Bei neuem Glas kann der **Anteil von Altlgas bis zu 90%** betragen. Außerdem spart das Recycling Energie und das nicht zu knapp. Die Scherben des Altglas brauchen 50% weniger Energie, weil sie schneller Schmelzen als der Sand, aus dem neues Glas gefertigt wird. Das wiederum spart Emissionen an CO2 und Stickoxiden.
+Bei neuem Glas kann der **Anteil von Altlgas bis zu 90%** betragen. Außerdem spart das Recycling Energie und das nicht zu knapp. Die Scherben des Altglas brauchen ca. 50% weniger Energie, weil sie schneller Schmelzen als die Bestandteile, aus denen neues Glas gefertigt wird (600°C gegenüber 2000°C). Das wiederum spart Energie und Emissionen an CO2 und Stickoxiden.
 
 Hinzu kommt, dass Glas beliebig oft wieder eingeschmolzen werden kann. Es ist **zu 100% recycelbar** und das immer und immer wieder. Hier in Deutschland kommen wir bei Glas auf eine **Recyclingquote von 90%**, was schon sehr beachtlich ist, wie ich finde. Deshalb gilt das Recycling von Glas auch als erste Form der Kreislaufwirtschaft, in der ein Materialkreislauf geschlossen wird und so Ressourcen und Energie gespspart werden.
 
@@ -47,7 +47,7 @@ Außerdem gibt es dann noch die Mehrweggläser und -flaschen, wie sie für Getr�
 
 ![Der doppelte Mehrwegkreislauf](/assets/inpost-images/2019/2019-03-22-der-doppelte-mehrwegkreislauf.jpg "Quelle: https://www.glasaktuell.de/nachhaltigkeit/mehrweg/")
 
-Normale Verpackungen aus Plastik haben im Vergleich dazu nur eine Recyclingquote von rund 46.7%. Und auch die Einweg PET Flaschen haben keinen großen Vorteil, denn sie werden nicht neu befüllt, sondern geschreddert. Durch Verfärbungen können daraus oft aber keine durchsichtigen Flaschen mehr produziert werden und so müssen sie für andere Güter herhalten.
+Normale Verpackungen aus Plastik haben im Vergleich dazu nur eine Recyclingquote von rund 46.7%. Und auch die Einweg PET Flaschen haben keinen großen Vorteil, denn sie werden nicht neu befüllt, sondern geschreddert und dann eingeschmolzen (bei etwa 600 - 800°C). Durch Verfärbungen können daraus oft aber keine durchsichtigen Flaschen mehr produziert werden und so müssen sie für andere Güter herhalten.
 
 ## Transportwege
 Ein Punkt, der mich persönlich schon immer interessiert hat, war die Auswirkung des Gewichts auf die Emissionen, die Glas beim Transport erzeugt. Viele genaue Zahlen habe ich hier nicht gefunden, dafür aber einige Aussagen, die die Tendenz deutlich machen.
