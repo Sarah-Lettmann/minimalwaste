@@ -28,12 +28,14 @@
     <main class="main">
       {% if page.title == '404' %}
         <div class="container container--404">
-            {{ content }}
+          {{ content }}
+        </div>
+      {% elsif page.title != 'home' %}
+        <div class="container container--page">
+          {{ content }}
         </div>
       {% else %}
-        <div class="container">
-            {{ content }}
-        </div>
+        {{ content }}
       {% endif %}
     </main>
     {% include footer.html %}

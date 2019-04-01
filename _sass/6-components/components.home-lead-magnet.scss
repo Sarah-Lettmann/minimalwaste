@@ -3,9 +3,45 @@
   top: -$margin-to-content;
   left: 0;
   right: 0;
-  background-image: url("/assets/logos/plastik-tuete.jpg");
+  background: url("/assets/content/muell.jpg");
   background-size: cover;
-  filter: grayscale(1);
-  -webkit-filter: grayscale(1);
-  background-color: $color-light-green;
+  @include breakpoint(small) {
+    top: -0.5*$margin-to-content;
+  }
+
+  &::before {
+    content: '';
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-color: $color-light-green;
+    opacity: 0.8;
+  }
+
+  &__container {
+    display: flex;
+    padding: 2*$padding-base 0;
+    position: relative;
+    z-index: 10;
+  }
+
+  &__image {
+    margin-bottom: 0;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  &__title {
+    margin-top: 0;
+  }
+
+  &__description {
+
+  }
 }

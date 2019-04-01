@@ -1,7 +1,12 @@
 ---
 layout: wrapper
+title: "home"
 ---
-{% include home-lead-magnet.html %}
-{% include home-latest-post.html %}
-{% include home-image-gallery.html %}
-{% include home-category-posts.html content="Zero Waste" %}
+<div class="hero">
+  {% include home-lead-magnet.html %}
+</div>
+<div class="container container--home">
+  {% include home-latest-post.html %}
+  {% include home-image-gallery.html %}
+  {% include home-category-posts.html content="Zero Waste" %}
+</div>
