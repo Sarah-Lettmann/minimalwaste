@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minimalwaste.de" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
 permalink: /blog/:title
-affiliate-hint: "* Dieser Beiträg enthält Affiliate-Links. Dadurch kann ich über Produkte
+affiliate-hint: "* Dieser Beitrag enthält Affiliate-Links. Dadurch kann ich über Produkte
                 und Dienste, die ich gerne Nutze, etwas verdienen ohne dass du mehr bezahlen musst."
 
 # Social
@@ -41,6 +41,13 @@ sarah-lettmann:
         und gebe Tipps wie man sein Leben nachhaltiger gestalten kann.
   picture: /assets/authors/sarahlettmann.jpg
   more-page: /author/sarah-lettmann
+
+# Images
+defaults:
+  - scope:
+      path: "assets/gallery"
+    values:
+      gallery: true
 
 # Build settings
 future: true
