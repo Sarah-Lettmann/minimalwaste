@@ -5,7 +5,8 @@ function menuLinkClicked() {
     var mainMenu = $(".menu--main");
     var menuHeight = parseInt(mainMenu.height());
     header = $(".header");
-    marginHeader = parseInt(header.css("margin-bottom").replace("px", ""));
+    main = $(".main");
+    marginMain = parseInt(main.css("margin-top").replace("px", ""));
 
     if(mainMenu.hasClass("menu--hidden")) {
 
@@ -15,7 +16,7 @@ function menuLinkClicked() {
       // set aria-expanded=true
       mainMenuToggle.attr("aria-expanded", true);
       // add height of menu to original margin of header
-      newMargin =  marginHeader + menuHeight;
+      newMargin =  marginMain + menuHeight;
       header.css("margin-bottom", newMargin);
       mainMenu.slideDown(200);
 
@@ -27,8 +28,7 @@ function menuLinkClicked() {
       // set aria-expanded=false
       mainMenuToggle.attr("aria-expanded", false);
       // reset margin of header
-      newMargin =  marginHeader - menuHeight;
-      header.css("margin-bottom", newMargin);
+      header.css("margin-bottom", 0);
       mainMenu.slideUp(200);
 
     }
