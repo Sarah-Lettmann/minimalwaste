@@ -1,8 +1,5 @@
 .lead-magnet {
-  position: absolute;
-  top: -$margin-to-content;
-  left: 0;
-  right: 0;
+  position: relative;
   background: url("/assets/content/muell.jpg");
   background-size: cover;
   @include breakpoint(small) {
@@ -22,7 +19,7 @@
 
   &__container {
     display: flex;
-    padding: 2*$padding-base 0;
+    padding: 3*$padding-base 0;
     position: relative;
     z-index: 10;
   }

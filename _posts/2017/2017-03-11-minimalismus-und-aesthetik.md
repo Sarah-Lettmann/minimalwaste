@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Von Minimalismus und Ästhetik"
-subtitle: "Wie Klarheit und Einfacheit Ruhe und Eleganz den Weg ebnen"
+subtitle: "Wie Klarheit und Einfachheit Ruhe und Eleganz den Weg ebnen"
 date: 2017-03-11
 categories: [Minimalismus]
 description: "Minimalismus und Ästhetik: Das eine ist Grundlage für das andere. Zu viele Dinge versperren den Blick aufs Wesentliche, auf Schönheit und Eleganz."

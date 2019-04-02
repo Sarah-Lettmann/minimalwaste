@@ -25,19 +25,23 @@
 
   <body class="site">
     {% include header.html %}
-    <main class="main">
-      {% if page.title == '404' %}
-        <div class="container container--404">
+    {% if page.title == '404' %}
+      <main class="main main--404">
+        <div class="container">
           {{ content }}
         </div>
-      {% elsif page.title != 'home' %}
-        <div class="container container--page">
-          {{ content }}
-        </div>
-      {% else %}
+      </main>
+    {% elsif page.title == 'home' %}
+      <main class="main main--home">
         {{ content }}
-      {% endif %}
-    </main>
+      </main>
+    {% else %}
+      <main class="main">
+        <div class="container">
+          {{ content }}
+        </div>
+      </main>
+    {% endif %}
     {% include footer.html %}
     {% include cookie-consent.html %}
   </body>

@@ -1,5 +1,14 @@
 .main {
   position: relative;
+  margin: $margin-to-content 0;
+
+  &--home {
+    margin-top: 0;
+  }
+
+  &--404 {
+    text-align: center;
+  }
 
   .container {
     max-width: 1000px;

@@ -2,7 +2,6 @@ $height-header: 120px;
 $height-mobile-header: 80px;
 
 .header {
-  margin-bottom: $margin-to-content;
   border-bottom: $border;
   background-color: $color-background;
   @include transition(margin-bottom);
