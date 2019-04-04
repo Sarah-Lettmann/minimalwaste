@@ -1,0 +1,13 @@
+::selection {
+  color: $color-light-base;
+  background-color: $color-selection;
+}
+
+::-moz-selection {
+  color: $color-light-base;
+  background-color: $color-selection;
+}
+
+:focus {
+  outline-color: $color-selection;
+}

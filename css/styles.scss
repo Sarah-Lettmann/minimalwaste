@@ -2,28 +2,29 @@
   # main stylesheet of the project
 ---
 
-@import "1-settings/settings.font";
-@import "1-settings/settings.color";
+@import "1-settings/settings.font.scss";
+@import "1-settings/settings.color.scss";
 @import "1-settings/settings.breakpoints.scss";
-@import "1-settings/settings.global";
+@import "1-settings/settings.global.scss";
 @import "1-settings/settings.fontawesome.scss";
 
-@import "2-tools/tools.mixins";
+@import "2-tools/tools.mixins.scss";
 @import "2-tools/tools.functions.scss";
 
-@import "3-generic/generic.reset";
-@import "3-generic/generic.box-sizing";
-@import "3-generic/generic.shared";
+@import "3-generic/generic.reset.scss";
+@import "3-generic/generic.box-sizing.scss";
+@import "3-generic/generic.shared.scss";
+@import "3-generic/generic.pseudo-classes.scss";
 
-@import "4-elements/elements.headings";
+@import "4-elements/elements.headings.scss";
 @import "4-elements/elements.navigations.scss";
-@import "4-elements/elements.hr";
-@import "4-elements/elements.forms";
-@import "4-elements/elements.links";
-@import "4-elements/elements.lists";
-@import "4-elements/elements.page";
-@import "4-elements/elements.quotes";
-@import "4-elements/elements.tables";
+@import "4-elements/elements.hr.scss";
+@import "4-elements/elements.forms.scss";
+@import "4-elements/elements.links.scss";
+@import "4-elements/elements.lists.scss";
+@import "4-elements/elements.page.scss";
+@import "4-elements/elements.quotes.scss";
+@import "4-elements/elements.tables.scss";
 @import "4-elements/elements.images.scss";
 @import "4-elements/elements.text.scss";
 @import "4-elements/elements.frames.scss";
