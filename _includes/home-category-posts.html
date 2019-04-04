@@ -11,7 +11,7 @@
       <p class="post__subtitle">{{ post.subtitle }}</p>
       <div class="post__meta">
         <span>veröffentlicht am <time datetime="{{ post.date }}">{{ post.date | date: "%d.%m.%Y" }}</time></span>
-        <span>von <a class="post__link" href="{{ site[post.author].more-page }}">{{ site[post.author].name }}</a></span>
+        <span>von <a class="post__link" href="{{ site[post.author].more-page }}" title="mehr über {{ site[post.author].name }}">{{ site[post.author].name }}</a></span>
       </div>
     </div>
   </article>
