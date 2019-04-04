@@ -34,7 +34,7 @@ Um neues Papier herzustellen (aus sogenannten Primärfasern) werden pro Kilogram
 3. 2,2 Kilogramm Holz
 
 ### Chemikalieneinsatz
-Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält 15g CSB (= Chemischer Sauerstoffbedarft, steht hier allgemein für die Menge an Schadstoffen).
+Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält 15g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr> (steht hier allgemein für die Menge an Schadstoffen).
 
 ### Bilanz
 Ein Papiertaschentuch wiegt im Schnitt 2,6g. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen Jahresverbrauch von 1460 Papiertaschentüchern voraus (4 Stück am Tag).
@@ -84,7 +84,7 @@ Was den Bedarf an Ressourchen angeht, ist Recyclingpapier wesentlich sparsamer. 
 3. 1,2 Kilogramm Altpapier
 
 ### Chemikalieneinsatz
-Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei 3g CSB (= Chemischer Sauerstoffbedarft, steht hier allgemein für die Menge an Schadstoffen).
+Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei 3g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>.
 
 ### Bilanz
 Auch hier gehen wir wieder von einem Papiertaschentuch aus, das 2,6g wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Die Bilanz zeigt dir die folgende Tabelle.
@@ -119,7 +119,7 @@ Auch hier gehen wir wieder von einem Papiertaschentuch aus, das 2,6g wiegt und e
 </div>
 
 ### Recyclingpapier erkennen
-Besonders bei Hygienepapieren sollte zu Recyclingpapier gegriffen werden, da diese nach nur einmaliger Verwendung weggeworfen werden. Außerdem spricht natürlich die Bilanz, die ich berechnet habe ganz klar für Recyclingpapier. Halte also am besten nach dem Siegel "Der blaue Engel" Ausschau.
+Besonders bei Hygienepapieren sollte zu Recyclingpapier gegriffen werden, da diese nach nur einmaliger Verwendung weggeworfen werden. Außerdem spricht natürlich die Bilanz, die ich berechnet habe ganz klar für Recyclingpapier. Halte also am besten nach dem Siegel _Blauer Engel_ Ausschau. Nur Papiere, die mit dem _Blauen Engel_ gekennzeichnet sind, sind wirklich ressourcenschonend. In der nächsten Grafik ist gezeigt, welche Kriterien erfüllt sein müssen, damit ein Produkt dieses Siegel erhalten kann.
 
 {% include figure.html src="/assets/inpost-images/2019/2019-04-05-blauer-engel-infografik.jpg" alt="Infografik zum Blauen Engel" caption="www.blauer-engel.de/de/news-infos/bilder-und-infografiken" %}
 

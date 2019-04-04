@@ -19,3 +19,8 @@ sup {
 mark {
   background-color: $color-accent;
 }
+
+abbr {
+  text-decoration: none;
+  border-bottom: 4px dotted $color-accent;
+}
