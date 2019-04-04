@@ -123,11 +123,87 @@ Besonders bei Hygienepapieren sollte zu Recyclingpapier gegriffen werden, da die
 
 {% include figure.html src="/assets/inpost-images/2019/2019-04-05-blauer-engel-infografik.jpg" alt="Infografik zum Blauen Engel" caption="www.blauer-engel.de/de/news-infos/bilder-und-infografiken" %}
 
-
-
 ## Baumwolle
+Baumwolle ist ein beliebter Stoff, nicht nur wenn es um Kleidung geht. Und warum auch nicht, sie ist vegan und biologisch Abbaubar. Dafür gibt es also schonmal Pluspunkte. Leider aber ist die Baumwolle an sich eigentlich eine ziemliche Umweltsünde. Das habe ich mir auch schon in meinem Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle) angeguckt. Den kannst du dir gerne mal durchlesen, falls du dich noch genauer mit dem Thema beschäftigen willst. Ich werden das hier recht kurz machen.
+
+### Auswirkungen auf die Umwelt und den Menschen
+Die Auswirkungen auf Mensch und Umwelt beim konventionellen Anbau von Baumwolle sind immens und verheerend. Ich weiß gar nicht wo ich anfangen soll.
+Durch den enormen Wasserverbrauch werden lokale Gewässer angezapft. Außerdem wird genetisch verändertes Saatgut verwendet, wodurch die Pflanzen nicht wiederstandsfähig sind, mit Pestiziden gespritzt werden müssen und diese natürlich in den Boden gelangen. Dadurch werden nicht nur die Farmer krank, sondern auch Menschen in den Regionen, wo die Baumwolle angebaut wird. Außerdem erfolgt der Anbau in Monokultur.
+
+### Transport und Lieferwege
+Baumwolle produziert enorm viel CO2 in der Herstellung und im Vertrieb. Ganze 1,8 Tonnen CO2 kommen auf 1 Tonne Baumwolle. Und das liegt zu einem sehr großen Teil an den langen Liefer- und Bransportwegen. Da Baumwolle ein bestimmtes Klima braucht wird diese nämlich in Ländern wie Indien, China oder den USA angebaut.
+
+### Wasser-, Energie- und Rohstoffbedarf
+Konventionell hergestellte Baumwolle braucht eine enorme Menge an Ressourcen. Für ein Kilogramm Baumwolle werden im Durchschnitt benötigt:
+1. 11.000 Liter Wasser
+2. 11,92 kWh Energie
+3. 1,8 Kilogramm CO2
+4. 1,1 Kilogramm Baumwolle
+
+### Chemikalieneinsatz
+Große Mengen an Pestiziden und Entlaubungsmitteln werden bei herkömmlicher Baumwolle eingesetzt und verbleiben zum Teil auch nachher noch im fertigen Stoff. Außerdem werden in der weiteren Verarbeitung nicht selten giftige Färbe- und Bleichmittel eingesetzt, die wir dann später direkt auf der Haut tragen. Das ist durchaus bedenklich.
+
+### Bilanz
+Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage. In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
+
+<div class="table">
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Verbrauch 1 Stofftaschentuch</th>
+        <th>Verbrauch pro Jahr pro Kopf</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Wasserbedarf</th>
+        <td>121 Liter</td>
+        <td>56,94 Liter</td>
+      </tr>
+      <tr>
+        <th>Energiebedarf</th>
+        <td>0,0052kWh</td>
+        <td>7,59kWh</td>
+      </tr>
+      <tr>
+        <th>CO2 Emissionen</th>
+        <td>0,0052kWh</td>
+        <td>7,59kWh</td>
+      </tr>
+      <tr>
+        <th>Rohstoffbedarf</th>
+        <td>0,00312kg</td>
+        <td>4,56kg</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Bio-Baumwolle
+Bio-Baumwolle schneidet da schon besser ab. Viele Umweltauswirkungen die es bei der koonventionellen Baumwolle gibt, fallen hier einfach Weg, weil sie natürlich angebaut wird.
+
+### Auswirkungen auf die Umwelt und den Menschen
+Bio-Baumwolle wird nicht in Monokultur angebaut, sondern es wird die Fruchtfolge beachtet. Außerdem werden Schädlinge natürlich bekämpft. Dadurch wird der Boden nicht verunreinigt und kann seine Nährstoffe regenerieren. Auch die Menschen profitieren davon, da sie nicht durch Pestizide vergiftet werden.
+
+### Transport und Lieferwege
+Bio-Baumwolle muss auch in warmen, feuchtigkeitsarmen Regionen angebaut werden. Aber oft achten Hersteller, die Bio-Baumwolle verwenden, darauf, dass diese aus Europa kommmt. Und die Transportwege von Spanien oder der Türkei hier her sind bei weiterm nicht so lang wie bei normaler Baumwolle im Durchschnitt.
+
+### Wasser-, Energie- und Rohstoffbedarf
+Gegenüber normaler Baumwolle ist Bio-Baumwolle viel sparsamer, was den Verbrauch von Ressourcen angeht. Für ein Kilogramm Bio-Baumwolle werden im Durchschnitt benötigt:
+1. 6.600 Liter Wasser
+2. 2kWh Energie
+3. 1,1 Kilogramm CO2
+4. 1,1 Kilogramm Baumwolle
+
+### Chemikalieneinsatz
+Es werden bei Bio-Baumwolle keine Pestizide verwendet und auch keine Enlaubungsmittel. Somit ist die Chemie alleine im Anbau schonmal stark reduziert.
+
+### Bilanz
+Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der herkömmlichen Baumwolle. In der nachfolgenden Tabelle findest du dann den Verbrauch für ein Stofftaschentuch in der Herstellung und über ein Jahr hinweg (inklusive Waschgänge).
+
+### Bio-Baumwolle erkennen
+Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle), da habe ich am Ende ein paar Infos reingepackt, worauf man bei Bio-Baumwolle achten sollte.
 
 ## Leinen
 
