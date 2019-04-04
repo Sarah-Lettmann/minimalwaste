@@ -19,7 +19,7 @@ layout: wrapper
         </h2>
         <p class="post__subtitle">{{ post.subtitle }}</p>
         <div class="post__meta">
-          <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
+          <span>veröffentlicht am <time datetime="{{ post.date }}">{{ post.date | date: "%d.%m.%Y" }}</time></span>
           <span>von <a class="post__link" href="{{ site[post.author].more-page }}">{{ site[post.author].name }}</a></span>
         </div>
       </div>

@@ -11,7 +11,7 @@
       <p class="post__subtitle">{{ post.subtitle }}</p>
       <p class="post__excerpt">{{ post.excerpt | strip_html }}</p>
       <div class="post__meta">
-        <span>veröffentlicht am {{ post.date | date: "%d.%m.%Y" }}</span>
+        <span>veröffentlicht am <time datetime="{{ post.date }}">{{ post.date | date: "%d.%m.%Y" }}</time></span>
         <span>von <a class="post__link" href="{{ site[post.author].more-page }}">{{ site[post.author].name }}</a></span>
         <span>in
           <a class="post__link" href="/category/{{ post.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie">{{ post.categories.first }}</a>
