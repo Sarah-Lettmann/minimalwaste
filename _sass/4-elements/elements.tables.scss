@@ -11,10 +11,10 @@ table {
     &:nth-child(odd) {
       background-color: $color-light-light-base;
     }
+  }
 
-    &:last-child {
-      border-bottom: none;
-    }
+  tbody tr:last-child {
+    border-bottom: none;
   }
 
   th {

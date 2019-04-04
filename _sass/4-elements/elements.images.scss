@@ -5,8 +5,13 @@ figure {
   height: auto;
 }
 
+figure img {
+  margin-bottom: 0;
+}
+
 figcaption {
   font-size: $font-size-base;
   color: $color-subtext;
   padding-top: 0.5*$padding-base;
+  text-align: center;
 }

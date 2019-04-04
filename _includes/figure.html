@@ -1,0 +1,7 @@
+{% comment %}
+  Einbinden mit {% include figure.html src="" alt="" caption="" %}
+{% endcomment %}
+<figure>
+  <img src="{{ include.src }}" alt="{{ include.alt }}" title="Quelle: {{ include.caption }}" width="960" height="640" />
+  <figcaption>Quelle: {{ include.caption }}</figcaption>
+</figure>
