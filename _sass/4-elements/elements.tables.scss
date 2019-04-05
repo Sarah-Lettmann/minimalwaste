@@ -8,9 +8,6 @@ table {
   tr {
     border-bottom: $border-table;
 
-    &:nth-child(odd) {
-      background-color: $color-light-light-base;
-    }
   }
 
   tbody tr:last-child {
@@ -19,8 +16,7 @@ table {
 
   th {
     text-align: left;
-    background-color: $color-dark-base;
-    color: $color-light-base;
+    background-color: $color-light-light-base;
     font-weight: normal;
   }
 

@@ -20,10 +20,9 @@
   top: $height-header;
   left: 0;
   right: 0;
-  border-top: 1px solid $color-dark-base;
-  border-bottom: 1px solid $color-dark-base;
-  color: $color-light-base;
-  background-color: $color-dark-base;
+  border-top: 1px solid $color-light-light-base;
+  border-bottom: 1px solid $color-light-light-base;
+  background-color: $color-light-light-base;
   text-align: center;
   @include latoFont;
   @include breakpoint(small) {
@@ -33,7 +32,6 @@
     display: flex;
     position: unset;
     border: none;
-    color: $color-text;
     background: none;
   }
 

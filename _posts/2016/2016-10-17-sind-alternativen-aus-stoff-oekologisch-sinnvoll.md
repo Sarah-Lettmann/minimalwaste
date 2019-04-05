@@ -51,9 +51,9 @@ und
       </th>
     </tr>
     <tr>
-      <td>
+      <th>
         Wasser
-      </td>
+      </th>
       <td>
         1,95 l
       </td>
@@ -62,9 +62,9 @@ und
       </td>
     </tr>
     <tr>
-      <td>
+      <th>
         Strom
-      </td>
+      </th>
       <td>
         0,0065 kWh
       </td>
@@ -125,9 +125,9 @@ und
       </th>
     </tr>
     <tr>
-      <td>
+      <th>
         Wasser
-      </td>
+      </th>
       <td>
         134,2 l
       </td>
@@ -139,9 +139,9 @@ und
       </td>
     </tr>
     <tr>
-      <td>
+      <th>
         Strom
-      </td>
+      </th>
       <td>
         0,145 kWh
       </td>
@@ -171,9 +171,9 @@ In der Herstellung verbraucht das aus Baumwolle gefertigte Stofftaschentuch also
       </th>
     </tr>
     <tr>
-      <td>
+      <th>
         Wasser
-      </td>
+      </th>
       <td>
         1,95 l
       </td>
@@ -182,9 +182,9 @@ In der Herstellung verbraucht das aus Baumwolle gefertigte Stofftaschentuch also
       </td>
     </tr>
     <tr>
-      <td>
+      <th>
         Strom
-      </td>
+      </th>
       <td>
         0,0065 kWh
       </td>
@@ -219,9 +219,9 @@ Aber darum geht es ja in erster Linie nicht. Ein Stofftaschentuch kann ja wesent
       </th>
     </tr>
     <tr>
-      <td>
+      <th>
         Wasser
-      </td>
+      </th>
       <td>
         1893 l
       </td>
@@ -239,9 +239,9 @@ Aber darum geht es ja in erster Linie nicht. Ein Stofftaschentuch kann ja wesent
       </td>
     </tr>
     <tr>
-      <td>
+      <th>
         Strom
-      </td>
+      </th>
       <td>
         2 kWh
       </td>
@@ -280,9 +280,9 @@ Aber darum geht es ja in erster Linie nicht. Ein Stofftaschentuch kann ja wesent
       </th>
     </tr>
     <tr>
-      <td>
+      <th>
         Wasser
-      </td>
+      </th>
       <td>
         1,95 l
       </td>
@@ -297,9 +297,9 @@ Aber darum geht es ja in erster Linie nicht. Ein Stofftaschentuch kann ja wesent
       </td>
     </tr>
     <tr>
-      <td>
+      <th>
         Strom
-      </td>
+      </th>
       <td>
         0,0065 kWh
       </td>
