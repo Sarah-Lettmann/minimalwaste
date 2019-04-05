@@ -10,34 +10,35 @@ image: "/assets/title-images/"
 author: sarah-lettmann
 affiliate: false
 ---
-Bei diesem Post handelt es sich um ein Reup eines Post, den ich bereits 2016 veröffentlicht habe. Darin ging es darum, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) hat allerdings ein paar Komponenten ausgelassen. Diese will ich noch in die Bilanz mit aufnehmen.
+Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) hat allerdings ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.
 
-Konkret geht es hierbei um Lieferwege und Transport sowohl des fertigen Produkts als auch der Rohstoffe. Außerdem geht es auch um die Rohstoffe selbst, die zur Fertigung benötigt werden. Energie und Wasservbrauch habe ich mir schon angeguckt, aber möchte das auch nochmal bezogen auf unterschiedliche Resourcen tun. Zudem wurde sich gewünscht, dass ich mir die Auswirkungen auf Wälder und Boden der verschiedenen Rohstoffe angucke.
+Konkret geht es hierbei um **Lieferwege und Transport** sowohl des fertigen Produkts als auch der Rohstoffe. Außerdem geht es auch um die **Rohstoffe** selbst, die zur Fertigung benötigt werden. **Energie und Wasservbrauch** habe ich mir schon angeguckt, aber möchte das auch nochmal bezogen auf unterschiedliche Resourcen tun. Interesseant sind außerdem die **CO2-Emissionen**. Zudem wurde sich gewünscht, dass ich mir die **Auswirkungen auf Wälder und Boden** der verschiedenen Rohstoffe angucke.
 
-Wir wollen uns fünf unterschiedliche Rohstoffe genauer angucken. Zum einen wird für das Fertigen von Papiertaschentüchern entweder Papier aus neuen Rohstoffen oder Recycling-Papier verwendet. Für Stofftaschentücher entweder herkömmliche Baumwolle, Bio-Baumwolle oder Leinen.
+Wir wollen uns fünf unterschiedliche Rohstoffe genauer angucken. Zum einen wird für das Fertigen von Papiertaschentüchern entweder **Papier** aus neuen Rohstoffen oder **Recyclingpapier** verwendet. Für Stofftaschentücher entweder herkömmliche **Baumwolle**, **Bio-Baumwolle** oder **Leinen**.
 
 ## Papier
-Papier ist der "Standard" wenn es um Hygieneprodukte wie Toilettenpapier und eben auch Taschentücher geht. Neues Papier wird in der Regel aus Holz gefertigt (95% davon). Dieses Holz stammt hier in Deutschland zum größten Teil aus Finnland und Schweden und zu kleineren Teilen aus Kanada und Brasilien wo Ur- und Regenwälder dafür abgeholzt werden. 248Kg Papier verbraucht jeder Deutsche im Jahr, 10% davon sind Hygienepapiere (also knapp 25kg).
+Papier ist der "Standard" wenn es um Hygieneprodukte wie Toilettenpapier und eben auch Taschentücher geht. Neues Papier wird in der Regel aus Holz gefertigt (95% davon). Dieses Holz stammt hier in Deutschland zum größten Teil **aus Finnland und Schweden** und zu kleineren Teilen aus Kanada und Brasilien wo Ur- und Regenwälder dafür abgeholzt werden. <mark>248Kg Papier verbraucht jeder Deutsche im Jahr, 10% davon sind Hygienepapiere (also knapp 25kg).</mark>
 
 ### Auswirkungen auf die Umwelt und den Menschen
-Besonders im Brasilianischen Regenwald wird viel Rodung betrieben, an der auch die Papierindustrie eine große Schuld trägt. Eukalyptusplantagen liefern die Faser, die zur Produktion von Papier verwendet werden und nimmt so wertvolle Fläche ein, auf der sonst Lebensmittel angebaut werden könnten. So wird an anderer Stelle wieder gerodet, um Platz dafür zu schaffen. Das Belastet die Menschen vorort, da die Plantagen auf der anderen Seite nur wenige Arbeitsplätze schaffen.
+Besonders im Brasilianischen Regenwald wird viel Rodung betrieben, an der auch die Papierindustrie eine große Schuld trägt. **Eukalyptusplantagen** liefern die Faser, die zur Produktion von Papier verwendet werden und nimmt so wertvolle Fläche ein, auf der sonst Lebensmittel angebaut werden könnten. So wird an anderer Stelle wieder **Wald gerodet**, um Platz dafür zu schaffen. Das Belastet die Menschen vorort, da die Plantagen auf der anderen Seite nur **wenige Arbeitsplätze** schaffen.
 
-Durch die Abholzung der Wälder werden zudem die Lebensräume der dort lebenden Tierarten bedroht. Und da es sich bei den Eukalyptusplantagen um Monokulturen handelt, werden die Pflanzen mit vielen Pestiziden gespritzt. Diese wiederum geraten ins Wasser und den Boden und belasten so die gesamte Region.
+Durch die Abholzung der Wälder werden zudem die Lebensräume der dort lebenden **Tierarten** bedroht. Und da es sich bei den Eukalyptusplantagen um Monokulturen handelt, werden die Pflanzen mit vielen **Pestiziden** gespritzt. Diese wiederum geraten ins Wasser und den Boden und belasten so die gesamte Region.
 
 ### Transport und Lieferwege
-Deutschland importiert 80% des Zellstoffest (davon ein sehr großer Teil Holz), der zur Papierherstellung benötigt wird. Da dieses wie schon erwähnt nicht nur aus der EU, sondern auch aus Amerika kommt, fallen teils enorme Lieferwege an.
+Deutschland importiert 80% des Zellstoffest (davon ein sehr großer Teil Holz), der zur Papierherstellung benötigt wird. Da dieses wie schon erwähnt nicht nur aus der EU, sondern auch aus Amerika kommt, fallen teils **enorme Lieferwege** an.
 
 ### Wasser-, Energie- und Rohstoffbedarf
-Um neues Papier herzustellen (aus sogenannten Primärfasern) werden pro Kilogramm benötigt:
-1. 50 Liter Wasser
+Um neues Papier herzustellen (aus sogenannten <abbr title="Fasern, die nur einmal oder erstmals zur Produktion eingesetzt werden.">Primärfasern</abbr>) werden pro Kilogramm benötigt:
+1. 50L Wasser
 2. 5kWh Energie
-3. 2,2 Kilogramm Holz
+3. 1,1kg CO2
+4. 2,2kg Holz
 
 ### Chemikalieneinsatz
-Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält 15g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr> (steht hier allgemein für die Menge an Schadstoffen).
+Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält **15g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>** (steht hier allgemein für die Menge an Schadstoffen).
 
 ### Bilanz
-Ein Papiertaschentuch wiegt im Schnitt 2,6g. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen Jahresverbrauch von 1460 Papiertaschentüchern voraus (4 Stück am Tag).
+Ein Papiertaschentuch wiegt im Schnitt **2,6g**, wobei aber **5,7g Holz** benötigt werden. Genau dafür berechnen wir jetzt wie viel Wasser, Energie und CO2 benötigt werden. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen **Jahresverbrauch von 1460 Papiertaschentüchern** voraus (4 Stück am Tag).
 
 <div class="table">
   <table>
@@ -51,43 +52,44 @@ Ein Papiertaschentuch wiegt im Schnitt 2,6g. Der Verbrauch für ein Taschentuch 
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>0,13 Liter</td>
-        <td>189,8 Liter</td>
+        <td>0,29L</td>
+        <td>416L</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,013kWh</td>
-        <td>18,98kWh</td>
+        <td>0,029kWh</td>
+        <td>41,61kWh</td>
       </tr>
       <tr>
-        <th>Rohstoffbedarf</th>
-        <td>0,00572kg</td>
-        <td>8,35kg</td>
+        <th>CO2 Emissionen</th>
+        <td>0,063kg</td>
+        <td>9,15kg</td>
       </tr>
     </tbody>
   </table>
 </div>
 
 ## Recyclingpapier
-Nicht nur neu hergestelltes Papier, sondern auch besonders Recyclingpapier kann und wird hier in Deutschland zu Herstellung von Hygienepapieren verwendet. Allgemein liegt der Anteil an Altpapier in Papierprodukten bei 75%. Altpapier kann dabei bis zu sechs Mal wieder verwendet werden. Danach wäre das Papier durch die wiederholte Verarbeitung und den immer steigenden Anteil von anderen Stoffen nicht mehr belastbar genug.
+Nicht nur neu hergestelltes Papier, sondern auch besonders Recyclingpapier kann und wird hier in Deutschland zu Herstellung von Hygienepapieren verwendet. <mark>Allgemein liegt der Anteil an Altpapier in Papierprodukten bei 75%.</mark> Altpapier kann dabei bis zu sechs Mal wieder verwendet werden. Danach wäre das Papier durch die wiederholte Verarbeitung und den immer steigenden Anteil von anderen Stoffen nicht mehr belastbar genug.
 
 ### Auswirkungen auf die Umwelt und den Menschen
-An den negativen Auswirkungen für Mensch, Tier und Umwelt ist Recyclingpapier natürlich auch indirekt mit beteiligt. Nichtsdestotrotz wird es aus bereits vorhandenen Rohstoffen hergestellt, weshalb die Schäden an der Umwelt, der Tierwelt und die Nachteile für den Menschen mit jeder Nutzung von Recyclingpapier weniger schwer wiegen.
+An den negativen Auswirkungen für Mensch, Tier und Umwelt ist Recyclingpapier natürlich auch **indirekt mit beteiligt**. Nichtsdestotrotz wird es aus bereits vorhandenen Rohstoffen hergestellt, weshalb die Schäden an der Umwelt, der Tierwelt und die Nachteile für den Menschen mit jeder Nutzung von Recyclingpapier weniger schwer wiegen.
 
 ### Transport und Lieferwege
-Zu den Transportwegen konnte ich leider ähnlich wie für Papier keine konkreten Zahlen finden. Ich kann aber annehmen, dass die Emissionen durch den Transport bei Rec<clingpapier wesentlich geringer sind als bei Papier aus Primärfasern. Das schließe ich daraus, dass Altpapier regional gesammelt und zumindest hier in Deutschland weiterverarbeitet wird (ich schätze es verhält sich hier ähnlich wie beim Altglasrecycling). Dadurch fallen nur recht kurze Wege an, wenn man das mit den Importen von Holz aus Brasilien oder auch Skandinavien vergleicht.
+Zu den Transportwegen konnte ich leider ähnlich wie für Papier keine konkreten Zahlen finden. Ich kann aber annehmen, dass die Emissionen durch den Transport bei Recyclingpapier wesentlich geringer sind, als bei Papier aus Primärfasern. Das schließe ich daraus, dass Altpapier **regional gesammelt** und zumindest hier **in Deutschland weiterverarbeitet** wird (ich schätze es verhält sich hier ähnlich wie beim Altglasrecycling). Dadurch fallen nur recht kurze Wege an, wenn man das mit den Importen von Holz aus Brasilien oder auch Skandinavien vergleicht.
 
 ### Wasser-, Energie- und Rohstoffbedarf
-Was den Bedarf an Ressourchen angeht, ist Recyclingpapier wesentlich sparsamer. Für ein Kilogramm Papier aus Secundärfasern (Altpapier) werden benötigt:
-1. 15 Liter Wasser
+Was den Bedarf an Ressourchen angeht, ist Recyclingpapier wesentlich sparsamer. Für ein Kilogramm Papier aus <abbr title="Recyclingstoff">Sekundärfasern</abbr> (Altpapier) werden benötigt:
+1. 15L Wasser
 2. 2kWh Energie
-3. 1,2 Kilogramm Altpapier
+3. 0,9kg CO2
+4. 1,2kg Altpapier
 
 ### Chemikalieneinsatz
-Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei 3g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>.
+Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei **3g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>**.
 
 ### Bilanz
-Auch hier gehen wir wieder von einem Papiertaschentuch aus, das 2,6g wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Die Bilanz zeigt dir die folgende Tabelle.
+Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Hier werden pro Taschentuch **3,12g Altpapier** benötigt. Die Bilanz zeigt dir die folgende Tabelle.
 
 <div class="table">
   <table>
@@ -101,37 +103,36 @@ Auch hier gehen wir wieder von einem Papiertaschentuch aus, das 2,6g wiegt und e
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>0,039 Liter</td>
-        <td>56,94 Liter</td>
+        <td>0,047 Liter</td>
+        <td>68,33 Liter</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,0052kWh</td>
-        <td>7,59kWh</td>
+        <td>0,0062kWh</td>
+        <td>9,11kWh</td>
       </tr>
       <tr>
-        <th>Rohstoffbedarf</th>
-        <td>0,00312kg</td>
-        <td>4,56kg</td>
+        <th>CO2 Emissionen</th>
+        <td>0,0028kg</td>
+        <td>4,1kg</td>
       </tr>
     </tbody>
   </table>
 </div>
 
 ### Recyclingpapier erkennen
-Besonders bei Hygienepapieren sollte zu Recyclingpapier gegriffen werden, da diese nach nur einmaliger Verwendung weggeworfen werden. Außerdem spricht natürlich die Bilanz, die ich berechnet habe ganz klar für Recyclingpapier. Halte also am besten nach dem Siegel _Blauer Engel_ Ausschau. Nur Papiere, die mit dem _Blauen Engel_ gekennzeichnet sind, sind wirklich ressourcenschonend. In der nächsten Grafik ist gezeigt, welche Kriterien erfüllt sein müssen, damit ein Produkt dieses Siegel erhalten kann.
+Besonders bei Hygienepapieren solltest du also zu Recyclingpapier greifen, da diese nach nur einmaliger Verwendung weggeworfen werden. Außerdem spricht natürlich die Bilanz, die ich berechnet habe, ganz klar für Recyclingpapier. Halte also am besten nach dem Siegel _Blauer Engel_ Ausschau. Nur Papiere, die mit dem _Blauen Engel_ gekennzeichnet sind, sind wirklich ressourcenschonend. In der nächsten Grafik ist gezeigt, welche Kriterien erfüllt sein müssen, damit ein Produkt dieses Siegel erhalten kann.
 
 {% include figure.html src="/assets/inpost-images/2019/2019-04-05-blauer-engel-infografik.jpg" alt="Infografik zum Blauen Engel" caption="www.blauer-engel.de/de/news-infos/bilder-und-infografiken" %}
 
 ## Baumwolle
-Baumwolle ist ein beliebter Stoff, nicht nur wenn es um Kleidung geht. Und warum auch nicht, sie ist vegan und biologisch Abbaubar. Dafür gibt es also schonmal Pluspunkte. Leider aber ist die Baumwolle an sich eigentlich eine ziemliche Umweltsünde. Das habe ich mir auch schon in meinem Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle) angeguckt. Den kannst du dir gerne mal durchlesen, falls du dich noch genauer mit dem Thema beschäftigen willst. Ich werden das hier recht kurz machen.
+Baumwolle ist ein beliebter Stoff, nicht nur wenn es um Kleidung geht. Und warum auch nicht, sie ist vegan und biologisch Abbaubar. Dafür gibt es also schonmal Pluspunkte. <mark>Leider aber ist die Baumwolle an sich eigentlich eine ziemliche Umweltsünde.</mark> Das habe ich mir auch schon in meinem Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle) angeguckt. Den kannst du dir gerne mal durchlesen, falls du dich noch genauer mit dem Thema beschäftigen willst. Ich werden das hier recht kurz machen.
 
 ### Auswirkungen auf die Umwelt und den Menschen
-Die Auswirkungen auf Mensch und Umwelt beim konventionellen Anbau von Baumwolle sind immens und verheerend. Ich weiß gar nicht wo ich anfangen soll.
-Durch den enormen Wasserverbrauch werden lokale Gewässer angezapft. Außerdem wird genetisch verändertes Saatgut verwendet, wodurch die Pflanzen nicht wiederstandsfähig sind, mit Pestiziden gespritzt werden müssen und diese natürlich in den Boden gelangen. Dadurch werden nicht nur die Farmer krank, sondern auch Menschen in den Regionen, wo die Baumwolle angebaut wird. Außerdem erfolgt der Anbau in Monokultur.
+Die Auswirkungen auf Mensch und Umwelt beim konventionellen Anbau von Baumwolle sind immens und verheerend. Durch den enormen Wasserverbrauch werden **lokale Gewässer angezapft**. Außerdem wird **genetisch verändertes Saatgut** verwendet, wodurch die Pflanzen nicht wiederstandsfähig sind, mit **Pestiziden** gespritzt werden müssen und diese natürlich in den Boden gelangen. Dadurch werden nicht nur die **Farmer krank**, sondern auch Menschen in den Regionen, wo die Baumwolle angebaut wird. Außerdem erfolgt der Anbau in **Monokultur** und auch Dinge wie **Kinderarbeit** sind leider keine Seltenheit.
 
 ### Transport und Lieferwege
-Baumwolle produziert enorm viel CO2 in der Herstellung und im Vertrieb. Ganze 1,8 Tonnen CO2 kommen auf 1 Tonne Baumwolle. Und das liegt zu einem sehr großen Teil an den langen Liefer- und Bransportwegen. Da Baumwolle ein bestimmtes Klima braucht wird diese nämlich in Ländern wie Indien, China oder den USA angebaut.
+Baumwolle produziert enorm viel CO2 in der Herstellung und im Vertrieb. Ganze **1,8 Tonnen CO2** kommen auf 1 Tonne Baumwolle. Und das liegt zu einem sehr großen Teil an den **langen Liefer- und Transportwegen**. Da Baumwolle ein bestimmtes Klima braucht, wird diese nämlich in Ländern wie Indien, China oder den USA angebaut.
 
 ### Wasser-, Energie- und Rohstoffbedarf
 Konventionell hergestellte Baumwolle braucht eine enorme Menge an Ressourcen. Für ein Kilogramm Baumwolle werden im Durchschnitt benötigt:
@@ -141,7 +142,7 @@ Konventionell hergestellte Baumwolle braucht eine enorme Menge an Ressourcen. F�
 4. 1,1 Kilogramm Baumwolle
 
 ### Chemikalieneinsatz
-Große Mengen an Pestiziden und Entlaubungsmitteln werden bei herkömmlicher Baumwolle eingesetzt und verbleiben zum Teil auch nachher noch im fertigen Stoff. Außerdem werden in der weiteren Verarbeitung nicht selten giftige Färbe- und Bleichmittel eingesetzt, die wir dann später direkt auf der Haut tragen. Das ist durchaus bedenklich.
+Große Mengen an **Pestiziden und Entlaubungsmitteln** werden bei herkömmlicher Baumwolle eingesetzt und verbleiben zum Teil auch nachher noch im fertigen Stoff. Außerdem werden in der weiteren Verarbeitung nicht selten **giftige Färbe- und Bleichmittel** eingesetzt, die wir dann später direkt auf der Haut tragen. Das ist durchaus bedenklich.
 
 ### Bilanz
 Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage. In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
@@ -216,3 +217,4 @@ Ich möchte dich mit diesem Post wirklich ermutigen mal etwas neues auszuprobier
 2. [Umweltbundesamt: Altpapier](https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/altpapier)
 3. [Umweltbundesamt: Papier - Wald und Klima schützen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/papier_-_wald_und_klima_schuetzen-reichart_1.pdf)
 4. [Der Blaue Engel](https://www.blauer-engel.de)
+5. [nachhaltig-sein.info: Wie die Zukunft der Wälder mit dem Papierverbrauch zusammenhängt](https://nachhaltig-sein.info/unternehmen-csr-nachhaltigkeit/zusammenhang-papierverbrauch-auswirkung-folgen-walder)
