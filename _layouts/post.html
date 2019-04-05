@@ -18,7 +18,10 @@ layout: wrapper
             </span>
           {% endif %}
         </div>
-        <img class="post__cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="960" height="640" />
+        <picture>
+          <source srcset="{{ page.image | remove: '.jpg' }}-mobile.jpg" media="(max-width: 540px)">
+          <img class="post__cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
+        </picture>
     </header>
     <div class="post__body content">
         {{ content }}

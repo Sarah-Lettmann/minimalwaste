@@ -2,7 +2,10 @@
 {% for post in site.categories[include.category] limit:3 %}
   <article class="post post--category" aria-label="{{ post.title }}">
     <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
-      <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" width="960" height="640" />
+      <picture>
+        <source srcset="{{ post.image | remove: '.jpg' }}-mobile.jpg" media="(max-width: 540px)">
+        <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" />
+      </picture>
     </a>
     <div class="post__text">
       <h2 class="post__title">
