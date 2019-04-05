@@ -5,6 +5,6 @@ a {
   @include transition(color);
 
   @include attention() {
-    color: $color-accent-hover;
+    color: $color-accent;
   }
 }

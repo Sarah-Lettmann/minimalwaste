@@ -23,4 +23,8 @@ mark {
 abbr {
   text-decoration: none;
   border-bottom: 4px dotted $color-accent;
+  @include attention() {
+    color: $color-accent;
+  }
+  @include transition(color);
 }

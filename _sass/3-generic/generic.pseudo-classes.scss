@@ -1,11 +1,32 @@
+
+/* marking text */
 ::selection {
-  background-color: $color-selection;
+  background-color: $color-accent;
 }
 
 ::-moz-selection {
-  background-color: $color-selection;
+  background-color: $color-accent;
 }
 
+/* outline */
 :focus {
-  outline-color: $color-selection;
+  outline-color: $color-accent;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background: $color-light-light-base;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $color-accent;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $color-accent-light;
 }
