@@ -1,0 +1,224 @@
+- name: "Avocadostore"
+  url: https://www.avocadostore.de
+  products: "Haushalt, Kleidung, Lebensmittel"
+  located: "Deutschland"
+
+- name: "BagMeFrankfurt"
+  url: https://www.etsy.com/de/shop/BagMeFrankfurt?ref=ss_profile
+  products: "Einkaufstaschen, Taschen und Tüten"
+  located: "Deutschland"
+
+- name: "baumfrei"
+  url: http://www.baumfrei.de/
+  products: "Alles aus Bambus"
+  located: "Deutschland"
+
+- name: "beechange"
+  url: http://www.beechange.com
+  products: "Haushalt, Kosmetik"
+  located: "Österreich"
+
+- name: "Brush with Bamboo"
+  url: https://www.brushwithbamboo.com/shop/
+  products: "Zahnbürsten, Strohhalme"
+  located: "USA"
+
+- name: "CleanFacedCosmetics"
+  url: https://www.etsy.com/de/shop/CleanFacedCosmetics
+  products: "Makeup"
+  located: "USA"
+
+- name: "Coconut Bowls"
+  url: https://eu.coconutbowls.com
+  products: "Schalen aus Kokosnuss"
+  located: "Vietnam, Indonesien"
+
+- name: "Creamy Stuff"
+  url: http://www.creamy-stuff.ch
+  products: "Kosmetik, teilweise unverpackt"
+  located: "Schweiz"
+
+- name: "DivaCup"
+  url: http://divacup.com
+  products: "Menstruationstassen"
+  located: "USA"
+
+- name: "Dr. Bronners"
+  url: https://shop.drbronner.com/
+  products: "Seife"
+  located: "USA"
+
+- name: "EDEL KRAUT"
+  url: https://www.edel-kraut.de
+  products: "Tee und Gewürze im Glas"
+  located: "Deutschland"
+
+- name: "Elate Cosmetics"
+  url: https://elatebeauty.com
+  products: "Makeup"
+  located: "USA"
+
+- name: "ermellino"
+  url: https://www.ermellino.at
+  products: "Haushalt"
+  located: "Österreich"
+
+- name: "etsy"
+  url: https://www.etsy.com
+  products: "Haushalt, Schmuck, Vintage, oft handgemacht bei kleinen Anbietern"
+  located: "weltweit"
+
+- name: "georganics"
+  url: https://georganics.co.uk
+  products: "Mundpflege"
+  located: "UK"
+
+- name: "greenhall"
+  url: https://www.greenhall.de
+  products: "Haushalt, Kosmetik, Kinder, Outdoor"
+  located: "Deutschland"
+
+- name: "Green Living"
+  url: http://www.greenliving-shop.de
+  products: "Möbel"
+  located: "Deutschland"
+
+- name: "Grüne Erde"
+  url: https://www.grueneerde.com
+  products: "Möbel, Heimtextilien"
+  located: "Österreich"
+
+- name: "Hydrophil"
+  url: http://www.hydrophil.com
+  products: "Zahnpflege, Kosmetik"
+  located: "Deutschland"
+
+- name: "Kulmine"
+  url: http://www.kulmine.de
+  products: "Binden, Menstruationstassen, Taschentücher"
+  located: "Deutschland"
+
+- name: "LadyCup"
+  url: https://www.ladycup.de
+  products: "Menstruationstassen"
+  located: "Deutschland"
+
+- name: "Laguna"
+  url: https://laguna-onlineshop.de
+  products: "Haushalt"
+  located: "Deutschland"
+
+- name: "Lamazuna"
+  url: http://www.lamazuna.de
+  products: "Kosmetik"
+  located: "Deutschland"
+
+- name: "Life without Plastic"
+  url: https://www.lifewithoutplastic.com/store
+  products: "Haushalt, Kosmetik"
+  located: "Kanada"
+
+- name: "LunaBeautyUK"
+  url: https://www.etsy.com/de/shop/Lunazerowaste
+  products: "Makeup"
+  located: "UK"
+
+- name: "Lunette"
+  url: https://www.lunette.com
+  products: "Menstruationstassen"
+  located: "Finnland"
+
+- name: "Me Luna"
+  url: https://www.me-luna.eu/
+  products: "Menstruationstassen"
+  located: "Deutschland"
+
+- name: "monomeer"
+  url: http://www.monomeer.de
+  products: "Haushalt, Kosmetik, Büro"
+  located: "Deutschland"
+
+- name: "naturlieferant"
+  url: https://naturlieferant.de
+  products: "Haushalt"
+  located: "Deutschland"
+
+- name: "OHNE"
+  url: http://www.shop-ohne.de
+  products: "Haushalt, Kosmetik"
+  located: "Deutschland"
+
+- name: "Original Unverpackt"
+  url: https://shop.original-unverpackt.de
+  products: "Haushalt, Kosmetik"
+  located: "Deutschland"
+
+- name: "plasno"
+  url: http://www.plasno.de
+  products: "Haushalt, Büro, Taschen"
+  located: "Deutschland"
+
+- name: "Plastacarian"
+  url: https://www.einfach-ohne-plastik.at/shop
+  products: "Haushalt, Kosmetik"
+  located: "Österreich"
+
+- name: "pureandggreen"
+  url: https://www.pureandgreen.at
+  products: "Haushalt"
+  located: "Österreich"
+
+- name: "Rosenrot"
+  url: https://www.bioseifen.com
+  products: "Seifen, Shampoos, Kosmetika"
+  located: "Deutschland"
+
+- name: "Ruby Cup"
+  url: http://rubycup.com
+  products: "Menstruationstassen"
+  located: "UK"
+
+- name: "Savion"
+  url: https://www.savion.de
+  products: "Seifen"
+  located: "Deutschland"
+
+- name: "Smooth Panda"
+  url: https://www.smoothpanda.de
+  products: "Klopapier, Taschentücher"
+  located: "Deutschland"
+
+- name: "soulbottles"
+  url: https://www.soulbottles.de
+  products: "Glasflaschen"
+  located: "Deutschland"
+
+- name: "Steffis Hexenküche"
+  url: https://www.steffis-hexenkueche.com
+  products: "Seifen"
+  located: "Deutschland"
+
+- name: "tiny yellow bungalow"
+  url: https://www.tinyyellowbungalow.com
+  products: "Haushalt, Kosmetik, Vintage"
+  located: "USA"
+
+- name: "Villa Lavanda"
+  url: https://de.dawanda.com/shop/villalavanda
+  products: "Haushalt, Kosmetik"
+  located: "Deutschland"
+
+- name: "Waschbär"
+  url: https://www.waschbaer.at/shop
+  products: "Haushalt"
+  located: "Deutschland"
+
+- name: "Yuuki"
+  url: http://www.menstruationstasse.de
+  products: "Menstruationstassen"
+  located: "Deutschland"
+
+- name: "Zero Waste Laden"
+  url: https://zerowasteladen.de
+  products: "Haushalt, Kosmetik, Büro"
+  located: "Deutschland"

@@ -123,7 +123,7 @@ Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt u
 ### Recyclingpapier erkennen
 Besonders bei Hygienepapieren solltest du also zu Recyclingpapier greifen, da diese nach nur einmaliger Verwendung weggeworfen werden. Außerdem spricht natürlich die Bilanz, die ich berechnet habe, ganz klar für Recyclingpapier. Halte also am besten nach dem Siegel _Blauer Engel_ Ausschau. Nur Papiere, die mit dem _Blauen Engel_ gekennzeichnet sind, sind wirklich ressourcenschonend. In der nächsten Grafik ist gezeigt, welche Kriterien erfüllt sein müssen, damit ein Produkt dieses Siegel erhalten kann.
 
-{% include figure.html src="/assets/inpost-images/2019/2019-04-05-blauer-engel-infografik.jpg" alt="Infografik zum Blauen Engel" caption="www.blauer-engel.de/de/news-infos/bilder-und-infografiken" %}
+{% include figure.html src="/assets/inpost-images/2019/2019-04-05-blauer-engel-infografik.jpg" alt="Infografik zum Blauen Engel" title="Quelle: www.blauer-engel.de" caption="Quelle: www.blauer-engel.de" %}
 
 ## Baumwolle
 Baumwolle ist ein beliebter Stoff, nicht nur wenn es um Kleidung geht. Und warum auch nicht, sie ist vegan und biologisch Abbaubar. Dafür gibt es also schonmal Pluspunkte. <mark>Leider aber ist die Baumwolle an sich eigentlich eine ziemliche Umweltsünde.</mark> Das habe ich mir auch schon in meinem Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle) angeguckt. Den kannst du dir gerne mal durchlesen, falls du dich noch genauer mit dem Thema beschäftigen willst. Ich werden das hier recht kurz machen.
