@@ -84,7 +84,7 @@ Was ich über Stofftaschentücher heraus gefunden habe, ist leider nicht so viel
 - Für 1 kg Leinen oder Hanf hingegen werden durchschnittlich nur 2.500 l Wasser verbraucht (was finde ich immer noch ziemlich viel ist).
 - Ebenso wird zur Herstellung von 1 kg Baumwolle 42,9 MJ ( = 11,92 kWh) Energie benötigt (1 kWh = 3,6 MJ).
 
-![Stofftaschentuch auf der Waage](/assets/inpost-images/2016/2016-10-17-stofftaschentuch-auf-waage.png "© {{ site.title }}")
+![Stofftaschentuch auf der Waage](/assets/inpost-images/2016/2016-10-17-stofftaschentuch-auf-waagejpg "© {{ site.title }}")
 
 Verbrauch eines Stofftaschentuchs aus Baumwolle in der Herstellung:
 Für ein 11 g Stofftaschentuch werden also ca. 12,2 g (0,012 kg) Baumwolle gebraucht:  

@@ -10,7 +10,7 @@ image: "/assets/title-images/2017/2017-01-12-minimalistisch-leben.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
-Minimalistisch leben hat so viele Vorteile, dass ich gar nicht recht weiß wo ich anfangen soll. Minimalismus wirkt sich auf so viele Aspekte des Lebens aus. Dabei geht es nicht nur um Einfachheit, sondern vor allem auch um Zufriedenheit und klare Vorstellungen.<!--more-->
+Minimalistisch leben hat so viele Vorteile, dass ich gar nicht recht weiß wo ich anfangen soll. Minimalismus wirkt sich auf so viele Aspekte des Lebens aus. Dabei geht es nicht nur um Einfachheit, sondern vor allem auch um Zufriedenheit und klare Vorstellungen.
 
 Die Vorteile oder Veränderungen, die ich hier niedergeschrieben habe, habe ich, jetzt nach über einem Jahr, alle bei mir selbst bemerkt und war beim Schreiben immer wieder überrascht, wie viel mir zu dem Thema einfällt.
 
@@ -36,7 +36,7 @@ Die Vorteile oder Veränderungen, die ich hier niedergeschrieben habe, habe ich,
 
   * **Geld wird nebensächlich:** Du kaufst nur ab und zu mal was. Wenn was kaputt geht oder wirklich was fehlt. Aber dein Bedürfnis Prestige anzuhäufen ist verflogen. Das spürt auch dein Geldbeutel und das macht den Weg frei für wirklich große und wichtige Träume.
 
-  * **Ästhetik macht sich breit:** All die Jahre hast du versucht einen bestimmten Stil zu erreichen. Doch Deko brachte dich nicht weiter. Jetzt mit weniger Dingen merkst du: Weniger ist mehr &#8211; und ästhetisch ansprechender.
+  * **Ästhetik macht sich breit:** All die Jahre hast du versucht einen bestimmten Stil zu erreichen. Doch Deko brachte dich nicht weiter. Jetzt mit weniger Dingen merkst du: Weniger ist mehr und ästhetisch ansprechender.
 
   * **Eleganz in der Einfachheit:** Schon immer hast du die Frauen und Männer bewundert, die diesen ganz besonderen Kleidungsstil tragen. Einfache Farben, schlichte Schnitte, alles passt perfekt zusammen. Mit einem minimalistischen Kleiderschrank in neutralen Farben ist das plötzlich kein Zauberkunststück mehr.
 

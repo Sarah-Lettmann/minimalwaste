@@ -26,7 +26,7 @@ Hier also ein paar Fragen, die du dir stellen solltest, um die richtige Handtasc
   * Was ist für mich bequem, was ist eher unhandlich und stört mich?
 
 ## Wie sieht meine minimalistische Handtasche denn nun aus?
-Also, weiter im Text. Ich habe einen Rucksack und eine kleine Handtasche. Den Rucksack nehme ich immer mit, wenn ich eine längere Strecke mit dem Zug zurücklegen muss, zu meinen Eltern fahre, verreise, auf die Arbeit gehe oder in die Uni. Denn dann habe ich meistens eine Wasserflasche und etwas zu essen dabei. Auf jeden Fall aber mein Notebook. Das alles muss natürlich untergebracht werden - deshalb der Rucksack. Wenn das alles in einer großen Handtasche platziert wäre, würde mir das schnell auf die Schultern gehen und ich mag es lieber komfortabel :).
+Also, weiter im Text. Ich habe einen Rucksack und eine kleine Handtasche. Den Rucksack nehme ich immer mit, wenn ich eine längere Strecke mit dem Zug zurücklegen muss, zu meinen Eltern fahre, verreise, auf die Arbeit gehe oder in die Uni. Denn dann habe ich meistens eine Wasserflasche und etwas zu essen dabei. Auf jeden Fall aber mein Notebook. Das alles muss natürlich untergebracht werden - deshalb der Rucksack. Wenn das alles in einer großen Handtasche platziert wäre, würde mir das schnell auf die Schultern gehen und ich mag es lieber komfortabel.
 
 Bei meiner Handtasche hingegen habe ich mich für ein sehr kleines Modell entschieden. Dort passt alles wichtige rein: Portmonee, Handy, Taschentuch, Stofftasche, Kopfhörer, Schlüssel. Dadurch ist sie sehr sehr leicht, ich habe volle Bewegungsfreiheit und kann sie auch zum Tanzen mitnehmen. Außerdem ist sie natürlich schwarz und dadurch sehr elegant und ein echter allrounder.
 

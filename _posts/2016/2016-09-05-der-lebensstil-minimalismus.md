@@ -43,3 +43,15 @@ Wenn man erst einmal an dem Punkt angelangt ist, an dem das Leben dann schließl
 Also gilt es alte Interessen und Hobbys wieder aufleben zu lassen oder sich neue zu suchen. Was wolltest du schon immer mal Lernen? Welchen Sport wolltest du schon immer mal ausprobieren? Welches Musikinstrument hat dich schon immer fasziniert? Was kannst du gut und machst du vielleicht auch gerne? Neu entdeckte Interessen oder Wünsche könnten dich auch deinen derzeitigen Beruf hinterfragen lassen. Wirf nicht die Vernunft über Bord, aber lass diese Gedanken zu und finde heraus wo sie dich hin führen. Ich selbst habe vor kurzem das Bloggen für mich entdeckt.
 
 Ich hoffe ich konnte dich ein bisschen für Minimalismus begeistern oder vielleicht einfach nur aufklären, worum es bei diesem Lebensstil wirklich geht. Nämlich nicht um möglichst wenig Besitz, nur noch aus dem Rucksack leben oder auf dem Boden zu schlafen. Es geht nicht um "Project 333" oder die "100-Things-Challenge". Es geht einfach nur um dich.
+
+&nbsp;
+
+Ich hoffe dieser Post hat dir gefallen und du kannst dir jetzt ein besseres Bild vom Minimalismus machen. Wenn du dich für das Thema interessierst, will ich dir diese Beiträge ans Herz legen:
+
+1. [Meine minimalistische Handtasche](meine-minimalistische-handtasche)
+2. [Wieso du wieder in die Bibliothek gehen solltest](wieso-du-wieder-in-die-bibliothek-gehen-solltest)
+3. [Von Minimalismus und Ästhetik](minimalismus-und-aesthetik)
+
+Ich freue mich schon, dich in Zukunft wieder hier zu sehen. Bis zum nächsten Mal.
+
+\- Sarah

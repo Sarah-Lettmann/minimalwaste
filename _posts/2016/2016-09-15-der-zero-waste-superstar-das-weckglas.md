@@ -26,7 +26,7 @@ Für den geneigten ZeroWaster stellt sich irgendwann immer die Frage, ob man nic
 
 Weckgläser können für alles mögliche verwendet werden, das mit der Lagerung von Lebensmittel zu tun hat. Wir schneiden beispielsweise immer das Obst für das allmorgendliche Müsli vor. Zu Anfang habe ich probiert alles in einer großen Schale unterzubringen. Allerdings war das Obst dann schnell matschig und hat nicht mehr so gut geschmeckt. In Weckgläsern im Kühlschrank hält es sich hingegen mindestens fünf Tage, da jedes Glas für einen Tag herhält und an das restliche Obst so nicht immer wieder Luft kommt. Und sollte ich morgens mal schwer aus dem Bett kommen (was durchaus mal passieren kann) nehme ich auch mal das gesamte Müsli in so einem Glas mit auf die Arbeit.
 
-![Ein Akkuladegerät](/assets/inpost-images/2016/2016-09-15-weckglas-aufbewahrung.png "© {{ site.title }}")
+![Ein Akkuladegerät](/assets/inpost-images/2016/2016-09-15-weckglas-aufbewahrungjpg "© {{ site.title }}")
 
 Natürlich kann man auch Speisereste jeglicher Art wunderbar in einem Weckglas im Kühlschrank lagern. Da wir welche mit 580ml Fassungsvermögen haben, entspricht das immer ziemlich genau einer Portion. Das Essen kann man dann wirklich schnell warm machen indem man es in einem Topf gibt, in den Backofen oder die Mikrowelle stellt. Oder du machst es wie wir und kochst vor und gibst dann gleich alles zur Lagerung in die Weckgläser.
 

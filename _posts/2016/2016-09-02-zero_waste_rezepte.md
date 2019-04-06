@@ -61,6 +61,18 @@ Dieses Waschmittel verwenden wir jetzt schon einige Zeit. Die Kernseife muss zue
 
 &nbsp;
 
+Falls du dich weiter über Zero Waste Alternativen informieren will, guck mal hier:
+
+1. [Zero Waste Superlativ: Waschmittel aus Kastanien](zero-waste-superlativ-waschmittel-aus-kastanien)
+2. [25+ Nachhaltige Produkte für weniger Müll](nachhaltige-produkte-zur-muellreduzierung)
+3. [Menstruationstasse vs Tampon](menstruationstasse-vs-tampon)
+
+Vielleicht findest du ja was, das du noch nicht kanntest und in Zukunft verwenden willst. Lass es mich gerne wissen. Bis dahin,
+
+\- Sarah
+
+&nbsp;
+
 ### Hier findest du weitere Infos:
 1. [Wikipedia: 2-Propanol](https://de.wikipedia.org/wiki/2-Propanol#Chemische_Eigenschaften_.28Sicherheit.29)
 2. [Wikipedia: Ätherische Öle](https://de.wikipedia.org/wiki/%C3%84therische_%C3%96le#Verwendung)

@@ -148,8 +148,17 @@ Herkömmliche Zahnseide kommt in einer Plastikverpackung und besteht meist aus N
 
 Natürlich sind viele Dinge auch bei Amazon oder ähnlichen Anbietern erhältlich. Mit dem Einkauf in den oben genannten Shops unterstützt du aber nachhaltige Wirtschaftskonzepte und erhältst deine Ware in vielen Fällen ohne Plastik.
 
-Fällt dir noch etwas ein, was unbedingt auf die Liste sollte? Lass es mich wissen und ich füge es gerne hinzu :).
+Fällt dir noch etwas ein, was unbedingt auf die Liste sollte? Lass es mich wissen und ich füge es gerne hinzu. Wenn du dich für weitere Alternativen interessierst, kann ich dir diese Beiträge ans Herz legen:
 
+1. [Kaffee und Tee ohne Müll](zero-waste-kaffee-und-tee-ohne-muell)
+2. [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll)
+3. [Plastikfrei einkaufen - Alle Onlineshops die du kennen solltest](plastikfrei-einkaufen-alle-onlineshops)
+
+Bis zum nächsten Mal,
+
+\- Sarah
+
+&nbsp;
 
 ### Weitere Infos:
 1. [Lush: Wir glitzern ganz ohne Plastik](http://www.lush-shop.de/artikel-wir-glitzern-ganz-ohne-plastik.809.0.html?sid=kibu7m49p4pc34737lmhk7m0n7)
