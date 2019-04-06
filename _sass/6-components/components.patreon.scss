@@ -1,5 +1,5 @@
-$width-patreon-image: 80px;
-$height-patreon-image: 76px;
+$width-patreon-image: 52px;
+$height-patreon-image: 52px;
 $patreon-color: #e85b46;
 
 .patreon {
@@ -30,15 +30,14 @@ $patreon-color: #e85b46;
     height: $height-patreon-image;
     margin-bottom: 0;
     @include breakpoint(small) {
-      width: 0.5*$width-patreon-image;
-      height: 0.5*$height-patreon-image;
+      width: $width-patreon-image;
+      height: $height-patreon-image;
       margin-bottom: 0.5*$margin-base;
     }
   }
 
   &__content {
     margin-left: $margin-base;
-    @include latoFont();
     @include breakpoint(small) {
       margin-left: 0;
     }

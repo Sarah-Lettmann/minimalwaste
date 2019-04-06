@@ -6,9 +6,6 @@
   padding: $padding-base;
   @include breakpoint(small) {
     flex-direction: column;
-    align-items: flex-start;
-  }
-  @include breakpoint(xsmall) {
     text-align: center;
     align-items: center;
   }
