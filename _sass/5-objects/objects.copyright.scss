@@ -10,6 +10,9 @@
 
   a {
     color: inherit;
-    text-decoration: underline;
+    border-bottom: $link-decoration;
+    @include attention() {
+      color: $color-accent;
+    }
   }
 }

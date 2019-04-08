@@ -15,6 +15,9 @@
   &__meta {
     font-size: $font-size-base;
     @include latoFont;
+    @include attention() {
+      color: unset;
+    }
   }
 
   &__link {

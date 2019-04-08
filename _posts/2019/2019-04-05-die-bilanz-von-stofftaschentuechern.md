@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Die Bilanz von Stofftaschen&shy;tüchern im Vergleich"
-subtitle: ""
+subtitle: "So ökologisch sind die Alternativen aus Stoff"
 date: 2019-03-15
 categories: [Zero Waste]
 description: "Wie sieht die Öko Bilanz von Stofftaschentüchern gegenüber herkömmlichen Papiertaschentüchern aus. Ich habe es durchgerechnet."
 keywords: [Bilanz von Stofftaschentüchern, Stofftaschentücher]
-image: "/assets/title-images/"
+image: "/assets/title-images/2019/2019-04-05-die-bilanz-von-stofftaschentuechern.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
