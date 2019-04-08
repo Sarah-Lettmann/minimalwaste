@@ -1,5 +1,17 @@
 - name: Flixbus
   url: http://partners.webmasterplan.com/click.asp?ref=856236&site=10953&type=text&tnb=3
 
-- name: Waschbär
-  url: x
+- name: Waschbär Kaffeefilter
+  url: https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fkaffee-dauerfilter-21904
+
+- name: Waschbär Trinkhalme Trinkglas
+  url: https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Ftrinkhalme-aus-glas-4er-set-31593
+
+- name: Waschbär Silikon Backmatten
+  url: https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fsilikon-teigauswell-backmatte-23860
+
+- name: Waschbär Akkus AA
+  url: https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fakku-nimh-aa-mignon-31909
+
+- name: Waschbär Bees wrap
+  url: https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fbees-wrap-3er-set-42404%3FF%3D00
