@@ -1,14 +1,6 @@
 .home.category {
   border-top: $border;
 
-  .category__title {
-    font-size: 1rem;
-    font-weight: 700;
-    @include latoFont();
-    text-transform: uppercase;
-    word-spacing: 0.2rem;
-  }
-
   .category__posts {
     @extend .category__posts;
   }

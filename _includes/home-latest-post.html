@@ -1,5 +1,6 @@
 <section class="home latest-post">
   {% assign post = site.posts.first %}
+  <h2 class="latest-post__title">Neuster Beitrag</h2>
   <article class="post" aria-label="{{ post.title }}">
     <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
       <picture>
@@ -8,9 +9,9 @@
       </picture>
     </a>
     <div class="post__text">
-      <h2 class="post__title">
+      <h3 class="post__title">
         <a href="{{ post.url }}" title="zum Post {{ post.title }}">{{ post.title }}</a>
-      </h2>
+      </h3>
       <p class="post__subtitle">{{ post.subtitle }}</p>
       <p class="post__excerpt">{{ post.excerpt | strip_html }}</p>
       <div class="post__meta">

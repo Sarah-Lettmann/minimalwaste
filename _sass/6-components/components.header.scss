@@ -5,9 +5,6 @@ $height-mobile-header: 80px;
   border-bottom: $border;
   background-color: $color-background;
   @include transition(margin-bottom);
-  @include breakpoint(small) {
-    margin-bottom: 0.5*$margin-to-content;
-  }
 
   > .container {
     display: flex;

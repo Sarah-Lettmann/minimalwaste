@@ -2,9 +2,6 @@
   position: relative;
   background: url("/assets/content/muell.jpg");
   background-size: cover;
-  @include breakpoint(small) {
-    top: -0.5*$margin-to-content;
-  }
 
   &::before {
     content: '';
