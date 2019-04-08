@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Bilanz von Stofftaschentüchern im Vergleich"
+title: "Die Bilanz von Stofftaschen&shy;tüchern im Vergleich"
 subtitle: ""
 date: 2019-03-15
 categories: [Zero Waste]
