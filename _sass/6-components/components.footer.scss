@@ -1,9 +1,6 @@
-$background-color-footer: $color-dark-base;
-$color-footer: $color-light-base;
-
 .footer {
-  background-color: $background-color-footer;
-  color: $color-footer;
+  color: $color-dark-base;
+  border-top: $border;
   overflow: hidden;
 
   .container {

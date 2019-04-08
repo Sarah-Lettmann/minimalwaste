@@ -9,4 +9,13 @@
   .menu__item {
     margin: 0 0.5*$margin-base;
   }
+
+  .menu__link {
+    border-bottom: 2px solid $color-light-base;
+    @include transition(border-color);
+    @include attention() {
+      color: unset;
+      border-bottom: $link-decoration;
+    }
+  }
 }

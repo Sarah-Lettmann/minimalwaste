@@ -7,22 +7,18 @@
           <a class="social__icon fab fa-instagram" href="{{ site.instagram-link }}" alt="" title="MinimalWaste Instagram"></a>
           <a class="social__icon fab fa-pinterest" href="{{ site.pinterest-link }}" alt="" title="MinimalWaste auf Pinterest"></a>
           <a class="social__icon fab fa-patreon" href="{{ site.patreon-link }}" alt="" title="unterstütze MinimalWaste auf Patreon"></a>
-          <a class="social__icon far fa-envelope" href="mailto:{{ site.email-website }}" alt="" title="schreibe eine Email an MinimalWaste"></a>
-          <a class="social__icon fas fa-rss-square" href="{{ site.url }}/feed.xml" alt="" title="RSS-Feed von MinimalWaste"></a>
+          <a class="social__icon fas fa-envelope" href="mailto:{{ site.email-website }}" alt="" title="schreibe eine Email an MinimalWaste"></a>
+          <a class="social__icon fas fa-rss" href="{{ site.url }}/feed.xml" alt="" title="RSS-Feed von MinimalWaste"></a>
         </div>
 
         <!-- footer navigation -->
         <nav class="navigation">
           <ul class="menu menu--footer">
-            <li class="menu__item" aria-labelledby="menu__link-1">
-              <a id="menu__link-1" class="menu__link" href="/sitemap.xml" title="zur Sitemap">Sitemap</a>
-            </li>
-            <li class="menu__item" aria-labelledby="menu__link-2">
-              <a id="menu__link-2" class="menu__link" href="/pages/impressum.html" title="zum Impressum">Impressum</a>
-            </li>
-            <li class="menu__item" aria-labelledby="menu__link-3">
-              <a id="menu__link-3" class="menu__link" href="/pages/datenschutz.html" title="zu den Datenschutzrichtlinien">Datenschutzerklärung</a>
-            </li>
+            {% for menu-item in site.data.footer-menu %}
+              <li class="menu__item" aria-label="{{ menu-item.name }}">
+                <a class="menu__link" href="{{ menu-item.href }}" title="{{ menu-item.title }}">{{ menu-item.name }}</a>
+              </li>
+            {% endfor %}
           </ul>
         </nav>
 
