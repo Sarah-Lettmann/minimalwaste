@@ -1,6 +1,11 @@
+$margin-for-border: 0.25rem;
+
 .main {
   position: relative;
-  margin: $margin-to-content 0;
+  padding: $margin-to-content 0;
+  @include breakpoint(small) {
+    padding: 0.5*$margin-to-content 0;
+  }
 
   &--home {
     margin-top: 0;
@@ -12,5 +17,15 @@
 
   .container {
     max-width: 1000px;
+  }
+
+  &::before {
+    @include greenBorderMain();
+    top: $margin-for-border;
+  }
+
+  &::after {
+    @include greenBorderMain();
+    bottom: $margin-for-border;
   }
 }

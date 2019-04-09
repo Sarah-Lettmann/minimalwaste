@@ -1,16 +1,18 @@
 .footer {
   color: $color-dark-base;
-  border-top: $border;
-  overflow: hidden;
 
   .container {
     padding-top: 2*$padding-base;
     padding-bottom: 2*$padding-base;
     text-align: center;
+    overflow: hidden;
   }
 
   * {
     color: inherit;
   }
 
+  &::before {
+    @include greenBorderHeaderFooter;
+  }
 }

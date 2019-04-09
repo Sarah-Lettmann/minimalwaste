@@ -1,0 +1,20 @@
+@mixin greenBorderHeaderFooter() {
+  content: '';
+  display: block;
+  width: 100%;
+  border-bottom: 0.5rem solid $color-accent;
+  -ms-transform: skewY(-1deg);
+  -webkit-transform: skewY(-1deg);
+  transform: skewY(-1deg);
+}
+
+@mixin greenBorderMain() {
+  content: '';
+  display: block;
+  width: 100%;
+  border-bottom: 0.15rem solid $color-accent-light;
+  -ms-transform: skewY(-1deg);
+  -webkit-transform: skewY(-1deg);
+  transform: skewY(-1deg);
+  position: absolute;
+}

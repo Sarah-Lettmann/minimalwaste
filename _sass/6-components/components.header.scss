@@ -2,7 +2,7 @@ $height-header: 120px;
 $height-mobile-header: 80px;
 
 .header {
-  border-bottom: $border;
+  //border-bottom: $border;
   background-color: $color-background;
   @include transition(margin-bottom);
 
@@ -16,5 +16,9 @@ $height-mobile-header: 80px;
     @include breakpoint(small) {
       height: $height-mobile-header;
     }
+  }
+
+  &::after {
+    @include greenBorderHeaderFooter;
   }
 }

@@ -18,6 +18,10 @@
       min-width: 280px;
       padding: $padding-base 0.5*$padding-base;
 
+      > .post__link {
+        border-bottom: none;
+      }
+
       &__cover {
         margin: 0;
       }
@@ -33,7 +37,6 @@
       &__subtitle {
         margin-bottom: 0.5*$margin-base;
         font-size: $font-size-base;
-        @include latoFont;
       }
 
       &__meta {
