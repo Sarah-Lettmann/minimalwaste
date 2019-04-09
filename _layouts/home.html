@@ -2,9 +2,7 @@
 layout: wrapper
 title: "home"
 ---
-<div class="hero">
-  {% include home-lead-magnet.html %}
-</div>
+{% include home-lead-magnet.html %}
 <div class="container">
   {% include home-latest-post.html %}
   {% include home-category-posts.html category="Zero Waste" %}
@@ -12,5 +10,5 @@ title: "home"
   {% include home-category-posts.html category="Sustainable Fashion" %}
   {% include home-category-posts.html category="DIY" %}
   {% include home-category-posts.html category="Emissionen" %}
-  {% include home-image-gallery.html %}
 </div>
+{% include home-image-gallery.html %}
