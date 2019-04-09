@@ -1,5 +1,7 @@
 <section class="home category" aria-label="Neues in {{ include.category }}">
-  <h2 class="category__title">Neues in {{ include.category }}</h2>
+  <a class="category__link" href="/category/{{ include.category | downcase | replace: ' ', '-' }}.html" title="alle Posts in {{ include.category }} anzeigen">
+    <h2 class="category__title">Neues in {{ include.category }}</h2>
+  </a>
   <div class="category__posts">
     {% for post in site.categories[include.category] limit:3 %}
       <article class="post post--category" aria-label="{{ post.title }}">

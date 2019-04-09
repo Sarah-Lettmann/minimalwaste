@@ -1,6 +1,16 @@
 .home.category {
   border-top: $border;
 
+  .category__title {
+    display: inline-block;
+
+    &::after {
+      content: '\f061';
+      font-family: 'Font Awesome 5 Free';
+      margin-left: 0.25*$margin-base;
+    }
+  }
+
   .category__posts {
     @extend .category__posts;
   }
