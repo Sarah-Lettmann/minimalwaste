@@ -80,11 +80,11 @@ Die ganze Werbung und das Produktdesign sind so schlimm, weil sie uns ständig v
 
 Wenn dich das Thema interessiert und vielleicht auch, was man dagegen tun kann, dann empfehle ich dir folgende Beiträge:
 
-[Die Tragödien hinter Fast Fashion](http://minimalwaste.de/blog/die-tragoedien-hinter-fast-fashion/)
+[Die Tragödien hinter Fast Fashion](die-tragoedien-hinter-fast-fashion)
 
-[Minimalistisch leben: Warum du anfangen solltest!](http://minimalwaste.de/blog/minimalistisch-leben/)
+[Minimalistisch leben: Warum du anfangen solltest!](minimalistisch-leben)
 
-[Der Lebensstil Minimalismus](http://minimalwaste.de/blog/der-lebensstil-minimalismus/)
+[Der Lebensstil Minimalismus](der-lebensstil-minimalismus)
 
 Bis nächste Woche.
 
