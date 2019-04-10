@@ -14,20 +14,58 @@ dd {
 
 li {
   margin-bottom: 0.5*$margin-base;
+  padding-left: 3*$padding-base;
+  @include breakpoint(small) {
+    padding-left: 1.5*$padding-base;
+  }
 }
 
+
+/* unordered list */
 ul {
   margin-left: 0;
 
   li {
     list-style-type: none;
-    padding-left: 1.25rem;
     position: relative;
 
     &::before {
-      content: '-';
+      content: '';
+      width: 16px;
+      height: 5px;
       position: absolute;
-      left: 0;
+      left: $padding-base;
+      top: 0.75rem;
+      background-color: $color-accent-dark;
+      @include breakpoint(small) {
+        top: 0.6rem;
+        left: 0.4*$padding-base;
+        width: 12px;
+        height: 3px;
+      }
+    }
+  }
+}
+
+/* ordered list */
+ol {
+  margin-left: 0;
+  counter-reset: listNumbers;
+
+  li {
+    list-style-type: none;
+    position: relative;
+    counter-increment: listNumbers;
+
+    &::before {
+      content: counter(listNumbers, decimal-leading-zero);
+      position: absolute;
+      left: $padding-base;
+      color: $color-accent-dark;
+      font-weight: bold;
+      @include breakpoint(small) {
+        left: 0.4*$padding-base;
+      }
     }
   }
 }

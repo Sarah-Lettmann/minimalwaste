@@ -1,8 +1,11 @@
 .copyright {
-  margin-top: $margin-base;
+  margin-top: 1.5*$margin-base;
   font-size: $font-size-base;
   letter-spacing: 0.5px;
   @include latoFont;
+  @include breakpoint(small) {
+    font-size: 0.8*$font-size-base;
+  }
 
   * {
     font-size: inherit;

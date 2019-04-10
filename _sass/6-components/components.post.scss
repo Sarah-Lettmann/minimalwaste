@@ -4,6 +4,13 @@
     margin-bottom: $margin-base;
   }
 
+  &__title {
+    margin-right: $margin-base;
+    @include breakpoint(mediumAndLarge) {
+      margin-right: 4*$margin-base;
+    }
+  }
+
   &__subtitle {
     color: $color-subtext;
     @include latoFont();
@@ -18,6 +25,9 @@
     @include latoFont;
     @include attention() {
       color: unset;
+    }
+    @include breakpoint(small) {
+      font-size: 0.8*$font-size-base;
     }
   }
 

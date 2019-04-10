@@ -4,11 +4,14 @@ $color-light-light-base: #ccc;
 $color-medium-light-base: #aaa;
 $color-medium-base: #666;
 $color-dark-base: #262626;
-$color-light-green: #aaddaa;
+$color-green: #aaddaa;
+$color-light-green: #bbeebb;
+$color-dark-green: #88bb88;
 
 // general colors
 $color-background: $color-light-base;
 $color-text: $color-dark-base;
 $color-subtext: $color-medium-base;
-$color-accent: $color-light-green;
-$color-accent-light: rgba(170, 221, 170, 0.5);
+$color-accent: $color-green;
+$color-accent-light: $color-light-green;
+$color-accent-dark: $color-dark-green;

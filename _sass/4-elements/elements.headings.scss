@@ -30,7 +30,7 @@ h1 {
   font-size: $font-size-h1;
   margin: 1rem 0;
   @include breakpoint(small) {
-    font-size: 0.8*$font-size-h1;
+    font-size: 0.7*$font-size-h1;
   }
 
   a {
