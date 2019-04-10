@@ -15,7 +15,7 @@
     color: inherit;
     border-bottom: $link-decoration;
     @include attention() {
-      color: $color-accent;
+      color: $color-accent-dark;
     }
   }
 }

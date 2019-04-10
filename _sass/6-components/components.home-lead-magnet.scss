@@ -1,7 +1,11 @@
 .lead-magnet {
+  margin-top: 0.5*$margin-base;
   position: relative;
   background: url("/assets/content/muell.jpg");
   background-size: cover;
+  -ms-transform: skewY(-1deg);
+  -webkit-transform: skewY(-1deg);
+  transform: skewY(-1deg);
 
   &::before {
     content: '';
@@ -19,6 +23,9 @@
     padding: 3*$padding-base 0;
     position: relative;
     z-index: 10;
+    -ms-transform: skewY(1deg);
+    -webkit-transform: skewY(1deg);
+    transform: skewY(1deg);
   }
 
   &__image {

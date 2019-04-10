@@ -17,31 +17,36 @@
 .menu--main {
   display: none;
   position: absolute;
-  top: $height-header;
+  top: $height-header + 11px;
   left: 0;
   right: 0;
-  border-top: 1px solid $color-light-light-base;
-  border-bottom: 1px solid $color-light-light-base;
-  background-color: $color-light-light-base;
   text-align: center;
   @include latoFont;
+
+  &::after {
+    @include greenBorder(bottom);
+  }
+
   @include breakpoint(small) {
-    top: $height-mobile-header;
+    top: $height-mobile-header + 11px;
   }
   @include breakpoint(largeAndUp) {
     display: flex;
     position: unset;
     border: none;
     background: none;
+
+    &::after {
+      display: none;
+    }
   }
 
   .menu__item {
-    border-bottom: 1px solid $color-light-base;
     color: inherit;
-    @include attention() {
-      background-color: $color-background;
-    }
-    @include transition(background-color);
+    border-bottom: 0.1rem solid $color-accent-light;
+    -ms-transform: skewY(-1deg);
+    -webkit-transform: skewY(-1deg);
+    transform: skewY(-1deg);
     @include breakpoint(largeAndUp) {
       border-bottom: none;
 
@@ -65,7 +70,9 @@
     .menu__link {
       display: block;
       padding: 0.75*$padding-base 0;
-      @include transition(color);
+      -ms-transform: skewY(1deg);
+      -webkit-transform: skewY(1deg);
+      transform: skewY(1deg);
       @include breakpoint(largeAndUp) {
         padding: 0;
         margin: 0 0.75*$padding-base;

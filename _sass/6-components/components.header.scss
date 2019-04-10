@@ -19,6 +19,6 @@ $height-mobile-header: 80px;
   }
 
   &::after {
-    @include greenBorderHeaderFooter(top);
+    @include greenBorder(top);
   }
 }
