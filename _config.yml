@@ -29,6 +29,7 @@ affiliate-hint: "* Dieser Beitrag enthält Affiliate-Links. Dadurch kann ich üb
 # Social
 facebook-link: https://www.facebook.com/MinimalWasteBlog/
 instagram-link: https://www.instagram.com/minimalwaste.de/
+twitter-link: https://twitter.com/MinimalWaste
 pinterest-link: https://www.pinterest.de/minimalwaste/
 patreon-link: https://www.patreon.com/minimalwaste
 email-website: info@minimalwaste.de
@@ -50,15 +51,15 @@ defaults:
       gallery: true
 
 # Build settings
-future: true
+future: false
 markdown: kramdown
 theme:
 plugins:
   #- jekyll-feed
 
 # Sass
-#sass:
-  #style: compressed
+sass:
+  style: compressed
 
 # agent
 web-dev: Sarah Lettmann

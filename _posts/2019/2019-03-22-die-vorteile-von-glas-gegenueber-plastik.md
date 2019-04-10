@@ -2,7 +2,7 @@
 layout: post
 title: "Die Vorteile von Glas gegenüber Plastik"
 subtitle: "Wie Glasrecycling geht und warum es so nachhaltig ist"
-date: 2019-03-15
+date: 2019-03-22
 categories: [Zero Waste, Emissionen]
 description: "Glasrecyling ist nachhaltig und effizient. Warum das so ist und wie Altglas recycelt wird erkläre ich dir in diesem Beitrag."
 keywords: [Glasrecycling, Vorteile von Glas]
