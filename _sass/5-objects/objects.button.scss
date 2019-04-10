@@ -6,7 +6,6 @@ a[role="button"] {
   border: none;
   @include latoFont;
   font-size: $font-size-button;
-  text-transform: uppercase;
   cursor: pointer;
   color: $color-button;
   background-color: $background-color-button;

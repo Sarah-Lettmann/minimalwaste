@@ -1,11 +1,9 @@
 .lead-magnet {
   margin-top: 0.5*$margin-base;
   position: relative;
-  background: url("/assets/content/muell.jpg");
-  background-size: cover;
-  -ms-transform: skewY(-1deg);
-  -webkit-transform: skewY(-1deg);
-  transform: skewY(-1deg);
+  background: url("/assets/content/header.jpg");
+  background-size: auto;
+  @include skew(-1deg);
 
   &::before {
     content: '';
@@ -20,22 +18,31 @@
 
   &__container {
     display: flex;
-    padding: 3*$padding-base 0;
+    align-items: center;
+    padding: 3*$padding-base $padding-base;
     position: relative;
     z-index: 10;
-    -ms-transform: skewY(1deg);
-    -webkit-transform: skewY(1deg);
-    transform: skewY(1deg);
+    @include skew(1deg);
   }
 
   &__image {
+    margin-right: 2*$margin-base;
     margin-bottom: 0;
+    width: 150px;
+    @include rotate(-5deg);
+    @include breakpoint(largeAndUp) {
+      width: 220px;
+    }
+    @include breakpoint(small) {
+      display: none;
+    }
   }
 
   &__content {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+
   }
 
   &__title {

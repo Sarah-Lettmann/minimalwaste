@@ -113,3 +113,15 @@ Keyframe Animation
   animation-timing-function: $timing;
   animation-iteration-count: $count;
 }
+
+@mixin skew($deg) {
+  -ms-transform: skewY($deg);
+  -webkit-transform: skewY($deg);
+  transform: skewY($deg);
+}
+
+@mixin rotate($deg) {
+  -ms-transform: rotate($deg);
+  -webkit-transform: rotate($deg);
+  transform: rotate($deg);
+}
