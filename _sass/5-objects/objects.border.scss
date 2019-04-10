@@ -1,20 +1,17 @@
-@mixin greenBorderHeaderFooter() {
+@mixin greenBorderHeaderFooter($topOrBottom) {
   content: '';
   display: block;
   width: 100%;
-  border-bottom: 0.5rem solid $color-accent;
+  height: 1rem;
+  @if $topOrBottom == top {
+    border-top: 0.5rem solid $color-accent;
+    border-bottom: 0.15rem solid $color-accent-light;
+  }
+  @else if $topOrBottom == bottom {
+    border-top: 0.15rem solid $color-accent-light;
+    border-bottom: 0.5rem solid $color-accent;
+  }
   -ms-transform: skewY(-1deg);
   -webkit-transform: skewY(-1deg);
   transform: skewY(-1deg);
-}
-
-@mixin greenBorderMain() {
-  content: '';
-  display: block;
-  width: 100%;
-  border-bottom: 0.15rem solid $color-accent-light;
-  -ms-transform: skewY(-1deg);
-  -webkit-transform: skewY(-1deg);
-  transform: skewY(-1deg);
-  position: absolute;
 }
