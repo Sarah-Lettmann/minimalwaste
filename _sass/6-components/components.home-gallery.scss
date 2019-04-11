@@ -12,7 +12,7 @@ $image-size: 180px;
   }
 
   &__image {
-    flex-basis: $image-size;
+    min-width: $image-size;
     height: $image-size;
     padding: 7.5px;
     margin-bottom: 0;

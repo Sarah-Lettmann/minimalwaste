@@ -39,6 +39,7 @@ $patreon-color: #e85b46;
   &__content {
     margin-left: $margin-base;
     @include breakpoint(small) {
+      max-width: 100%;
       margin-left: 0;
     }
   }

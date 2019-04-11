@@ -1,5 +1,4 @@
 .header .navigation {
-  display: flex;
 
   .nav__link,
   .menu__link {
@@ -32,7 +31,7 @@
   }
   @include breakpoint(largeAndUp) {
     display: flex;
-    position: unset;
+    position: static;
     border: none;
     background: none;
 

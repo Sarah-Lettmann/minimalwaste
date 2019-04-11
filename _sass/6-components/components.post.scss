@@ -42,7 +42,7 @@
 
       &::first-letter {
         font-size: 3.2*$font-size-text;
-        line-height: 0.9;
+        line-height: 0.85;
         float: left;
         margin-right: 0.25*$margin-base;
         @include breakpoint(small) {

@@ -39,7 +39,7 @@ ul {
       background-color: $color-accent-dark;
       @include breakpoint(small) {
         top: 0.6rem;
-        left: 0.4*$padding-base;
+        left: 0.25*$padding-base;
         width: 12px;
         height: 3px;
       }
@@ -64,7 +64,7 @@ ol {
       color: $color-accent-dark;
       font-weight: bold;
       @include breakpoint(small) {
-        left: 0.4*$padding-base;
+        left: 0.25*$padding-base;
       }
     }
   }
