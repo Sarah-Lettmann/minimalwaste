@@ -10,7 +10,9 @@ image: "/assets/title-images/2019/2019-04-05-die-bilanz-von-stofftaschentuechern
 author: sarah-lettmann
 affiliate: false
 ---
-Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) hat allerdings ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.
+Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. Allerdings habe ich ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.
+
+Den Post von damals _[Sind Alternativen aus Stoff ökologisch sinnvoll](sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ empfehle ich dir auch, denn teilweise übernehme ich Annahmen und baue auf diesem auf.
 
 Konkret geht es hierbei um **Lieferwege und Transport** sowohl des fertigen Produkts als auch der Rohstoffe. Außerdem geht es auch um die **Rohstoffe** selbst, die zur Fertigung benötigt werden. **Energie und Wasservbrauch** habe ich mir schon angeguckt, aber möchte das auch nochmal bezogen auf unterschiedliche Resourcen tun. Interesseant sind außerdem die **CO2-Emissionen**. Zudem wurde sich gewünscht, dass ich mir die **Auswirkungen auf Wälder und Boden** der verschiedenen Rohstoffe angucke.
 
@@ -207,14 +209,44 @@ Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der her
 Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle), da habe ich am Ende ein paar Infos reingepackt, worauf man bei Bio-Baumwolle achten sollte.
 
 ## Leinen
+Das ist der Stoff auf den ich die meiste Hoffnung setze. Ich habe immer mal wieder gehört, das Leinen sehr nachhaltig sein soll. Das werden wir nun gemeinsam herauf finden. Was mir vorher nicht klar war: Auch hier gibt es einen großen Unterschied zwischen herkömmlich hergestelltem Leinen und Bio-Leinen.
+
+### Auswirkungen auf die Umwelt und den Menschen
+Auch wenn es sich nicht um Bio-Leinen handelt, dann bringt die Flachs-Pflanze schon viele Ansprüche mit, die der Bio-Landwirtschaft entsprechen. Am besten gedeiht sie bei Einhaltung der Fruchtfolge, konnte früher nur alle sieben Jahre angebaut werden. Außerdem ist sie empfindlich gegenüber zu viel Dünger und benötigt keine Pestizide, da der Flachs eine sehr genügsame Pflanze ist.
+
+Trotzdem werden im modernen Anbau manche dieser Dinge ignoriert. So kommen oft totzdem Dünger zum Einsatz und auch <abbr title="Unkrautvernichtungsmittel">Herbizide</abbr>. Auch gegen Insektenbefall wird gespritzt und das Saatgut ist zumeist ebenfalls behandelt, damit sie weniger anfällig gegen Schädlinge sind.
+
+Also, alles in allem hört sich das für mich noch nicht so schlimm an, wie bei der herkömmlichen Baumwolle. Optimal ist trotzdem anders, deshalb sollte man auch hier auf Bio-Qualität achten.
+
+### Transport und Lieferwege
+Was Transport- und Lieferwege angeht, hat der Leinen der Baumwolle allerdings einiges voraus. Denn er kann regional angebaut werden, also hier in Europa. Und das wird auch tatsächlich gemacht.
+
+### Wasser-, Energie- und Rohstoffbedarf
 
 ## Zusammenfassung
 
-Ich möchte dich mit diesem Post wirklich ermutigen mal etwas neues auszuprobieren aka Stofftaschentüchern. Probier sie einfach aus. Ich persönlich benutzte sie wirklich sehr gerne, denn sie reizen die Nase nicht so. Das ist sehr praktisch wenn man erkältet oder von einer Allergie geplagt ist.
+Ich möchte dich mit diesem Post wirklich ermutigen mal etwas neues auszuprobieren aka Stofftaschentüchern. Probier sie einfach aus.
 
-### Hier kannst du dich weiter informieren
+Ich persönlich benutzte sie wirklich sehr gerne, denn sie reizen die Nase nicht so. Das ist sehr praktisch wenn man erkältet oder von einer Allergie geplagt ist.
+
+Wenn du dich noch weiter über Nachhaltigkeit informieren willst, dann schau mal hier:
+
+[Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle)
+
+[Die Vorteile von Glas gegenüber Plastik](die-vorteile-von-glas-gegenueber-plastik)
+
+[Mein ökologischer Fußabdruck in Punkten](mein-oekologischer-fussabdruck-in-punkten)
+
+Dann bis zum nächsten Mal.
+
+\- Sarah
+
+&nbsp;
+
+## Hier kannst du dich weiter informieren
 1. [Wikipedia: Papier](https://de.wikipedia.org/wiki/Papier)
 2. [Umweltbundesamt: Altpapier](https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/altpapier)
 3. [Umweltbundesamt: Papier - Wald und Klima schützen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/papier_-_wald_und_klima_schuetzen-reichart_1.pdf)
 4. [Der Blaue Engel](https://www.blauer-engel.de)
 5. [nachhaltig-sein.info: Wie die Zukunft der Wälder mit dem Papierverbrauch zusammenhängt](https://nachhaltig-sein.info/unternehmen-csr-nachhaltigkeit/zusammenhang-papierverbrauch-auswirkung-folgen-walder)
+6. [Flachs und Leinen: Flachsanbau - Konventionell oder ökologisch?](http://bio-leinen.de/blog/2013/04/05/flachsanbau-konventionell-oder-okologisch/)

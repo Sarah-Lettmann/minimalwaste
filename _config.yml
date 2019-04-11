@@ -51,7 +51,7 @@ defaults:
       gallery: true
 
 # Build settings
-future: false
+future: true
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
