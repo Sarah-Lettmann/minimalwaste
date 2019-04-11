@@ -76,3 +76,5 @@ web-dev-site: https://twitter.com/SarahLettmann
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-minimal
