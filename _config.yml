@@ -53,7 +53,7 @@ defaults:
 # Build settings
 future: false
 markdown: kramdown
-theme:
+theme: jekyll-theme-minimal
 plugins:
   #- jekyll-feed
 
