@@ -2,8 +2,9 @@ $background-color-button: $color-dark-base;
 $color-button: $color-light-base;
 
 a[role="button"] {
-  padding: 0.75rem 1rem;
+  padding: 0.5*$margin-base 2*$margin-base;
   border: none;
+  border-radius: 5px;
   @include latoFont;
   font-size: $font-size-button;
   cursor: pointer;
@@ -13,5 +14,6 @@ a[role="button"] {
   @include transition(background-color);
   @include attention() {
     color: $color-button;
+    background-color: $color-medium-base;
   }
 }
