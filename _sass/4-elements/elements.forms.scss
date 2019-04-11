@@ -4,10 +4,12 @@ button,
 input[type="submit"],
 input[type="reset"] {
   padding: 0.75rem 1rem;
-  border: none;
+  border: $border;
+  border-radius: 5px;
+  color: $color-text;
+  background-color: $color-light-base;
   @include latoFont;
   font-size: $font-size-button;
-  text-transform: uppercase;
   cursor: pointer;
   @include transition(color);
   @include transition(background-color);

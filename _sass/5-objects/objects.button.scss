@@ -4,7 +4,6 @@ $color-button: $color-light-base;
 a[role="button"] {
   padding: 0.5*$margin-base 2*$margin-base;
   border: none;
-  border-radius: 5px;
   @include latoFont;
   font-size: $font-size-button;
   cursor: pointer;

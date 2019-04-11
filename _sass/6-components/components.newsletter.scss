@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 1px solid $color-medium-light-base;
+  border: $border;
   padding: $padding-base;
   @include breakpoint(small) {
     flex-direction: column;

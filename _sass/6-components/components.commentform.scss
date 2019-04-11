@@ -1,3 +1,7 @@
-.disqus {
-  margin-top: 4*$margin-base;
+.comments {
+  text-align: center;
+
+  &__disqus {
+    margin-top: 4*$margin-base;
+  }
 }
