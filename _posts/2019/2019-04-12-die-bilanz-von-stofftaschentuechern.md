@@ -16,7 +16,9 @@ Den Post von damals _[Sind Alternativen aus Stoff ökologisch sinnvoll](sind-alt
 
 Konkret geht es hierbei um **Lieferwege und Transport** sowohl des fertigen Produkts als auch der Rohstoffe. Außerdem geht es auch um die **Rohstoffe** selbst, die zur Fertigung benötigt werden. **Energie und Wasservbrauch** habe ich mir schon angeguckt, aber möchte das auch nochmal bezogen auf unterschiedliche Resourcen tun. Interesseant sind außerdem die **CO2-Emissionen**. Zudem wurde sich gewünscht, dass ich mir die **Auswirkungen auf Wälder und Boden** der verschiedenen Rohstoffe angucke.
 
-Wir wollen uns fünf unterschiedliche Rohstoffe genauer angucken. Zum einen wird für das Fertigen von Papiertaschentüchern entweder **Papier** aus neuen Rohstoffen oder **Recyclingpapier** verwendet. Für Stofftaschentücher entweder herkömmliche **Baumwolle**, **Bio-Baumwolle** oder **Leinen**.
+Wir wollen uns fünf unterschiedliche Rohstoffe genauer angucken. Zum einen wird für das Fertigen von Papiertaschentüchern entweder **Papier** aus neuen Rohstoffen oder **Recyclingpapier** verwendet. Für Stofftaschentücher entweder herkömmliche **Baumwolle** oder **Bio-Baumwolle**.
+
+_Eigentlich wollte ich auch noch Leinen mit aufnehmen, aber zu diesem Stoff konnte kaum Informationen finden. Wenn du irgendwelche Infos hast, wie es mit Emissionen in der Produktion, Wasser- oder Energieverbrauch aussieht, dann melde dich gerne._
 
 ## Papier
 Papier ist der "Standard" wenn es um Hygieneprodukte wie Toilettenpapier und eben auch Taschentücher geht. Neues Papier wird in der Regel aus Holz gefertigt (95% davon). Dieses Holz stammt hier in Deutschland zum größten Teil **aus Finnland und Schweden** und zu kleineren Teilen aus Kanada und Brasilien wo Ur- und Regenwälder dafür abgeholzt werden. <mark>248Kg Papier verbraucht jeder Deutsche im Jahr, 10% davon sind Hygienepapiere (also knapp 25kg).</mark>
@@ -147,7 +149,18 @@ Konventionell hergestellte Baumwolle braucht eine enorme Menge an Ressourcen. F�
 Große Mengen an **Pestiziden und Entlaubungsmitteln** werden bei herkömmlicher Baumwolle eingesetzt und verbleiben zum Teil auch nachher noch im fertigen Stoff. Außerdem werden in der weiteren Verarbeitung nicht selten **giftige Färbe- und Bleichmittel** eingesetzt, die wir dann später direkt auf der Haut tragen. Das ist durchaus bedenklich.
 
 ### Bilanz
-Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage. In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
+Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage (wofür wiederum 12,1g Baumwolle benötigt werden). In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
+
+Für die Berechnung der Waschgänge orientiere ich mich an meinem alten Post. Folgendes legen wir zugrunde:
+
+- 26 Waschgänge im Jahr
+- eine Vollast der Maschine von 7kg
+- gewaschen wird bei 60°C
+- ein Wasserverbrauch von 72 Litern
+- ein Energieverbrauch von 1,5kWh
+- und 530g CO2-Emissionen pro Waschgang
+
+Damit kommen wir für ein einzelnes Stofftaschentuch auf einen Wasserverbrauch von 0,115 Litern, einen Energieverbrauch von 0,0024kWh und 0,085g CO2-Emissionen.
 
 <div class="table">
   <table>
@@ -161,23 +174,18 @@ Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>121 Liter</td>
-        <td>56,94 Liter</td>
+        <td>133,1 Liter</td>
+        <td>r</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,0052kWh</td>
-        <td>7,59kWh</td>
+        <td>0,144kWh</td>
+        <td></td>
       </tr>
       <tr>
         <th>CO2 Emissionen</th>
-        <td>0,0052kWh</td>
-        <td>7,59kWh</td>
-      </tr>
-      <tr>
-        <th>Rohstoffbedarf</th>
-        <td>0,00312kg</td>
-        <td>4,56kg</td>
+        <td>0,022kg</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -203,36 +211,81 @@ Gegenüber normaler Baumwolle ist Bio-Baumwolle viel sparsamer, was den Verbrauc
 Es werden bei Bio-Baumwolle keine Pestizide verwendet und auch keine Enlaubungsmittel. Somit ist die Chemie alleine im Anbau schonmal stark reduziert.
 
 ### Bilanz
-Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der herkömmlichen Baumwolle. In der nachfolgenden Tabelle findest du dann den Verbrauch für ein Stofftaschentuch in der Herstellung und über ein Jahr hinweg (inklusive Waschgänge).
+Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der herkömmlichen Baumwolle (also auch hier 12,2g an Rohstoff). In der nachfolgenden Tabelle findest du dann den Verbrauch für ein Stofftaschentuch in der Herstellung und über ein Jahr hinweg (inklusive Waschgänge).
+
+<div class="table">
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Verbrauch 1 Stofftaschentuch</th>
+        <th>Verbrauch pro Jahr pro Kopf</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Wasserbedarf</th>
+        <td>79,86 Liter</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Energiebedarf</th>
+        <td>0,0242kWh</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th>CO2 Emissionen</th>
+        <td>0,01331kWh</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### Bio-Baumwolle erkennen
 Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle), da habe ich am Ende ein paar Infos reingepackt, worauf man bei Bio-Baumwolle achten sollte.
 
-## Leinen
-Das ist der Stoff auf den ich die meiste Hoffnung setze. Ich habe immer mal wieder gehört, das Leinen sehr nachhaltig sein soll. Das werden wir nun gemeinsam herauf finden. Was mir vorher nicht klar war: Auch hier gibt es einen großen Unterschied zwischen herkömmlich hergestelltem Leinen und Bio-Leinen.
+## Der direkte Vergleich
+Zuerst mal der direkte Vergleich von einem Taschentuch zum anderen. Was machen die unterschiedlichen Rohstoffe bei einem Taschentuch an Emissionen, Wasser- und Energieverbrauch aus? Eine Übersicht findest du in der nachfolgenden Tabelle.
 
-Außerdem ist Leinen im Vergleich zu Baumwolle recht Bedeutungslos. Jährlich werden nur zwei Millionen Tonnen produziert. Baumwolle werden jährlich hingegen 26 Millionen Tonnen angebaut. Gründe dafür gibt es viele. Zum einen ist ein Textil aus Leinen einfach nicht so praktikabel wie aus Baumwolle, denn Leinen ist nicht so wiederstandsfähig, nimmt mehr Feuchtigkeit auf, sollte nur per Hand gewaschen werden und gehört nicht in den Trockner. Außerdem lässt sich Baumwolle besser in größeren Mengen anbauen.
+<div class="table">
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Papier</th>
+        <th>Recyclingpapier</th>
+        <th>Baumwolle</th>
+        <th>Bio-Baumwolle</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Wasserbedarf</th>
+        <td>29 Liter</td>
+        <td>0,047 Liter</td>
+        <td>133,1 Liter</td>
+        <td>79,86 Liter</td>
+      </tr>
+      <tr>
+        <th>Energiebedarf</th>
+        <td>0,029kWh</td>
+        <td>0,0062kWh</td>
+        <td>0,144kWh</td>
+        <td>0,0242kWh</td>
+      </tr>
+      <tr>
+        <th>CO2 Emissionen</th>
+        <td>0,063kg</td>
+        <td>0,0028kg</td>
+        <td>0,022kg</td>
+        <td>0,0133kWh</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### Auswirkungen auf die Umwelt und den Menschen
-Auch wenn es sich nicht um Bio-Leinen handelt, dann bringt die Flachs-Pflanze schon viele Ansprüche mit, die der Bio-Landwirtschaft entsprechen. Am besten gedeiht sie bei Einhaltung der Fruchtfolge, konnte früher nur alle sieben Jahre angebaut werden. Außerdem ist sie empfindlich gegenüber zu viel Dünger und benötigt keine Pestizide, da der Flachs eine sehr genügsame Pflanze ist.
-
-Trotzdem werden im modernen Anbau manche dieser Dinge ignoriert. So kommen oft totzdem Dünger zum Einsatz und auch <abbr title="Unkrautvernichtungsmittel">Herbizide</abbr>. Auch gegen Insektenbefall wird gespritzt und das Saatgut ist zumeist ebenfalls behandelt, damit sie weniger anfällig gegen Schädlinge sind.
-
-Also, alles in allem hört sich das für mich noch nicht so schlimm an, wie bei der herkömmlichen Baumwolle. Optimal ist trotzdem anders, deshalb sollte man auch hier auf Bio-Qualität achten.
-
-### Transport und Lieferwege
-Was Transport- und Lieferwege angeht, hat der Leinen der Baumwolle allerdings einiges voraus. Denn er kann regional angebaut werden, also hier in Europa. Und das wird auch tatsächlich gemacht. Vorallem Frankreich und Belgien produzieren einen großen Teil des verwendeten Leinen.
-
-### Wasser-, Energie- und Rohstoffbedarf
-Leinen spart gegenüber herkömmlicher Baumwolle und selbst Bio-Baumwolle einiges an Wasser. Zudem wird es in Gebieten angebaut, wo für diese Menge der Niederschlag ausreicht, das Grundwasser oder Gewässer also nicht angezapft werden.
-1. 2.500 Liter Wasser
-2. 2kWh Energie
-3. 1,1 Kilogramm CO2
-4. 1,1 Kilogramm Baumwolle
-
-### Chemikalieneinsatz
-
-### Bilanz
+Jetzt wird es aber richtig interessant. Es ist ja schon klar geworden, dass Papier auf das einzelne Taschentuch betrachtet umweltfreundlicher ist. Aber das ist bei Einwegprodukten oft der Fall. Was sie so umweltschädlich und Mehrwegprodukte so umweltfreundlich macht, zeigt sich erst bei der Nutzung über einen langen Zeitraum.
 
 ## Zusammenfassung
 Ich möchte dich mit diesem Post wirklich ermutigen mal etwas neues auszuprobieren aka Stofftaschentüchern. Probier sie einfach aus.
@@ -259,6 +312,4 @@ Dann bis zum nächsten Mal.
 3. [Umweltbundesamt: Papier - Wald und Klima schützen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/papier_-_wald_und_klima_schuetzen-reichart_1.pdf)
 4. [Der Blaue Engel](https://www.blauer-engel.de)
 5. [nachhaltig-sein.info: Wie die Zukunft der Wälder mit dem Papierverbrauch zusammenhängt](https://nachhaltig-sein.info/unternehmen-csr-nachhaltigkeit/zusammenhang-papierverbrauch-auswirkung-folgen-walder)
-6. [Flachs und Leinen: Flachsanbau - Konventionell oder ökologisch?](http://bio-leinen.de/blog/2013/04/05/flachsanbau-konventionell-oder-okologisch/)
-7. [Wikipedia: Flachsfaser](https://de.wikipedia.org/wiki/Flachsfaser)
-8. [VDG: Baumwolle](http://vdg.durstige-gueter.de/baumwolle.html)
+6. [Stromauskunft: CO2-Emissionen](https://www.stromauskunft.de/die-klimaschuetzer/co2-emissionen/)

@@ -114,7 +114,7 @@ Wir sehen uns dann nächste Woche.
 1. [Wikipedia: Baumwolle](https://de.wikipedia.org/wiki/Baumwolle)  
 2. [Soilassociation: Cool Cotton, Organic Cotton and Climate Change](https://www.soilassociation.org/media/6491/cool-cotton-organic-cotton-and-climate-change-2015.pdf)  
 3. [virtuelles-wasser.de: Baumwolle](http://virtuelles-wasser.de/baumwolle.html)  
-4. [glore.de: Bio-Baumwolle/](https://www.glore.de/Materiallexikon/Bio-Baumwolle/)  
+4. [glore.de: Bio-Baumwolle](https://www.glore.de/Materiallexikon/Bio-Baumwolle/)  
 5. [Utopia: 13 Fakten: Was du über Bio Baumwolle wissen solltest](https://utopia.de/ratgeber/bio-baumwolle-wissenswertes/)  
 6. [trigema: Bio-Baumwolle – wie entsteht die Öko-Faser?](https://www.trigema.de/magazin/bio-baumwolle/)  
 7. [TAZ: "Für jedes T-Shirt sieben Kilo CO2"](http://www.taz.de/Journalistin-ueber-Oekokleidung-/!5167617/)  

@@ -80,11 +80,11 @@ Was ich über Stofftaschentücher heraus gefunden habe, ist leider nicht so viel
 
 - Eines von unseren Stofftaschentüchern wiegt 11 g -> 0,011 kg
 - Bei der Aufarbeitung der Baumwolle gehen nur rund zehn Prozent des Rohgewichtes verloren.
-- Außerdem habe ich herausgefunden, dass pro 1 kg Baumwolle im Durchschnitt 11.000 l Wasser verbraucht werden. Puh, ganz schön viel 8O.
+- Außerdem habe ich herausgefunden, dass pro 1 kg Baumwolle im Durchschnitt 11.000 l Wasser verbraucht werden. Puh, ganz schön viel.
 - Für 1 kg Leinen oder Hanf hingegen werden durchschnittlich nur 2.500 l Wasser verbraucht (was finde ich immer noch ziemlich viel ist).
 - Ebenso wird zur Herstellung von 1 kg Baumwolle 42,9 MJ ( = 11,92 kWh) Energie benötigt (1 kWh = 3,6 MJ).
 
-![Stofftaschentuch auf der Waage](/assets/inpost-images/2016/2016-10-17-stofftaschentuch-auf-waagejpg "© {{ site.title }}")
+![Stofftaschentuch auf der Waage](/assets/inpost-images/2016/2016-10-17-stofftaschentuch-auf-waage.jpg "© {{ site.title }}")
 
 Verbrauch eines Stofftaschentuchs aus Baumwolle in der Herstellung:
 Für ein 11 g Stofftaschentuch werden also ca. 12,2 g (0,012 kg) Baumwolle gebraucht:  
@@ -320,7 +320,11 @@ Also überholen die Papiertaschentücher recht schnell, was den Verbrauch an Was
 
 Plastik verbrauch nämlich enorm viel Wasser und Energie in der Herstellung. Du muss dir nur kurz überlegen wie viel Umverpackung mit üblichen Papiertaschentüchern kommt im Vergleich zu den vielleicht einmal in Folie eingepackten Stofftaschentüchern (sei cleverer als ich und kauf sie nicht auf Amazon, sondern in einem Shop, der ohne Plastikverpackungen arbeitet). Das ganze wird nochmal besser, wenn die Stofftaschentücher nicht aus Baumwolle, sondern aus Leinen, Hanf oder einem Gemisch mit Baumwolle hergestellt sind. Gibt es sowas?  
 
-Ich hoffe das Ganze war nicht zu trocken und theoretisch und selbst wenn, hast du nun ein gutes Argument in der Hand gegen Menschen, die diese Behauptungen aufstellen. Falls du mal irgendwo über Daten bezüglich virtuelles Wasser oder grauer Energie stolpern solltest, würde ich mich über Infos freuen.
+&nbsp;
+
+Ich hoffe das Ganze war nicht zu trocken und theoretisch und selbst wenn, hast du nun ein gutes Argument in der Hand gegen Menschen, die diese Behauptungen aufstellen. Falls du mal irgendwo über Daten bezüglich virtuelles Wasser oder grauer Energie stolpern solltest, würde ich mich über Infos freuen. Bis zum nächsten Mal,
+
+\- Sarah
 
 &nbsp;
 
