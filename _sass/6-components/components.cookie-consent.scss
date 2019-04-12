@@ -1,8 +1,10 @@
 .cookie-notice {
+  max-width: 175px;
+  flex-direction: column;
   align-items: center;
   position: fixed;
   bottom: 0;
-  right: 0;
+  left: 0;
   margin: $margin-base;
   padding: 0.75*$padding-base;
   background-color: $color-light-base;
@@ -19,10 +21,11 @@
   &__content {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    margin-right: $margin-base;
+    align-items: center;
+    margin-bottom: 0.5*$margin-base;
     font-size: $font-size-base;
     @include latoFont;
+    text-align: center;
   }
 
   &__morelink {

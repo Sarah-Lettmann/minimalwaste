@@ -211,6 +211,8 @@ Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachha
 ## Leinen
 Das ist der Stoff auf den ich die meiste Hoffnung setze. Ich habe immer mal wieder gehört, das Leinen sehr nachhaltig sein soll. Das werden wir nun gemeinsam herauf finden. Was mir vorher nicht klar war: Auch hier gibt es einen großen Unterschied zwischen herkömmlich hergestelltem Leinen und Bio-Leinen.
 
+Außerdem ist Leinen im Vergleich zu Baumwolle recht Bedeutungslos. Jährlich werden nur zwei Millionen Tonnen produziert. Baumwolle werden jährlich hingegen 26 Millionen Tonnen angebaut. Gründe dafür gibt es viele. Zum einen ist ein Textil aus Leinen einfach nicht so praktikabel wie aus Baumwolle, denn Leinen ist nicht so wiederstandsfähig, nimmt mehr Feuchtigkeit auf, sollte nur per Hand gewaschen werden und gehört nicht in den Trockner. Außerdem lässt sich Baumwolle besser in größeren Mengen anbauen.
+
 ### Auswirkungen auf die Umwelt und den Menschen
 Auch wenn es sich nicht um Bio-Leinen handelt, dann bringt die Flachs-Pflanze schon viele Ansprüche mit, die der Bio-Landwirtschaft entsprechen. Am besten gedeiht sie bei Einhaltung der Fruchtfolge, konnte früher nur alle sieben Jahre angebaut werden. Außerdem ist sie empfindlich gegenüber zu viel Dünger und benötigt keine Pestizide, da der Flachs eine sehr genügsame Pflanze ist.
 
@@ -219,12 +221,20 @@ Trotzdem werden im modernen Anbau manche dieser Dinge ignoriert. So kommen oft t
 Also, alles in allem hört sich das für mich noch nicht so schlimm an, wie bei der herkömmlichen Baumwolle. Optimal ist trotzdem anders, deshalb sollte man auch hier auf Bio-Qualität achten.
 
 ### Transport und Lieferwege
-Was Transport- und Lieferwege angeht, hat der Leinen der Baumwolle allerdings einiges voraus. Denn er kann regional angebaut werden, also hier in Europa. Und das wird auch tatsächlich gemacht.
+Was Transport- und Lieferwege angeht, hat der Leinen der Baumwolle allerdings einiges voraus. Denn er kann regional angebaut werden, also hier in Europa. Und das wird auch tatsächlich gemacht. Vorallem Frankreich und Belgien produzieren einen großen Teil des verwendeten Leinen.
 
 ### Wasser-, Energie- und Rohstoffbedarf
+Leinen spart gegenüber herkömmlicher Baumwolle und selbst Bio-Baumwolle einiges an Wasser. Zudem wird es in Gebieten angebaut, wo für diese Menge der Niederschlag ausreicht, das Grundwasser oder Gewässer also nicht angezapft werden.
+1. 2.500 Liter Wasser
+2. 2kWh Energie
+3. 1,1 Kilogramm CO2
+4. 1,1 Kilogramm Baumwolle
+
+### Chemikalieneinsatz
+
+### Bilanz
 
 ## Zusammenfassung
-
 Ich möchte dich mit diesem Post wirklich ermutigen mal etwas neues auszuprobieren aka Stofftaschentüchern. Probier sie einfach aus.
 
 Ich persönlich benutzte sie wirklich sehr gerne, denn sie reizen die Nase nicht so. Das ist sehr praktisch wenn man erkältet oder von einer Allergie geplagt ist.
@@ -250,3 +260,5 @@ Dann bis zum nächsten Mal.
 4. [Der Blaue Engel](https://www.blauer-engel.de)
 5. [nachhaltig-sein.info: Wie die Zukunft der Wälder mit dem Papierverbrauch zusammenhängt](https://nachhaltig-sein.info/unternehmen-csr-nachhaltigkeit/zusammenhang-papierverbrauch-auswirkung-folgen-walder)
 6. [Flachs und Leinen: Flachsanbau - Konventionell oder ökologisch?](http://bio-leinen.de/blog/2013/04/05/flachsanbau-konventionell-oder-okologisch/)
+7. [Wikipedia: Flachsfaser](https://de.wikipedia.org/wiki/Flachsfaser)
+8. [VDG: Baumwolle](http://vdg.durstige-gueter.de/baumwolle.html)
