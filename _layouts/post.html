@@ -2,9 +2,9 @@
 layout: wrapper
 ---
 
-<article class="post" aria-labelledby="post__title">
+<article class="post" aria-label="{{ page.title }}">
     <header class="post__header">
-        <h1 id="post__title" class="post__title">{{ page.title }}</h1>
+        <h1 class="post__title">{{ page.title }}</h1>
         <p class="post__subtitle">{{ page.subtitle }}</p>
         <div class="post__meta">
           <span>veröffentlicht am <time datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</time></span>

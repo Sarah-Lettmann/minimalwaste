@@ -2,10 +2,10 @@
 layout: wrapper
 ---
 
-<article class="page page--author" aria-labelledby="page__title">
+<article class="page page--author" aria-label="Über {{ page.title }}">
   <img class="page__image" src="{{ page.image }}" alt="Autor {{ page.title }}" title="Bild von {{ page.title }}" width="300" height="300" />
   <div class="page__content">
-    <h1 id="page__title" class="page__title">Über {{ page.title }}</h1>
+    <h1 class="page__title">Über {{ page.title }}</h1>
     {{ content }}
   </div>
 </article>
