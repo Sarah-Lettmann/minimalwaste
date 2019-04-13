@@ -2,8 +2,8 @@ $background-color-button: $color-dark-base;
 $color-button: $color-light-base;
 
 a[role="button"] {
-  padding: 0.5*$margin-base 2*$margin-base;
-  border-radius: 5px;
+  padding: 0.5*$padding-base 2*$padding-base;
+  border-radius: $border-radius;
   border: none;
   @include latoFont;
   font-size: $font-size-button;

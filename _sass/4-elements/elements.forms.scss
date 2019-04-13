@@ -5,14 +5,16 @@ input[type="submit"],
 input[type="reset"] {
   padding: 0.75rem 1rem;
   border: $border;
-  border-radius: 5px;
+  border-radius: $border-radius;
   color: $color-text;
   background-color: $color-light-base;
   @include latoFont;
   font-size: $font-size-button;
   cursor: pointer;
-  @include transition(color);
   @include transition(background-color);
+  @include attention() {
+    background-color: $color-light-light-base;
+  }
 }
 
 textarea,

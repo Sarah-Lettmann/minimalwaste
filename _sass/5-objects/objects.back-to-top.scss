@@ -1,0 +1,23 @@
+.back-to-top {
+  @extend button;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: $margin-base;
+  padding: 0.5*$padding-base $padding-base;
+  font-family: 'Font Awesome 5 Free';
+  @include transition(opacity);
+  @include transition(background-color);
+  @include attention() {
+    color: $color-text;
+    background-color: $color-light-light-base;
+  }
+
+  &--hidden {
+    opacity: 0;
+  }
+
+  &--visible {
+    opacity: 1;
+  }
+}
