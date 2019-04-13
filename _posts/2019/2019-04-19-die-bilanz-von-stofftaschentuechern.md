@@ -2,7 +2,7 @@
 layout: post
 title: "Die Bilanz von Stofftaschen&shy;tüchern im Vergleich"
 subtitle: "So ökologisch sind die Alternativen aus Stoff"
-date: 2019-04-12
+date: 2019-04-19
 categories: [Zero Waste]
 description: "Wie sieht die Öko Bilanz von Stofftaschentüchern gegenüber herkömmlichen Papiertaschentüchern aus. Ich habe es durchgerechnet."
 keywords: [Bilanz von Stofftaschentüchern, Stofftaschentücher]
@@ -42,7 +42,7 @@ Um neues Papier herzustellen (aus sogenannten <abbr title="Fasern, die nur einma
 Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält **15g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>** (steht hier allgemein für die Menge an Schadstoffen).
 
 ### Bilanz
-Ein Papiertaschentuch wiegt im Schnitt **2,6g**, wobei aber **5,7g Holz** benötigt werden. Genau dafür berechnen wir jetzt wie viel Wasser, Energie und CO2 benötigt werden. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen **Jahresverbrauch von 1460 Papiertaschentüchern** voraus (4 Stück am Tag).
+Ein Papiertaschentuch wiegt im Schnitt **2,6g** benötigt werden. Genau dafür berechnen wir jetzt wie viel Wasser, Energie und CO2 benötigt werden. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen **Jahresverbrauch von 1460 Papiertaschentüchern** voraus (4 Stück am Tag).
 
 <div class="table">
   <table>
@@ -56,18 +56,18 @@ Ein Papiertaschentuch wiegt im Schnitt **2,6g**, wobei aber **5,7g Holz** benöt
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>0,29L</td>
-        <td>416L</td>
+        <td>0,13 Liter</td>
+        <td>190 Liter</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,029kWh</td>
-        <td>41,61kWh</td>
+        <td>13 Wh</td>
+        <td>18980 Wh</td>
       </tr>
       <tr>
         <th>CO2 Emissionen</th>
-        <td>0,063kg</td>
-        <td>9,15kg</td>
+        <td>2,9 g</td>
+        <td>4234 g</td>
       </tr>
     </tbody>
   </table>
@@ -93,7 +93,7 @@ Was den Bedarf an Ressourchen angeht, ist Recyclingpapier wesentlich sparsamer. 
 Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei **3g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>**.
 
 ### Bilanz
-Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Hier werden pro Taschentuch **3,12g Altpapier** benötigt. Die Bilanz zeigt dir die folgende Tabelle.
+Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Die Bilanz zeigt dir die folgende Tabelle.
 
 <div class="table">
   <table>
@@ -107,18 +107,18 @@ Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt u
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>0,047 Liter</td>
-        <td>68,33 Liter</td>
+        <td>0,039 Liter</td>
+        <td>57 Liter</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,0062kWh</td>
-        <td>9,11kWh</td>
+        <td>5,2 Wh</td>
+        <td>7592 Wh</td>
       </tr>
       <tr>
         <th>CO2 Emissionen</th>
-        <td>0,0028kg</td>
-        <td>4,1kg</td>
+        <td>2,3 g</td>
+        <td>3358 g</td>
       </tr>
     </tbody>
   </table>
@@ -149,18 +149,18 @@ Konventionell hergestellte Baumwolle braucht eine enorme Menge an Ressourcen. F�
 Große Mengen an **Pestiziden und Entlaubungsmitteln** werden bei herkömmlicher Baumwolle eingesetzt und verbleiben zum Teil auch nachher noch im fertigen Stoff. Außerdem werden in der weiteren Verarbeitung nicht selten **giftige Färbe- und Bleichmittel** eingesetzt, die wir dann später direkt auf der Haut tragen. Das ist durchaus bedenklich.
 
 ### Bilanz
-Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage (wofür wiederum 12,1g Baumwolle benötigt werden). In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
+Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage (wofür wiederum **12,1g Baumwolle** benötigt werden). In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
 
 Für die Berechnung der Waschgänge orientiere ich mich an meinem alten Post. Folgendes legen wir zugrunde:
 
 - 26 Waschgänge im Jahr
-- eine Vollast der Maschine von 7kg
+- eine Vollast der Maschine von 7kg (ein Taschentuch macht also nur 0,16% an der Gesamtbeladung aus)
 - gewaschen wird bei 60°C
 - ein Wasserverbrauch von 72 Litern
 - ein Energieverbrauch von 1,5kWh
 - und 530g CO2-Emissionen pro Waschgang
 
-Damit kommen wir für ein einzelnes Stofftaschentuch auf einen Wasserverbrauch von 0,115 Litern, einen Energieverbrauch von 0,0024kWh und 0,085g CO2-Emissionen.
+Damit kommen wir für ein einzelnes Stofftaschentuch auf einen **Wasserverbrauch von 0,115 Litern**, einen **Energieverbrauch von 0,0024kWh** und **0,85g CO2-Emissionen** pro Waschgang.
 
 <div class="table">
   <table>
@@ -174,18 +174,18 @@ Damit kommen wir für ein einzelnes Stofftaschentuch auf einen Wasserverbrauch v
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>133,1 Liter</td>
-        <td>r</td>
+        <td>133 Liter</td>
+        <td>136 Liter</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,144kWh</td>
-        <td></td>
+        <td>144 Wh</td>
+        <td>206 Wh</td>
       </tr>
       <tr>
         <th>CO2 Emissionen</th>
-        <td>0,022kg</td>
-        <td></td>
+        <td>22 g</td>
+        <td>44 g</td>
       </tr>
     </tbody>
   </table>
@@ -211,7 +211,9 @@ Gegenüber normaler Baumwolle ist Bio-Baumwolle viel sparsamer, was den Verbrauc
 Es werden bei Bio-Baumwolle keine Pestizide verwendet und auch keine Enlaubungsmittel. Somit ist die Chemie alleine im Anbau schonmal stark reduziert.
 
 ### Bilanz
-Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der herkömmlichen Baumwolle (also auch hier 12,2g an Rohstoff). In der nachfolgenden Tabelle findest du dann den Verbrauch für ein Stofftaschentuch in der Herstellung und über ein Jahr hinweg (inklusive Waschgänge).
+Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der herkömmlichen Baumwolle (also auch hier **12,2g an Rohstoff**). In der nachfolgenden Tabelle findest du dann den Verbrauch für ein Stofftaschentuch in der Herstellung und über ein Jahr hinweg (inklusive Waschgänge).
+
+_Auch hier haben wir natürlich einen Wasserverbrauch von 0,115 Litern, einen Energieverbrauch von 0,0024kWh und 0,85g CO2-Emissionen pro Waschgang und 26 Waschgänge._
 
 <div class="table">
   <table>
@@ -225,18 +227,18 @@ Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der her
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>79,86 Liter</td>
-        <td></td>
+        <td>80 Liter</td>
+        <td>83 Liter</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,0242kWh</td>
-        <td></td>
+        <td>24 Wh</td>
+        <td>87 Wh</td>
       </tr>
       <tr>
         <th>CO2 Emissionen</th>
-        <td>0,01331kWh</td>
-        <td></td>
+        <td>13 g</td>
+        <td>35 g</td>
       </tr>
     </tbody>
   </table>
@@ -262,30 +264,34 @@ Zuerst mal der direkte Vergleich von einem Taschentuch zum anderen. Was machen d
     <tbody>
       <tr>
         <th>Wasserbedarf</th>
-        <td>29 Liter</td>
-        <td>0,047 Liter</td>
-        <td>133,1 Liter</td>
-        <td>79,86 Liter</td>
+        <td>0,13 Liter</td>
+        <td>0,039 Liter</td>
+        <td>133 Liter</td>
+        <td>80 Liter</td>
       </tr>
       <tr>
         <th>Energiebedarf</th>
-        <td>0,029kWh</td>
-        <td>0,0062kWh</td>
-        <td>0,144kWh</td>
-        <td>0,0242kWh</td>
+        <td>13 Wh</td>
+        <td>5,2 Wh</td>
+        <td>144 Wh</td>
+        <td>24 Wh</td>
       </tr>
       <tr>
         <th>CO2 Emissionen</th>
-        <td>0,063kg</td>
-        <td>0,0028kg</td>
-        <td>0,022kg</td>
-        <td>0,0133kWh</td>
+        <td>2,9 g</td>
+        <td>2,3 g</td>
+        <td>22 g</td>
+        <td>13 g</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-Jetzt wird es aber richtig interessant. Es ist ja schon klar geworden, dass Papier auf das einzelne Taschentuch betrachtet umweltfreundlicher ist. Aber das ist bei Einwegprodukten oft der Fall. Was sie so umweltschädlich und Mehrwegprodukte so umweltfreundlich macht, zeigt sich erst bei der Nutzung über einen langen Zeitraum.
+Deutlich wird das auch nochmal in dem nachfolgenden Diagramm. Baumwolle und selbst Bio-Baumwolle sind bei der Herstellung nur eines Taschentuchs sehr viel umweltschädlicher als Papier und Recyclingpapier.
+
+{% include figure.html src="/assets/inpost-images/2019/2019-04-19-bilanz-eines-taschentuchs.jpg" alt="Diagramm: Die Bilanz eines einzelnen Stofftaschentuchs" title="Die Bilanz eines einzelnen Stofftaschentuchs" caption="Die Bilanz eines einzelnen Stofftaschentuchs nach verwendetem Rohstoff" %}
+
+Allerdings ist das bei Einwegprodukten oft so. Was sie so umweltschädlich und Mehrwegprodukte hingegen so umweltfreundlich macht, zeigt sich erst bei der Nutzung über einen langen Zeitraum.
 
 ## Zusammenfassung
 Ich möchte dich mit diesem Post wirklich ermutigen mal etwas neues auszuprobieren aka Stofftaschentüchern. Probier sie einfach aus.
