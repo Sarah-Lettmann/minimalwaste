@@ -3,7 +3,7 @@ layout: post
 title: "Mein ökologischer Fußabdruck in Punkten"
 subtitle: "Ein guter Tag hat 100 Punkte"
 date: 2019-03-08
-categories: Emissionen
+categories: [Emissionen]
 description: "Ein vertretbarer ökologischer Fußabdruck hat maximal 100 Punkte sagt eingutertag.org. So sehen meine Emissionen eines Tages in Punkten aus."
 keywords: [ökologischer Fußabdruck, Emissionen]
 image: "/assets/title-images/2019/2019-03-08-mein-oekologischer-fussabdruck-in-punkten.jpg"
@@ -22,19 +22,19 @@ verträglichen Ausstoß an Emissionen habe. Beim Zusammenrechnen ist mir dann ab
 schnell aufgefallen was man alles beachten muss und wie schnell vermeintlich kleine
 Dinge ins Gewicht fallen.
 
-Ein großer Nachteil: Für jeden Bürger der Bundesrepublik Deutschland gehen schonmal
-43 Punkte für die Nutzung von öffentlicher Infrastruktur drauf. Das ist natürlich ein
-valider Punkt, Schwimmbäder, Bücherreihen und Verkehrsmittel verbrauchen ja ebenfalls Strom.
-Aber dann bleiben eben auch nur noch 57 von den ehemals 100 Punkten übrig :O .
-Vielleicht wird das ganze schwieriger als ich dachte…
+Ein großer Nachteil: <mark>Für jeden Bürger der Bundesrepublik Deutschland gehen schonmal
+43 Punkte für die Nutzung von öffentlicher Infrastruktur drauf.</mark> Das ist natürlich ein
+valider Punkt, denn Schwimmbäder, Bücherreihen und Verkehrsmittel verbrauchen ja ebenfalls Strom.
+Aber dann bleiben eben auch nur noch 57 von den ehemals 100 Punkten übrig.
+Vielleicht wird das ganze schwieriger als ich dachte ...
 
 Naja, ich will es trotzdem versuchen und so fange ich an meine Punkte zu sammeln.
 Beim eintragen sind mir gleich ein paar Dinge aufgefallen:
 
 ## Ökostrom ist super
 Dass Ökostrom besser ist als herkömmlicher Strom, der beispielsweise aus Kohle gewonnen wird,
-ist allgemein bekannt. Im Rechner schlagen Tätigkeiten bei denen Ökostrom verwendet wird
-mit 0 Punkten zu buche. Man muss hier bedenken, dass es natürlich nicht so ist,
+ist allgemein bekannt. <mark>Im Rechner schlagen Tätigkeiten bei denen Ökostrom verwendet wird
+mit 0 Punkten zu buche.</mark> Man muss hier bedenken, dass es natürlich nicht so ist,
 dass Ökostrom keine Emissionen verursacht, weil ja schließlich auch die Anlagen
 gebaut werden müssen, usw. Jedoch verdeutlicht dieser Unterschied an Punkten schonmal gut
 worum es geht und wie man sich schnell verbessern kann.
@@ -46,12 +46,12 @@ zu buche! Und dabei hat man sonst noch nichts anders gemacht mit seinen 100 Punk
 ## Lass das Auto stehen
 Mit dem Auto fahren ist schädlich für die Umwelt – auch das ist irgendwie common sense.
 Aber nur mal zum Vergleich: Mein Arbeitsweg, eine viertel Stunde zu Fuß, 5 Minuten mit dem Rad
-oder Auto. Vorankommen mit Muskelkraft kostet nichts – 0 Punkte, aber fahren mit dem Auto
-schlägt mit satten 5 Punkte pro Weg zu buchen. Damit wäre ich an einem Tag statt bei 0
+oder Auto. <mark>Vorankommen mit Muskelkraft kostet nichts – 0 Punkte, aber fahren mit dem Auto
+schlägt mit satten 5 Punkte pro Weg zu buchen.</mark> Damit wäre ich an einem Tag statt bei 0
 Punkten gleich bei 10.
 
 Ebenso kann man seine Punkte mit der Nutzung von öffentlichen Verkehrsmitteln klein halten.
-Mehr dazu findest du im Beitrag 6 Fakten zu Emissionen des Personen- und Güterverkehrs.
+Mehr dazu findest du im Beitrag [6 Fakten zu Emissionen des Personen- und Güterverkehrs](6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs).
 
 ## Fitness in der Natur für die Natur
 Wenn du wirklich was für die Natur und Mutter Erde tun willst, dass lass das Fitnessstudio
@@ -62,7 +62,7 @@ Wenn du allerdings ins Fitnessstudio gehst, dann haut das ordentlich rein.
 Schließlich müssen die Geräte mit Strom betrieben werden, es werden Toiletten und Duschen
 bereit gestellt und auch sonst viel Strom verbraucht.
 
-Wenn du nur einmal die Woche in ein Fitnessstudio gehst, dann sind das 43 Punkte.
+<mark>Wenn du nur einmal die Woche in ein Fitnessstudio gehst, dann sind das 43 Punkte.</mark>
 Vielleicht motiviert es dich ja, dass mit häufigerer Nutzung auch die Punkte weniger werden.
 Bei drei Mal in der Woche sind es nur noch 14 Punkte. Aber trotzdem ist das im Vergleich zu
 0 Punkten viel.
@@ -70,8 +70,8 @@ Bei drei Mal in der Woche sind es nur noch 14 Punkte. Aber trotzdem ist das im V
 ## Weniger tierische Produkte
 Auch hierbei handelt es sich um einen alten Bekannten. Mehr vegetarische und vegane Ernährung
 sind besser für das Klima. Die Produktion von Fleisch, Milch, Käse und Eiern schlägt nämlich
-mit vielen Emissionen zu buche. Ein extremer Vergleich: 100g Schinken kosten 9 Punkte,
-wohingegen 100g Paprika nur mit 0,3 Punkten berechnet werden.
+mit vielen Emissionen zu buche. Ein extremer Vergleich: <mark>100g Schinken kosten 9 Punkte,
+wohingegen 100g Paprika nur mit 0,3 Punkten berechnet werden.</mark>
 
 Nun aber zu den Einzelheiten. Hier findest du meine Tabelle mit allen Tätigkeiten und
 Produkten und natürlich allen dazugehörigen Punkten.
@@ -304,15 +304,15 @@ Die Methode finde ich als Idee auch ziemlich gut. Allerdings muss man sagen,
 dass sie nicht unbedingt genau ist, da einfach nicht jedes einzelne Lebensmittel und jedes
 Kleidungsstück aufgelistet sind und werden können. Trotzdem bietet der Rechner eine gute
 Übersicht über Umweltsünden und zeigt einem wo man Potenzial hat. Wenn man sich einen
-Account erstellt kann man leicht Alternativen testen und so seinen Punktestand optimieren.
+Account erstellt, kann man leicht Alternativen testen und so seinen Punktestand optimieren.
 
 Schwierig finde ich, dass bisher nicht wirklich auf Secondhand-Käufe eingegangen wird.
 Natürlich musste das Produkt produziert werden, aber man wollte ja eben nicht,
 dass dafür neue Ressourcen verschwendet werden, weshalb man gebraucht gekauft hat.
 Bei der aktuellen Methode kann man secondhand als Option nicht wählen und kann nur angeben,
 wie lange das Produkt schon benutzt wird. Aber das ist bei secondhand eben auch
-schwer einzuschätzen. Ich persönlich würde Dinge, die gebraucht gekauft wurden mit 0 Punkten bewerten.
-Das würde auch nochmal einen Fokus auf den enormen ökologischen Vorteil von secondhand Sachen legen.
+schwer einzuschätzen. <mark>Ich persönlich würde Dinge, die gebraucht gekauft wurden mit 0 Punkten bewerten.
+Das würde auch nochmal einen Fokus auf den enormen ökologischen Vorteil von secondhand Sachen legen.</mark>
 
 Aber trotzdem wird eigentlich schon gängiges Wissen mit Fakten aufgefrischt.
 Mehr Bewegung, gesünderer Ernährung in Form von mehr Gemüse und Obst, weniger Konsum,
@@ -323,13 +323,13 @@ gut für das Wohlbefinden und den Geldbeutel.
 Wenn du noch mehr zum Thema Nachhaltigkeit und weniger Konsum wissen willst,
 dann empfehle ich dir folgende Beiträge:
 
-Leben in der Konsumgesellschaft: Warum ist das so?
+[Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
 
-Die Philosophie hinter Zero Waste
+[Die Philosophie hinter Zero Waste](die-philosophie-hinter-zero-waste)
 
-8 alltägliche Dinge für die es Zero Waste Alternativen gibt
+[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
 
 Mich würde interessieren, was du machst, um deinen ökologischen Fußabdruck klein zu halten
 und wie dein bester Tag bisher aussieht. Lass es mich gerne wissen. Bis zum nächsten Mal.
 
-– Sarah
+\- Sarah

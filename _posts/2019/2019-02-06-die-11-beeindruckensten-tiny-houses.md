@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die 11 beeindruckensten Tiny Houses"
+title: "Die 11 beein&shy;druckensten Tiny Houses"
 subtitle: "Diese Mini-Häuser solltest du gesehen haben"
 date: 2019-02-06
 categories: [Minimalismus]
@@ -10,9 +10,9 @@ image: "/assets/title-images/2019/2019-02-06-die-11-beeindruckensten-tiny-houses
 author: sarah-lettmann
 affiliate: false
 ---
-Die Tiny House Bewegung finde ich unglaublich faszinierend. Nicht nur ausgehend vom Minimalismus - also dem sich Verkleinern, weniger besitzen, mit weniger zufrieden sein - sondern auch, weil Platz und viel Raum für den einzelnen immer mehr zum Problem wird. Die Bevölkerung wächst ständig und immer mehr Menschen ziehen in die Städte - das bedeutet Leben auf engstem Raum. Tiny Houses können eine Möglichkeit sein, diesen kleinen Raum sehr angenehm und lebenswert zu gestalten.<!--more-->
+Die Tiny House Bewegung finde ich unglaublich faszinierend. Nicht nur ausgehend vom Minimalismus - also dem sich Verkleinern, weniger besitzen, mit weniger zufrieden sein - sondern auch, weil Platz und viel Raum für den einzelnen immer mehr zum Problem wird. Die Bevölkerung wächst ständig und immer mehr Menschen ziehen in die Städte - das bedeutet Leben auf engstem Raum. Tiny Houses können eine Möglichkeit sein, diesen kleinen Raum sehr angenehm und lebenswert zu gestalten.
 
-Dahinter stehen oft clevere Raumkonzepte, multifunktionales Mobiliar und eine effiziente Nutzung des wenigen Platzes. Ich habe mir schon viele Tiny Houses angesehen und dir hier meine “Lieblingsstücke” zusammengestellt.
+<mark>Dahinter stehen oft clevere Raumkonzepte, multifunktionales Mobiliar und eine effiziente Nutzung des wenigen Platzes.</mark> Ich habe mir schon viele Tiny Houses angesehen und dir hier meine “Lieblingsstücke” zusammengestellt.
 
 ## Das luxuriöse Tiny House
 [The Alpha Tiny House Has It All](https://www.youtube.com/watch?v=ddLxMSpBUzw)
@@ -80,6 +80,6 @@ Für weiter Infos, wie man so ein Tiny House realisieren kann, was die Vorteile 
 
 [Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
 
-Wenn ihr nochmal eine Übersicht über diese Dinge oder einfach weitere Beiträge zu den Mini-Häusern wollt, dann lasst es mich wissen 🙂 . Ich finde dieses Thema nämlich auch sehr spannend und würde gerne mehr darüber wissen. Bis nächste Woche
+Wenn ihr nochmal eine Übersicht über diese Dinge oder einfach weitere Beiträge zu den Mini-Häusern wollt, dann lasst es mich wissen. Ich finde dieses Thema nämlich auch sehr spannend und würde gerne mehr darüber wissen. Bis nächste Woche
 
 \- Sarah
