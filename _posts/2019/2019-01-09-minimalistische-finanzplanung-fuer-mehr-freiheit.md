@@ -58,14 +58,18 @@ Zuerst musst du wissen wie viel Geld du einnimmst und wie viel du ausgibst. Dazu
 
 Dazu gehst du am besten in dein **Online Banking** und guckst dir an, **welche Transaktionen im letzten Jahr auf deinem Konto stattfanden** (schließlich gibt es auch Dinge, die jährlich in Rechnung gestellt werden). Wahrscheinlich wirst du so Dinge finden, von denen du gar nicht mehr wusstest, dass du dafür bezahlst.
 
-Um alle regelmäßigen Transaktionen zu erfassen, trage sie in die entsprechende Spalte im [Arbeitsblatt ein, dass ich dir zusammengestellt habe](/assets/dowmloads/2019-01-09-arbeitsblatt-einnahmen-ausgaben.pdf). Für alle jährlichen Ausgabe kannst du auch gleich schon berechnen, wie viel du monatlich auf die Seite legen musst, damit du das Geld nach einem Jahr vollständig zur Verfügung hast.
+Um alle regelmäßigen Transaktionen zu erfassen, trage sie in die entsprechende Spalte im Arbeitsblatt ein, dass ich dir zusammengestellt habe. Du kannst es im Folgenden runterladen. Für alle jährlichen Ausgabe kannst du auch gleich schon berechnen, wie viel du monatlich auf die Seite legen musst, damit du das Geld nach einem Jahr vollständig zur Verfügung hast.
+
+{% include download.html file-name="Arbeitsblatt Einnahmen Ausgabe" file-path="/assets/downloads/2019-01-09-arbeitsblatt-einnahmen-ausgaben.pdf" %}
 
 Wenn du mit dem Arbeitsblatt fertig bist, kannst du alles in ein **Haushaltsbuch** überführen. So ein Budget muss nicht kompliziert sein und du kannst es ganz einfach halten. Dennoch ist es enorm nützlich, um zu sehen wofür du dein Geld ausgibst und wie viel du tatsächlich noch übrig hast am Monatsende.
 
 ### Erstelle ein Haushaltsbuch
 Ein Haushaltsbuch hilft dir dabei immer die Übersicht über deine Einnahmen und Ausgaben zu haben und besser zu planen. Dazu musst du es nicht total übertreiben, sondern es reicht alleine schon eine einfache Auflistung von Einnahmen und Ausgaben und natürlich der Saldo, also was am Ende übrig bleibt.
 
-In Excel kannst du dir solche Listen ganz einfach erstellen und aufsummieren lassen. Falls du darauf keine Lust hast, gibt es im Internet aber auch zig Vorlage dafür oder du nimmst die, die ich extra und nur für sich zusammen gebastelt habe: [Haushaltsbuch Excel Template](/assets/dowmloads/2019-01-09-haushaltsbuch-template.xlsx).
+In Excel kannst du dir solche Listen ganz einfach erstellen und aufsummieren lassen. Falls du darauf keine Lust hast, gibt es im Internet aber auch zig Vorlage dafür oder du nimmst die, die ich extra und nur für sich zusammen gebastelt habe.
+
+{% include download.html file-name="Haushaltsbuch Excel Template" file-path="/assets/downloads/2019-01-09-haushaltsbuch-template.xlsx" %}
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-09-finanzplanung.jpg" alt="Finanzplanung" title="Foto von rawpixel – Unsplash" caption="Foto von rawpixel – Unsplash" %}
 
@@ -106,13 +110,7 @@ Diese Kosten sind oft unnötig hoch. Am besten kannst du ihnen Herr oder Frau we
 - Durchforste die Ausgaben des letzten Jahres und identifiziere unnötige Kosten.
 - Verfolge ein paar Monate deine variablen Ausgaben um “Geldfresser” zu finden.
 
-So, das waren meine Tipps für deine Finanzen. Ich persönlich liebe ja Organisation und solche Aufgabe. Und mehr Geld zur Verfügung zu haben, macht auch Spaß. <mark>Minimalismus hat mir definitiv geholfen mein Geld weniger und dafür sinnvoller auszugeben.</mark> Wie sieht es bei dir aus? Hast du schon ein Haushaltsbuch? Oder schonmal jeden Monat alle Ausgaben erfasst? Ich hoffe es waren ein paar Tipps für dich mit dabei. Hier nochmal die beiden Dateien zum Download:
-
-[Arbeitsblatt Einnahmen Ausgabe](/assets/dowmloads/2019-01-09-arbeitsblatt-einnahmen-ausgaben.pdf)
-
-[Haushaltsbuch Excel Template](/assets/dowmloads/2019-01-09-haushaltsbuch-template.xlsx)
-
-Und falls du dich für Minimalismus interessierst, dann empfehle ich dir folgende Artikel:
+So, das waren meine Tipps für deine Finanzen. Ich persönlich liebe ja Organisation und solche Aufgabe. Und mehr Geld zur Verfügung zu haben, macht auch Spaß. <mark>Minimalismus hat mir definitiv geholfen mein Geld weniger und dafür sinnvoller auszugeben.</mark> Wie sieht es bei dir aus? Hast du schon ein Haushaltsbuch? Oder schonmal jeden Monat alle Ausgaben erfasst? Ich hoffe es waren ein paar Tipps für dich mit dabei. Und falls du dich für Minimalismus interessierst, dann empfehle ich dir folgende Artikel:
 
 [Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
 

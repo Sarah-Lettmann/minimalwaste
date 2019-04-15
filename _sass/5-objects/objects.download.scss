@@ -1,0 +1,38 @@
+.download {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5*$padding-base $padding-base;
+  border: $border;
+  @include attention() {
+    color: $color-text;
+  }
+
+  &__icon {
+    flex-shrink: 0;
+    display: inline-block;
+    position: relative;
+    width: 3rem;
+    height: 3rem;
+    padding: 0.75*$padding-base;
+    margin-left: 0.5*$margin-base;
+    border-radius: 50%;
+    border: 2px solid $color-accent;
+    color: $color-accent;
+    background-color: $color-background;
+
+    &::before {
+      position: absolute;
+      top: 9px;
+      right: 14px;
+      @include breakpoint(small) {
+        top: 12px;
+        right: 15px;
+      }
+    }
+  }
+
+}
+
+.post__body .download {
+  border-bottom: $border;
+}
