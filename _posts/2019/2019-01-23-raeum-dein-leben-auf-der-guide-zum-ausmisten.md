@@ -13,7 +13,7 @@ affiliate: false
 Wir sind im neuen Jahr und bei vielen steht bestimmt auch ausmisten auf dem Plan für 2019. Darum gibt es heute einen Guide wie du am besten vorgehst, damit das Ausmisten auch Spaß macht und du mit dem Ergebnis zufrieden bist. Ach ja, und damit du nicht wahnsinnig wirst oder den Verstand verlierst. Denn manchmal hat man so viele Sachen, dass man schier darin unterzugehen scheint. Aber keine Sorge, Ruhe bewahren, Schritt für Schritt vorgehen, dann wird das.
 
 ## Der Prozess des Ausmistens
-Ich bin kein großer Fan der Konmarie-Methode. Das liegt daran, dass ich Ausmisten und Minimalisieren eher als lang anhaltenden Prozess sehen, wohingegen Marie Kondo erreichen will, dass man einmal für das ganze Leben aufräumt. Daher ist in diesem speziellen Fall auch die Methodik nach Kategorien auszumisten sinnvoll, denn so vergisst man nichts.
+Ich bin kein großer Fan der Konmarie-Methode. <mark>Das liegt daran, dass ich Ausmisten und Minimalisieren eher als lang anhaltenden Prozess sehen, wohingegen Marie Kondo erreichen will, dass man einmal für das ganze Leben aufräumt.</mark> Daher ist in diesem speziellen Fall auch die Methodik nach Kategorien auszumisten sinnvoll, denn so vergisst man nichts.
 
 Allerdings ist das meines Erachtens nach in den seltensten Fällen praktikabel. Wenn man selbst ausmistet, ohne dabei einen Berater an der Seite zu haben, dann muss man sich Stück für Stück vorarbeiten. Außerdem **kann es sich auch kaum einer Leisten das komplette Haus für mehrere Wochen auf den Kopf zu stellen** - der Alltag muss schließlich auch noch irgendwie bewältigt werden. Deswegen schlage ich was anderes vor.
 
@@ -32,14 +32,14 @@ Mache dir am Anfang am besten **eine Liste mit allen Räumen und allen darin vor
 
 Noch ein Hinweis: Es wird vorkommen, dass du Dinge an Orten findest, wo sie nicht hingehören. Du kannst sie dann gleich durch sehen und Sachen ausmisten, bei denen du dir sofort sicher bist. Den Rest solltest du aber dann an einen passenden Ort bringen - auch wenn das heißt, dass du die Dinge später nochmals durchgehen wirst. Sinn dahinter ist, dass du **nach dem Ausmisten gleich einen festen Platz für alles** hast.
 
-Wenn du Beispielsweise aus irgendeinen Grund Bücher im Kleiderschrank stehen hast, dann räume sie in das Bücherregal im Wohnzimmer. Dabei kann es natürlich sein, dass dein Bücherregal überquillt. Dann wäre es ein cleverer Schritt das als nächstes durchzugehen. Du hast ja deinen Liste und wirst so den Überblick nicht verlieren.
+<mark>Wenn du Beispielsweise aus irgendeinen Grund Bücher im Kleiderschrank stehen hast, dann räume sie in das Bücherregal im Wohnzimmer.</mark> Dabei kann es natürlich sein, dass dein Bücherregal überquillt. Dann wäre es ein cleverer Schritt das als nächstes durchzugehen. Du hast ja deinen Liste und wirst so den Überblick nicht verlieren.
 
 Hier noch ein paar Gedanken, wenn du fleißig am Ausmisten bist:
 
-- Was miste ich gerade aus? <i style="font-size: 15px;">Beispiel: Kleiderschrank</i>
-- Was befindet sich darin? <i style="font-size: 15px;">Beispiel: Kleidung von mir, Koffer, Krimskrams</i>
-- Was soll in Zukunft dort seinen festen Platz haben? <i style="font-size: 15px;">Beispiel: Nur die Kleidung.</i>
-- Habe ich davon irgendwo noch mehr? <i style="font-size: 15px;">Ja, also alles herbei holen.</i>
+- Was miste ich gerade aus? _Beispiel: Kleiderschrank_
+- Was befindet sich darin? _Beispiel: Kleidung von mir, Koffer, Krimskrams_
+- Was soll in Zukunft dort seinen festen Platz haben? _Beispiel: Nur die Kleidung._
+- Habe ich davon irgendwo noch mehr? _Ja, also alles herbei holen._
 
 ## Das 5-Minuten Ausmisten
 Selbst wenn du regelmäßig ausmistest, kann es sein, dass du zwischendurch das Gefühl hast, dass du mal wieder könntest. Oder aber du gestaltest dein jährliches Ausmisten einfach hocheffizient. Jeder wie er mag. In beiden Fällen ist das 5-Minuten Ausmisten gut geeignet.
@@ -48,7 +48,7 @@ Das funktioniert folgendermaßen: **Du nimmst dir eine große Kiste**, wie z.B. 
 
 ![Bücher, Spiele und Kleinkram](/assets/inpost-images/2019/2019-01-23-spiele-und-buecher-entruempeln.jpg "© {{ site.title }}")
 
-Hintergrund ist der, dass jeder nach einer gewissen Zeit ein paar Dinge im Hinterkopf hat, bei denen er sich sicher ist, dass sie weg können. Diese Dinge kannst du mit der 5-Minuten Methode ganz einfach und schnell einpacken.
+> Hintergrund ist der, dass jeder nach einer gewissen Zeit ein paar Dinge im Hinterkopf hat, bei denen er sich sicher ist, dass sie weg können. Diese Dinge kannst du mit der 5-Minuten Methode ganz einfach und schnell einpacken.
 
 Zugegeben, das ist **eher was für geübte Ausmister**, die nicht mehr bei jedem Teil überlegen müssen, ob sie das noch haben wollen.
 
@@ -61,17 +61,19 @@ Der Gedanke hinter dem Ausmisten oder Minimalismus im Allgemeinen ist, dass zu v
 
 Das alles frisst unsere Aufmerksamkeit, unsere Konzentration, unsere Hirnkapazität.
 
-Ich spreche da aus Erfahrung. Selbst in meiner kleinen Studentenbude mit 25m² hatte ich schon so viel Zeug zusammengekauft, dass es mich erdrückt hat. Ich habe mir ständig Gedanken gemacht, was ich noch kaufen könnte, welches Buch ich im Regal stehen haben will, welche Dinge noch für die Küche brauche, usw. Jeden Monat habe ich, mit dem wenigen Geld das ich hatte, auf Amazon bestellt.
+Ich spreche da aus Erfahrung. <mark>Selbst in meiner kleinen Studentenbude mit 25m² hatte ich schon so viel Zeug zusammengekauft, dass es mich erdrückt hat.</mark> Ich habe mir ständig Gedanken gemacht, was ich noch kaufen könnte, welches Buch ich im Regal stehen haben will, welche Dinge noch für die Küche brauche, usw. Jeden Monat habe ich, mit dem wenigen Geld das ich hatte, auf Amazon bestellt.
 
 ![Gitarre](/assets/inpost-images/2019/2019-01-23-gitarre.jpg "© {{ site.title }}")
 
 Im Nachhinein macht mich das traurig, weil ich soviel unnütze Sachen gekauft habe, die ich zu einem großen Teil gar nicht mehr besitze, weil ich sie eben nicht gebraucht habe. Aber auch der Gedanke an das viele Geld, das den Bach runtergegangen ist, ist schwer zu ertragen.
 
-Sinn des Ausmistens ist es auch, **von dem Konsumwahn wegzukommen** und sein Kaufverhalten zu ändern. Mal zu hinterfragen, ob man das wirklich braucht, statt gleich zuzuschlagen. Einfach mal eine Nacht drüber schlafen. Einfach mal nicht auf die Angebote aus den Prospekten eingehen. Auch mal zufrieden sein mit dem was man hat.
+<mark>Sinn des Ausmistens ist es auch, von dem Konsumwahn wegzukommen und sein Kaufverhalten zu ändern. Mal zu hinterfragen, ob man das wirklich braucht, statt gleich zuzuschlagen.</mark> Einfach mal eine Nacht drüber schlafen. Einfach mal nicht auf die Angebote aus den Prospekten eingehen. Auch mal zufrieden sein mit dem was man hat.
+
+> Natürlich führt man sich verführt, dass ist ja der Sinn von Marketingstrategien, die täglich an allen Ecken und Enden auf uns einprasseln. Je länger man sich in Minimalismus übt, desto leichter fällt es einem dabei Ruhe zu bewahren.
 
 Ich habe das geschafft und kaufe heute nur noch wenige Dinge. Und es geht mir damit besser denn je.
 
-## Zusammenfassung
+## Zusammen&shy;fassung
 - ein großes, aber schrittweises Ausmisten
 - dann jedes Jahr erneut entrümpeln (Frühjahrsputz)
 - nach Räumen und darin befindlichen Möbelstücken vorgehen

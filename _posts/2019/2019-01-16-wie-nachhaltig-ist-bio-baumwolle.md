@@ -21,7 +21,7 @@ Baumwolle scheint also ein Stoff mit riesiger Nachfrage zu sein, der quasi weltw
 ## Wasserverbrauch
 Da hast du sicher auch schon von gehört: Baumwolle hat einen schrecklich hohen Wasserverbrauch. Und ja, das stimmt. Konventionelle Baumwolle verbraucht im weltweiten Durchschnitt **11.000l Wasser auf 1kg Baumwolle**. In Indien sind es sogar 23.000l pro Kilogramm. Das kommt dadurch, dass Baumwolle eher in trockenen Gebieten angebaut wird, damit die “Wolle” nicht durch Feuchtigkeit schimmelt. Somit muss **viel Wasser extern zugeführt** werden, beispielsweise über Gewässer oder das Grundwasser. So werden die sowieso schon wasserarmen Regionen zusätzlich belastet.
 
-Weltweit werden zum Anbau von Baumwolle jährlich 256 Kubikkilometer Wasser benötigt, das sind 256 Billiarden Liter (ausgeschrieben 256.000.000.000.000 Liter).
+<mark>Weltweit werden zum Anbau von Baumwolle jährlich 256 Kubikkilometer Wasser benötigt, das sind 256 Billiarden Liter (ausgeschrieben 256.000.000.000.000 Liter).</mark>
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-16-wassertropfen.jpg" alt="Wassertropfen" title="Foto von Levi XU – Unsplash" caption="Foto von Levi XU – Unsplash" %}
 
@@ -32,29 +32,29 @@ Bio-Baumwolle verbraucht bis zu **40% weniger Wasser** als konventionelle Baumwo
 ## Treibhausgase
 Auch die Treibhausgas-Emissionen sind ein großes Thema bei Baumwolle. **Eine Tonne Baumwolle produziert 1,8 Tonnen CO2.** Das kommt unter anderem durch **lange Transportwege** zustande. Denn Baumwolle ist kaum regional zu bekommen und muss somit fast immer nach Europa geliefert werden. Hinzu kommt, dass die Produktion von **synthetischen Düngemitteln und Pestiziden** ebenfalls Energie verbraucht &#8211; zudem eigentlich sehr unnötige Energie.
 
-Für die Herstellung eines Damen T-Shirts mit konventioneller Baumwolle fallen fünf bis sieben Kilogramm CO2 an, für ein Herren Shirt sogar sieben bis neun Kilogramm.
+<mark>Für die Herstellung eines Damen T-Shirts mit konventioneller Baumwolle fallen fünf bis sieben Kilogramm CO2 an, für ein Herren Shirt sogar sieben bis neun Kilogramm.</mark>
 
 Auch Bio-Baumwolle wird in den gleichen weit entfernten Regionen angebaut, wie konventionelle Baumwolle. Jedoch wird bei Kleidung aus Bio-Baumwolle oft darauf geachtet, dass der **Rohstoff aus Europa** stammt und damit der Transportweg nicht so weit ist. Beliebt sind die Türkei, Griechenland oder Spanien. Die Studie der Soil Association fand heraus, dass bei Bio-Baumwolle ein um **62% geringerer Energieverbrauch** anfällt.
 
 ## Einfluss auf den Boden
 Neben dem horrenden Wasserverbrauch und den CO2-Emissionen hinterlässt Baumwolle auch noch Schäden an den Böden auf denen sie angebaut wird. Baumwolle wird in **Monokultur** angebaut, da die Pflanze sehr langsam wächst und der Gewinn maximiert werden kann, wenn die Felder gleich nach der Ernte erneut bestellt werden. Aus dem gleichen Grund werden auch **synthetische Dünger** eingesetzt, die oft giftig sind. So werden die Pflanzen zwar **größer und ertragreicher**, aber der Umwelt und Arbeiter leiden darunter.
 
-Die Monokultur macht es auch erst notwendig, dass Pestizide eingesetzt werden, die **Schädlinge wie den Baumwollkapselkäfer** fern halten sollen. So kommt es, dass **25% der weltweit genutzten Pflanzenschutzmittel** für Baumwolle verwendet werden. Und das obwohl die Anbaufläche für diese gerade mal **2,5% der weltweiten Ackerfläche** ausmacht. Außerdem werden die **Pflanzenschutzmittel** oft **ausgewaschen** und landen so im **Grundwasser** und verunreinigen dieses. Damit der Giftcocktail perfekt ist, wird nun noch mit sehr giftigen **Entlaubungsmitteln** gearbeitet, um die Ernte zu erleichtern.
+Die Monokultur macht es auch erst notwendig, dass Pestizide eingesetzt werden, die **Schädlinge wie den Baumwollkapselkäfer** fern halten sollen. So kommt es, dass **25% der weltweit genutzten Pflanzenschutzmittel** für Baumwolle verwendet werden. Und das obwohl die Anbaufläche für diese gerade mal **2,5% der weltweiten Ackerfläche** ausmacht. Außerdem werden die **Pflanzenschutzmittel** oft **ausgewaschen** und landen so im **Grundwasser** und verunreinigen dieses. Damit der Giftcocktail perfekt ist, wird nun noch mit sehr giftigen <abbr title="Herbizide, führen zum Ausfallen der Blätter">Entlaubungsmitteln</abbr> gearbeitet, um die Ernte zu erleichtern.
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-16-baumwollfelder.jpg" alt="Baumwollfelder" title="Foto von Nick Kane – Unsplash" caption="Foto von Nick Kane – Unsplash" %}
 
 Selbst konventionelle Baumwolle hat nach außen hin ein relativ sauberes und nachhaltiges Image. Die Realität dahinter sieht aber leider ganz anders aus.
 
-Bio-Baumwolle wird hingegen nur **mit natürlichen Mitteln gedüngt** wie Mist oder durch Gründüngung. Monokulturen entstehen gar nicht erst, da die [**Fruchtfolge**](https://de.wikipedia.org/wiki/Fruchtfolge) **beachtet** wird. So bleiben die Böden fruchtbar und ertragreich, da die Nährstoffe erhalten bleiben. Allerdings kann so **in mancher Saison keine Ernte** eingefahren werden.
+Bio-Baumwolle wird hingegen nur **mit natürlichen Mitteln gedüngt** wie Mist oder durch Gründüngung. Monokulturen entstehen gar nicht erst, da die <abbr title="oder auch Felderwirtschaft, Abfolge der angebauten Nutzpflanzen">Fruchtfolge</abbr> beachtet wird. So bleiben die Böden fruchtbar und ertragreich, da die Nährstoffe erhalten bleiben. Allerdings kann so **in mancher Saison keine Ernte** eingefahren werden.
 
-Die **Felderwirtschaft beugt** außerdem auch **Schädlingen vor**. Gegen diese kann aber auch **durch andere Pflanzen** vorgegangen werden. Diese werden zwischen der Baumwolle platziert und so gewählt, dass sie den schädlingen “besser schmecken” als die Baumwolle. Zu guter letzt wird Bio-Baumwolle **mit der Hand geerntet** &#8211; Entlaubungsmittel sind also nicht notwendig.
+Die **Felderwirtschaft beugt** außerdem auch **Schädlingen vor**. Gegen diese kann aber auch **durch andere Pflanzen** vorgegangen werden. Diese werden zwischen der Baumwolle platziert und so gewählt, dass sie den schädlingen “besser schmecken” als die Baumwolle. Zu guter letzt wird Bio-Baumwolle **mit der Hand geerntet** - Entlaubungsmittel sind also nicht notwendig.
 
 ## Beeinflussung der Fauna
 Die ganzen Gifte, die bei herkömmlich angebauter Baumwolle zum Einsatz kommen, wirken sich sicher auch auf die Tierwelt aus. Dazu konnte ich aber leider keine Studien finden (zumindest nicht konkret für Baumwolle). Außerdem bereitet mir die Verwendung von **gentechnisch verändertem Saatgut** sorgen. **Langzeitwirkungen** sind noch nicht erforscht und es ist nicht klar wie sich sowas auf die Tierwelt oder sogar auf uns Menschen auswirken kann.
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-16-schmetterling.jpg" alt="Schmetterling" title="Foto von Boris Smokrovic – Unsplash" caption="Foto von Boris Smokrovic – Unsplash" %}
 
-## Arbeitsbedingungen
+## Arbeits&shy;bedingungen
 Es wundert dich sicher nicht, wenn die vielen Chemikalien auch einen erheblichen Einfluss auf die Arbeiter und sogar die Menschen hat, die in den Regionen leben, in denen Baumwolle angebaut wird. Oft werden **keine Masken** und noch nicht einmal ein Mundschutz getragen, wenn die Chemikalien von den Arbeitern auf die Felder gebracht werden. Wie schon vorher erwähnt **landen die Chemikalien durch Auswaschung** nicht selten im Grundwasser und damit oft auch **im Trinkwasser**.
 
 Gesundheitliche Folgeschäden sind daher nicht ungewöhnlich. Laut einer Studie der WHO **sterben jährlich rund 20.000 Menschen** an den Folgen der Chemikalien, nicht nur Bauern und Erntehelfer, sondern auch viele Menschen, die in den Anbaugebieten leben. Hinzu kommen **jährlich ca. 500.000 schwerwiegende Vergiftungsfälle**.
@@ -70,7 +70,7 @@ Neben den Einfluss auf die Bauern und Menschen in den Anbauregionen, haben die v
 
 Leider ist es aber auch so, dass **selbst Bio-Baumwolle** mit **giftigem Bleichmitteln oder Färbemitteln** weiter behandelt wird. Diese können sogar **erbgutverändernd** sein.
 
-Daher kannst du dir leider nicht sicher sein, dass das ganze Kleidungsstück schonend und nachhaltig produziert wurde, selbst wenn es aus Bio-Baumwolle ist. Wie du gute Kleidung aus Bio-Baumwolle erkennst, erkläre ich dir gleich noch.
+<mark>Daher kannst du dir leider nicht sicher sein, dass das ganze Kleidungsstück schonend und nachhaltig produziert wurde, selbst wenn es aus Bio-Baumwolle ist.</mark> Wie du gute Kleidung aus Bio-Baumwolle erkennst, erkläre ich dir gleich noch.
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-09-kleidung.jpg" alt="Kleidung" title="Foto von The Creative Exchange – Unsplash" caption="Foto von The Creative Exchange – Unsplash" %}
 
@@ -90,10 +90,10 @@ Wie kannst du nun Kleidung erkennen, die aus Bio-Baumwolle gefertigt wurde? Dabe
 
 [Hier findest du eine Liste von nachhaltigen und umweltfreundlichen Shops.](onlineshops-fuer-faire-und-nachhaltige-mode)
 
-## Zusammenfassung
-Abschließend kann man sagen, dass Bio-Baumwolle die bessere Wahl ist, selbst wenn sie nicht nachhaltig weiter verarbeitet wurde. Sie
+## Zusammen&shy;fassung
+Abschließend kann man sagen, <mark>dass Bio-Baumwolle die bessere Wahl ist, selbst wenn sie nicht nachhaltig weiter verarbeitet wurde</mark>. Sie
 
-- verbrauch 40-91% weniger Wasser.
+- verbraucht 40-91% weniger Wasser.
 - hat einen 62% geringeren Energieverbrauch.
 - wird mit rein natürlichen Düngemitteln angebaut.
 - kommt ohne gentechnisch verändertes Saatgut aus.
@@ -102,13 +102,19 @@ Abschließend kann man sagen, dass Bio-Baumwolle die bessere Wahl ist, selbst we
 - enthält keine giftigen Chemikalien, die wir dann auf der Haut tragen.
 - hat keinen negativen Einfluss auf die Umwelt, den Boden, das Wasser, Flora und Fauna und die Menschen in den Anbaugebieten.
 
-Ich hoffe ich konnte dich motivieren, bei deinem nächsten Kauf von Kleidung auf Bio-Baumwolle zu achten. Denn selbst wenn sie noch lange nicht perfekt ist, es ist ein großer Schritt in die richtige Richtung und hin zu nachhaltiger Landwirtschaft. Wenn du dich noch weiter über nachhaltige Mode informieren möchtest, dann guck mal hier:
+Ich hoffe ich konnte dich motivieren, bei deinem nächsten Kauf von Kleidung auf Bio-Baumwolle zu achten. Denn selbst wenn sie noch lange nicht perfekt ist, es ist ein großer Schritt in die richtige Richtung und hin zu nachhaltiger Landwirtschaft. Wenn du dich noch weiter über nachhaltige Mode oder Nachhaltigkeit im Allgemeinen informieren möchtest, dann guck mal hier:
 
 [Die Tragödien hinter Fast Fashion](die-tragoedien-hinter-fast-fashion)
+
+[Die Vorteile von Glas gegenüber Plastik](die-vorteile-von-glas-gegenueber-plastik)
+
+[Was ist Plastik eigentlich genau?](was-ist-plastik)
 
 Wir sehen uns dann nächste Woche.
 
 \- Sarah
+
+&nbsp;
 
 ## Zum Weiterlesen
 1. [Wikipedia: Baumwolle](https://de.wikipedia.org/wiki/Baumwolle)  

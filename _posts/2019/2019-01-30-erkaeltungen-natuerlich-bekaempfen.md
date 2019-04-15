@@ -21,7 +21,7 @@ Ja, das ist leider **das einzige das dem Körper wirklich aktiv dabei hilft**, d
 
 ![Viel ausruhen](/assets/inpost-images/2019/2019-01-30-ausruhen.jpg "© {{ site.title }}")
 
-Dafür braucht er viel Kraft und die kannst du ihm am besten geben, wenn du dich ausruhst. Das heißt: **kein Sport, kein zur Arbeit gehen, keine “ich muss trotzdem die ganze Wohnung putzen”-Aktionen**, nein! Am besten ist: **Viel Schlaf!** Und damit meine ich auch wirklich Schlaf. Das wirkt meiner Erfahrung nach am besten. Zwar ist den ganzen Tag auf der Couch rumliegen und sich vom Partner Suppe bringen lassen auch schon ganz gut, aber schlafen ist noch besser. Und von hinten bis vorne bedienen lassen, kann man sich ja trotzdem noch.
+Dafür braucht er viel Kraft und die kannst du ihm am besten geben, wenn du dich ausruhst. Das heißt: **kein Sport, kein zur Arbeit gehen, keine “ich muss trotzdem die ganze Wohnung putzen”-Aktionen**, nein! <mark>Am besten ist: Viel Schlaf! Und damit meine ich auch wirklich Schlaf.</mark> Das wirkt meiner Erfahrung nach am besten. Zwar ist den ganzen Tag auf der Couch rumliegen und sich vom Partner Suppe bringen lassen auch schon ganz gut, aber schlafen ist noch besser. Und von hinten bis vorne bedienen lassen, kann man sich ja trotzdem noch.
 
 ## Viel trinken
 Ja, ich weiß, ich höre dich: Das sollte man doch generell machen. Ja, stimmt. Aber: Mein Arzt hat mir schon mehrfach empfohlen besonders wenn man krank ist, viel zu trinken. Er sagte, dass **helfe dem Körper aktiv den Schleim zu lösen**. Also achte ich darauf jetzt immer.
@@ -42,7 +42,7 @@ Wenn du durch das viele Husten einen gereizten Hals hast, dann hilft oft eine **
 ![Heiße Zitrone](/assets/inpost-images/2019/2019-01-30-heisse-zitrone.jpg "© {{ site.title }}")
 
 ### Japanisches Heilpflanzenöl
-Das ist für mich die Geheimwaffe, wenn es um verschleimte Nebenhöhlen geht. Dabei handelt es sich um **reines Minzöl**. Das kannst du dir, wenn du Kopfschmerzen von verschlossenen Nebenhöhlen hast, einfach vor dem Schlafen unter die Nase schmieren. Du kannst es aber auch zum **Baden oder Inhalieren** benutzen. Und wenn ich mich nicht irre kann man sogar bei Magenbeschwerden einnehmen.
+<abbr title="ätherisches Minzöl">Japanisches Heilpflanzenöl</abbr> ist für mich die Geheimwaffe, wenn es um verschleimte Nebenhöhlen geht. Das kannst du dir, wenn du Kopfschmerzen von verschlossenen Nebenhöhlen hast, einfach vor dem Schlafen unter die Nase schmieren. Du kannst es aber auch zum **Baden oder Inhalieren** benutzen. Und wenn ich mich nicht irre kann man sogar bei Magenbeschwerden einnehmen.
 
 Das Zeug kenne ich übrigens von meinem Vater, wollte es jahrelang nicht benutzen, weil ich dachte es bringt nichts und habe jetzt festgestellt, dass er doch immer Recht hatte und dieses Öl einfach Wunder wirkt. Naja, so ist das halt, wenn man nicht auf seinen Eltern hört… Japanisches Heilpflanzenöl bekommt man übrigens in jeder Drogerie.
 
@@ -61,8 +61,8 @@ Auch hier gilt wieder, dass wir unseren Körper nicht zu sehr belasten wollen. E
 
 Das einzige von dem du **die Finger lassen** solltest, sind **Bohneneintöpfe oder Kohlsuppen** - vor Allem, wenn du es mit dem Magen hast. Ich glaube das brauche ich auch nicht weiter auszuführen.
 
-## Zusammenfassung
-Das waren meine Tipps, wie du deinen Körper hilfst, die Erkältung schnell wieder los zu werden. Nichts besonders spannendes, wie ich finde, aber vielleicht liegt auch darin gerade das Geheimnis. So hätten es unsere Großmütter und Mütter gemacht und wer hat nicht Erinnerungen an seine Kindheit, wie man mit genau solchen Hausmittelchen gesund gepflegt wurde. Also, back to basics! Was also zu merken ist:
+## Zusammen&shy;fassung
+Das waren meine Tipps, wie du deinen Körper hilfst, die Erkältung schnell wieder los zu werden. Nichts besonders spannendes, wie ich finde, aber vielleicht liegt auch darin gerade das Geheimnis. <mark>So hätten es unsere Großmütter und Mütter gemacht und wer hat nicht Erinnerungen an seine Kindheit, wie man mit genau solchen Hausmittelchen gesund gepflegt wurde.</mark> Also, back to basics! Was also zu merken ist:
 
 - gibt dir Zeit
 - ruhe dich aus und schone dich
