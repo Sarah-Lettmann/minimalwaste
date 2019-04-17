@@ -1,7 +1,7 @@
 {% comment %}
   Einbinden mit {% include download.html file-name="" file-path="" %}
 {% endcomment %}
-<a class="download" href="{{ include.file-path }}" target="_blank">
+<a class="download" href="{{ include.file-path }}" target="_blank" aria-label="Download {{ include.file-name }}">
   <span class="download__text">{{ include.file-name }}</span>
   <span class="download__icon fas fa-arrow-down"></span>
 </a>

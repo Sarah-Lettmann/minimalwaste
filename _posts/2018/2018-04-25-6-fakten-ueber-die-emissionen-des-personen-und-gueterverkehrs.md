@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 Fakten zu Emissionen des Personen- und Güterverkehrs"
-subtitle: "Daher kommen unsere Verkehrs-Emissionen?"
+subtitle: "Daher kommen unsere Verkehrs-Emissionen"
 date: 2018-04-25
 categories: [Emissionen]
 description: "Inzwischen weiß jeder, dass Fliegen nicht gut für die Umwelt ist. Aber wie sieht es mit den Emissionen des Personen- und Güterverkehrs im Allgemeinen aus?"

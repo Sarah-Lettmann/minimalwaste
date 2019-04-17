@@ -8,6 +8,10 @@
 
   &-results {
     @extend .category__posts;
+
+    .post__title a {
+      border-bottom: none;
+    }
   }
 
   &-no-results {
