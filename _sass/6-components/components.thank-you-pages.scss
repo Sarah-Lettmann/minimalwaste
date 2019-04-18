@@ -1,0 +1,17 @@
+.downloads {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: -0.5*$padding-base;
+  margin-right: -0.5*$padding-base;
+
+  &__link {
+    flex-basis: 50%;
+    max-width: 300px;
+    padding: 0 0.5*$padding-base;
+  }
+}
+
+.page a.downloads__link {
+  border-bottom: none;
+}
