@@ -3,7 +3,8 @@ $font-size-button: 1.2*$font-size-base;
 button,
 input[type="submit"],
 input[type="reset"] {
-  padding: 0.75rem 1rem;
+  width: auto;
+  padding: 0.5*$padding-base 2*$padding-base;
   border: $border;
   border-radius: $border-radius;
   color: $color-text;
@@ -17,11 +18,44 @@ input[type="reset"] {
   }
 }
 
+input[type="submit"] {
+  border: none;
+  color: $color-light-base;
+  background-color: $color-dark-base;
+  @include transition(color);
+  @include transition(background-color);
+  @include attention() {
+    color: $color-light-base;
+    background-color: $color-medium-base;
+  }
+}
+
 textarea,
 input {
   width: 100%;
-  border: 1px solid $color-medium-base;
-  font-size: $font-size-text;
+  border: $border;
+  border-radius: $border-radius;
+  font-size: $font-size-base;
   padding: 0.5*$padding-base;
   margin-bottom: $margin-base;
+  color: $color-text;
+  @include latoFont;
+}
+
+input {
+  &::placeholder {
+    color: $color-light-light-base;
+  }
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  width: auto;
+  margin-bottom: 0;
+  margin-right: 0.5*$margin-base;
+  cursor: pointer;
+}
+
+label {
+  cursor: pointer;
 }

@@ -28,8 +28,8 @@
 
   <body class="site">
     {% include header.html %}
-    {% if page.title == '404' %}
-      <main class="main main--404">
+    {% if page.type == 'center' %}
+      <main class="main main--center">
         <div class="container">
           {{ content }}
         </div>

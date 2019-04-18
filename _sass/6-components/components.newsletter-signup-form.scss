@@ -1,0 +1,31 @@
+.mailchimp-form {
+
+  &__required {
+    font-size: $font-size-base;
+    color: $color-subtext;
+  }
+
+  &__asterisk {
+    color: $color-accent;
+  }
+
+  &__label {
+    font-weight: 700;
+  }
+
+  &__headline {
+    font-size: 2rem;
+    margin-top: 0.5rem;
+  }
+
+  &__group {
+
+    &--checkbox {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: flex-end;
+      align-items: center;
+      margin-bottom: $margin-base;
+    }
+  }
+}
