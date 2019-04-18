@@ -87,7 +87,7 @@ Mach es gut und bis zum nächsten Mal,
 
 &nbsp;
 
-## Mehr Infos
+#### Mehr Infos
 1. [Google Books: Praxishandbuch der Kreislauf- und Rohstoffwirtschaft](https://books.google.de/books?id=7sFADwAAQBAJ&lpg=PA297&ots=qiUhpT8601&dq=glasrecycling&lr&hl=de&pg=PA297#v=onepage&q=glasrecycling&f=false)
 2. [Wikipedia: Glas-Recycling](https://de.wikipedia.org/wiki/Glas-Recycling)
 3. [Aktionsforum Glasverpackung: Nachhaltigkeit](https://www.glasaktuell.de/nachhaltigkeit/)

@@ -116,7 +116,7 @@ Wir sehen uns dann nächste Woche.
 
 &nbsp;
 
-## Zum Weiterlesen
+#### Zum Weiterlesen
 1. [Wikipedia: Baumwolle](https://de.wikipedia.org/wiki/Baumwolle)  
 2. [Soilassociation: Cool Cotton, Organic Cotton and Climate Change](https://www.soilassociation.org/media/6491/cool-cotton-organic-cotton-and-climate-change-2015.pdf)  
 3. [virtuelles-wasser.de: Baumwolle](http://virtuelles-wasser.de/baumwolle.html)  
