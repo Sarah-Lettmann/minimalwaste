@@ -5,7 +5,7 @@ $(document).ready(function () {
 
   $.ajax({
     type: 'GET',
-    url: 'http://disqus.com/api/3.0/threads/set.jsonp',
+    url: 'https://disqus.com/api/3.0/threads/set.jsonp',
     data: { api_key: disqusPublicKey, forum: disqusShortname, thread: threadUrl },
     cache: false,
     dataType: 'jsonp',
@@ -19,7 +19,7 @@ $(document).ready(function () {
 
   $('.comments__button').on('click', function() {
     $.ajaxSetup({cache:true});
-    $.getScript('http://' + disqusShortname + '.disqus.com/embed.js');
+    $.getScript('https://' + disqusShortname + '.disqus.com/embed.js');
     $.ajaxSetup({cache:false});
     $(this).remove();
   });
