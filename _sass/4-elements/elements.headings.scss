@@ -40,7 +40,6 @@ h1 {
 
 h2 {
   font-size: $font-size-h2;
-  margin-top: 2*$margin-base;
   @include breakpoint(small) {
     font-size: 0.8*$font-size-h2;
   }
