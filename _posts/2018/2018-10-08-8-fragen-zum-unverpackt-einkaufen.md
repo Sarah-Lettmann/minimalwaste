@@ -41,17 +41,17 @@ Viele andere Lebensmittel gibt es außerdem im Glas: **Senf, Oliven, eingelegtes
 
 **Hygieneartikel** kann man oft selbst machen oder online kaufen. Aber auch bei DM gibt es schon loses Shampoo und natürlich solche Allrounder wie Kernseife. Außerdem gibt es dort Taschentücher in einer reinen Papierverpackung (Karton) und Wattestäbchen aus Papier (leider in einer Verpackung mit kleinem Plastikfenster). Selbst machen kann man beispielsweise Deo, Zahnpasta, Cremes und sogar Haarspray.
 
-Wenn dich außerdem Alternativen für herkömmliche Produkte interessieren, dann schau dir doch den Beitrag [8 alltägliche Dinge für die es Zero Waste Alternativen gibt](8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt) und [25+ Nachhaltige Produkte für weniger Müll](nachhaltige-produkte-zur-muellreduzierung)
+Wenn dich außerdem Alternativen für herkömmliche Produkte interessieren, dann schau dir doch den Beitrag [8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt) und [25+ Nachhaltige Produkte für weniger Müll](/blog/nachhaltige-produkte-zur-muellreduzierung)
 
 ## 2. Wie fange ich an?
 Die Antwort darauf ist recht einfach: Vorbereitung ist alles! Das gilt nicht nur für’s erste Mal, wird mit der Zeit aber einfacher. Hier eine kleine Checkliste, die du vor jedem Einkauf abarbeiten solltest:
 
 1. Mache eine Einkaufsliste (am besten ausgehend von einem Essensplan für die Woche).
-2. Überlege dir Läden, in denen du die Dinge lose bekommen kannst. Dazu kannst du dir diese Karte angucken: [Unverpackt einkaufen: Alle Läden](unverpackt-einkaufen-alle-laeden)
+2. Überlege dir Läden, in denen du die Dinge lose bekommen kannst. Dazu kannst du dir diese Karte angucken: [Unverpackt einkaufen: Alle Läden](/blog/unverpackt-einkaufen-alle-laeden)
 3. Suche dir Tüten, Gläser, Dosen, alles was du benutzen kannst zusammen. Für den Einkauf in einem Unverpackt Laden können außerdem ein Edding und ein Trichter nicht falsch sein.
 
 ## 3. Was muss ich beachten, wenn ich in normalen Läden unverpackt einkaufen will?
-Immer freundlich sein, fragen und auch mal die Hintergründe erklären. Oftmals hört man ein: “Das ist aber eine gute Idee.” oder ein “Sie haben recht. Was wir für einen Müll hinterlassen!”. Oft sind die Leute auf deiner Seite und wollen dir dann sehr gerne helfen. Und wenn etwas mal nicht so klappt, dann ärgere dich nicht zu sehr. Man muss sich Stück für Stück vorkämpfen. Außerdem bleibt einem immer noch ein kurzes Gespräch mit dem man vielleicht bei jemand anderem auch was bewirken kann.
+Immer freundlich sein, fragen und auch mal die Hintergründe erklären. Oftmals hört man ein: “Das ist aber eine gute Idee.” oder ein “Sie haben recht. Was wir für einen Müll hinterlassen!”. <mark>Oft sind die Leute auf deiner Seite und wollen dir dann sehr gerne helfen. Und wenn etwas mal nicht so klappt, dann ärgere dich nicht zu sehr.</mark> Man muss sich Stück für Stück vorkämpfen. Außerdem bleibt einem immer noch ein kurzes Gespräch mit dem man vielleicht bei jemand anderem auch was bewirken kann.
 
 ## 4. Wie funktioniert der Einkauf in einem Unverpackt Laden?
 Das ist eigentlich ganz leicht. Zuerst nimmst du alle deine Behälter und wiegst sie. Dazu stellst du sie auf die **Waage, die es in jedem Laden gibt,** das **Gewicht** wird angezeigt und du schreibst es am besten **mit einem Edding unter das Glas**. Dann sieht man es später nicht, wenn das Glas zu Hause im Regal steht. Der Edding geht mit der Zeit ab, also immer mal wieder nachschauen bei zukünftigen Einkäufen, ob man das Geschriebene noch lesen kann. Dazu solltest du einen **eigenen Stift** dabei haben, denn oft kommen noch Zettel aus der Waage, die man dann auf die Gläser kleben kann.
@@ -72,10 +72,10 @@ Das Sortiment variiert von Laden zu Laden. Es macht also Sinn sich vorher zu inf
 ## 6. Warum ist unverpackt einkaufen teurer?
 Ja, in Unverpackt Läden einkaufen ist **teurer** als zu Aldi zu gehen und manchmal selbst als zu Edeka zu gehen, das stimmt! Das liegt daran, dass man sehr hochwertige Produkte bekommt. Die Produkte sind natürlich **unverpackt**, meistens **Bio** und zu einem großen Teil auch noch **regional** (und damit meine ich wirklich regional, nicht den weiten Begriff, wie die Supermärkte das gerne definieren). Außerdem **unterstützt** du mit deinem Einkauf die **lokale Wirtschaft**.
 
-Es gibt also viele Gründe und ich finde jeden einzelnen davon gut. Ob man es sich leisten kann und möchte so einzukaufen, ist jedem selbst überlassen. Aber ich finden durch Zero Waste kann man an vielen anderen Stellen so viel Geld einsparen, dass man sich durchaus überlegen kann das an anderer Stelle zu reinvestieren.
+Es gibt also viele Gründe und ich finde jeden einzelnen davon gut. Ob man es sich leisten kann und möchte so einzukaufen, ist jedem selbst überlassen. <mark>Aber ich finden durch Zero Waste kann man an vielen anderen Stellen so viel Geld einsparen, dass man sich durchaus überlegen kann das an anderer Stelle zu reinvestieren.</mark>
 
 ## 7. Gibt es auch andere Läden mit Spendern?
-Ja, es gibt auch **kleine Bioläden**, die ein paar Spender aufgestellt haben. Um diese in deiner Nähe zu finden musst du dich entweder selbst auf die Suche begeben oder wieder die Karte benutzen: [Unverpackt einkaufen: Alle Läden](unverpackt-einkaufen-alle-laeden)
+Ja, es gibt auch **kleine Bioläden**, die ein paar Spender aufgestellt haben. Um diese in deiner Nähe zu finden musst du dich entweder selbst auf die Suche begeben oder wieder die Karte benutzen: [Unverpackt einkaufen: Alle Läden](/blog/unverpackt-einkaufen-alle-laeden)
 
 ## 8. Was mache ich unterwegs?
 Wenn du **unterwegs** bist solltest du immer ein paar Dinge dabei haben - für spontane Einkäufe. Für sowas eignen sich natürlich am besten **Stofftüten und kleine Beutel** in die du Lebensmittel abfüllen kannst. Die passen auch in jede Handtasche und jeden Rucksack.
@@ -84,7 +84,7 @@ Wenn du viel mit dem **Auto** unterwegs bist, dann könntest du dir einen **Korb
 
 Am besten ist es aber, denke ich, wenn du deinen **Wocheneinkauf planst und dann einmal die Woche alles einkaufst**, was du brauchst. So wirst du nicht zu Spontankäufen verleitet, behältst besser den Überblick und spart dadurch Geld.
 
-Im Urlaub solltest du dich vorher informieren, ob es in der Näher Unverpackt Läden, Läden mit Spendern, Märkte oder kleine Geschäfte gibt, bei denen du Dinge lose kaufen kannst. Da du nicht beliebig viel mitschleppen kannst, würde ich dir ein paar **Stoffbeutel und Gemüsenetze** empfehlen. Lass dich aber nicht zu sehr runterziehen, wenn du es im Urlaub nicht wie zu Hause machen kannst! Wenn du normalerweise deine Mandelmilch selbst machst, aber in der Ferienwohnung keinen Mixer hast, dann gestaltet sich das halt schwierig.
+Im Urlaub solltest du dich vorher informieren, ob es in der Näher Unverpackt Läden, Läden mit Spendern, Märkte oder kleine Geschäfte gibt, bei denen du Dinge lose kaufen kannst. Da du nicht beliebig viel mitschleppen kannst, würde ich dir ein paar **Stoffbeutel und Gemüsenetze** empfehlen. <mark>Lass dich aber nicht zu sehr runterziehen, wenn du es im Urlaub nicht wie zu Hause machen kannst!</mark> Wenn du normalerweise deine Mandelmilch selbst machst, aber in der Ferienwohnung keinen Mixer hast, dann gestaltet sich das halt schwierig.
 
 Aber auch hier ist Planung alles und du kannst dir vorher Alternativen überlegen und Wege finden, nicht ganz so viel Müll zu hinterlassen.
 
@@ -92,11 +92,11 @@ Aber auch hier ist Planung alles und du kannst dir vorher Alternativen überlege
 
 Ich hoffe ich konnte dir gute Anhaltspunkte liefern und hoffe du bist motiviert anzufangen und fühlst dich besser vorbereitet. Außerdem könnte dich vielleicht interessieren: 
 
-[Wie du durch Zero Waste gesünder lebst](wie-du-durch-zero-waste-gesuender-lebst)
+[Wie du durch Zero Waste gesünder lebst](/blog/wie-du-durch-zero-waste-gesuender-lebst)
 
-[4 nachhaltige Reiniger, die alles sauber bekommen](4-nachhaltige-reiniger-die-alles-sauber-bekommen)
+[4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen)
 
-[Plastikfrei einkaufen – Alle Onlineshops die du kennen solltest](plastikfrei-einkaufen-alle-onlineshops)
+[Plastikfrei einkaufen – Alle Onlineshops die du kennen solltest](/blog/plastikfrei-einkaufen-alle-onlineshops)
 
 Wie immer gilt: Schreib mit gerne bei weiteren Ideen oder wenn du Hilfe brauchst. Bis zum nächsten Mal
 

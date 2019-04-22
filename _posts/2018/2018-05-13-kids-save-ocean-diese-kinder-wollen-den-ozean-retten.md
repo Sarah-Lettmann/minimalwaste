@@ -15,7 +15,7 @@ Vor ein paar Wochen bekam ich eine Anfrage von einem Projekt namens _[Kids Save 
 ## Worum geht es in dem Projekt?
 Die Verschmutzung der Meere durch unser aller Plastikmüll ist heutzutage leider allgegenwärtig, scheint aber dennoch bei vielen noch nicht im Alltag angekommen zu sein. Die Kinder einer Wiener Schule wollten Aufmerksamkeit für diese Thematik schaffen. In einem Projekt zusammen mit ihrem Kunstlehrer Peder haben sie eine fünf Meter lange Buckelwal Statue aus Plastikmüll gebaut.
 
-{% include figure.html src="/assets/inpost-images/2018/2018-05-13-kids-save-ocean-der-wal.jpg" alt="Kids Save Ocean: Der Wal" title="Kids Save Ocean: Der Wa" caption="Kids Save Ocean &#8211; Der Wal &copy;kidssaveocean" %}
+{% include figure.html src="/assets/inpost-images/2018/2018-05-13-kids-save-ocean-der-wal.jpg" alt="Kids Save Ocean: Der Wal" title="Kids Save Ocean: Der Wa" caption="Kids Save Ocean - Der Wal &copy;kidssaveocean" %}
 
 Entsprungen in diesem Kunstprojekt, entstanden noch weiter tolle Ideen, die im Rahmen von _Kids Save Ocean_ bereits umgesetzt oder noch geplant werden. Weiter Infos dazu und allgemein zum Projekt findest du auf der Website [www.kidssaveocean.com](http://www.kidssaveocean.com).
 

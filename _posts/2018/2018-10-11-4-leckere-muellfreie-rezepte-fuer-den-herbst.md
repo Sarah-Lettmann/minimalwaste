@@ -10,7 +10,7 @@ image: "/assets/title-images/2018/2018-10-11-4-leckere-muellfreie-rezepte-fuer-d
 author: sarah-lettmann
 affiliate: false
 ---
-Passend zum Herbstbeginn gibt es heute ein paar lecker müllfreie Rezepte, die sich leicht herstellen lassen. Dabei spielt natürlich Kürbis eine Hauptrolle &#8211; wie sollte es im Herbst sonst sein. Die ersten beiden Rezepte sind eher Grundlagen und diese kann man immer wieder in verschiedenen Gerichten verwenden, nicht nur in den beiden, die ich danach noch vorstelle. Also viel Spaß und lass es dir schmecken!
+Passend zum Herbstbeginn gibt es heute ein paar lecker müllfreie Rezepte, die sich leicht herstellen lassen. Dabei spielt natürlich Kürbis eine Hauptrolle - wie sollte es im Herbst sonst sein. Die ersten beiden Rezepte sind eher Grundlagen und diese kann man immer wieder in verschiedenen Gerichten verwenden, nicht nur in den beiden, die ich danach noch vorstelle. Also viel Spaß und lass es dir schmecken!
 
 ## Pumpkin Spice (Gewürzmischung)
 Was du brauchst:  
@@ -23,7 +23,7 @@ Die Gewürze hast du vielleicht sogar schon zu Hause. Falls nicht, bekommst du s
 
 ![Lose Gewürze](/assets/inpost-images/2018/2018-10-11-gewuerze.jpg "© {{ site.title }}")
 
-Ausgehend von dieser Gewürzmischung kannst du viele leckere Speisen und Gebäcke mit Kürbis zubereiten.
+<mark>Ausgehend von dieser Gewürzmischung kannst du viele leckere Speisen und Gebäcke mit Kürbis zubereiten.</mark>
 
 ![Fertige Gewürzmischung](/assets/inpost-images/2018/2018-10-11-fertige-gewuerzmischung.jpg "© {{ site.title }}")
 
@@ -31,9 +31,9 @@ Ausgehend von dieser Gewürzmischung kannst du viele leckere Speisen und Gebäck
 Was du brauchst:  
 - 1 Hokkaido Kürbis
 
-Den Kürbis halbieren und die beiden Hälften mit der Innenseite nach oben wenigstens 1 Stunde bei 170°C im Backofen garen (auch länger, je nachdem wann der Kürbis weich ist). Danach abkühlen lassen, das Kürbisfleisch aus der Schale kratzen und pürieren. Kann danach im Gefrierfach gelagert werden.
+Den **Kürbis halbieren** und die beiden Hälften mit der Innenseite nach oben wenigstens **1 Stunde bei 170°C** im Backofen garen (auch länger, je nachdem wann der Kürbis weich ist). Danach abkühlen lassen, das Kürbisfleisch aus der Schale kratzen und pürieren. Kann danach im Gefrierfach gelagert werden.
 
-Ich habe das Püree portionsweise in einer Muffinform eingefroren. Durch leichtes Antauen mit den Händen kann man die einzelnen Portionen leicht herauslösen. Diese sind genau passend für einen Pumpkin Spice Latte. Und damit kommen wir auch schon zum nächsten Rezept.
+Ich habe das Püree **portionsweise** in einer Muffinform **eingefroren**. Durch leichtes Antauen mit den Händen kann man die einzelnen Portionen leicht herauslösen. Diese sind genau passend für einen Pumpkin Spice Latte. Und damit kommen wir auch schon zum nächsten Rezept.
 
 ## Pumpkin Spice Latte
 Was du brauchst:  
@@ -43,7 +43,7 @@ Was du brauchst:
 - ½ TL Pumpkin Spice  
 - 2 TL Honig/Ahornsirup
 
-Milch, Kürbispüree und Gewürze in einen Topf geben und mit einem Schneebesen verrühren. Dann vorsichtig erhitzen. In der Zwischenzeit den Tee/Kaffee zubereiten. Wenn der Tee durchgezogen ist, die warme Mischung aus Kürbis, Milch und Gewürzen ebenfalls in die Tasse geben, gut verrühren und mit Honig oder Ahornsirup süßen. Wahlweise noch mit Sahne und Zimt dekorieren. Fertig ist das ultimative Getränk für den Herbst.
+**Milch, Kürbispüree und Gewürze** in einen Topf geben und mit einem Schneebesen **verrühren**. Dann vorsichtig erhitzen. In der Zwischenzeit den **Tee/Kaffee zubereiten**. Wenn der Tee durchgezogen ist, die warme Mischung aus Kürbis, Milch und Gewürzen ebenfalls in die Tasse geben, gut verrühren und **mit Honig oder Ahornsirup süßen**. Wahlweise noch mit Sahne und Zimt dekorieren. Fertig ist das ultimative Getränk für den Herbst.
 
 Ich habe auch schon Rooibos-Tee verwendet, hat mir gut geschmeckt. Da musst du einfach probieren, was dir so zusagt.
 
@@ -63,11 +63,11 @@ Was du brauchst:
 - 4 EL Ahornsirup  
 - 3 vegane Eier (2 EL Stärke + 3 EL Wasser)
 
-Alle Zutaten für den Teig vermengen und in eine Springform geben. Danach glatt drücken und einen Rand bilden.
+**Alle Zutaten** für den Teig **vermengen** und in eine **Springform** geben. Danach glatt drücken und einen Rand bilden.
 
-Für die Füllung ebenfalls alle Zutaten zusammengeben und vermengen. Falls ihr das Kürbispüree in Portionen eingefroren habt, so wie ich, dann gebt es zusammen mit der Milch in einen Topf und erwärmt es vorsichtig, bis es aufgetaut ist. Danach die restlichen Zutaten hinzugeben und alles in die Form füllen.
+Für die **Füllung** ebenfalls alle Zutaten zusammengeben und vermengen. Falls ihr das Kürbispüree in Portionen eingefroren habt, so wie ich, dann gebt es zusammen mit der Milch in einen Topf und erwärmt es vorsichtig, bis es aufgetaut ist. Danach die restlichen Zutaten hinzugeben und **alles in die Form füllen**.
 
-Danach den Kuchen bei 180°C Umluft ca. 45 Minuten backen.
+Danach den Kuchen bei **180°C Umluft ca. 45 Minuten** backen.
 
 ![Kürbis Kuchen oder auch Pumpkin Pie](/assets/inpost-images/2018/2018-10-11-kuerbis-kuchen.jpg "© {{ site.title }}")
 
@@ -75,11 +75,11 @@ Danach den Kuchen bei 180°C Umluft ca. 45 Minuten backen.
 
 Ich hoffe du findest diese Rezepte genauso toll wie ich. Ich fand es wirklich erstaunlich wie leicht sowas wie Kürbispüree selbst zu machen ist. Das könnte dich außerdem noch interessieren:
 
-[7 Tipps für weniger Lebensmittelabfälle](7-tipps-fuer-weniger-lebensmittelabfaelle)
+[7 Tipps für weniger Lebensmittelabfälle](/blog/7-tipps-fuer-weniger-lebensmittelabfaelle)
 
-[Kaffee und Tee ohne Müll](zero-waste-kaffee-und-tee-ohne-muell)
+[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell)
 
-[unverpackt-einkaufen-alle-laeden](Unverpackt einkaufen: Alle Läden)
+[Unverpackt einkaufen: Alle Läden](/blog/unverpackt-einkaufen-alle-laeden)
 
 Also, lass es dir schmecken, genieße den Herbst und bis nächste Woche.
 
