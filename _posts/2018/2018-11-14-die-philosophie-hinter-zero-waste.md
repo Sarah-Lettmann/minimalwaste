@@ -15,16 +15,16 @@ Es gibt ein paar einfache Prinzipien, an die man sich bei der Müllreduzierung u
 ## Analysiere deinen Müll
 Zuallererst solltest du deinen Feind kennen - also deinen Müll. Denn wenn du nicht weißt wo er herkommt, kannst du nur schlecht an den richtigen Stellen ansetzen. Du könntest natürlich auch wahllos Dinge austauschen, aber das bringt nicht den gleichen Effekt mit sich. Wenn du deinen Müll kennst, weißt du, welche Dinge du am häufigsten wegschmeißt. Das sind genau die Kandidaten, die wir uns zuerst vornehmen wollen.
 
-Aber auch, wenn du schon eine Weile deinen Müll reduzierst und auch vieles ausgetauscht hast, ist es nicht schlecht mal ab und zu einen Blick darauf zu werfen, was noch so übrig ist. So kannst du Stück für Stück Verbesserungen vornehmen und die Alternativen überlegen, ohne gleich dein ganzes Haus auf den Kopf zu stellen.
+<mark>Aber auch, wenn du schon eine Weile deinen Müll reduzierst und auch vieles ausgetauscht hast, ist es nicht schlecht mal ab und zu einen Blick darauf zu werfen, was noch so übrig ist.</mark> So kannst du Stück für Stück Verbesserungen vornehmen und die Alternativen überlegen, ohne gleich dein ganzes Haus auf den Kopf zu stellen.
 
 Wir wissen alle, dass ein Leben ganz ohne Müll leider ziemlich unmöglich ist. Und Hand aufs Herz, nicht jeder hat die Möglichkeit an diesen Wunsch ran zu kommen. Und oft wollen wir uns in einigen Dingen auch einfach nicht einschränken. Das ist alles kein Problem. Aber wenn du das Gefühl hast, du könntest es besser machen, dann setze dich mit deinen Müll auseinander.
 
-## Werde dir über dein Konsumverhalten klar
+## Werde dir über dein Konsum&shy;verhalten klar
 Dieser Punkt geht teilweise Hand in Hand, wenn es um die Analyse des Mülls geht. Beispielsweise wenn es um Coffee-to-go Becher oder bestelltes Essen geht. Aber auch an anderen Stellen bringen wir potenziellen Müll in unser Leben: neue Dekogegenstände, neue Klamotten oder Makeup, Technik, usw. Das sind alles Dinge, die du eventuell nicht brauchst.
 
 Darüber solltest du dir klar werden: Werde ich das oft benutzen, wenn ich es gekauft habe? Gibt es etwas altes, dass ich damit ersetzen will oder kaufe ich das zusätzlich? Habe ich Platz dafür? Habe ich Geld dafür?
 
-Es ist nichts falsches daran, etwas neues zu kaufen. Doch überlege dir genau, warum du etwas neu kaufen möchtest Vor allem, wenn du schon etwas ähnliches zu Hause hast.
+Es ist nichts falsches daran, etwas neues zu kaufen. Doch überlege dir genau, warum du etwas neu kaufen möchtest, vor allem, wenn du schon etwas ähnliches zu Hause hast.
 
 ## Die 5 R's
 Eines der Grundprinzipien für Zero Waste sind die 5 R’s. Diese liefern einen guten Leitfaden, wie man im Alltag handeln sollte, wenn es um Müllvermeidung geht.
@@ -88,11 +88,11 @@ Aber vor allem: Hab Spaß daran, neues auszuprobieren, ein bisschen verrückt zu
 
 Außerdem könnten dir auch diese Artikel weiterhelfen:
 
-[Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
+[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
 
-[8 Fragen zum Unverpackt Einkaufen](8-fragen-zum-unverpackt-einkaufen)
+[8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen)
 
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
+[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
 
 Bis nächste Woche
 

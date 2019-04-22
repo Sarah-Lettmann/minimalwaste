@@ -10,9 +10,9 @@ image: "/assets/title-images/2018/2018-12-05-was-kostet-zero-waste-im-haushalt.j
 author: sarah-lettmann
 affiliate: false
 ---
-Wenn es um Zero Waste oder im Allgemeinen um Nachhaltigkeit geht, wollen die meisten immer erst mal wissen: “Ist das nicht viel zu teuer?” oder “Kann man sich das als normaler Mensch überhaupt leisten?”. Vor einigen Wochen habe ich bereits einen Post zum Thema [“Was kostet Zero Waste im Badezimmer”](was-kostet-zero-waste-im-badezimmer/) gemacht. Und es hat sich herausgestellt, dass viele Dinge sogar günstiger sind. Heute widmen wir uns dem Haushalt, also Putzmitteln, Taschentüchern, usw.
+Wenn es um Zero Waste oder im Allgemeinen um Nachhaltigkeit geht, wollen die meisten immer erst mal wissen: “Ist das nicht viel zu teuer?” oder “Kann man sich das als normaler Mensch überhaupt leisten?”. Vor einigen Wochen habe ich bereits einen Post zum Thema [“Was kostet Zero Waste im Badezimmer”](/blog/was-kostet-zero-waste-im-badezimmer/) gemacht. Und es hat sich herausgestellt, dass viele Dinge sogar günstiger sind. Heute widmen wir uns dem Haushalt, also Putzmitteln, Taschentüchern, usw.
 
-Die Kosten habe ich wie beim letzten mal bei den Zero Waste Alternativen daraus bezogen, was ich selbst nutze oder kaufe. Für die Preise der herkömmlichen Dinge habe ich mich bei DM, Aldi oder Butlers an wirklich günstigen Produkten orientiert. Ich vergleiche hier also nichts mit einem Markenprodukt, ja noch nicht mal mit einem verpackten aber vermeintlich nachhaltigen Produkt sondern nur mit den günstigsten, da ich zeigen will, dass Zero Waste für jeden erschwinglich und sogar sinnvoll ist, wenn man auf’s Geld achten muss.
+Die Kosten habe ich wie beim letzten mal bei den Zero Waste Alternativen daraus bezogen, was ich selbst nutze oder kaufe. Für die Preise der herkömmlichen Dinge habe ich mich bei DM, Aldi oder Butlers an wirklich günstigen Produkten orientiert. <mark>Ich vergleiche hier also nichts mit einem Markenprodukt, ja noch nicht mal mit einem verpackten aber vermeintlich nachhaltigen Produkt</mark> sondern nur mit den günstigsten, da ich zeigen will, dass Zero Waste für jeden erschwinglich und sogar sinnvoll ist, wenn man auf’s Geld achten muss.
 
 Wie letztes Mal auch, habe ich die detaillierten Rechnungen am Ende angehängt, damit du alles nachlesen kannst, wenn du willst, aber es nicht muss.
 
@@ -145,7 +145,7 @@ Zuerst mal also die Dinge, die dir Geld sparen, wenn du sie ersetzt:
 
 Gleich zu Anfang mal wieder ein echter Knaller. Leitungswasser ist so unglaublich viel günstiger als Flaschenwasser! Guck dir den Preisunterschied an und das bei geprüfter Qualität und ohne Transport - ökologischer und besser geht es nicht.
 
-Allein diese Produkte können dir über das Jahr hinweg also satte **439,11€** sparen. Ich finde das ist der Wahnsinn und diese Zahl hätte ich nun wirklich nicht erwartet. Auch hier gilt also: Wenn du was für die Umwelt tun willst oder Zero Waste in dein Leben integrieren willst, dann fang mit diesen Produkten an.
+Allein diese Produkte können dir über das Jahr hinweg also satte **439,11€** sparen. Ich finde das ist der Wahnsinn und diese Zahl hätte ich nun wirklich nicht erwartet. Auch hier gilt also: <mark>Wenn du was für die Umwelt tun willst oder Zero Waste in dein Leben integrieren willst, dann fang mit diesen Produkten an.</mark>
 
 Tipp: Bald ist Weihnachten. Wenn du vorhast auf ein paar Alternativen umzusteigen, dann lass dir doch davon etwas zu Weihnachten schenken und spare dir die höheren Erstausgaben dadurch.
 
@@ -349,13 +349,13 @@ Allein durch ein paar einfache DIYs und das Kaufen von herkömmlichen Produkten,
 
 &nbsp;
 
-Auch hier ist also wieder klar geworden, dass Zero Waste an den richtigen Stellen schnell ganz schön viel Geld spart. An anderen Stellen sollte man genau hinschauen und sich evtl. Alternativen überlegen. Z.B. kann man vereinzelt Dinge selbst machen (Reiniger finde ich dazu super, weil das keine 5 Minuten dauert und sehr viel Geld spart) oder muss Kompromisse eingehen. So oder so, wenn man es clever macht, freut sich nicht nur die Umwelt, sondern auch der Geldbeutel. Hier noch weiteres zum Thema:
+<mark>Auch hier ist also wieder klar geworden, dass Zero Waste an den richtigen Stellen schnell ganz schön viel Geld spart. An anderen Stellen sollte man genau hinschauen und sich evtl. Alternativen überlegen</mark>. Z.B. kann man vereinzelt Dinge selbst machen (Reiniger finde ich dazu super, weil das keine 5 Minuten dauert und sehr viel Geld spart) oder muss Kompromisse eingehen. So oder so, wenn man es clever macht, freut sich nicht nur die Umwelt, sondern auch der Geldbeutel. Hier noch weiteres zum Thema:
 
-[Was kostet Zero Waste im Badezimmer?](was-kostet-zero-waste-im-badezimmer)
+[Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer)
 
-[Die Philosophie hinter Zero Waste](die-philosophie-hinter-zero-waste)
+[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste)
 
-[Festes Shampoo: Was du alles wissen solltest!](festes-shampoo-was-du-alles-wissen-solltest)
+[Festes Shampoo: Was du alles wissen solltest!](/blog/festes-shampoo-was-du-alles-wissen-solltest)
 
 Bis nächste Woche
 

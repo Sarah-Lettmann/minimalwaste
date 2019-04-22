@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leben in der Konsumgesellschaft: Warum ist das so?"
+title: "Leben in der Konsum&shy;gesellschaft: Warum ist das so?"
 subtitle: "Oder: Wie Werbung uns manipuliert"
 date: 2018-11-07
 categories: [Minimalismus]
@@ -29,7 +29,7 @@ Wir haben also ein Bedürfnis, wenn wir in einer dieser Kategorien einen Mangel 
 
 **Der Umfang des Bedarfs richtet sich immer danach wie viele Mittel uns zur Verfügung stehen, also wie viel Geld wir haben. Bedürfnisse sind davon eher unabhängig.**
 
-Wenn wir also in einer eher reichen Gesellschaft leben, in der die Existenz- und die Grundbedürfnisse weitgehend gedeckt sind und uns auch gewisse Mittel zur Verfügung stehen, dann wollen wir Luxus. Luxus in Form von einem jährlich neuen IPhone, vielen Klamotten, immer der neuesten Technik, schönen und schnellen Autos. Dass es diese Güter gibt, die unsere Bedürfnisse befriedigen, ist großen Unternehmen zu verdanken, die eben diese Tatsache verstanden und mit Produkten reagiert haben. Allerdings gibt es auch hier Unterschiede, die durch das zur Verfügung stehende Geld hervorgerufen werden - nämlich ob ich meine Lebensmittel bei Aldi kaufe oder beim Metzger oder ob ich meine Möbel beim Designer kaufe oder zu IKEA fahre (ganz stumpf gesprochen und nur mal als Beispiel).
+<mark>Wenn wir also in einer eher reichen Gesellschaft leben, in der die Existenz- und die Grundbedürfnisse weitgehend gedeckt sind und uns auch gewisse Mittel zur Verfügung stehen, dann wollen wir Luxus.</mark> Luxus in Form von einem jährlich neuen IPhone, vielen Klamotten, immer der neuesten Technik, schönen und schnellen Autos. Dass es diese Güter gibt, die unsere Bedürfnisse befriedigen, ist großen Unternehmen zu verdanken, die eben diese Tatsache verstanden und mit Produkten reagiert haben. Allerdings gibt es auch hier Unterschiede, die durch das zur Verfügung stehende Geld hervorgerufen werden - nämlich ob ich meine Lebensmittel bei Aldi kaufe oder beim Metzger oder ob ich meine Möbel beim Designer kaufe oder zu IKEA fahre (ganz stumpf gesprochen und nur mal als Beispiel).
 
 Wenn wir aber in einem sehr armen Land leben, dann sind meisten noch nicht einmal die Existenzbedürfnisse gedeckt. Menschen, die so ein Leben führen, empfinden es oft schon als Luxus, wenn sie genug Essen kaufen können, damit die ganze Familie satt wird. Die Kaufkraft ist hier also sehr gering - Unternehmen haben nichts davon, hier Güter oder Produkte anzubieten, weil niemand einen Bedarf hat.
 
@@ -80,11 +80,11 @@ Die ganze Werbung und das Produktdesign sind so schlimm, weil sie uns ständig v
 
 Wenn dich das Thema interessiert und vielleicht auch, was man dagegen tun kann, dann empfehle ich dir folgende Beiträge:
 
-[Die Tragödien hinter Fast Fashion](die-tragoedien-hinter-fast-fashion)
+[Die Tragödien hinter Fast Fashion](/blog/die-tragoedien-hinter-fast-fashion)
 
-[Minimalistisch leben: Warum du anfangen solltest!](minimalistisch-leben)
+[Minimalistisch leben: Warum du anfangen solltest!](/blog/minimalistisch-leben)
 
-[Der Lebensstil Minimalismus](der-lebensstil-minimalismus)
+[Der Lebensstil Minimalismus](/blog/der-lebensstil-minimalismus)
 
 Bis nächste Woche.
 

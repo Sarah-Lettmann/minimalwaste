@@ -15,27 +15,29 @@ Da heutzutage immer mehr Diskussionen über Nachhaltigkeit, Bio, Fairtrade und �
 Wie funktioniert Fast Fashion und wieso ist es so schlimm bei H&M und Co. einkaufen zu gehen? Ich werde es dir verraten.
 
 ## Was ist Fast Fashion und wie funktioniert das System?
-Das System Fast Fashion passt perfekt in unsere konsumorientierte Gesellschaft. Statt den üblichen zwei Seasons, die es einmal für Mode gab - nämlich Frühjahr/Sommer und Herbst/Winter - hat Fast Fashion sogenannte Micro-Seasons etabliert. Das heißt, dass wir inzwischen jede Woche mit neuen Trends verlockt werden. 52 Seasons im Jahr. Ständig neue Klamotten in den Schaufenstern. Und die Werbung, die uns ständig klar macht, dass wir glücklich werden, mehr geliebt werden und erfolgreicher sind, wenn wir DIESES eine Kleidungsstück kaufen.
+Das System Fast Fashion passt perfekt in unsere konsumorientierte Gesellschaft. Statt den üblichen zwei Seasons, die es einmal für Mode gab - nämlich Frühjahr/Sommer und Herbst/Winter - hat Fast Fashion sogenannte **Micro-Seasons** etabliert. Das heißt, dass wir inzwischen jede Woche mit neuen Trends verlockt werden. **52 Seasons im Jahr**. Ständig neue Klamotten in den Schaufenstern. Und die Werbung, die uns ständig klar macht, dass wir glücklich werden, mehr geliebt werden und erfolgreicher sind, wenn wir DIESES eine Kleidungsstück kaufen.
 
 {% include figure.html src="/assets/inpost-images/2018/2018-10-31-shoppen.jpg" alt="shoppen" title="Foto von rawpixel – Unsplash" caption="Foto von rawpixel – Unsplash" %}
 
-Die billige Kleidung ist verlockend. Denn obwohl wir arm sein können, ist ein T-Shirt für 5€ oder ein Kleid für 10€ immer noch drin. Damit sind wir wer und müssen uns nicht als “arm” kennzeichnen. Doch diese Rechnung geht nicht auf. Denn obwohl es viele Dinge, nicht nur Mode, sondern auch Lebensmittel immer günstiger gibt, werden wir nicht reicher und auch nicht glücklicher. Wir schmeißen unser Geld, das wir gut anders verwenden könnten, diesen großen Konzernen in den Hals und denken dabei noch wir machen einen guten Deal. Doch das ist falsch. Auch wir, die Konsumenten, werden von diesen große Modeunternehmen ausgebeutet, merken davon aber nichts.
+Die billige Kleidung ist verlockend. Denn obwohl wir arm sein können, ist ein T-Shirt für 5€ oder ein Kleid für 10€ immer noch drin. Damit sind wir wer und müssen uns nicht als “arm” kennzeichnen. <mark>Doch diese Rechnung geht nicht auf. Denn obwohl es viele Dinge, nicht nur Mode, sondern auch Lebensmittel immer günstiger gibt, werden wir nicht reicher und auch nicht glücklicher.</mark> Wir schmeißen unser Geld, das wir gut anders verwenden könnten, diesen großen Konzernen in den Hals und denken dabei noch wir machen einen guten Deal. Doch das ist falsch. Auch wir, die Konsumenten, werden von diesen große Modeunternehmen ausgebeutet, merken davon aber nichts.
 
 Viel mehr noch. Wir sind Teil des Problems.
 
 ## Woher kommen unsere Klamotten eigentlich?
-Kleidung von nahezu allen bekannten Modelabels wie H&M, Zara, Primark, Orsay, Vero Moda, usw. werden in armen Ländern produziert. 90% der Mode, die unter Fast Fashion fallen, kommen aus Mittel-, Südamerika oder Asien - Ländern wie Kambodscha, Bangladesh oder China. Denn eins haben diese gemeinsam: Die Arbeitskräfte sind billig, der Aufwand für faire Arbeitsbedingungen gleich Null und die Umweltauflagen sind sehr gering. Die großen Konzerne lassen also aus genau einem Grund in diesen Ländern produzieren: Geld. Hier können sie die Kosten fast beliebig drücken, denn selten gibt es sowas wie Versicherungen für Arbeiter_innen, eine Krankenvorsorge oder andere Leistungen, für die ein Arbeitgeber in der Westlichen Welt normalerweise aufkommen müsste.
+Kleidung von nahezu allen bekannten Modelabels wie H&M, Zara, Primark, Orsay, Vero Moda, usw. werden in armen Ländern produziert. 90% der Mode, die unter Fast Fashion fallen, kommen aus Mittel-, Südamerika oder Asien - Ländern wie **Kambodscha, Bangladesh oder China**. Denn eins haben diese gemeinsam: <mark>Die Arbeitskräfte sind billig, der Aufwand für faire Arbeitsbedingungen gleich Null und die Umweltauflagen sind sehr gering.</mark> Die großen Konzerne lassen also aus genau einem Grund in diesen Ländern produzieren: Geld. Hier können sie die Kosten fast beliebig drücken, denn selten gibt es sowas wie Versicherungen für Arbeiter_innen, eine Krankenvorsorge oder andere Leistungen, für die ein Arbeitgeber in der Westlichen Welt normalerweise aufkommen müsste.
 
 {% include figure.html src="/assets/inpost-images/2018/2018-10-31-kinder-eltern-fabriken.jpg" alt="Kinder, deren Eltern in den Fabriken arbeiten" title="Foto von Adrien Taylor – Unsplash" caption="Foto von Adrien Taylor – Unsplash" %}
 
-### Wieso ist das überhaupt möglich?
+## Wieso ist das überhaupt möglich?
 Warum gehen die Fabriken denn überhaupt auf diesen unfairen Handel ein, fragst du vielleicht? Das ist simpel. Sie haben keinerlei Verhandlungsmacht. Ein großes Modelabel will etwas produzieren lassen und das zu einem bestimmten Preis. Wenn der Produzent nicht darauf eingehen will, lässt das Modelabel einfach in einer anderen Fabrik produzieren. Denn irgendjemand geht immer drauf ein. Die Fabriken dort gibt es einzig und allein wegen der großen Modeunternehmen. Das schafft zumindest Arbeit. **Aber Arbeit die ungefähr so viel mit Respekt zu tun hat, wie ein Schlag ins Gesicht.**
 
 Die Unternehmen können sich dieser **Verantwortung** nur **entziehen**, da ihnen weder die Fabriken selbst gehören noch die Arbeiter_innen fest bei ihnen angestellt sind. Sie haben keinerlei Verantwortung, der sie sich stellen müssen und können sämtliche Probleme ignorieren. Es gibt auch **niemanden, der sie zur Rechenschaft zieht**.
 
 Und glaub nicht, dass die Arbeiter_innen das alles ruhig über sich ergehen lassen würden. Es gab schon Aufstände für eine faire Entlohnung. Diese wurden **blutig niedergeschlagen**. Arbeiter_innen, die sich kritisch geäußert haben, werden systematisch attackiert und es sind auch Fälle bekannt, in denen Arbeiter_innen **zu Tode geprügelt** wurden, nur weil sie bessere Arbeitsbedingungen gefordert haben.
 
-## Was ist also konkret so schlimm daran, dass unsere Kleidung in diesen Ländern produziert wird?
+Was ist also konkret so schlimm daran, dass unsere Kleidung in diesen Ländern produziert wird?
+
+## Die Gründe
 
 ### Keine faire Entlohnung
 Von einem 29 € Kleidungsstück gehen gerade mal **18 Cent an die Arbeiter_innen**, die es herstellen. Natürlich kann man einen Lohn in Europa und Amerika nicht mit einem in Indien oder Kambodscha vergleichen - die Lebenshaltungskosten sind viel geringer. Doch in Würde leben kann man davon dort nicht.
@@ -71,7 +73,7 @@ Und nicht nur das. Dieses ständige Rausschmeißen unseres Geldes ist nicht das 
 ## Was kann ich tun?
 Wie bei so vielen anderen Dingen gilt auch hier: Du hast die Macht etwas zu verändern. Ja, du als Einzelperson. Denn wir geben tagtäglich mit unserem Geld eine Bewertung ab. Was wollen wir kaufen? Was ist uns wichtig?
 
-Schon weniger Konsum alleine kann viel helfen. Momentan kaufen wir Deutschen ca. 5 Kleidungsstücke im Monat neu. Das sind im Jahr 60 Stücke Kleidung, die billig produziert sind und, wenn wir mal ganz ehrlich sind, meisten keine gute Qualität aufweisen. Kaufe also am besten Second Hand oder Stücke von hoher Qualität die du lange nutzen wirst. Oder gucke dich bei Marken um, die nachhaltige Mode herstellen. Eine Liste von verschiedenen Shops findest du hier: [Onlineshops für faire und nachhaltige Mode](onlineshops-fuer-faire-und-nachhaltige-mode).
+<mark>Schon weniger Konsum alleine kann viel helfen. Momentan kaufen wir Deutschen ca. 5 Kleidungsstücke im Monat neu. Das sind im Jahr 60 Stücke Kleidung, die billig produziert sind und, wenn wir mal ganz ehrlich sind, meisten keine gute Qualität aufweisen. Kaufe also am besten Second Hand oder Stücke von hoher Qualität die du lange nutzen wirst. Oder gucke dich bei Marken um, die nachhaltige Mode herstellen.</mark> Eine Liste von verschiedenen Shops findest du hier: [Onlineshops für faire und nachhaltige Mode](/blog/onlineshops-fuer-faire-und-nachhaltige-mode).
 
 {% include figure.html src="/assets/inpost-images/2018/2018-10-31-die-klamotten.jpg" alt="Kinder, deren Eltern in den Fabriken arbeiten" title="Foto von Sarah Dorweiler – Unsplash" caption="Foto von Sarah Dorweiler – Unsplash" %}
 
@@ -90,13 +92,19 @@ Ich habe inzwischen schon recht viele Stücke Second Hand gekauft. In der Regel 
 
 &nbsp;
 
-Ich hoffe dieser Beitrag sorgt dafür, dass du dich in Zukunft etwas bewusster mit deinem Kaufverhalten und deiner Kleidung auseinander setzt. Denn es sind eben nicht nur die niedrigen Arbeitslöhne, die von einem Einkauf von H&M abhängen, sondern Menschenleben. Bis nächst Woche.
+Ich hoffe dieser Beitrag sorgt dafür, dass du dich in Zukunft etwas bewusster mit deinem Kaufverhalten und deiner Kleidung auseinander setzt. Denn es sind eben nicht nur die niedrigen Arbeitslöhne, die von einem Einkauf von H&M abhängen, sondern Menschenleben. Wenn du dich noch weiter zum Thema informieren willst, dann empfehle ich dir diese Beiträge:
+
+[Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle/)
+
+[Onlineshops für faire und nachhaltige Mode](/blog/onlineshops-fuer-faire-und-nachhaltige-mode/)
+
+Bis nächst Woche.
 
 \- Sarah
 
 &nbsp;
 
-## Zum Weiterlesen  
+#### Zum Weiterlesen  
 1. [Greenpeace: Textilindustrie vergiftet Gewässer](https://www.greenpeace.de/themen/endlager-umwelt/textilindustrie-vergiftet-gewasser)  
 2. [Greenpeace: A Little Story About a Monstrous Mess II](http://www.greenpeace.org/eastasia/publications/reports/toxics/2014/little-story-mess-2/)  
 3. [Oxfam: Made in Myanmar](https://www.oxfam.org/en/research/made-myanmar)  

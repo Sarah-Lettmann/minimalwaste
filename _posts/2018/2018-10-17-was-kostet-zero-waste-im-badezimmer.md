@@ -14,11 +14,11 @@ Bestimmt hast du einen der folgenden Sätze auch schon gehört oder gedacht: “
 
 Ich muss zugeben, ich habe keinen vollständigen Überblick über meine Ausgaben, aber immerhin ein Haushaltsbuch und für das Einkaufen von Lebensmitteln und Hygieneprodukten gibt es pro Woche einen Maximalbetrag (den wir fast nie erreichen). Und ich hatte immer das Gefühl, dass wir nicht übermäßig viel für Lebensmittel usw. ausgeben. Trotzdem wollte ich das mal durchrechnen - ist ja auch spannend für dich.
 
-Die Kosten habe ich bei den Zero Waste Alternativen daraus bezogen, was ich nutze oder gekauft habe oder im Unverpackt Laden nachkaufe. Für die Preise der herkömmlichen Produkte habe ich mich bei DM orientiert - und zwar an den günstigen Produkten. Außerdem habe ich die Kosten jeweils aufs Jahr hochgerechnet, also die Kosten pro Stück mit einer angemessenen Anzahl, die man übers Jahr hinweg von diesem Produkt braucht, multipliziert. Das sind natürlich alles nur Beispiele.
+<mark>Die Kosten habe ich bei den Zero Waste Alternativen daraus bezogen, was ich nutze oder gekauft habe oder im Unverpackt Laden nachkaufe. Für die Preise der herkömmlichen Produkte habe ich mich bei DM orientiert - und zwar an den günstigen Produkten.</mark> Außerdem habe ich die Kosten jeweils aufs Jahr hochgerechnet, also die Kosten pro Stück mit einer angemessenen Anzahl, die man übers Jahr hinweg von diesem Produkt braucht, multipliziert. Das sind natürlich alles nur Beispiele.
 
 Die Rechnungen zu den den ganzen Zahlen, habe ich mal ans Ende gepackt - das muss sich ja niemand antun, wenn er nicht möchte.
 
-Zunächst also einmal eine Auflistung und ein Vergleich von Produkten, mit denen man sparen kann, wenn man auf die Zero Waste Alternativen umsteigt. Auch Anschaffungen, die über viele Jahre halten, habe ich von den Kosten auf ein Jahr runtergebrochen. Und das kam dabei heraus:
+Zunächst also einmal eine Auflistung und ein Vergleich von Produkten, mit denen man sparen kann, wenn man auf die Zero Waste Alternativen umsteigt. <mark>Auch Anschaffungen, die über viele Jahre halten, habe ich von den Kosten auf ein Jahr runtergebrochen.</mark> Und das kam dabei heraus:
 
 <div class="table">
   <table>
@@ -111,32 +111,21 @@ Zunächst also einmal eine Auflistung und ein Vergleich von Produkten, mit denen
     </tr>
     <tr>
       <th>
-        Zahnpasta/Zahnputztabletten
-      </th>
-      <td>
-        5,10€
-      </td>
-      <td>
-        2,19€
-      </td>
-    </tr>
-    <tr>
-      <th>
         <strong>Summe</strong>
       </th>
       <td>
-        <strong>87,23€</strong>
+        <strong>82,13€</strong>
       </td>
       <td>
-        <strong>11,83€</strong>
+        <strong>9,64€</strong>
       </td>
     </tr>
   </table>
 </div>
 
-Wenn du also alleine diese Produkte austauschst, kannst du aufs Jahr hochgerechnet satte **75€ sparen** und dabei noch etwas für die Umwelt tun. Wenn du also auf deine Ausgaben achten musst und nicht so viel Geld zur Verfügung hast, würde ich in Sachen Müllvermeidung genau bei diesen Produkten ansetzen. Besonders überrascht hat mich dabei, dass die Zahnputztabletten tatsächlich günstiger sind, als normale Zahnpasta.
+Wenn du also alleine diese Produkte austauschst, kannst du aufs Jahr hochgerechnet satte **73€ sparen** und dabei noch etwas für die Umwelt tun. <mark>Wenn du also auf deine Ausgaben achten musst und nicht so viel Geld zur Verfügung hast, würde ich in Sachen Müllvermeidung genau bei diesen Produkten ansetzen.</mark>
 
-Aber es gibt natürlich auch unverpackte Dinge, die unwahrscheinlich viel teurer sind, als die herkömmlichen Produkte. So sieht es beispielsweise mit Zahnbürsten oder festem Shampoo aus. Auch hier habe ich das wieder aufs Jahr hochgerechnet.
+Aber es gibt natürlich auch **unverpackte Dinge, die unwahrscheinlich viel teurer sind**, als die herkömmlichen Produkte. So sieht es beispielsweise mit Zahnbürsten oder festem Shampoo aus. Auch hier habe ich das wieder aufs Jahr hochgerechnet.
 
 <div class="table">
   <table>
@@ -170,6 +159,17 @@ Aber es gibt natürlich auch unverpackte Dinge, die unwahrscheinlich viel teurer
       </td>
       <td>
         19,60€
+      </td>
+    </tr>
+    <tr>
+      <th>
+        Zahnpasta/Zahnputztabletten
+      </th>
+      <td>
+        5,10€
+      </td>
+      <td>
+        21,90€
       </td>
     </tr>
     <tr>
@@ -210,20 +210,22 @@ Aber es gibt natürlich auch unverpackte Dinge, die unwahrscheinlich viel teurer
         <strong>Summe</strong>
       </th>
       <td>
-        <strong>34,64€</strong>
+        <strong>39,74€</strong>
       </td>
       <td>
-        <strong>189,38€</strong>
+        <strong>211,28€</strong>
       </td>
     </tr>
   </table>
 </div>
 
-Das ist immerhin eine Preisdifferenz von knapp **155€**, die man für Unverpackte Produkte **mehr bezahlt**. Aber wie gesagt, das sind die Dinge, bei denen man sich bewusst machen sollte, dass sie teurer sind und das auch berücksichtigen sollte, wenn man mit Zero Waste anfängt. Die Produkte in der ersten Tabellen sind also besser für den Anfang geeignet.
+Das ist immerhin eine Preisdifferenz von knapp **172€**, die man für Unverpackte Produkte **mehr bezahlt**. Aber wie gesagt, das sind die Dinge, bei denen man sich bewusst machen sollte, dass sie teurer sind und das auch berücksichtigen sollte, wenn man mit Zero Waste anfängt. Die Produkte in der ersten Tabellen sind also besser für den Anfang geeignet.
 
 Aber auch hier gibt es ein paar Alternativen, die man nutzen kann, um die Kosten weiter zu drücken. Du kannst beispielsweise mal ein **Shampoo aus Roggenmehl** ausprobieren. Das habe ich selbst noch nicht gemacht, aber ich habe dir hier mal einen [Artikel zu Roggenmehlshampoo](https://www.smarticular.net/haarwaesche-mit-roggenmehl-natuerlich-pflegend-und-vegan/) verlinkt. Bei 50g bis 40g Roggenmehl pro Haarwäsche, hält eine Packung Mehl für 20-25 Haarwäschen, also durchaus so lange wie normales Shampoo und kostet dabei pro Packung ca. 1,50€. Also auf’s Jahr gerechnet nur **9,00€**.
 
 Vielleicht benutzt du auch gar **keine Zahnseide**? Es gibt ja viele Leute, die das nicht tun und ich will da keine Empfehlungen aussprechen, aber wenn du sie einfach nicht nutzt, dann sind das natürlich auch **keine anfallende Kosten**.
+
+Zahnpasta kannst du dir aus Kokosöl, Natron und Pfefferminzöl selbst machen und kommst damit auf einen Bruchteil der Kosten, ca. **1€ pro 100g**, also schätzungsweise **6€ pro Jahr**. Das [Rezept für selbst gemachte Zahnpasta](http://trashisfortossers.com/my-zero-waste-homemade-toothpaste-recipe/) ist übrigens von Lauren Singer.
 
 Beim **Toilettenpapier** handhaben wir es momentan auch so, dass uns unverpackt zu teuer ist, also kaufen wir **Recycling Toilettenpapier**, welches mit dem “Blauen Engel” ausgezeichnet ist. Das ist schonmal ein guter Ansatz und sprengt das Budget nicht vollständig.
 
@@ -265,6 +267,17 @@ Mit diesen Anpassungen sieht die Tabelle dann so aus:
     </tr>
     <tr>
       <th>
+        Zahnpasta/Zahnputztabletten
+      </th>
+      <td>
+        5,10€
+      </td>
+      <td>
+        6,00€
+      </td>
+    </tr>
+    <tr>
+      <th>
         Wattestäbchen
       </th>
       <td>
@@ -290,10 +303,10 @@ Mit diesen Anpassungen sieht die Tabelle dann so aus:
         <strong>Summe</strong>
       </th>
       <td>
-        <strong>32,36€</strong>
+        <strong>37,46€</strong>
       </td>
       <td>
-        <strong>54,90€</strong>
+        <strong>60,90€</strong>
       </td>
     </tr>
   </table>
@@ -301,17 +314,17 @@ Mit diesen Anpassungen sieht die Tabelle dann so aus:
 
 Damit liegen die **Mehrkosten bei ca 23€**, was du mit der Ersparnis bei den günstigeren Produkten raus hast und trotzdem noch sparst! Insgesamt sind das übers Jahr gute **52€**.
 
-Man muss also durchaus mal rechnen und sich informieren und dann entscheiden, was günstig ist und wo man sparen kann - das kann man leicht ersetzen - und wo es eher schwierig ist. Da solltest du dir keinen Druck machen!
+<mark>Man muss also durchaus mal rechnen und sich informieren und dann entscheiden, was günstig ist und wo man sparen kann - das kann man leicht ersetzen - und wo es eher schwierig ist. Da solltest du dir keinen Druck machen!</mark>
 
 &nbsp;
 
 Nachstehend habe ich noch die Rechnungen zu den Produkten aus den Tabellen oben aufgeführt (falls es dich interessiert). Ich hoffe damit konnte ich den Irrglauben, dass Zero Waste immer teurer ist als herkömmliche Produkte, die man bei DM und Co. bekommt, etwas zerstreuen. Das könnte dich außerdem noch interessieren:
 
-[8 Fragen zum Unverpackt Einkaufen](8-fragen-zum-unverpackt-einkaufen)
+[8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen)
 
-[Mein Zero Waste Badezimmer](mein-zero-waste-badezimmer)
+[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer)
 
-[Menstruationstasse vs Tampon](menstruationstasse-vs-tampon)
+[Menstruationstasse vs Tampon](/blog/menstruationstasse-vs-tampon)
 
 Bis nächstes Mal.
 
@@ -511,7 +524,7 @@ Hier gibt es glaube ich keine großen Unterschiede von der Nutzungsdauer und vom
     </tr>
     <tr>
       <td>
-        1,10€ pro 100g, also bei 0,3g pro Stück (333 Stück pro 100g), also 0,003€ pro Stück * (2 * 365) = 2,19€ pro Jahr
+        11€ pro 100g, also bei 0,3g pro Stück (333 Stück pro 100g), also 0,03€ pro Stück * (2 * 365) = 21,90€ pro Jahr
       </td>
       <td>
         0,85€ pro Stück für 2 Monate * 6 = 5,10€ pro Jahr
