@@ -112,11 +112,11 @@ Diese Kosten sind oft unnötig hoch. Am besten kannst du ihnen Herr oder Frau we
 
 So, das waren meine Tipps für deine Finanzen. Ich persönlich liebe ja Organisation und solche Aufgabe. Und mehr Geld zur Verfügung zu haben, macht auch Spaß. <mark>Minimalismus hat mir definitiv geholfen mein Geld weniger und dafür sinnvoller auszugeben.</mark> Wie sieht es bei dir aus? Hast du schon ein Haushaltsbuch? Oder schonmal jeden Monat alle Ausgaben erfasst? Ich hoffe es waren ein paar Tipps für dich mit dabei. Und falls du dich für Minimalismus interessierst, dann empfehle ich dir folgende Artikel:
 
-[Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
+[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
 
-[Unsichtbare Unordnung: Dokumente Strukturieren](unsichtbare-unordnung-dokumente-strukturieren)
+[Unsichtbare Unordnung: Dokumente Strukturieren](/blog/unsichtbare-unordnung-dokumente-strukturieren)
 
-[Unsichtbare Unordnung: Abonnements, Konten und Tarife](unsichtbare-unordnung-abonnements-konten-und-tarife)
+[Unsichtbare Unordnung: Abonnements, Konten und Tarife](/blog/unsichtbare-unordnung-abonnements-konten-und-tarife)
 
 Wir sehen uns nächste Woche. Bis dahin,
 

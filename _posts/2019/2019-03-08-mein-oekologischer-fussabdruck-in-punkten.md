@@ -51,7 +51,7 @@ schlägt mit satten 5 Punkte pro Weg zu buchen.</mark> Damit wäre ich an einem 
 Punkten gleich bei 10.
 
 Ebenso kann man seine Punkte mit der Nutzung von öffentlichen Verkehrsmitteln klein halten.
-Mehr dazu findest du im Beitrag [6 Fakten zu Emissionen des Personen- und Güterverkehrs](6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs).
+Mehr dazu findest du im Beitrag [6 Fakten zu Emissionen des Personen- und Güterverkehrs](/blog/6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs).
 
 ## Fitness in der Natur für die Natur
 Wenn du wirklich was für die Natur und Mutter Erde tun willst, dass lass das Fitnessstudio
@@ -323,11 +323,11 @@ gut für das Wohlbefinden und den Geldbeutel.
 Wenn du noch mehr zum Thema Nachhaltigkeit und weniger Konsum wissen willst,
 dann empfehle ich dir folgende Beiträge:
 
-[Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
+[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
 
-[Die Philosophie hinter Zero Waste](die-philosophie-hinter-zero-waste)
+[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste)
 
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
+[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
 
 Mich würde interessieren, was du machst, um deinen ökologischen Fußabdruck klein zu halten
 und wie dein bester Tag bisher aussieht. Lass es mich gerne wissen. Bis zum nächsten Mal.

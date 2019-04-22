@@ -88,7 +88,7 @@ Wie kannst du nun Kleidung erkennen, die aus Bio-Baumwolle gefertigt wurde? Dabe
 - Überprüfe, ob das Kleidungsstück aus Europa kommt.
 - Achte auch darauf, wie das Kleidungsstück produziert wurde, da selbst trotz Bio-Baumwolle bei der Produktion der Bekleidung Chemikalien und Gifte zum Einsatz kommen können.
 
-[Hier findest du eine Liste von nachhaltigen und umweltfreundlichen Shops.](onlineshops-fuer-faire-und-nachhaltige-mode)
+[Hier findest du eine Liste von nachhaltigen und umweltfreundlichen Shops.](/blog/onlineshops-fuer-faire-und-nachhaltige-mode)
 
 ## Zusammen&shy;fassung
 Abschließend kann man sagen, <mark>dass Bio-Baumwolle die bessere Wahl ist, selbst wenn sie nicht nachhaltig weiter verarbeitet wurde</mark>. Sie
@@ -104,11 +104,11 @@ Abschließend kann man sagen, <mark>dass Bio-Baumwolle die bessere Wahl ist, sel
 
 Ich hoffe ich konnte dich motivieren, bei deinem nächsten Kauf von Kleidung auf Bio-Baumwolle zu achten. Denn selbst wenn sie noch lange nicht perfekt ist, es ist ein großer Schritt in die richtige Richtung und hin zu nachhaltiger Landwirtschaft. Wenn du dich noch weiter über nachhaltige Mode oder Nachhaltigkeit im Allgemeinen informieren möchtest, dann guck mal hier:
 
-[Die Tragödien hinter Fast Fashion](die-tragoedien-hinter-fast-fashion)
+[Die Tragödien hinter Fast Fashion](/blog/die-tragoedien-hinter-fast-fashion)
 
-[Die Vorteile von Glas gegenüber Plastik](die-vorteile-von-glas-gegenueber-plastik)
+[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik)
 
-[Was ist Plastik eigentlich genau?](was-ist-plastik)
+[Was ist Plastik eigentlich genau?](/blog/was-ist-plastik)
 
 Wir sehen uns dann nächste Woche.
 

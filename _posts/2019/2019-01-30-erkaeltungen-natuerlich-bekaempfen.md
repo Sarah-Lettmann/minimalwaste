@@ -74,11 +74,11 @@ Das waren meine Tipps, wie du deinen Körper hilfst, die Erkältung schnell wied
 
 Natürlich gibt es auch noch viele andere Sachen, die man machen kann, wie eine goldenen Milch trinken (mit Kurkuma) oder solche Sperenzchen. Aber das muss man eben nicht. Ein Pfefferminztee tut es auch. Falls du doch noch Interesse an dem einen oder anderen Helferli hast, kann ich dir den [Bereich Hausmittel im Waschbär Onlineshop](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fbeauty-und-wellness%2Fwellness%2Fhausmittel)* empfehlen. Weiters zum Thema natürlich und müllfrei Leben, findest du hier:
 
-[Wie du durch Zero Waste gesünder lebst](wie-du-durch-zero-waste-gesuender-lebst)
+[Wie du durch Zero Waste gesünder lebst](/blog/wie-du-durch-zero-waste-gesuender-lebst)
 
-[Die Philosophie hinter Zero Waste](die-philosophie-hinter-zero-waste)
+[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste)
 
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
+[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
 
 Hoffentlich helfen dir diese Tipps durch die Erkältungszeit. Bis nächste Woche und bleib gesund.
 

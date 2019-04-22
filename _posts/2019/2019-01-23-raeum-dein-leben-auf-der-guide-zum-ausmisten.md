@@ -84,11 +84,11 @@ Ich habe das geschafft und kaufe heute nur noch wenige Dinge. Und es geht mir da
 
 Nachdem du jetzt weißt, wie du einfach ausmisten kannst, wünsche ich dir viel Spaß dabei und hoffe, dass es für sich das gleiche tun kann wie für mich. Lass mich gerne wissen, welche Erfahrungen mit Minimalismus und Entrümpeln du schon gemacht hast. Meine Erfahrungen findest du hier:
 
-[Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
+[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
 
-[Wie passen Zero Waste und Minimalismus zusammen?](wie-passen-zero-waste-und-minimalismus-zusammen)
+[Wie passen Zero Waste und Minimalismus zusammen?](/blog/wie-passen-zero-waste-und-minimalismus-zusammen)
 
-[Unsichtbare Unordnung: Dokumente Strukturieren](unsichtbare-unordnung-dokumente-strukturieren)
+[Unsichtbare Unordnung: Dokumente Strukturieren](/blog/unsichtbare-unordnung-dokumente-strukturieren)
 
 Ich wünsche dir noch eine wundervolle Woche und bis zum nächsten Mal.
 

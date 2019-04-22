@@ -75,11 +75,11 @@ Zu den Emissionen, die bei Lieferungen von ferig verpackten Produkten entstehen,
 
 Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders macht und wie du durch den Kauf und das Wiederverwerten von Glasverpackungen der Umwelt etwas Gutes tust. Also ich fand das alles sehr spannend und fühle mich in der Nutzung von Glas bestärkt. Hier findest du noch weitere Infos zu Recycling und anderen Rohstoffen:
 
-[Was ist Plastik eigentlich genau? – Plastik unter der Lupe (1)](https://minimalwaste.de/blog/was-ist-plastik/)
+[Was ist Plastik eigentlich genau? – Plastik unter der Lupe (1)](/blog/was-ist-plastik/)
 
-[Wie nachhaltig ist Bio-Baumwolle?](https://minimalwaste.de/blog/wie-nachhaltig-ist-bio-baumwolle/)
+[Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle/)
 
-[Die Philosophie hinter Zero Waste](https://minimalwaste.de/blog/die-philosophie-hinter-zero-waste/)
+[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste/)
 
 Mach es gut und bis zum nächsten Mal,
 

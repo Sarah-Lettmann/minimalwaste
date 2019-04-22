@@ -55,11 +55,11 @@ Manchmal hilft dieser Tipp, aber es gibt auch Etiketten, die sind mit einem zu s
 
 Das waren meine kleinen und schnellen Mittelchen für den Haushalt. Ich probiere immer gerne mit neuen Sachen herum, um etwas Geld zu sparen oder einfach immer alles da zu haben (denn die meisten Dinge kann man ja mit Natron, Essig und Co. lösen). Welche Hausmittelchen verwendest du zu Hause und welche Erfahrungen hast du gemacht? Lass es mich wissen. Außerdem gibt es hier noch weitere Beiträge passend zum Frühjahrsputz:
 
-[4 nachhaltige Reiniger, die alles sauber bekommen](https://minimalwaste.de/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen/ "Zum Beitrag")
+[4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen/ "Zum Beitrag")
 
-[Was kostet Zero Waste im Haushalt?](https://minimalwaste.de/blog/was-kostet-zero-waste-im-haushalt/ "Zum Beitrag")
+[Was kostet Zero Waste im Haushalt?](/blog/was-kostet-zero-waste-im-haushalt/ "Zum Beitrag")
 
-[Räum dein Leben auf! Der Guide zum Ausmisten](https://minimalwaste.de/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/ "Zum Beitrag")
+[Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/ "Zum Beitrag")
 
 Bis nächste Woche.
 

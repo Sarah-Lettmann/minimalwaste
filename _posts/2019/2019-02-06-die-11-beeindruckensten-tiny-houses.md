@@ -74,11 +74,11 @@ Wirklich wunderschön finde ich die Idee dieser Frau, ein Haus in einen alten Zu
 
 Für weiter Infos, wie man so ein Tiny House realisieren kann, was die Vorteile sind und wie viel sowas kostet, hier noch ein paar Video: [Wohnen: Leben im Mini-Haus - WDR Doku](https://www.youtube.com/watch?v=WSmKeFtB1yg). Und noch mehr zum Thema Minimalismus:
 
-[Minimalistische Finanzplanung für mehr Freiheit](minimalistische-finanzplanung-fuer-mehr-freiheit)
+[Minimalistische Finanzplanung für mehr Freiheit](/blog/minimalistische-finanzplanung-fuer-mehr-freiheit)
 
-[15 Ideen für günstige Freizeitgestaltung für zu Hause](15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause)
+[15 Ideen für günstige Freizeitgestaltung für zu Hause](/blog/15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause)
 
-[Leben in der Konsumgesellschaft: Warum ist das so?](leben-in-der-konsumgesellschaft)
+[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
 
 Wenn ihr nochmal eine Übersicht über diese Dinge oder einfach weitere Beiträge zu den Mini-Häusern wollt, dann lasst es mich wissen. Ich finde dieses Thema nämlich auch sehr spannend und würde gerne mehr darüber wissen. Bis nächste Woche
 

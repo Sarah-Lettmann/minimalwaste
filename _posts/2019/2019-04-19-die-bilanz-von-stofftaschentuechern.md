@@ -12,7 +12,7 @@ affiliate: false
 ---
 Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. Allerdings habe ich ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.
 
-Den Post von damals _[Sind Alternativen aus Stoff ökologisch sinnvoll](sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ empfehle ich dir auch, denn teilweise übernehme ich Annahmen und baue auf diesem auf. Wenn du Lust auf noch mehr Content dieser Art hast, dann lass mir einen Kommentar dar. Außerdem würde mich deine Meinung zu der ganzen Thematik Mehrweg vs. Einweg interessieren.
+Den Post von damals _[Sind Alternativen aus Stoff ökologisch sinnvoll](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ empfehle ich dir auch, denn teilweise übernehme ich Annahmen und baue auf diesem auf. Wenn du Lust auf noch mehr Content dieser Art hast, dann lass mir einen Kommentar dar. Außerdem würde mich deine Meinung zu der ganzen Thematik Mehrweg vs. Einweg interessieren.
 
 Was ich mir also diesmal außerdem angeguckt habe sind **Lieferwege und Transport** sowohl des fertigen Produkts als auch der Rohstoffe. Außerdem geht es auch um die **Rohstoffe** selbst, die zur Fertigung benötigt werden. **Energie und Wasservbrauch** habe ich mir schon angeguckt, aber möchte das auch nochmal bezogen auf unterschiedliche Resourcen tun. Interessant sind außerdem die **CO2-Emissionen**. Zudem wurde sich gewünscht, dass ich mir die **Auswirkungen auf Wälder und Boden** der verschiedenen Rohstoffe angucke.
 
@@ -138,7 +138,7 @@ Besonders bei Hygienepapieren solltest du also zu Recyclingpapier greifen, da di
 {% include figure.html src="/assets/inpost-images/2019/2019-04-05-blauer-engel-infografik.jpg" alt="Infografik zum Blauen Engel" title="Quelle: www.blauer-engel.de" caption="Quelle: www.blauer-engel.de" %}
 
 ## Baumwolle
-Baumwolle ist ein beliebter Stoff, nicht nur wenn es um Kleidung geht. Und warum auch nicht, sie ist vegan und biologisch Abbaubar. Dafür gibt es also schonmal Pluspunkte. <mark>Leider aber ist die Baumwolle an sich eigentlich eine ziemliche Umweltsünde.</mark> Das habe ich mir auch schon in meinem Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle) angeguckt. Den kannst du dir gerne mal durchlesen, falls du dich noch genauer mit dem Thema beschäftigen willst. Ich werden das hier recht kurz machen.
+Baumwolle ist ein beliebter Stoff, nicht nur wenn es um Kleidung geht. Und warum auch nicht, sie ist vegan und biologisch Abbaubar. Dafür gibt es also schonmal Pluspunkte. <mark>Leider aber ist die Baumwolle an sich eigentlich eine ziemliche Umweltsünde.</mark> Das habe ich mir auch schon in meinem Post [Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle) angeguckt. Den kannst du dir gerne mal durchlesen, falls du dich noch genauer mit dem Thema beschäftigen willst. Ich werden das hier recht kurz machen.
 
 ### Auswirkungen auf die Umwelt und den Menschen
 Die Auswirkungen auf Mensch und Umwelt beim konventionellen Anbau von Baumwolle sind immens und verheerend. Durch den enormen Wasserverbrauch werden **lokale Gewässer angezapft**. Außerdem wird **genetisch verändertes Saatgut** verwendet, wodurch die Pflanzen nicht wiederstandsfähig sind, mit **Pestiziden** gespritzt werden müssen und diese natürlich in den Boden gelangen. Dadurch werden nicht nur die **Farmer krank**, sondern auch Menschen in den Regionen, wo die Baumwolle angebaut wird. Außerdem erfolgt der Anbau in **Monokultur** und auch Dinge wie **Kinderarbeit** sind leider keine Seltenheit. Für Mensch und Umwelt also eine ziemliche Katastrophe.
@@ -157,7 +157,7 @@ Konventionell hergestellte Baumwolle braucht eine enorme Menge an Ressourcen. F�
 Große Mengen an **Pestiziden und Entlaubungsmitteln** werden bei herkömmlicher Baumwolle eingesetzt und verbleiben zum Teil auch nachher noch im fertigen Stoff. Außerdem werden in der weiteren Verarbeitung nicht selten **giftige Färbe- und Bleichmittel** eingesetzt, die wir dann später direkt auf der Haut tragen. Das ist durchaus bedenklich.
 
 ### Bilanz
-Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage (wofür wiederum **12,1g Baumwolle** benötigt werden). In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
+Wie auch schon im Post [Sind Alternativen aus Stoff ökologisch sinnvoll?](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll) nehmen wir für Stofftaschentücher aus Baumwolle ein Gewicht von 11g zur Grundlage (wofür wiederum **12,1g Baumwolle** benötigt werden). In der Tabelle habe ich den Verbauch eines Stofftaschentuchs in der Herstellung und nach einem Jahr, inklusive der nötigen Waschgänge, errechnet.
 
 Für die Berechnung der Waschgänge orientiere ich mich an meinem alten Post. Folgendes legen wir zugrunde:
 
@@ -253,7 +253,7 @@ _Auch hier haben wir natürlich einen Wasserverbrauch von 0,115 Litern, einen En
 </div>
 
 ### Bio-Baumwolle erkennen
-Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle), da habe ich am Ende ein paar Infos reingepackt, worauf man bei Bio-Baumwolle achten sollte.
+Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle), da habe ich am Ende ein paar Infos reingepackt, worauf man bei Bio-Baumwolle achten sollte.
 
 ## Der direkte Vergleich
 Zuerst mal der direkte Vergleich von einem Taschentuch zum anderen. Was machen die unterschiedlichen Rohstoffe bei einem Taschentuch an Emissionen, Wasser- und Energieverbrauch aus? Eine Übersicht findest du in der nachfolgenden Tabelle.
@@ -336,11 +336,11 @@ Allerdings möchte ich hier nochmal erwähnen, dass dieser Post keine wissenscha
 
 Gibt mir gerne Feedback, was du von dem Post hältst und welche Themen dich sonst noch interessieren würden oder welche Rohstoffe oder Alltagsprodukte ich mir noch angucken soll. Wenn du dich noch weiter über Nachhaltigkeit informieren willst, dann schau mal hier:
 
-[Wie nachhaltig ist Bio-Baumwolle?](wie-nachhaltig-ist-bio-baumwolle)
+[Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle)
 
-[Die Vorteile von Glas gegenüber Plastik](die-vorteile-von-glas-gegenueber-plastik)
+[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik)
 
-[Mein ökologischer Fußabdruck in Punkten](mein-oekologischer-fussabdruck-in-punkten)
+[Mein ökologischer Fußabdruck in Punkten](/blog/mein-oekologischer-fussabdruck-in-punkten)
 
 Dann bis zum nächsten Mal.
 
