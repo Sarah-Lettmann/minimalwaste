@@ -66,9 +66,15 @@ Und zum Schluss möchte ich dir noch eines mit auf dem Weg geben: Sei kreativ! M
 
 Zuerst habe ich sie eingerollt und dann mit den beiden Enden einen doppelten Knoten gemacht. Zum Schluss habe ich noch die Enden gezwirbelt und wieder zusammengebunden, so wie ich das in der ersten Methode für Flachen gezeigt habe. Du siehst also, man kann wirklich alles mit diesen Tüchern wirklich schön und dabei auch nachhaltig einpacken (wobei nachhaltig hier vielleicht das falsche Wort ist, denn schließlich soll das Geschenk ja auch wieder ausgepackt werden).
 
-Ich finde es einfach erstaunlich, dass Geschenken durch diese Tücher eine so persönliche Note verliehen werden kann. Ich finde ja auch, dass die Tücher unterm Weihnachtsbaum auch wirklich was her machen. Außerdem hab ich mich sowieso schon total in diese Tücher verliebt. Und um Liebe geht es bei Weihnachten ja eigentlich :). In diesem Sinne wünsche ich dir eine stressfreie und schöne Weihnachtszeit!
+Ich finde es einfach erstaunlich, dass Geschenken durch diese Tücher eine so persönliche Note verliehen werden kann. Ich finde ja auch, dass die Tücher unterm Weihnachtsbaum auch wirklich was her machen. Außerdem hab ich mich sowieso schon total in diese Tücher verliebt. Und um Liebe geht es bei Weihnachten ja eigentlich. In diesem Sinne wünsche ich dir eine stressfreie und schöne Weihnachtszeit!
 
-Hast du schon mal Erfahrungen mit Furoshiki oder einem anderen Zero Waste Geschenkpapier gemacht? Oder hast du gerade erst Lust auf Furoshiki bekommen? Dann guck doch mal auf [ebay-kleinanzeigen](https://www.ebay-kleinanzeigen.de), [ebay](http://www.ebay.de/) oder bei [Etsy](https://www.etsy.com/de/) (da habe ich nämlich meine her).
+&nbsp;
 
-### Hier findest du weitere Infos:
+Hast du schon mal Erfahrungen mit Furoshiki oder einem anderen Zero Waste Geschenkpapier gemacht? Oder hast du gerade erst Lust auf Furoshiki bekommen? Dann guck doch mal auf [ebay-kleinanzeigen](https://www.ebay-kleinanzeigen.de), [ebay](http://www.ebay.de/) oder bei [Etsy](https://www.etsy.com/de/) (da habe ich nämlich meine her). Wie auch immer, ich hoffe du hast eine möglichst müllfreie Weihnachstzeit.
+
+\- Sarah
+
+&nbsp;
+
+#### Hier findest du weitere Infos:
 1. [Wikipedia: Furoshiki](https://de.wikipedia.org/wiki/Furoshiki)

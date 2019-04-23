@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Europäische Woche der Abfallvermeidung: 6 Ideen zum Ausprobieren"
+title: "Europäische Woche der Abfall&shy;vermeidung: 6 Ideen zum Ausprobieren"
 subtitle: "Müllreduzierung, Wiedreverwendung und Recycling sind die Stichwörter"
 date: 2016-11-21
 categories: [Zero Waste]
@@ -32,6 +32,6 @@ Vielleicht gibt es ja bei dir in der Nähe einen Unverpackt-Laden? Wenn ja, dann
 
 &nbsp;
 
-### Hier findest du weitere Infos:
+#### Hier findest du weitere Infos:
 1. [ewwr.eu](http://www.ewwr.eu/de)
 2. [ewwr.eu: ideas](http://www.ewwr.eu/de/ideas/reduce)

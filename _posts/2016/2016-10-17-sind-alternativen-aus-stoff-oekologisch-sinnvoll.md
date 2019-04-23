@@ -328,7 +328,7 @@ Ich hoffe das Ganze war nicht zu trocken und theoretisch und selbst wenn, hast d
 
 &nbsp;
 
-### Hier findest du weitere Infos:
+#### Hier findest du weitere Infos:
 1. [Wikipedia: Baumwolle](https://de.wikipedia.org/wiki/Baumwolle#Bestandteile_und_Verarbeitung)
 2. [virtuelles-wasser.de: Baumwolle](http://virtuelles-wasser.de/baumwolle.html)
 3. [Wikipedia: Flachsfaser](https://de.wikipedia.org/wiki/Flachsfaser)

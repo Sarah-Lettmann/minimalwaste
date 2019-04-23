@@ -11,7 +11,7 @@ image: "/assets/title-images/2016/2016-09-02-nachhaltige-produkte-zur-muellreduz
 author: sarah-lettmann
 affiliate: false
 ---
-Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispielsweise nachhaltige Produkte kaufen und wiederverwenden. Ich habe für dich eine Auflistung aller Alternativen zu herkömmlichen (evtl. in Plastik verpackten) Produkten zusammengestellt. Darunter befinden sich Dinge, die vollständig ohne Verpackung auskommen oder immer wieder verwendet werden können. Ich habe aber auch Dinge aufgeführt, die nicht vollständig auf Verpackung oder Müll verzichten, welche aber vielleicht ein guter Einstieg sind. Denn auch wenig kann viel helfen ;-). 
+Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispielsweise nachhaltige Produkte kaufen und wiederverwenden. Ich habe für dich eine Auflistung aller Alternativen zu herkömmlichen (evtl. in Plastik verpackten) Produkten zusammengestellt. Darunter befinden sich Dinge, die vollständig ohne Verpackung auskommen oder immer wieder verwendet werden können. Ich habe aber auch Dinge aufgeführt, die nicht vollständig auf Verpackung oder Müll verzichten, welche aber vielleicht ein guter Einstieg sind. Denn auch wenig kann viel helfen. 
 
 Außerdem möchte ich anmerken, dass ich nicht alle Produkte selbst benutze und/oder noch nicht ausprobiert habe. Nur weil ein Produkt für jemanden funktioniert, muss es noch lange nicht für dich funktionieren. Diese Liste soll lediglich als Denkanstoß und zur Unterstützung deiner Recherche dienen. Das Ausprobieren bleibt immer noch dir überlassen. Trau dich!
 
@@ -26,7 +26,7 @@ Es gibt nichts schöneres, als nach einem langen Tag abends in der Badewanne zu 
 -> [Lush](http://www.lush-shop.de/baden.635.0.html)
 
 ## Batterien
-Es ist schwer komplett ohne Batterien auszukommen. Entweder man braucht ein paar für die Maus oder den Milchaufschäumer oder sonst irgendein kleines Haushaltsgerät. Eine Alternative, die sich wesentlich öfter als ein Mal verwenden lässt, sind Akkus. Sie sehen genauso aus wie Batterien, lassen sich aber in einer Ladestation klemmen und wieder aufladen. Wirklich praktisch! Wir haben Akkus und eine alte Ladestation von meinem Vater bekommen :).
+Es ist schwer komplett ohne Batterien auszukommen. Entweder man braucht ein paar für die Maus oder den Milchaufschäumer oder sonst irgendein kleines Haushaltsgerät. Eine Alternative, die sich wesentlich öfter als ein Mal verwenden lässt, sind Akkus. Sie sehen genauso aus wie Batterien, lassen sich aber in einer Ladestation klemmen und wieder aufladen. Wirklich praktisch! Wir haben Akkus und eine alte Ladestation von meinem Vater bekommen.
 
 ![Ein Akkuladegerät](/assets/inpost-images/2016/2016-09-02-akkuladegeraet.jpg "© {{ site.title }}")
 
@@ -48,7 +48,7 @@ Eine der größten Umweltsünden sind wohl die endlos vielen Plastiktaschen, die
 [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=14&artnr=86&product=Naturtasche+Gemsebeutel+3er-Set)
 
 ## Geschenkpapier
-Statt Geschenke oder kleine Aufmerksamkeiten weiter in das übliche Papier einzupacken, verwende doch Bereits benutzte Reste, Zeitungspapier oder schöne Tücher. Besonders gut eignen sich dazu [Furoshiki Tücher](http://minimalwaste.de/furoshiki-tuecher-als-zero-waste-geschenkpapier).
+Statt Geschenke oder kleine Aufmerksamkeiten weiter in das übliche Papier einzupacken, verwende doch Bereits benutzte Reste, Zeitungspapier oder schöne Tücher. Besonders gut eignen sich dazu [Furoshiki Tücher](/blog/furoshiki-tuecher-als-zero-waste-geschenkpapier).
 
 ## Getränke
 Anstelle Wasser in Flaschen zu kaufen, kann auch Leitungswasser problemlos getrunken werden. Das spart nicht nur Geld sondern auch Müll. Das Leitungswasser in Deutschland verfügt über eine sehr gut Qualität. Wenn Du Wasser in Flaschen kaufst, handelt es sich heutzutage leider oft um Einwegflaschen. Mehrwegflaschen aus dickerem Plastik oder am besten aus Glas sind da schon sinnvoller. Mehrweg Glasflaschen können nämliche bis zu 50-mal und Plastikflaschen bis zu 25-mal wieder befüllt werden. Bei Getränken also immer auf das Mehrwegzeichen achten.
@@ -63,7 +63,7 @@ Zu normalem Schampoo aus der Flasche gibt es tolle Alternativen. Ich selbst nutz
 ![Unverpackte Seife von Lush](/assets/inpost-images/2016/2016-09-02-seife.jpg "© {{ site.title }}")
 
 ## Kräuter
-Kräuter gibt's ja oft nur in kleinen Plastikpäckchen oder in Bündeln mit Gummiband zu kaufen. Auch wenn das keinen Plastikmüll produzieren würde, hätte es mich genervt, da diese Mengen meist viel zu viel sind und man das unmöglich alles aufbrauchen kann, wenn man es für ein Gericht einkauft :-/. Da wir aber nun endlich einen tollen Balkon besitzen, hat mir meine beste Freundin gleich ein paar Kräuter geschenkt. Natürlich habe ich das ganze inzwischen erweitert. Und nicht nur Kräuter hausen auf unserem Balkon, sondern auch zwei Salate :-D. Salat ist im Einkauf nämlich auch eher schwierig. Entweder in der Plastiktüte kaufen (und auf Frische verzichten) oder einen riesigen Salatkopf mitnehmen, den man auch wieder nicht aufbrauchen kann. Unser Pflücksalat hält ab und zu abends mit ein paar Blättern her und wächst fröhlich weiter. In Zukunft werden wir sicherlich noch ein paar Gemüsesorten mitaufnehmen.
+Kräuter gibt's ja oft nur in kleinen Plastikpäckchen oder in Bündeln mit Gummiband zu kaufen. Auch wenn das keinen Plastikmüll produzieren würde, hätte es mich genervt, da diese Mengen meist viel zu viel sind und man das unmöglich alles aufbrauchen kann, wenn man es für ein Gericht einkauft. Da wir aber nun endlich einen tollen Balkon besitzen, hat mir meine beste Freundin gleich ein paar Kräuter geschenkt. Natürlich habe ich das ganze inzwischen erweitert. Und nicht nur Kräuter hausen auf unserem Balkon, sondern auch zwei Salate. Salat ist im Einkauf nämlich auch eher schwierig. Entweder in der Plastiktüte kaufen (und auf Frische verzichten) oder einen riesigen Salatkopf mitnehmen, den man auch wieder nicht aufbrauchen kann. Unser Pflücksalat hält ab und zu abends mit ein paar Blättern her und wächst fröhlich weiter. In Zukunft werden wir sicherlich noch ein paar Gemüsesorten mitaufnehmen.
 
 ![Selbst angebauter Salat](/assets/inpost-images/2016/2016-09-02-selbst-angebauter-salat.jpg "© {{ site.title }}")
 
@@ -95,7 +95,7 @@ Für mich ist Sonnenschutz eine Notwendigkeit (ich habe so helle Haut, dass ich 
 [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=19&artnr=152&product=Sonnencreme-Stick+LSF+30)
 
 ## Tampons
-Hä, wie kann man denn Tampons ersetzen? Mit einer sogenannten Menstruationstasse! Menstruationstassen sind auch ohne auf Müllvermeidung zu achten eine clevere Investition. Die Verwendung ist einfach, gesünder als die von Tampons und spart Geld [[4]](#quellen). Tampons sind oft chemisch behandelt wohingegen Menstruationstassen aus medizinischem Silikon gefertigt sind. Kurz darüber nachdenken - Was würde man wohl lieber nutzen ;-)?  
+Hä, wie kann man denn Tampons ersetzen? Mit einer sogenannten Menstruationstasse! Menstruationstassen sind auch ohne auf Müllvermeidung zu achten eine clevere Investition. Die Verwendung ist einfach, gesünder als die von Tampons und spart Geld [[4]](#quellen). Tampons sind oft chemisch behandelt wohingegen Menstruationstassen aus medizinischem Silikon gefertigt sind. Kurz darüber nachdenken - Was würde man wohl lieber nutzen?  
 -> [Mooncup](http://www.monomeer.de/index.php?page=product_details&category=41&artnr=159&product=mooncup+Menstruationskappe+Gre+A),
 [Lunette](https://www.lunette.com/de/),
 [Ladycup](http://www.ladycup.de/),
@@ -105,7 +105,7 @@ Hä, wie kann man denn Tampons ersetzen? Mit einer sogenannten Menstruationstass
 [Yuuki](http://www.menstruationstasse.de/)
 
 ## Taschentücher
-Taschentücher sind leider in viel zu viele Schichten Plastik verpackt. Eine ganz einfache Alternative bieten Taschentuchboxen. Sie enthalten meist 100 Blatt und bestehen zum großen Teil aus Papier. Die unten verlinkte Box besteht vollständig aus Papier, auch die Lasche an der Öffnung, Wenn das nicht konsequent ist :-D. Besser noch sind Stofftaschentücher, die schonender für die Nase sind, als die weichsten Papiertaschentücher und können immer wieder verwendet werden. Mein Freund ist eine echte Schnupfennase und hat unsere Stofftaschentücher ausführlich getestet und für sehr gut befunden. Außerdem gibt es tolle Designs, durch die die Tücher sehr hochwertig aussehen.  
+Taschentücher sind leider in viel zu viele Schichten Plastik verpackt. Eine ganz einfache Alternative bieten Taschentuchboxen. Sie enthalten meist 100 Blatt und bestehen zum großen Teil aus Papier. Die unten verlinkte Box besteht vollständig aus Papier, auch die Lasche an der Öffnung, Wenn das nicht konsequent ist. Besser noch sind Stofftaschentücher, die schonender für die Nase sind, als die weichsten Papiertaschentücher und können immer wieder verwendet werden. Mein Freund ist eine echte Schnupfennase und hat unsere Stofftaschentücher ausführlich getestet und für sehr gut befunden. Außerdem gibt es tolle Designs, durch die die Tücher sehr hochwertig aussehen.  
 -> [DM](https://www.dm.de/soft-und-sicher-taschentuecher-box-recycling-p4010355127068.html),
 [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=41&artnr=52&product=Lehner+Stofftaschentuch+Herren+wei),
 [Kulmine](http://shop.kulmine.de/Taschentuecher/)
@@ -150,9 +150,11 @@ Natürlich sind viele Dinge auch bei Amazon oder ähnlichen Anbietern erhältlic
 
 Fällt dir noch etwas ein, was unbedingt auf die Liste sollte? Lass es mich wissen und ich füge es gerne hinzu. Wenn du dich für weitere Alternativen interessierst, kann ich dir diese Beiträge ans Herz legen:
 
-1. [Kaffee und Tee ohne Müll](zero-waste-kaffee-und-tee-ohne-muell)
-2. [Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll)
-3. [Plastikfrei einkaufen - Alle Onlineshops die du kennen solltest](plastikfrei-einkaufen-alle-onlineshops)
+[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell)
+
+[Sind Alternativen aus Stoff ökologisch sinnvoll?](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)
+
+[Plastikfrei einkaufen - Alle Onlineshops die du kennen solltest](/blog/plastikfrei-einkaufen-alle-onlineshops)
 
 Bis zum nächsten Mal,
 
@@ -160,7 +162,7 @@ Bis zum nächsten Mal,
 
 &nbsp;
 
-### Weitere Infos:
+#### Weitere Infos:
 1. [Lush: Wir glitzern ganz ohne Plastik](http://www.lush-shop.de/artikel-wir-glitzern-ganz-ohne-plastik.809.0.html?sid=kibu7m49p4pc34737lmhk7m0n7)
 2. [Wikipedia: Natriumhydrogencarbonat](https://de.wikipedia.org/wiki/Natriumhydrogencarbonat)
 3. [Arbeitskreis Mehrweg Gbr: Funktionsweise](http://www.mehrweg.org/mehrwegsystem/funktionsweise/)

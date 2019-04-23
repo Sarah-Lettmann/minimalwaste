@@ -41,4 +41,6 @@ Außerdem kannst du damit auch noch viele andere Dinge machen. Beim Dekorieren s
 
 &nbsp;
 
-Hast du noch Ideen, was man so alles mit den hübschen Gläsern anstellen kann? Und was ist bei dir ein Essential im Zero Waste Haushalt? Schreib mir gerne. Ich bin schließlich neugierig :P.
+Hast du noch Ideen, was man so alles mit den hübschen Gläsern anstellen kann? Und was ist bei dir ein Essential im Zero Waste Haushalt? Schreib mir gerne. Ich bin schließlich neugierig.
+
+\- Sarah

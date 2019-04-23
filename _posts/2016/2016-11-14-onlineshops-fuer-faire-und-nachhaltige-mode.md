@@ -68,6 +68,6 @@ Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen w
 
 &nbsp;
 
-### Hier findest du weitere Infos:
+#### Hier findest du weitere Infos:
 1. [Global Organic Textile Standard: Allgemeine Beschreibung](http://www.global-standard.org/de/the-standard/general-description.html)
 2. [fairtrade-deutschland.de: FAIRTRADE-TEXTILSTANDARD UND TEXTILPROGRAMM](https://www.fairtrade-deutschland.de/was-ist-fairtrade/fairtrade-standards/fairtrade-textilstandard-und-textilprogramm.html)

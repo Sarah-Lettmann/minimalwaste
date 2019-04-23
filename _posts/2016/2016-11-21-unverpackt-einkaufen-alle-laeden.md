@@ -18,4 +18,6 @@ _Update 20.12.2016: Ich habe mich dazu entschlossen Shias Karten von [wastelandr
 
 Wenn du an weiteren Infos wie den Öffnungszeiten oder dem Sortiment interessiert bist, dann schau doch mal auf den Websites der Läden vorbei (oder eben der Facebook-Seite, wenn es keine Website gibt).
 
-Fehlt ein Laden, den du kennst? Oder gibt es einen neuen Unverpackt Laden, der bald eröffnet? Dann geht auf [wastelandrebel.com/de/laden-melden/](http://wastelandrebel.com/de/laden-melden/), damit auch andere Leute davon erfahren und bald dort unverpackt einkaufen können.
+Fehlt ein Laden, den du kennst? Oder gibt es einen neuen Unverpackt Laden, der bald eröffnet? Dann geht auf [wastelandrebel.com/de/laden-melden/](http://wastelandrebel.com/de/laden-melden/), damit auch andere Leute davon erfahren und bald dort unverpackt einkaufen können. Wir sehen uns beim nächsten Mal.
+
+\- Sarah

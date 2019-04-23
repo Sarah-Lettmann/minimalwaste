@@ -16,7 +16,7 @@ Wieso also kann ich nur manche Milchprodukte im Glas kaufen, aber keine Butter.
 
 Natürlich ist mir klar, dass es Lösungsansätze gibt und einige junge Entrepreneure schon lange an Mehrwegsystemen tüfteln, die robust, leicht zu reinigen und am besten noch biologisch abbaubar sind. Das finde ich super! Aber diese müssen leider auch ihren Weg in die freie Wirtschaft und in die Hand/Einkaufstasche des Konsumenten finden. Letztens bin ich dann [bei Twitter über einen Artikel zu diesem Thema gestolpert](http://www.bento.de/nachhaltigkeit/coffee-to-go-ist-bald-kein-muellproblem-mehr-954409/) und habe erfahren, dass sich in Hamburg einige Cafes zusammengetan haben, um ein Mehrwegsystem einzuführen. Das ist natürlich ein wirklich tolle Sache, denn wenn einige mal anfangen, ziehen viele nach.
 
-## Was ist an Einwegbechern eigentlich so schlimm?
+## Was ist an Einwegbechern eigentlich so schlimm?
 Was genau ist jetzt eigentlich so schlimm an den Bechern? Ich denke das fragen sich viele und auch ich habe bis vor nicht so langer Zeit gedacht, dass diese Becher nur aus Papier bestehen. Nun mal davon abgesehen, dass die Verschwendung von Papier auch nicht so eine gute Idee ist, war das verdammt naiv. Diese Becher sind von Innen beschichtet: und zwar mit Kunststoff! Es gibt sie in sehr vielen Varianten, die alle entweder beschichtet sind oder ganz aus Kunststoff bestehen. Hinzu kommt noch, dass man (sind wir mal ehrlich) immer noch einen Deckel drauf packt und vielleicht auch noch ein Plastikstäbchen zum Umrühren verwenden. Hinzu kommen bei Bedarf noch Becherhalter, Papiermanschetten und natürlich die kleinen Tütchen und Kapseln in denen Zucker und Milch kommen. Was für eine Ressourcenverschwendung! Eine grobe Übersicht kannst du dir durch [diese Auflistung](http://www.duh.de/fileadmin/_migrated/content_uploads/DUH_Coffee_to_go_OekoCheck_02.jpg) verschaffen.
 
 Und jetzt noch ein paar Fakten, die einen wirklich umhauen können. Pro Jahr werden sage und schreibe 2,8 Milliarden Einweg-Kaffeebecher alleine in Deutschland verbraucht. Das sind 7,6 Millionen am Tag und 320.000 in der Stunde! Und für den Jahresverbrauch hier in Deutschland müssen 43.000 Bäume gefällt werden. Wenn dir das nicht so viel vorkommt, dann versuch das ganze mal in den globalen Kontext zu setzen. Wie viele Bäume werden wohl jährlich gefällt, nur damit wir unseren Kaffee auf den 10-Minuten-Weg zur Arbeit trinken können? Das Papier der Deutschen Umwelthilfe bringt es hier auf den Punkt: DAS ist nicht ressourceneffizient, egal aus welchem Material die Coffee-to-go Becher hergestellt werden.
@@ -25,7 +25,9 @@ Außerdem werden noch andere Ressourcen wie Energie oder Erdöl benötigt. Alles
 
 Ich finde Coffee-to-go Becher sind ein sehr gutes Beispiel dafür, was wir für eine verschwenderische Spezies sind, allein wenn es um die Produktion unserer Luxusgüter geht. Wenn wir Coffee-to-go Becher nämlich mal mit den ach so teuflischen Plastiktüten vergleichen, dann wird einem ganz anders. Die bösen Plastiktüten werden im Schnitt nämlich ganze 10 Minuten länger verwendet als die Becher, nämlich 25 Minuten anstelle 15 Minuten. Das ist einfach verrückt!
 
-Aber die Entsorgung spielt auch noch eine entschiedene Rolle. 40.000 Tonnen Müll entstehen jährlich in Deutschland durch Kaffeebecher und die meisten davon landen in einem öffentlichen Mülleimer. Leider wird alles aus solchen Mülleimern direkt der Verbrennung zugeführt, da sich ein Sortieren nicht lohnt (wirtschaftlich gesehen). Selbst wenn die Becher beispielsweise im Gelben Sack oder Papiermüll entsorgt werden würden, sieht die Ausbeute eher schlecht aus. Kunststoff und Papier können meist nur schwer voneinander getrennt werden, was zu einem enormen Verlust an Rohstoffen führt. Zunehmend werden auch Becher mit einer Beschichtung aus Bio-Kunststoff angeboten. Diese landen aber meist nicht in der Biotonne und wenn doch, dann können sie beim Recycling nicht von herkömmlichen Bechern unterschieden werden und verrotten wenn nur sehr langsam. Das alles kannst du übrigens bei der Deutschen Umwelthilfe nachlesen.
+Aber die Entsorgung spielt auch noch eine entschiedene Rolle. 40.000 Tonnen Müll entstehen jährlich in Deutschland durch Kaffeebecher und die meisten davon landen in einem öffentlichen Mülleimer. Leider wird alles aus solchen Mülleimern direkt der Verbrennung zugeführt, da sich ein Sortieren nicht lohnt (wirtschaftlich gesehen).
+
+Selbst wenn die Becher beispielsweise im Gelben Sack oder Papiermüll entsorgt werden würden, sieht die Ausbeute eher schlecht aus. Kunststoff und Papier können meist nur schwer voneinander getrennt werden, was zu einem enormen Verlust an Rohstoffen führt. Zunehmend werden auch Becher mit einer Beschichtung aus Bio-Kunststoff angeboten. Diese landen aber meist nicht in der Biotonne und wenn doch, dann können sie beim Recycling nicht von herkömmlichen Bechern unterschieden werden und verrotten wenn nur sehr langsam. Das alles kannst du übrigens bei der Deutschen Umwelthilfe nachlesen.
 
 ## Coffee-to-go Becher Mehrwegstyle
 Mit der richtigen Infrastruktur und den richtigen Ideen kann man tolle Alternativen zu den üblichen Einwegprodukten finden, ohne das uns Luxus abhanden kommt. Deshalb freue ich mich besonders über das Testen der Becher [Treecup](http://www.nowaste.eu/) in Hamburg, [Just swap it](http://justswapit.de/der-becher/) in Berlin und [reCup](https://recup.de/) in Rosenheim.
@@ -42,9 +44,15 @@ Um längen besser als [reCup](https://recup.de/) finde ich auch die Becher von 
 ## Was man jetzt schon tun kann
 Auch in den Städten, in denen es solche Aktionen noch nicht gibt, kann man schon Anregung schaffen. Nimm einfach deinen Thermobecher, ein Glas oder irgendein Behältnis mit, in das du dir deinen Kaffee oder Tee abfüllen lassen kannst. Ketten wie Starbucks bieten das an und geben sogar einen kleinen Rabatt an. Zudem spart das auch noch Geld und so gut wie jeder hat doch irgendwo einen Thermobecher rumlungern, oder? Außerdem ist es wichtig die großen Ketten und auch kleiner Läden auf die Nachfrage nach einer nachhaltigen Alternative zu herkömmlichen Bechern aufmerksam zu machen.
 
-Ich hoffe, das dies der Anfang eines Umdenkens ist, besonders was to-go Produkte angeht. Kennst du noch Initiativen, die sich um ein Mehrweg- oder Pfandsystem in verschiedenen Bereichen bemühen? Wie holst du dir deinen Kaffee, oder trinkst du ihn immer gemütlich im Sitzen?
+&nbsp;
 
-### Hier findest du weitere Infos:
+Ich hoffe, das dies der Anfang eines Umdenkens ist, besonders was to-go Produkte angeht. Kennst du noch Initiativen, die sich um ein Mehrweg- oder Pfandsystem in verschiedenen Bereichen bemühen? Wie holst du dir deinen Kaffee, oder trinkst du ihn immer gemütlich im Sitzen? Lass einen Kommentar da. Bis dahin,
+
+\- Sarah
+
+&nbsp;
+
+#### Hier findest du weitere Infos:
 1. [Deutsche Umwelthilfe: Coffee-to-go Einwegbecher - Umweltauswirkungen und Alternativen](http://www.duh.de/fileadmin/_migrated/content_uploads/Coffee-to-go_Hintergrund.pdf)
 2. [Deutsche Umwelthilfe: Ökocheck handelsüblicher Coffee to go-Becher](http://www.duh.de/fileadmin/_migrated/content_uploads/DUH_Coffee_to_go_OekoCheck_02.jpg)
 3. [bento: Endlich: Dein Coffee-to-go ist bald kein Müllproblem mehr](http://www.bento.de/nachhaltigkeit/coffee-to-go-ist-bald-kein-muellproblem-mehr-954409/)

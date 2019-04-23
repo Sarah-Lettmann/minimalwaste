@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 Tipps für weniger Lebensmittelabfälle"
+title: "7 Tipps für weniger Lebensmittel&shy;abfälle"
 subtitle: "So schaffst du es weniger Lebensmittel wegzuwerfen"
 date: 2016-11-29
 categories: [Zero Waste]
@@ -12,14 +12,14 @@ affiliate: false
 ---
 Ich kenne das von mir selbst, auch wenn ich es ungern zugebe. Ich habe mir am Anfang auch keine Gedanken um Lebensmittelabfälle gemacht. Aber Lebensmittelabfälle zu vermeiden ist ebenso wichtig wie Verpackungsmüll zu vermeiden. Denn in die Produktion von Lebensmitteln gehen Unmengen an Ressourcen, Wasser, Energie, Arbeitskraft und Zeit, die dann in die Tonne wandern. Hier zeige ich dir wie du durch sieben einfache Schritte deinen Lebensmittelmüll auf ein Minimum reduzierst.
 
-## Warum sind Lebensmittelabfälle ein so großes Thema?
+## Warum sind Lebensmittel&shy;abfälle ein so großes Thema?
 Eine Studie der Universität Stuttgart aus dem Jahr 2012 geht davon aus, dass ca. 11 Mio. Tonnen Lebensmittel in Deutschland jährlich in die Tonne wandern. Dabei entfallen 61% davon auf Privathaushalte, nur 17% auf jeweils die Industrie und Großverbraucher und nur etwas 5% auf den Handel. Großverbraucher sind etwa Restaurants, bei denen Lebensmittelabfälle anfallen, weil die Gäste nicht aufessen. Außerdem machen den Hauptanteil der vermeidbaren und teilweise vermeidbaren Lebensmittelabfälle Gemüse (26 Prozent) und Obst (18 Prozent) aus, gefolgt von Backwaren (15 Prozent) und Speiseresten (12 Prozent).
 
 Eine neuere Studie des WWF aus dem Jahr 2015 geht hingegen von 18 Mio. Tonnen Lebensmittelabfällen allein in Deutschland pro Jahr aus. Über den gleichen Zeitraum geht man in Europa schon von über 100 Mio. und weltweit von 1,3 Mrd. Tonnen Lebensmitteln aus, die weggeschmissen werden. Hier werden etwa 39% der Verluste dem Endverbraucher zugeschrieben und ein noch größerer Teil, nämlich 61% der Ernte, der Verarbeitung oder der Lieferung zugeschrieben. Das Potenzial, um solche Abfälle zu vermeiden, ist allerdings immer noch beim Endverbraucher am größten, was dich und mich in die Verantwortung zieht ("Einbußen an Nahrungsmitteln in Industrie- und anderen vergleichsweise reichen Ländern dieser Erde [speisen sich] tendenziell eher aus Quellen nah am finalen Konsumenten").
 
 Aber warum ist Abfall bei Lebensmitteln so schlimm? Nun, zu erst einmal werden zur Produktion, Weiterverarbeitung, Lagerung und für den Transport sehr viele Ressourcen verbraucht. Das fängt mit unglaublichen Wassermengen an, die für die Felder benötigt werden und geht mit der Energie weiter für Gewächshäuser, die Verarbeitung und den Transport. Davon abgesehen gehen auch Zeit und Arbeitskraft ins Land für Lebensmittel, die nachher sowieso nicht verwendet werden, und diese Ressourcen könnte man sinnvoller Nutzen.
 
-Und weiter geht es: 2,6 Mio ha Fläche werden bewirtschaftet (das sind 15% der Fläche die insgesamt genutzt wird), um die erzeugten Lebensmittel gleich wieder wegzuschmeißen [[2]](#quellen). Zudem hinterlässt auch hier unsere verschwenderische Lebensweise Schäden für die Umwelt, denn "angefangen bei Treibhausgasemissionen, die bei der Düngung frei werden, über den Transport, die Lagerung, die Kühlung, die Weiterverarbeitung bis hin zur Entsorgung" werden 22 Mio. Tonnen Treibhausgase freigelassen (insgesamt werden durch "umsonst" produzierte Lebensmittel 48 Mio. Tonnen Emissionen ausgestoßen). Das ist immerhin ein Drittel der Emissionen der gesamten Landwirtschaft.
+Und weiter geht es: 2,6 Mio ha Fläche werden bewirtschaftet (das sind 15% der Fläche die insgesamt genutzt wird), um die erzeugten Lebensmittel gleich wieder wegzuschmeißen. Zudem hinterlässt auch hier unsere verschwenderische Lebensweise Schäden für die Umwelt, denn "angefangen bei Treibhausgasemissionen, die bei der Düngung frei werden, über den Transport, die Lagerung, die Kühlung, die Weiterverarbeitung bis hin zur Entsorgung" werden 22 Mio. Tonnen Treibhausgase freigelassen (insgesamt werden durch "umsonst" produzierte Lebensmittel 48 Mio. Tonnen Emissionen ausgestoßen). Das ist immerhin ein Drittel der Emissionen der gesamten Landwirtschaft.
 
 Weltweit geht man davon aus, dass ca. 30% - 40% der Lebensmittel "umsonst" produziert werden. Und dabei macht man sich heute schon Gedanken darüber, wie man in Zukunft die immer größer werdende Weltbevölkerung ernähren soll. Ich habe mal irgendwo gelesen, dass wir mit den uns heute zur Verfügung stehenden Ressourcen, wenn wir sie nur effizient nutzten, bereits 12 Mrd. Menschen ernähren könnten (bitte nicht genau auf diese Zahl festnageln, da ich mich nicht mehr ganz genau erinnern kann, aber es waren einige Mrd. mehr als heute bereits auf der Erde leben).
 
@@ -61,7 +61,7 @@ Wir haben auch unsere eigenen Kräuter auf der Fensterbank stehen. Man kann sich
 Foodsharing ist eine so großartige Möglichkeit deine Lebensmittelabfälle zu minimieren. Du kannst Foodsharing nutzen um Lebensmittel an andere Leute weiterzugeben, die sie aufbrauchen können. Das ist nützlich, wenn du Sachen entdeckst, die bald ablaufen und dir sicher bist, dass du sie nicht aufbrauchen wirst. Oder aber wenn du in den Urlaub fährst und ebenfalls alles, was in dieser Zeit ablaufen oder schlecht werden wird, weiter zu geben. [Hier kannst du dich anmelden und deine Lebensmittelreste einstellen](https://foodsharing.de/). Oder du suchst dir einen Fairteiler in deiner Stadt und bringst deine Lebensmittel dort hin. Bitte beachte aber die Auflagen! Leicht verderbliche Lebensmittel wie Fleisch oder Fisch dürfen nicht in die Fairteiler.
 
 ## 6. Müll mit nach Hause nehmen
-Ja, auch das sorgt für weniger Müll. Warum? Weil all der Müll, der in diesen einfachen Mülleimern in der Stadt oder im Park landet im Restmüll landet und somit verbrannt wird [[6]](#quellen). Das heißt, du bist besser beraten deine Lebensmittelabfälle lieber zu Hause in deinen Biomüll zu werfen. Ich nehme auch immer meine Reste aus dem Büro mit nach Hause, weil wir da auch nur einen Mülleimer pro Tisch haben, dessen Inhalt unter Garantie auch in den Restmüll wandert. Dazu kann man sich entweder von vornherein ein Gefäß mitnehmen, oder ein Stofftaschentuch verwenden, wie ich das hier getan habe.
+Ja, auch das sorgt für weniger Müll. Warum? Weil all der Müll, der in diesen einfachen Mülleimern in der Stadt oder im Park landet im Restmüll landet und somit verbrannt wird. Das heißt, du bist besser beraten deine Lebensmittelabfälle lieber zu Hause in deinen Biomüll zu werfen. Ich nehme auch immer meine Reste aus dem Büro mit nach Hause, weil wir da auch nur einen Mülleimer pro Tisch haben, dessen Inhalt unter Garantie auch in den Restmüll wandert. Dazu kann man sich entweder von vornherein ein Gefäß mitnehmen, oder ein Stofftaschentuch verwenden, wie ich das hier getan habe.
 
 ![Abfälle mit nach Hause nehmen](/assets/inpost-images/2016/2016-11-29-abfaelle-mit-nach-hause-nehmen.jpg "© {{ site.title }}")
 
@@ -70,9 +70,15 @@ Wenn etwas im Restaurant übrig bleibt, wäre es doch viel zu schade es weg zu s
 
 Außerdem habe ich noch eine neue App entdeckt, die Reste im Restaurant den Kampf ansagt. Das Prinzip ist bei [Too Good To Go](http://toogoodtogo.de/) ein bisschen anders: Restaurants können übrig gebliebenes Essen einstellen und Kunden können sich diese Reste vergünstigt über die App zum Abholen reservieren. Das Essen kann dann kurz vor Ende der Öffnungszeiten beim Restaurant abgeholt werden. Man bekommt natürlich nur das was übrig geblieben ist und dabei ist auch nicht sicher worum es sich genau handelt und wie viel es ist, was man letztendlich bekommt. Aber für flexible und experimentierfreudige Leute, die auch noch Geld sparen wollen, ist das eine tolle Idee!
 
-Hast du solche Apps schon ausprobiert oder achtest du von dir aus immer darauf, möglichst wenig Lebensmittelabfälle zu hinterlassen?
+&nbsp;
 
-### Hier findest du weitere Infos:
+Hast du solche Apps schon ausprobiert oder achtest du von dir aus immer darauf, möglichst wenig Lebensmittelabfälle zu hinterlassen? Schreibe mir gerne. Bis dahin,
+
+\- Sarah
+
+&nbsp;
+
+#### Hier findest du weitere Infos:
 1. [Ermittlung der Mengen weggeworfener Lebensmittel und Hauptursachen für die Entstehung von Lebensmittelabfällen in Deutschland: Zusammenfassung einer Studie der Universität Stuttgart (März 2012), 2012](https://www.bmel.de/SharedDocs/Downloads/Ernaehrung/WvL/Studie_Lebensmittelabfaelle_Faktenblatt.pdf?__blob=publicationFile)
 2. [wwf.de: Das Grosse Wegschmeissen, Vom Acker bis zum Verbraucher: Ausmaß und Umwelteffekte der Lebensmittelverschwendung in Deutschland, 2015](http://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF_Studie_Das_grosse_Wegschmeissen.pdf)
 3. [utopia.de: Zu Hause Gemüse anbauen: Diese 4 Lebensmittel wachsen immer wieder nach](https://utopia.de/ratgeber/lebensmittel-nachwachsen-gemuese-anbauen/)
