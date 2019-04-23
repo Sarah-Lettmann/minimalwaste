@@ -50,3 +50,7 @@ Du versuchst und versuchst, hast aber einfach keine Zeit, musst noch zu viel erl
 
 ## Nachhaltig Leben trotz des inneren Schweinehundes!
 Dieser Beitrag ist für die [Blogparade "Tschüss Schweinehund, hallo nachhaltigeres Leben!"](https://nachhaltiger-warenkorb.de/#!/page/blogparade) im Rahmen der [Deutschen Aktionstage Nachhaltigkeit](http://www.tatenfuermorgen.de/mitmachen/deutsche-aktionstage-nachhaltigkeit/) entstanden. Auch Lust mitzumachen? Dann erkundige dich unter dem obigen Link und nutze in den Sozialen Netzwerken #byebyeschweinehund.
+
+Das war es von mir. Lass mich wissen, wie du versuchst umweltfreundlicher zu Leben und was deine besten Alternativen sind. Bis dann.
+
+\- Sarah

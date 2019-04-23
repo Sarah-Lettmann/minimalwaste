@@ -12,7 +12,7 @@ affiliate: false
 ---
 Zero Waste im Badezimmer einziehen zu lassen, ist nicht so schwer wie du vielleicht denken magst. Diese Zero Waste Badezimmer Utensilien sind super easy umzusetzen und reduzieren dadurch nicht nur deinen Müll, sondern sparen auch noch Geld. Also wirf einen Blick darauf, was du ganz einfach in deinen Badezimmer verändern kannst, um es Zero Waste zu machen.
 
-Wenn du etwas von diesen Dingen kaufen möchtest, dann wirft doch mal einen Blick in meine [Listen von nachhaltigen Onlineshops](plastikfrei-einkaufen-alle-onlineshops).
+Wenn du etwas von diesen Dingen kaufen möchtest, dann wirft doch mal einen Blick in meine [Listen von nachhaltigen Onlineshops](/blog/plastikfrei-einkaufen-alle-onlineshops).
 
 ## Duschen und Baden
 Alles was ich brauche, um richtig sauber zu werden.
@@ -85,7 +85,7 @@ Wenn es um Q-Tipps geht, kannst du einfach die plastikfreien kaufen. Ganz einfac
 ![Q-Tipps](/assets/inpost-images/2017/2017-10-22-qtips.jpg "© {{ site.title }}")
 
 ### Menstruationstasse  
-Benutze diese statt Tampons. Die Anfangskosten sind natürlich höher, aber sie hält auch für gute 20 Jahre. Sie fühlt sich angenehmer an als Tampons und muss weniger oft gewechselt werden als diese. Für weitere Info: [Menstruationstasse vs Tampon](menstruationstasse-vs-tampon)
+Ich benutze diese statt Tampons. Die Anfangskosten sind natürlich höher, aber sie hält auch für gute 20 Jahre. Sie fühlt sich angenehmer an als Tampons und muss weniger oft gewechselt werden als diese. Für weitere Info: [Menstruationstasse vs Tampon](menstruationstasse-vs-tampon)
 
 ![Menstruationstasse](/assets/inpost-images/2017/2017-08-13-menstruationstass.jpg "© {{ site.title }}")
 
@@ -94,7 +94,13 @@ Vielleicht das einfachste. Kaufe einfach recycelt. Oder wenn du dazu die Möglic
 
 ![Bambus Toilettenpapier](/assets/inpost-images/2017/2017-10-22-toilettenpapier.jpg "© {{ site.title }}")
 
-Das sind also meine müllfreien Produkte im Badezimmer. Natürlich gibt es noch einige Sachen, die nicht Zero Waste sind, wie meine Schminke, aber insgesamt finde ich, dass es im Badezimmer eigentlich recht easy ist umzusteigen. Vor allem gibt es dort viele Produkte, die zwar anfangs mehr kosten, aber sich schnell auszahlen, wortwörtlich.
+Das sind also meine müllfreien Produkte im Badezimmer. Natürlich gibt es noch einige Sachen, die nicht Zero Waste sind, wie meine Schminke, aber insgesamt finde ich, dass es im Badezimmer eigentlich recht easy ist, umzusteigen. Vor allem gibt es dort viele Produkte, die zwar anfangs mehr kosten, aber sich schnell auszahlen, wortwörtlich. Hier gibt es noch weiteres zum Thema:
+
+[Menstrua­tionstasse vs. Tampon](/blog/menstruationstasse-vs-tampon/)
+
+[Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/)
+
+[Festes Shampoo: Was du alles wissen solltest!](/blog/festes-shampoo-was-du-alles-wissen-solltest/)
 
 Lass mich auch gerne wissen, was du schon alles als Alternative entdeckt hast. Bis dahin,
 

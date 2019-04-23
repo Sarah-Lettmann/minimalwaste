@@ -14,7 +14,7 @@ Plastikfrei einkaufen und zwar online. Ja, auch das geht! Auf dieser Seite finde
 
 Nachhaltiger online shoppen ist also möglich. Du solltest aber immer im Hinterkopf haben, dass auch weniger Konsum einen großen Teil zu einem nachhaltigeren Lebensstil beiträgt. Falls du aber keine passenden Alternativen bei dir in der Nähe hast, sind diese Shops ideal. Viel Spaß beim Stöbern!
 
-**Kennst du Onlineshops die ohne Plastikverpackung oder Polsterung versenden? Oder die vielleicht einfach nur nachhaltig produzierte Produkte verkaufen? Schreib mir einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.**
+<mark>Kennst du Onlineshops die ohne Plastikverpackung oder Polsterung versenden? Oder die vielleicht einfach nur nachhaltig produzierte Produkte verkaufen?</mark> Schreib mir einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.
 
 &nbsp;
 
@@ -38,3 +38,7 @@ Nachhaltiger online shoppen ist also möglich. Du solltest aber immer im Hinterk
     </tbody>
   </table>
 </div>
+
+Wie immer würde ich mich über Feedback und Ergänzungen freuen. Bis zum nächsten Mal.
+
+\- Sarah

@@ -16,7 +16,7 @@ Vorneweg: Mit was oder wie jemand einrichten möchte ist jedem selbst überlasse
 
 In meiner kleinen Studentenbude und auch als ich noch bei meinen Eltern gewohnt habe, habe ich es nie geschafft, so zu dekorieren wie ich es mir vorgestellt habe. Ich konnte noch so viel daran ändern, hinzufügen und austauschen wie ich wollte. Es haute einfach nicht hin.
 
-Hätte mir nur damals jemand gesagt, dass es einfach zu viel ist. Dass ich das Auge belaste und den Blick störe durch die vielen bunten Sachen. Dabei wollte ich es doch so gerne. Ich wollte es gemütlich und schön und stilvoll haben. Aber leider hatte ich den Sinn und Zweck dahin nicht richtig verstanden.
+<mark>Hätte mir nur damals jemand gesagt, dass es einfach zu viel ist. Dass ich das Auge belaste und den Blick störe durch die vielen bunten Sachen. Dabei wollte ich es doch so gerne.</mark> Ich wollte es gemütlich und schön und stilvoll haben. Aber leider hatte ich den Sinn und Zweck dahin nicht richtig verstanden.
 
 ![Blumen im Glas](/assets/inpost-images/2017/2017-03-11-blumen.jpg "© {{ site.title }}")
 
@@ -24,7 +24,7 @@ Hätte mir nur damals jemand gesagt, dass es einfach zu viel ist. Dass ich das A
 
 Minimalistisches Design strahlt für mich Ruhe aus. Eine einfache Farbpalette mit wenigen Akzenten ist für mich das ästhetischte, das es gibt. Dinge, die den Blick stören und ablenken gehören in den Schrank. Praktischer Nebeneffekt: Es gibt wenig, das zustauben kann und ist somit schneller und leichter zu putzen.
 
-_Selbst gepflückte Zweige und Blumen setzten kleine Farbtupfer und sind wunderschön anzusehen. Sie sind nicht zu mächtig und überladen den Blick nicht. Gleichzeitig bringen sie Frische und sind ein Traum fürs Auge. Genauso verwende ich gerne Obst, Nüsse und selbst Gebackenes als Deko. Genau wie bei den Blumen hast du gleich passende saisonale Deko, die du leicht variieren kannst. Warum im Schrank verstecken, wenn es so hübsch anzusehen ist?_
+> Selbst gepflückte Zweige und Blumen setzten kleine Farbtupfer und sind wunderschön anzusehen. Sie sind nicht zu mächtig und überladen den Blick nicht. Gleichzeitig bringen sie Frische und sind ein Traum fürs Auge. Genauso verwende ich gerne Obst, Nüsse und selbst Gebackenes als Deko. Genau wie bei den Blumen hast du gleich passende saisonale Deko, die du leicht variieren kannst. Warum im Schrank verstecken, wenn es so hübsch anzusehen ist?
 
 ![Teller mit Süßigkeiten](/assets/inpost-images/2017/2017-03-11-teller-suessigkeiten.jpg "© {{ site.title }}")
 
@@ -34,7 +34,7 @@ Manchmal wird einem als Minimalist ja nachgesagt, dass man ein Pragmatiker sei. 
 
 Wie fühlt es sich an? Woraus wurde es hergestellt? Welche Farbe hat es und passt diese in mein Design? Was strahlt es aus? Welchen Nutzen soll es erfüllen? Wofür kann ich es noch gebrauchen? Ist es vielseitig einsetzbar?
 
-_LED Kerzen sind vielseitig einsetzbar und sehen ihren Vorbildern inzwischen zum verwechseln ähnlich. Diese hier sind ebenfalls aus Echtwachs, haben eine rustikale Maserung, hinterlassen aber keinen Müll und verbrauchen nichts als Strom, da sie mit Akkus laufen. Das Licht ist wunderschön und gemütlich. Sie flackern leicht und können umpositioniert werden, wie man es gerade braucht. Egal ob zum Filmgucken, Candlelight Dinner oder in der Leseecke._
+> LED Kerzen sind vielseitig einsetzbar und sehen ihren Vorbildern inzwischen zum verwechseln ähnlich. Diese hier sind ebenfalls aus Echtwachs, haben eine rustikale Maserung, hinterlassen aber keinen Müll und verbrauchen nichts als Strom, da sie mit Akkus laufen. Das Licht ist wunderschön und gemütlich. Sie flackern leicht und können umpositioniert werden, wie man es gerade braucht. Egal ob zum Filmgucken, Candlelight Dinner oder in der Leseecke.
 
 ![LED Kerzen](/assets/inpost-images/2017/2017-03-11-led-kerzen.jpg "© {{ site.title }}")
 
@@ -46,4 +46,16 @@ Da bin ich also pragmatisch. Aber nur, weil ich mir keine Dinge mehr ins Haus ho
 
 Ich werfe auch keine Dinge weg, die ich nutze und mich jeden Tag mit Freude erfüllen. Nur die meisten Dinge tun eben das nicht. Noch nicht einmal Erinnerungsstücke. Deswegen sind Erinnerungsstücke mit einem Nutzen, die man täglich in die Hand nimmt, sieht und verwendet so wertvoll. Alles andere verstaubt im Schrank und wird nur alle 5 Jahre mal angeguckt. Das haben diese Dinge nicht verdient.
 
-Also überleg dir gut, was du in deinem Leben haben willst, was dir Freude schenkt und du gerne betrachtest. Überleg dir auch, was dich stört, ablenkt und was dir Unwohlsein bereitet. Was würdest du wohl behalten?
+<mark>Also überleg dir gut, was du in deinem Leben haben willst, was dir Freude schenkt und du gerne betrachtest. Überleg dir auch, was dich stört, ablenkt und was dir Unwohlsein bereitet. Was würdest du wohl behalten?</mark>
+
+Wenn du dich für Minimalismus interessierst, dann empfehle ich dir folgende Beiträge:
+
+[Minimalistische Finanzplanung für mehr Freiheit](/blog/minimalistische-finanzplanung-fuer-mehr-freiheit/)
+
+[Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/)
+
+[Minimalistisch leben: Warum du anfangen solltest!](/blog/minimalistisch-leben/)
+
+Bis zum nächsten Mal.
+
+\- Sarah

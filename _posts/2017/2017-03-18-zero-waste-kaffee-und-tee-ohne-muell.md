@@ -21,15 +21,15 @@ Nun aber erstmal zum klassischen Kaffee.
 
 ![Kaffe im Baumwollbeutel](/assets/inpost-images/2017/2017-03-18-kaffee-im-baumwoll-beutel.jpg "© {{ site.title }}")
 
-Wir habe eine sehr hübsches, nützliches kleines Ding dafür. Wir kaufen unsere Kaffeebohnen lose und mahlen sie dann nach Bedarf mit der Hand. Den oberen Teil der Kaffeemühle kann man abschrauben und auf das untere Gefäß stattdessen einen Deckel schrauben. Als Bonus obendrauf gibt's Armmuckis.
+Wir habe eine sehr hübsches, nützliches kleines Ding dafür. Wir kaufen unsere Kaffeebohnen lose und mahlen sie dann nach Bedarf mit der Hand. Den oberen Teil der **Kaffeemühle** kann man abschrauben und auf das untere Gefäß stattdessen einen Deckel schrauben. Als Bonus obendrauf gibt's Armmuckis.
 
-_Den Filter aus Plastik und Nylon habe ich vor etlicher Zeit auf amazon gefunden. Ich konnte damals keinen in Edelstahl finden, heute allerdings bin ich glaube ich schon einmal über so einen gestolpert. Bei Interesse schau dich einfach ein bisschen um._
+> Den Filter aus Plastik und Nylon habe ich vor etlicher Zeit auf amazon gefunden. Ich konnte damals keinen in Edelstahl finden, heute allerdings bin ich glaube ich schon einmal über so einen gestolpert. Bei Interesse schau dich einfach ein bisschen um.
 
 ![Frisch gemahlener Kaffee](/assets/inpost-images/2017/2017-03-18-frisch-gemahlener-kaffee.jpg "© {{ site.title }}")
 
 ![Kaffeekanne und Handfilter](/assets/inpost-images/2017/2017-03-18-kaffeekanne-und-handfilter.jpg "© {{ site.title }}")
 
-_Der Handfilter und die Kanne in wunderschön weißem Porzellan machen echt was her. Eleganter lässt sich Kaffee gar nicht zubereiten._
+Der Handfilter und die Kanne in wunderschön weißem Porzellan machen echt was her. Eleganter lässt sich Kaffee gar nicht zubereiten.
 
 ![Kaffeekanne mit aufgesetztem Filter](/assets/inpost-images/2017/2017-03-18-kaffeekanne-mit-filter.jpg "© {{ site.title }}")
 
@@ -41,14 +41,14 @@ Langsames Aufgießen in kreisförmigen Bewegungen lässt den Kaffee schäumen un
 
 Nach dem Genuss kommt die Arbeit. Mit einem kleinen Löffel geben wir die Reste in unseren Biomüll. Alles andere wird dann mit Wasser gut ausgewaschen. Voila, alles ist sauber und kann wieder zurück in den Schrank. Schnell, einfach, unkompliziert.
 
-_Natürlich kannst du auch eine Stempelkanne verwenden. Damit und mit einer Kaffeemühle ist es ebenfalls super einfach Verpackungen und Müll zu vermeiden._
+> Natürlich kannst du auch eine Stempelkanne verwenden. Damit und mit einer Kaffeemühle ist es ebenfalls super einfach Verpackungen und Müll zu vermeiden.
 
 ## Tee
 Jetzt zu meinem Lieblingsgetränk.
 
 ![Tee und Mandelmilch](/assets/inpost-images/2017/2017-03-18-tee-und-mandelmilch.jpg "© {{ site.title }}")
 
-Für den Tee verwenden wir Tee-Eier. Zwei Stück haben wir davon. Was man bei uns immer im Regal findet sind Schwarzer und Grüner Tee. Seit wir in Irland waren, trinke ich meinen Schwarzen Tee auch mit Milch. Neuste Entdeckung (oder besser: letztens zum ersten Mal selbst gemacht): Hafermilch und Mandelmilch. Schmecken super im Tee!!
+Für den Tee verwenden wir **Tee-Eier**. Zwei Stück haben wir davon. Was man bei uns immer im Regal findet sind Schwarzer und Grüner Tee. Seit wir in Irland waren, trinke ich meinen Schwarzen Tee auch mit Milch. Neuste Entdeckung (oder besser: letztens zum ersten Mal selbst gemacht): Hafermilch und Mandelmilch. Schmecken super im Tee!!
 
 _Über Nuss- und Pflanzenmilch werde ich dir nach gesammelten Erfahrungen in separaten Artikeln berichten._
 
@@ -58,7 +58,7 @@ Falls du losen Tee kaufen willst, sei dir eins vorher gesagt: Er ist intensiver 
 
 Nachdem der Tee gezogen ist, geben wir den Rest der Blätter in den Biomüll. Das Tee-Ei spülen wir dann noch gut aus und schon ist man fertig.
 
-_Nussmilch und Pflanzenmilch ist cremig und schaumig zugleich im Tee. Scheint mir als könnte man sie auch gut aufschäumen und fancy Variationen damit kreieren. Falls du Ideen oder Tipps dazu hast, immer her damit._
+> Nussmilch und Pflanzenmilch ist cremig und schaumig zugleich im Tee. Scheint mir als könnte man sie auch gut aufschäumen und fancy Variationen damit kreieren. Falls du Ideen oder Tipps dazu hast, immer her damit.
 
 ![Fertiger Tee](/assets/inpost-images/2017/2017-03-18-fertiger-tee.jpg "© {{ site.title }}")
 
@@ -69,7 +69,7 @@ Für den kleinen Koffein-Kick zwischendurch ist Espresso ideal. Wenn ich denn ei
 
 ![Espressokanne mit Tassen](/assets/inpost-images/2017/2017-03-18-espressokanne-mit-tasse.jpg "© {{ site.title }}")
 
-_In solchen kleinen Espresso Kännchen lassen sich perfekt zwei Tassen zubereiten (oder ein Doppelter, wenn du magst). Unsere ist von der modernen Sorte, es gibt aber noch die klassischen, die einen vom Aussehen her schon an Italien erinnern._
+> In solchen kleinen Espresso Kännchen lassen sich perfekt zwei Tassen zubereiten (oder ein Doppelter, wenn du magst). Unsere ist von der modernen Sorte, es gibt aber noch die klassischen, die einen vom Aussehen her schon an Italien erinnern.
 
 ![Espressokanne auseinandergebaut](/assets/inpost-images/2017/2017-03-18-espressokanne-auseinandergebaut.jpg "© {{ site.title }}")
 
@@ -90,6 +90,14 @@ Cappuccino oder Milchkaffee kannst du dann ganz leicht durch verschiedene Anteil
 
 Zu dem Aufschäumen von Pflanzenmilch habe ich leider noch keine Erfahrungen.
 
-Bis dahin wünsche ich dir viel Spaß beim Ausprobieren und Genießen.
+Weitere Alternativen und mehr zu Zero Waste findest du hier:
+
+[Was wir alles unverpackt kaufen (und was nicht)](/blog/was-wir-alles-unverpackt-kaufen-und-was-nicht/)
+
+[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt/)
+
+[8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen/)
+
+Ich wünsche ich dir viel Spaß beim Ausprobieren und Genießen.
 
 \- Sarah

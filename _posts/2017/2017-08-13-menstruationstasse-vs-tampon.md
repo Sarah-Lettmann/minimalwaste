@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Menstruationstasse vs Tampon"
+title: "Menstrua&shy;tionstasse vs. Tampon"
 subtitle: "Was sind die Vorteile und wie verwendet man sie"
 date: 2017-08-13
 categories: [Zero Waste]
@@ -12,7 +12,7 @@ affiliate: false
 ---
 Endlich, endlich möchte ich mal zu einem Thema kommen, das für manche vielleicht ein bisschen unangenehm ist. Es geht um die Hygiene Produkte, die man als Frau einmal im Monat benötigt. Die meisten dürften ja zum Tampon greifen, wenn es soweit ist. Habe ich früher auch gemacht, weil ich sie einfach viel bequemer fand als Binden. Heute greife ich zur Menstruationstasse. Ja ich weiß, das klingt wirklich extrem unsexy. Aber lass mich dir dieses tolle Teil erstmal vorstellen.
 
-Vorweg noch: Alles was ich hier schildere sind meine eigenen Erfahrungen und können natürlich bei dir ganz anders aussehen. Gerade bei sowas hängt es sehr stark vom Körper der Frau ab und mit was man sich wohlfühlt.
+Vorweg noch: Alles was ich hier schildere sind **meine eigenen Erfahrungen** und können natürlich bei dir ganz anders aussehen. Gerade bei sowas hängt es sehr stark vom Körper der Frau ab und mit was man sich wohlfühlt.
 
 Also: Warum ich eine verwende? Zuerst bin ich durch Zero Waste darauf gestoßen. Die Vorstellung, dass man sogar bei so etwas die Möglichkeit hat, Müll vollständig zu vermeiden, fand ich einfach super.
 
@@ -20,9 +20,9 @@ Also: Warum ich eine verwende? Zuerst bin ich durch Zero Waste darauf gestoßen
 
 Also bestellte ich mir eine und probierte sie aus. Und was soll ich sagen? Ich bin ein riesen Fan! Sehr schnell habe ich festgestellt, dass sie viel bequemer ist als ein Tampon. Ich habe etwas gebraucht, bis ich raus hatte wie sie richtig eingeführt wird - das muss man einfach üben. Aber dann habe ich sie noch seltener gespürt als die Tampons, die ich früher immer getragen habe.
 
-Es kam sogar vor ein paar Monaten mal vor, dass ich zwischendurch einen kurzen Krampf im Unterleib bekam und mich dann fragte wieso. Dann fiel mir wieder ein, dass ich ja meine Tage hatte. Ich hatte die Tasse über den Tag hinweg einfach vergessen. Das fand ich wirklich krass.
+<mark>Es kam sogar vor ein paar Monaten mal vor, dass ich zwischendurch einen kurzen Krampf im Unterleib bekam und mich dann fragte wieso. Dann fiel mir wieder ein, dass ich ja meine Tage hatte. Ich hatte die Tasse über den Tag hinweg einfach vergessen. Das fand ich wirklich krass.</mark>
 
-Außerdem muss eine Menstruationstasse nur alle 8 - 12 Stunden entleert werden. Ich weiß ja nicht wie es dir geht, aber Tampons schaffen das bei weitem nicht. Die Menstruationstasse hingegen leere ich morgens und abends und gut is!
+Außerdem muss eine Menstruationstasse **nur alle 8 - 12 Stunden entleert** werden. Ich weiß ja nicht wie es dir geht, aber Tampons schaffen das bei weitem nicht. Die Menstruationstasse hingegen leere ich morgens und abends und gut is!
 
 ![Menstruationstasse mit Seife](/assets/inpost-images/2017/2017-08-13-menstruationstasse-mit-seife.jpg "© {{ site.title }}")
 
@@ -32,7 +32,7 @@ Zuerst hatte ich eine von Lunette, die sich aber leider schnell verfärbt hat. A
 
 Me Luna hat finde ich generell eine sehr großen Auswahl. Link findest du weiter unten.
 
-## Menstruationstasse und Tampon im Vergleich
+## Menstrua&shy;tionstasse und Tampon im Vergleich
 <div class="table">
   <table>
     <thead>
@@ -99,10 +99,10 @@ Außerdem kommen noch folgende Vorteile bei einer Menstruationstasse hinzu:
   * Deine Schleimhäute trocknen nicht aus
   * Durch das medizinische Silikon/Kunststoff ist die Wahrscheinlichkeit von Allergien oder Krankheiten reduziert, da Tampons oft chemisch behandelt werden
 
-Nachteile können sein, dass man eine engere Beziehung zu seinem Körper eingehen muss (was aber eigentlich gut ist) und der es ungewohnt ist das Blut so deutlich zu sehen. Außerdem ist das Einführen am Anfang ein wenig schwierig.
+<mark>Nachteile können sein, dass man eine engere Beziehung zu seinem Körper eingehen muss (was aber eigentlich gut ist) und der es ungewohnt ist das Blut so deutlich zu sehen. Außerdem ist das Einführen am Anfang ein wenig schwierig.</mark>
 
-## Umweltauswirkungen
-Jede Frau verbraucht in ihrem Leben ca. 16.800 Tampons/Binden. Weltweit werden sogar 45 Milliarden Tonnen jährlich davon verbraucht. Das sind enorme Mengen von Rohstoffen, die für die Monatshygiene mal eben so verschwendet werden. Das geht auch intelligenter. Vor allem, wenn es so eine gute Alternative gibt.
+## Umwelt&shy;auswirkungen
+Jede Frau verbraucht in ihrem Leben ca. **16.800 Tampons/Binden**. Weltweit werden sogar **45 Milliarden Tonnen jährlich** davon verbraucht. Das sind enorme Mengen von Rohstoffen, die für die Monatshygiene mal eben so verschwendet werden. Das geht auch intelligenter. Vor allem, wenn es so eine gute Alternative gibt.
 
 Außerdem handelt es sich hierbei um Rohstoffe, die nicht zurückgewonnen werden können, sondern im Restmüll landen und somit verbrannt werden. Da Tampons und Binden üblicherweise auch Plastikbestandteile habe, können sie bei nicht fachgerechter Entsorgung (beispielsweise beim Zelten im Wald) nicht einfach abgebaut werden.
 
@@ -135,24 +135,32 @@ In gewissem Maße nimmt die Menstruationstasse Geruch an. Das kann durch gutes A
 
 Für weitere Infos kann ich dir diese Seite von [Me Luna](http://www.me-luna.eu/MeLuna-Informationsseiten/MeLuna-Reinigung) ans Herz legen oder auch ganz allgemein [menstruationstasse.com](http://www.menstruationstasse.com/).
 
-## Anbieter von Menstruationstassen
+## Anbieter von Menstrua&shy;tionstassen
 Damit du dich auch gleich umgucken kannst, was es alles auf dem Markt gibt, hier eine kleine Linksammlung:
 
-[Mooncup](http://www.monomeer.de/index.php?page=product_details&category=41&artnr=159&product=mooncup+Menstruationskappe+Gre+A)
-[Lunette](https://www.lunette.com/de/)
-[Ladycup](http://www.ladycup.de/)
-[RubyCup](http://www.ruby-cup.com/de/)
-[MeLuna](http://www.me-luna.eu/)
-[DivaCup](http://divacup.com/de/)
-[Yuuki](http://www.menstruationstasse.de/)
+1. [Mooncup](http://www.monomeer.de/index.php?page=product_details&category=41&artnr=159&product=mooncup+Menstruationskappe+Gre+A)
+2. [Lunette](https://www.lunette.com/de/)
+3. [Ladycup](http://www.ladycup.de/)
+4. [RubyCup](http://www.ruby-cup.com/de/)
+5. [MeLuna](http://www.me-luna.eu/)
+6. [DivaCup](http://divacup.com/de/)
+7. [Yuuki](http://www.menstruationstasse.de/)
 
 ![Menstruationstasse](/assets/inpost-images/2017/2017-08-13-menstruationstass.jpg "© {{ site.title }}")
 
-Ich hoffe du konntest aus diesem Artikel ein bisschen was für dich mitnehmen, bis zum nächsten Mal.
+Ich hoffe du konntest aus diesem Artikel ein bisschen was für dich mitnehmen, bis zum nächsten Mal. AChja, und falls du noch weiters zum Thema lesen willst, empfehle ich dir folgende Beiträge:
+
+[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer/)
+
+[Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/)
+
+[Festes Shampoo: Was du alles wissen solltest!](/blog/festes-shampoo-was-du-alles-wissen-solltest/)
 
 \- Sarah
 
-### Hier findest du weitere Infos:
+&nbsp;
+
+#### Hier findest du weitere Infos:
 1. [erdbeerwoche.com](http://www.erdbeerwoche.com)
 2. [menstruationstasse.com](http://www.menstruationstasse.com/)
 3. [me-luna.eu: Reinigung](http://www.me-luna.eu/MeLuna-Informationsseiten/MeLuna-Reinigung)

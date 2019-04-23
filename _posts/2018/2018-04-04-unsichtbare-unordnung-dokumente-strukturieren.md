@@ -16,14 +16,14 @@ Wo du genau suchen musst, um deine unsichtbare Unordnung zu finden und wie du na
 
 Am Ende des Posts gibt es noch ein PDF zum Download.
 
-## Was ist digitale/unsichtbare Unordnung?
+## Was ist digitale bzw. unsichtbare Unordnung?
 Als digitale Unordnung gilt zunächst alles was sich auf deinem **Handy, deinem PC oder in der Cloud** befindet (oder für die altmodischen auf der externen Festplatte). Diesen dingen widmen wir uns diese Woche.
 
 Aber, und das ist der wirklich interessante Punkt, eben auch die unzähligen E-Mail Adressen, Konten, Vereinsmitgliedschaften, Zeitschriftenabonnements, Passwörter, Telefonnummern, Newsletter usw. Darum kümmern wir uns nächste Woche, wenn du die Grundlagen geschaffen und einen Überblick hast.
 
 Da kann sich jedenfalls so einiges ansammeln, glaub mir.
 
-Oft ist es auch sinnvoll solche Dinge loszuwerden, denn sie kosten meist auch noch Geld. Und oft bemerken wir das noch nicht mal, weil diese oft kleinen Zahlungen in der Flut an Abbuchungen untergehen.
+<mark>Oft ist es auch sinnvoll solche Dinge loszuwerden, denn sie kosten meist auch noch Geld. Und oft bemerken wir das noch nicht mal, weil diese oft kleinen Zahlungen in der Flut an Abbuchungen untergehen.</mark>
 
 Außerdem ist es schwer den Überblick zu behalten, was du wofür benutzt. Vier unterschiedliche E-Mail-Adresse, die mehr oder weniger zufällig mit unterschiedlichen Konten verknüpft sind und dazu unterschiedliche Passwörter verwenden, machen das Leben ganz schön anstrengend…
 
@@ -34,16 +34,16 @@ Vorab noch ein Wort zu Dokumenten im Allgemeinen: Es ist nicht notwendig alles i
 
 Glücklicherweise hat man heute schon die Möglichkeit **Kontoauszüge, Versicherungsunterlagen und sogar Lohnbescheide digital** zu erhalten. Falls du also noch einen ganzen Urwald an Ordnern mit Dokumenten zu Hause rumstehen hast, dann informiere dich mal, was du wirklich alles aufbewahren musst und was davon dann eingescannt aufbewahrt werden kann. Für vieles gibt es nämlich **Vorgaben, wie lange man etwas behalten sollte**.
 
-Ich scanne prinzipiell alle wichtigen Unterlagen. Die besonders wichtigen bewahre ich dann zusätzlich in Papierform auf.
+<mark>Ich scanne prinzipiell alle wichtigen Unterlagen. Die besonders wichtigen bewahre ich dann zusätzlich in Papierform auf.</mark>
 
-## Speicherverwaltung
+## Speicher&shy;verwaltung
 Zunächst einmal ist es sinnvoll sich einen **Haupt- und einen Backupdatenträger** zu überlegen. Ich würde empfehlen, dass dein heimischer **PC/Laptop dein Hauptdatenträger** ist, auf dem deine Daten gespeichert sind. Als **Backup** kannst du dann deine Daten in die **Cloud** sichern.
 
 Diese Lösung würde ich besonders für alle sehr wichtigen Daten, wie deine privaten Dokumente, Bankunterlagen, Rechnungen, Verträge, Versicherungsunterlage usw. empfehlen.
 
 Von der Cloud aus, ist es auch ganz einfach möglich an Daten zu kommen, die du auf deinem Handy benötigen könntest. Falls du **Daten** nicht unbedingt auf deinem **Handy** brauchst, würde ich dir empfehlen diese **nur bei Bedarf runterzuladen**. Du kannst auch für eine Reise vorher alle wichtigen Daten vom heimischen WLAN auf dein Handy runterladen, damit du unterwegs immer dran kommst.
 
-## Eine maßgeschneiderte Ordnerstruktur
+## Eine maßgeschnei&shy;derte Ordnerstruktur
 Wenn du dich für eine Lösung entschieden hast, wird es Zeit für eine Ordnerstruktur. Diese hilft dir den Überblick zu bewahren und Dokumente schneller zu finden und einsortieren zu können.
 
 Eine gute Ordnerstruktur ist dabei ganz auf dich abgestimmt. Sie soll DEINE individuellen Daten am besten zugänglich für DICH machen. Als Denkanstoß hier trotzdem mal ein Blick in meine Ordnerstruktur:
@@ -105,8 +105,18 @@ Programme und Apps gehe ich regelmäßig durch und deinstalliere die, die ich ni
 
 &nbsp;
 
-Ich hoffe dieser Post war hilfreich für dich. Hier findest du noch [die versprochene Checkliste](/assets/downloads/2018-04-04-unsichtbare-unordnung-dokumente-strukturieren.pdf) zum einfachen Abarbeiten.
+Ich hoffe dieser Post war hilfreich für dich. Hier findest du noch die versprochene Checkliste zum einfachen Abarbeiten:
 
-Nächste Woche geht es dann mit Bankkonten, E-Mail Adressen und Abos weiter, also dem richtig, wirklich nervigen Kleinkram. Aber ich verspreche dir, danach wirst du dich gut fühlen und viel mehr Überblick über deine Finanzen und Daten haben. Bis dahin,
+{% include download.html file-name="Dokumente strukturieren: So wird's richtig gemacht!" file-path="/assets/downloads/2018-04-04-unsichtbare-unordnung-dokumente-strukturieren.pdf" %}
+
+Nächste Woche geht es dann mit Bankkonten, E-Mail Adressen und Abos weiter, also dem richtig, wirklich nervigen Kleinkram. Aber ich verspreche dir, danach wirst du dich gut fühlen und viel mehr Überblick über deine Finanzen und Daten haben. Weitere Posts zum Thema:
+
+[Unsichtbare Unordnung: Abonnements, Konten und Tarife](/blog/unsichtbare-unordnung-abonnements-konten-und-tarife/)
+
+[Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/)
+
+[15 Ideen für günstige Freizeit­gestaltung für zu Hause](/blog/15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause/)
+
+Bis dahin,
 
 \- Sarah

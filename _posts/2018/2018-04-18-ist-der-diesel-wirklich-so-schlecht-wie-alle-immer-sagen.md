@@ -94,7 +94,7 @@ Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit de
 
 [6 Fakten zu Emissionen des Personen- und Güterverkehrs](/blog/6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs/)
 
-[Mein ökologischer Fußabdruck in Punkten](/blog/mein-oekologischer-fussabdruck-in-punkten/)
+[Die Bilanz von Stofftaschen­tüchern im Vergleich](/blog/die-bilanz-von-stofftaschentuechern/)
 
 [Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik/)
 
