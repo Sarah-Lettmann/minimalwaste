@@ -40,11 +40,11 @@ Hinzu kommen natürlich noch **Lärmemissionen**, die die Umwelt und die Bevölk
 ## Welche Fahrzeuge stoßen was aus?
 Neben normalen PKW, die entweder mit Benzin, Diesel, Erdgas, einem Hybridantrieb oder Strom fahren, gibt es natürlich auch noch Busse (meistens Diesel, teils Strom), Straßen- und U-Bahnen (Strom), LKW (Diesel) und Zweiräder (Zweitakter oder Fahrräder).
 
-Benzinmotoren stoßen häufig eine große Menge an Kohlenmonoxiden und Kohlendioxiden und auch unverbrannte Kohlenwassertsoffe aus. Dafür aber kaum Feinstaub und auch weniger Stickstoffdioxid im Vergleich zu Dieselmotoren.
+**Benzinmotoren** stoßen häufig eine **große Menge an Kohlenmonoxiden und Kohlendioxiden** und auch unverbrannte Kohlenwassertsoffe aus. Dafür aber **kaum Feinstaub** und auch weniger Stickstoffdioxid im Vergleich zu Dieselmotoren.
 
-Dieselfahrzeuge wiederum stoßen sehr viel mehr Stickstoffdioxid und Feinstaub aus als Benziner. Aber dafür haben Diesel auch einen geringeren Ausstoß an Kohlenmonoxid, Kohlendioxid und unverbrannten Kohlenwasserstoffen.
+**Dieselfahrzeuge** wiederum stoßen sehr **viel mehr Stickstoffdioxid und Feinstaub** aus als Benziner. Aber dafür haben Diesel auch einen **geringeren Ausstoß an Kohlenmonoxid, Kohlendioxid** und unverbrannten Kohlenwasserstoffen.
 
-Kohlenmonoxid wird oft zu einem großen Teil durch den Katalysator herausgefiltert. Allerdings wird zum Schutz des Katalysators vor Überhitzung eine gewisse Übermenge an Kraftstoff eingeführt, die dazu führt, dass das Kohlenmonoxid nicht vollständig verbrannt wird. So zeigen Fahrzeuge mit Katalysator bei aggressiver Fahrweise einen deutlich höheren Ausstoß an Kohlenmonoxid, als vom Hersteller angegeben (siehe [Energie-Lexikon: Ottomotor Abschnitt Abgase](https://www.energie-lexikon.info/ottomotor.html)).
+Kohlenmonoxid wird oft zu einem großen Teil durch den Katalysator herausgefiltert. Allerdings wird zum Schutz des Katalysators vor Überhitzung eine gewisse Übermenge an Kraftstoff eingeführt, die dazu führt, dass das Kohlenmonoxid nicht vollständig verbrannt wird. <mark>So zeigen Fahrzeuge mit Katalysator bei aggressiver Fahrweise einen deutlich höheren Ausstoß an Kohlenmonoxid, als vom Hersteller angegeben</mark> (siehe [Energie-Lexikon: Ottomotor Abschnitt Abgase](https://www.energie-lexikon.info/ottomotor.html)).
 
 Ein Katalysator kann zudem kein Kohlendioxid abfangen.
 
@@ -66,37 +66,43 @@ Auch die Kohlendioxid Emissionen des Verkehrs sind nicht zu vernachlässigen. De
 
 Zahlen, die ich in ähnlicher Weise auf mehreren Websites gefunden habe waren: Ein Benziner produziert pro km ca. 180 g und ein Diesel 160 g CO2.
 
-Diese Zahlen können hier und da mal etwas kleiner oder größer sein. Fakt ist aber, dass der Diesel zwar weniger Kraftstoff verbraucht, aber durch die Tatsache, dass vorrangig große und schwere Fahrzeuge einen Dieselmotor haben, wird das wieder ausgeglichen. **Am Ende produzieren Diesel auf 100 km kaum 200 g weniger CO2 als Benziner**.
+Diese Zahlen können hier und da mal etwas kleiner oder größer sein. <mark>Fakt ist aber, dass der Diesel zwar weniger Kraftstoff verbraucht, aber durch die Tatsache, dass vorrangig große und schwere Fahrzeuge einen Dieselmotor haben, wird das wieder ausgeglichen.</mark> **Am Ende produzieren Diesel auf 100 km kaum 200 g weniger CO2 als Benziner**.
 
 Durch den VW-Skandal stehen die Stickoxide jetzt im Fokus. Aber Kohlendioxid-Emissionen im Straßenverkehr scheinen schon jahrelang vernachlässigt zu werden. Die stetig steigende Anzahl an Fahrzeugen hebt die technischen Fortschritte wieder auf. Das sorgt dafür, dass die Emissionen pro Fahrt zwar stark, im Mittel aber nur sehr leicht bis kaum gesunken sind.
 
-Kohlendioxid-Emissionen sind im Vergleich zu anderen Pkw Emissionen am wenigsten stark zurückgegangen. Und dabei hat dieses Gas eine so starke Auswirkung auf unser Klima! **Im Straßengüterverkehr sieht es sogar noch schlimmer aus. Von 1995 bis 2014 erhöhten sich die Kohlendioxid-Emissionen um 16% &#8211; und das trotz der technischen Errungenschaften, die die Motoren effizienter und sauberere machen** (Nachzulesen im Detail: [Umweltbundesamt: Emissionen des Verkehrs](https://www.umweltbundesamt.de/daten/verkehr/emissionen-des-verkehrs)).
+Kohlendioxid-Emissionen sind im Vergleich zu anderen Pkw Emissionen am wenigsten stark zurückgegangen. Und dabei hat dieses Gas eine so starke Auswirkung auf unser Klima! **Im Straßengüterverkehr sieht es sogar noch schlimmer aus. Von 1995 bis 2014 erhöhten sich die Kohlendioxid-Emissionen um 16% - und das trotz der technischen Errungenschaften, die die Motoren effizienter und sauberere machen** (Nachzulesen im Detail: [Umweltbundesamt: Emissionen des Verkehrs](https://www.umweltbundesamt.de/daten/verkehr/emissionen-des-verkehrs)).
 
 ## Was wird dagegen getan?
 Die blaue Plakette und Fahrverbote sollen es richten. Danach wird die Luft in den Innenstädten viel besser und sauberer sein und wir tun auch noch was für das Klima. Super! Naja, ganz so einfach ist es leider nicht.
 
 Da die viele Lkw Dieselfahrzeuge sind und diese auch weiterhin Güter liefern müssen, auch in den Städten, wird es für so einen Fall eine Sondergenehmigung geben. Doch eben gerade dieser Güterverkehr produziert teilweise mehr Emissionen als der Pkw-Verkehr (z.B. CO2). Und gerade solche Dieselfahrzeuge sind doch verantwortlich für die hohen Stickoxid-Werte in den Städten. Das gleiche gilt übrigens für Busse.
 
-Ein weiterer Punkt ist, dass jetzt wieder Hals über Kopf gegen ein akutes Problem vorgegangen wird, nämlich die hohen Stickoxid-Emissionen von Dieselfahrzeugen. Dabei wird das Problem als ganzes völlig aus den Augen verloren. Der Straßenverkehr als solches ist ein Problem für die Umwelt, nicht bloß der Diesel. Jedem sollte klar sein, dass sobald er ins Auto steigt, er der Umwelt nicht gerade einen Gefallen tut.
+Ein weiterer Punkt ist, dass jetzt wieder Hals über Kopf gegen ein akutes Problem vorgegangen wird, nämlich die hohen Stickoxid-Emissionen von Dieselfahrzeugen. Dabei wird das Problem als ganzes völlig aus den Augen verloren. <mark>Der Straßenverkehr als solches ist ein Problem für die Umwelt, nicht bloß der Diesel. Jedem sollte klar sein, dass sobald er ins Auto steigt, er der Umwelt nicht gerade einen Gefallen tut.</mark>
 
 ## Was wäre ein besserer Lösungsansatz?
 Ich persönlich halte jedenfalls nichts davon einen Fahrzeugtyp zu verteufeln und den Rest als Retter der Umwelt darzustellen. Es ist ganz klar, dass wir unser Verständnis von Mobilität stark überdenken müssen.
 
 Gerade in den Städten sind nicht nur die Abgase der vielen Auto ein massives Problem, sondern auch der Lärm und der Stress. Schon jetzt stehen wir viel zu viel im Stau und rackern uns dabei ab, einen der knappen Parkplätze zu bekommen.
 
-Für mich ist klar: Eine nachhaltige Alternative stellt nur eine Kombination aus dem ÖPNV und Sharing-Angeboten dar. Wie werden in Zukunft flexibler unterwegs sein und auf unseren Wegen mehr verschiedene Fahrzeuge nutzen. Die Nutzung des ÖPNV für längere Strecken und das Umsteigen auf’s Fahrrad (das eigene oder geteilte) für kurze Strecken sind, denke ich, ideal.
+Für mich ist klar: <mark>Eine nachhaltige Alternative stellt nur eine Kombination aus dem ÖPNV und Sharing-Angeboten dar.</mark> Wie werden in Zukunft flexibler unterwegs sein und auf unseren Wegen mehr verschiedene Fahrzeuge nutzen. Die Nutzung des ÖPNV für längere Strecken und das Umsteigen auf’s Fahrrad (das eigene oder geteilte) für kurze Strecken sind, denke ich, ideal.
 
 Also, mal mehr Bus/Zug fahren, mal aufs Rad steigen oder vielleicht sogar mal laufen (für die ganz wild entschlossenen). Wie müssen aufhören uns zurückzulehnen und zu denken: “Die anderen werden’s schon richten.”, denn das stimmt einfach nicht. Wir müssen aktiv werden. Kleine Veränderungen im Alltag können eine große Wirkung haben und das nicht nur für die Umwelt, sondern auch für unsere Gesundheit.
 
 &nbsp;
 
-Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit den ganzen Zahlen. Aber hey, da müssen wir halt durch (ich musste das schließlich schreiben, stell dir das mal vor). Schreib mir gerne deine Meinung und Vorschläge wie man was verändern könnte. Ich bin gespannt!
+Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit den ganzen Zahlen. Aber hey, da müssen wir halt durch (ich musste das schließlich schreiben, stell dir das mal vor). Schreib mir gerne deine Meinung und Vorschläge wie man was verändern könnte. Ich bin gespannt! Ich empfehle dir außerdem diese Posts, wenn du dich noch weiter mit dem Thema beschäftigen willst:
+
+[6 Fakten zu Emissionen des Personen- und Güterverkehrs](/blog/6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs/)
+
+[Mein ökologischer Fußabdruck in Punkten](/blog/mein-oekologischer-fussabdruck-in-punkten/)
+
+[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik/)
 
 \- Sarah
 
 &nbsp;
 
-## Zum Weiterlesen
+#### Zum Weiterlesen
 1. [Wikipedia: Kohlenstoffmonoxid](https://de.wikipedia.org/wiki/Kohlenstoffmonoxid)  
 2. [Wikipedia: Kohlenstoffdioxid](https://de.wikipedia.org/wiki/Kohlenstoffdioxid)  
 3. [Wikipedia: Schwefeldioxid](https://de.wikipedia.org/wiki/Schwefeldioxid)  
