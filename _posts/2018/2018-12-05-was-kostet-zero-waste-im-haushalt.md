@@ -3,7 +3,7 @@ layout: post
 title: "Was kostet Zero Waste im Haushalt?"
 subtitle: "Wo du sparen kann und was teurer ist"
 date: 2018-12-05
-categories: [Zero Waste]
+categories: [Zero Waste, Zero Waste Kosten]
 description: "Was kostet Zero Waste im Haushalt? Kann man sich das leisten? Ich gebe dir eine Übersicht, was einzelne Dinge kosten, wo du sparen kannst und was teuer ist."
 keywords: [Was kostet Zero Waste im Haushalt]
 image: "/assets/title-images/2018/2018-12-05-was-kostet-zero-waste-im-haushalt.jpg"

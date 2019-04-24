@@ -3,7 +3,7 @@ layout: post
 title: "Festes Shampoo: Was du alles wissen solltest!"
 subtitle: "Alles was du wissen musst, um umzusteigen."
 date: 2018-10-24
-categories: [Zero Waste]
+categories: [Zero Waste, Müllfreies Badezimmer]
 description: "Festes Shampoo ist eine gute Alternative, um Shampoo in der Flasche zu ersetzen. Was du bei der Anwendung beachten musst und weitere Tipps gibt es hier."
 keywords: [Festes Shampoo]
 image: "/assets/title-images/2018/2018-10-24-festes-shampoo-was-du-alles-wissen-solltest.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Emissionen"
+title: "Alles rund um Emissionen und den Klimawandel"
 date: 2016-09-02
 category: Emissionen
 permalink: /category/emissionen

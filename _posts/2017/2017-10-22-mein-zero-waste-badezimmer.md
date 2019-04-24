@@ -3,7 +3,7 @@ layout: post
 title: "Mein Zero Waste Badezimmer"
 subtitle: "Von der Bambuszahnbürste bis zur Menstruationstasse"
 date: 2017-10-22
-categories: [Zero Waste]
+categories: [Zero Waste, Müllfreies Badezimmer]
 description: "Zero Waste im Badezimmer lässt sich gut umsetzen. Für vieles gibt es einen einfachen Ersatz, der Geld spart und das Leben sogar leichter macht."
 keywords: [Zero Waste Badezimmer]
 image: "/assets/title-images/2017/2017-10-22-mein-zero-waste-badezimmer.jpg"
