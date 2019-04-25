@@ -10,10 +10,12 @@ layout: wrapper
           <span>veröffentlicht am <time datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</time></span>
           <span>von <a class="post__link" href="#author" title="mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
           {% if page.categories.first %}
+            {% assign cat = site.data.categories[page.categories.first] %}
             <span>in
-              <a class="post__link" href="/category/{{ page.categories.first | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ page.categories.first }}">{{ page.categories.first }}</a>
+              <a class="post__link" href="{{ cat.url }}" title="zur Kategorie {{ cat.name }}">{{ cat.name }}</a>
               {% for category in page.categories offset:1 %}
-                , <a class="post__link" href="/category/{{ category | downcase | replace: ' ', '-' }}.html" title="zur Kategorie {{ category }}">{{ category }}</a>
+                {% assign cat = site.data.categories[category] %}
+                , <a class="post__link" href="{{ cat.url }}" title="zur Kategorie {{ cat.name }}">{{ cat.name }}</a>
               {% endfor %}
             </span>
           {% endif %}
