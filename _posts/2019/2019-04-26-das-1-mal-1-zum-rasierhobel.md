@@ -35,7 +35,7 @@ Dahingegen bieten Rasierhobel mit **geschlossenem Kamm** mehr Sicherheit, da sie
 
 ![Der Kamm des Rasierhobels](/assets/inpost-images/2019/2019-04-26-rasierhobel-von-vorne-markierung-kamm.jpg "© {{ site.title }}")
 
-Ich habe übrigens einen Rasierhobel mit geschlossenem Kamm. Darauf habe ich beim Kauf allerdings nicht wirklich geachtet. Jetzt ist mir aber klar, warum ich mich damit nicht schneide, während ich von anderen schon gehört habe, dass sie sehr vorsichtig mit ihrem Rasierhobel sein müssen. Der Kamm ist Schuld!
+Ich habe übrigens einen Rasierhobel mit geschlossenem Kamm. Darauf habe ich beim Kauf allerdings nicht wirklich geachtet. Jetzt ist mir aber klar, warum ich mich damit nicht schneide, während ich von anderen schon gehört habe, dass sie sehr vorsichtig mit ihrem Rasierhobel sein müssen.
 
 ### Der Griff
 Auch der Griff ist ein wichtiger Aspekt.
@@ -62,7 +62,7 @@ Hier eine kleine Übersicht, ein direkten Vergleich zwischen Rasierhobel und Ein
           Haltbarkeit
         </td>
         <td>
-          dein ganzes Leben, es ist schließlich Edelstahl
+          dein ganzes Leben
         </td>
         <td>
           zwei Wochen, allerhöchsten, je nachdem wie oft du dich rasierst
@@ -73,10 +73,10 @@ Hier eine kleine Übersicht, ein direkten Vergleich zwischen Rasierhobel und Ein
           Wie oft muss die Klinge gewechselt werden?
         </td>
         <td>
-          meiner Erfahrung nach nur alle paar Monate
+          einmal im Monat
         </td>
         <td>
-          wie gesagt, alle paar Tage bis alle paar Wochen, höchstens
+          alle paar Tage bis alle paar Wochen
         </td>
       </tr>
       <tr>
@@ -105,18 +105,18 @@ Hier eine kleine Übersicht, ein direkten Vergleich zwischen Rasierhobel und Ein
   </table>
 </div>
 
-_Die Genauen Rechnungen für die Kosten kann du dir übrigens in meinem Post [Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/) angucken und nachvollziehen._
+_Die Genauen Rechnungen für die Kosten kannst du dir übrigens in meinem Post [Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/) angucken und nachvollziehen._
 
 ## FAQ
 Kommen wir nun zu den am meisten gestellten Fragen (aus meiner Sicht und nach Recherche).
 
 ### Wie verwendet man einen Rasierhobel?
-Der Rasierhobel wird prinzipiell ähnlich verwendet wie ein normaler Rasierer. Allerdings wird er etwas anders gehalten. Du solltest bei der Benutzung darauf achten, dass du ihn sanft über die Haut gleiten lässt, also **kaum Druck** ausübst, und das am besten in einem **45° Winkel**.
+Der Rasierhobel wird prinzipiell ähnlich verwendet wie ein normaler Rasierer. Allerdings wird er etwas anders gehalten. <mark>Du solltest bei der Benutzung darauf achten, dass du ihn sanft über die Haut gleiten lässt, also <strong>kaum Druck</strong> ausübst, und das am besten in einem <strong>45° Winkel</strong>.</mark>
 
 Auch einen extra Rasierschaum kannst du verwenden, brauchst du aber nicht unbedingt (zumindest nicht, wenn du den Rasierhobel für Körperbehaarung verwendest). Ich verwende meinen immer **zusammen mit** der **Seife**, die ich auch sonst zum Duschen verwende.
 
 ### Worauf muss ich beim Einsetzen der Klinge achten?
-Beim Einsetzen musst du eigentlich auf nichts besonderes achten. Die **Rasierklinge** hat zwei Seiten, es ist aber **egal wie rum** du diese einlegst.
+Beim Einsetzen musst du eigentlich auf nichts besonderes achten. Die **Rasierklinge** hat zwei Seiten, es ist aber **egal wie rum** du diese einlegst. Ich habe mich auch schon gefragt, ob man die Klinge dann von der anderen Seite nochmal verwenden kann. Weißt du da was zu? Dann schreib es in die Kommentare.
 
 Wenn du einen Butterfly-Verschluss hast, dann kannst du die Klinge ganz einfach einsetzen und den Kopf wieder schließen. Wenn du einen Schraub-Verschluss hast, dann besteht der Kopf in der Regel aus zwei Teilen.
 
@@ -132,7 +132,7 @@ Rasierklingen gibt es in jeder Drogerie. Wenn du welche nur in Papier verpackt w
 ### Wie entsorge ich die Rasierklingen?
 Rasierklingen gehören leider in den **Restmüll**, da es sich hierbei um ein benutztes Hygieneprodukt handelt. Um die Verletzungsgefahr gering zu halten, kannst du die Klinge zurück **in** das **Stück Papier packen**, aus dem du sie entnommen hast oder auch in alte Zeitung einwickeln.
 
-Oder du wirst zum **Sammler** und stellst eine alte Dose oder ein altes Einmachglas ins Bad, in dem du die benutzen Klingen sammelst. Vielleicht ist es ja auch möglich diese dann **beim Schrotthändler oder der Deponie** abzugeben, wenn man genug davon hat. Das wäre natürlich optimal.
+Oder du wirst zum **Sammler** und stellst eine alte Dose oder ein altes Einmachglas ins Bad, in dem du die benutzen Klingen sammelst. <mark>Vielleicht ist es ja auch möglich diese dann <strong>beim Schrotthändler oder der Deponie</strong> abzugeben, wenn man genug davon hat.</mark> Das wäre natürlich optimal.
 
 ### Wie bewahre ich meinen Rasierhobel auf?
 Der Rasierhobel sollte am besten **trocken gelagert** werden. Ich trockne meinen jedes Mal nach der Benutzung ab und lasse ihn auch **nicht in der Dusche liegen**. Wenn du das machst, dann wird die Klinge schneller stumpf. Außerdem solltest du den Rasierhobel **bei jedem Klingenwechsel reinigen** und von Seifenresten befreien.
@@ -160,7 +160,7 @@ Meiner Erfahrung nach nicht anders als nach einer normalen Rasur. Ich selbst hab
 - beim Wechseln der Klinge muss man nur darauf achten wie man den Kopf wieder zusammen baut
 - für Einsteige empfehle ich einen Rasierhobel mit geschlossenen Kamm
 - der Rasierhobel spart enorme Kosten
-- ein Rasierhobel mit geschlossenen Kamm ist oft sogar schonender für die Haut
+- ein Rasierhobel mit geschlossenen Kamm ist oft sogar schonender für die Haut, als herkömmliche Rasierer
 - bei richtiger Lagerung und Pflege hast du dein ganzes Leben was von deinem Rasierhobel
 
 Das war nun alles was ich über den Rasierhobel finden konnte und selbst wusste. Vielen Dank auch an alle, die fleißig mitgeholfen haben und ihre Erfahrungen geteilt haben und diesen Post damit viel informativer gemacht haben.
