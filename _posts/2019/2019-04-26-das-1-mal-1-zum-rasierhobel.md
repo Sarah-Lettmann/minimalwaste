@@ -155,7 +155,7 @@ Meiner Erfahrung nach nicht anders als nach einer normalen Rasur. Ich selbst hab
 
 ![Der Rasierhobel von der Seite](/assets/inpost-images/2019/2019-04-26-rasierhobel-von-der-seite.jpg "© {{ site.title }}")
 
-## Zusammenfassung
+## Zusammen&shy;fassung
 - Rasierhobel sind nicht anders zu verwenden als normale Rasierer
 - beim Wechseln der Klinge muss man nur darauf achten wie man den Kopf wieder zusammen baut
 - für Einsteige empfehle ich einen Rasierhobel mit geschlossenen Kamm
