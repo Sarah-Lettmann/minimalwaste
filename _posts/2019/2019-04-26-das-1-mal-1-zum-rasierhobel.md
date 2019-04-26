@@ -116,7 +116,7 @@ Der Rasierhobel wird prinzipiell ähnlich verwendet wie ein normaler Rasierer. A
 Auch einen extra Rasierschaum kannst du verwenden, brauchst du aber nicht unbedingt (zumindest nicht, wenn du den Rasierhobel für Körperbehaarung verwendest). Ich verwende meinen immer **zusammen mit** der **Seife**, die ich auch sonst zum Duschen verwende.
 
 ### Worauf muss ich beim Einsetzen der Klinge achten?
-Beim Einsetzen musst du eigentlich auf nichts besonderes achten. Die **Rasierklinge** hat zwei Seiten, es ist aber **egal wie rum** du diese einlegst. Ich habe mich auch schon gefragt, ob man die Klinge dann von der anderen Seite nochmal verwenden kann. Weißt du da was zu? Dann schreib es in die Kommentare.
+Beim Einsetzen musst du eigentlich auf nichts besonderes achten. Die **Rasierklinge** hat zwei Seiten, es ist aber **egal wie rum** du diese einlegst. Ich habe mich auch schon gefragt, ob man die Klinge dann von der anderen Seite nochmal verwenden kann. Weißt du da was zu? Dann schreib es in die Kommentare. _Update: Ja, das macht man tatsächlich so._
 
 Wenn du einen Butterfly-Verschluss hast, dann kannst du die Klinge ganz einfach einsetzen und den Kopf wieder schließen. Wenn du einen Schraub-Verschluss hast, dann besteht der Kopf in der Regel aus zwei Teilen.
 
