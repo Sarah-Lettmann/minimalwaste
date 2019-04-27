@@ -120,7 +120,7 @@ Beim Einsetzen musst du eigentlich auf nichts besonderes achten. Die **Rasierkli
 
 Wenn du einen Butterfly-Verschluss hast, dann kannst du die Klinge ganz einfach einsetzen und den Kopf wieder schließen. Wenn du einen Schraub-Verschluss hast, dann besteht der Kopf in der Regel aus zwei Teilen.
 
-![Der Rasierhobel in Eintelteilen](/assets/inpost-images/2019/2019-04-26-rasierhobel-einzelteile.jpg "© {{ site.title }}")
+![Der Rasierhobel in Einzelteilen](/assets/inpost-images/2019/2019-04-26-rasierhobel-einzelteile.jpg "© {{ site.title }}")
 
 Achte darauf, dass bei einem offenen Kamm die Zacken nach unten zeigen, also Richtung Griff, wenn du den Rasierhobel wieder zusammen baust. Wenn du einen mit geschlossenem Kamm hast, dann achte darauf, dass die Rillen auf der Oberseite sind. Alles in allem sollte der Kopf eine ebenmäßige Form haben.
 
