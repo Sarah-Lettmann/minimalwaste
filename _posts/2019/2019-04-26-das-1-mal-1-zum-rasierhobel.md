@@ -126,6 +126,9 @@ Achte darauf, dass bei einem offenen Kamm die Zacken nach unten zeigen, also Ric
 
 <mark>Es ist übrigens ganz normal, dass die Klinge leicht gebogen ist, wenn du sie eingesetzt hast. Das ist Absicht und erhöht die Schärfe.</mark>
 
+### Wo bekomme ich einen Rasierhobel her?
+Rasierhobel gibt es so ziemlich in jeder Drogerie, auf Amazon, in vielen Unverpackt Läden und in nachhaltigen Online-Shops wie [monomeer](https://www.monomeer.de/index.php?page=product_details&category=10&artnr=331&product=Rasierhobel+Kirschholz+) oder [avocadstore](https://www.avocadostore.de/products/145226-hochwertiger-rasierhobel-inkl-5-klingen-ecoyou).
+
 ### Wo bekomme ich die Rasierklingen her?
 Rasierklingen gibt es in jeder Drogerie. Wenn du welche nur in Papier verpackt willst, dann kannst du mal bei [monomeer](https://www.monomeer.de/index.php?page=product_details&category=41&artnr=72&product=Rasierklingen+5er-Pack) vorbei schauen oder in deinem örtlichen Unverpackt-Laden.
 
