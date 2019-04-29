@@ -1,14 +1,21 @@
 .downloads {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   margin-left: -0.5*$padding-base;
   margin-right: -0.5*$padding-base;
 
   &__link {
-    flex-basis: 50%;
+    flex-basis: 30%;
     max-width: 300px;
     padding: 0 0.5*$padding-base;
+  }
+
+  &__image {
+    margin-bottom: 0;
+  }
+
+  &__title {
+    font-size: 1.4*$font-size-base;
   }
 }
 

@@ -1,6 +1,25 @@
+// set aria for desktop menu and accessability
+$(document).ready(function() {
+  $(".menu__item--has-submenu").hover(submenuVisible, submenuHidden);
+});
+
+function submenuVisible() {
+  $(this).children(".menu__link").attr("aria-expanded","true");
+  $(this).children(".menu__link").prop("aria-expanded","true");
+}
+
+function submenuHidden() {
+  $(this).children(".menu__link").attr("aria-expanded","false");
+  $(this).children(".menu__link").prop("aria-expanded","false");
+}
+
+
+
+
+// function to expand mobile menu when button is clicked
 function menuLinkClicked() {
 
-    // set classes to show or hide the main menu and pushes main are down
+    // set classes to show or hide the main menu and pushes main area down
     var mainMenuToggle = $(".nav-link--menu");
     var mainMenu = $(".menu--main");
     var menuHeight = parseInt(mainMenu.height());

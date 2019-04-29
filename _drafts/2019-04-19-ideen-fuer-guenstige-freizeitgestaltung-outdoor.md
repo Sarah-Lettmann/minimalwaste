@@ -9,3 +9,5 @@ image: "/assets/title-images/"
 author: sarah-lettmann
 affiliate: false
 ---
+
+wie du deinen Konsum Schritt für Schritt runterfährst

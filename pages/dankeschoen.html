@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Schön, dass du mit dabei bist."
-type: center
 ---
 <p>
   <strong>Ab jetzt bekommst du immer alle Infos zu neue Beiträgen.</strong>
@@ -14,17 +13,12 @@ type: center
   <span class="fas fa-recycle"></span>
 </p>
 
-<p>Damit du zu Beginn ein paar Infos hast, gibt es hier zwei PDFs zum runterladen:</p>
+<p>Außerdem hast du Zugriff auf alle Downloads:</p>
 <div class="downloads">
-  <a class="downloads__link" href="/assets/bonus/2018-04-17-woraus-besteht-unser-muell.pdf" target="blank" title="runterladen vom PDF 'Woraus besteht unser Müll'">
-    <img class="downloads__image" src="/assets/bonus/2018-04-17-woraus-besteht-unser-muell.jpg" alt="Fact-Sheet: Woraus besteht unser Müll" title="Bild des PDF 'Woraus besteht unser Müll'" />
-  </a>
-  <a class="downloads__link" href="/assets/bonus/2018-04-17-zero-waste-projekte.pdf" target="blank" title="runterladen vom PDF 'Zero Waste Projekte'">
-    <img class="downloads__image" src="/assets/bonus/2018-04-17-zero-waste-projekte.jpg" alt="Fact-Sheet: Zero Waste Projekte" title="Bild des PDF 'Zero Waste Projekte'" />
-  </a>
+  {% for download in site.data.downloads %}
+    <a class="downloads__link" href="{{ download.url }}" target="blank" title="runterladen vom PDF '{{ download.name }}'">
+      <img class="downloads__image" src="{{ download.image }}" alt="PDF {{ download.name }}" title="© {{ site.title }}" />
+      <h2 class="downloads__title">{{ download.name }}</h2>
+    </a>
+  {% endfor %}
 </div>
-
-<p>
-  Vielleicht interessiert dich ja auch meine
-  <a href="{{ site.patreon-link }}" title="zur Patreon-Seite von MinimalWaste">Patreon-Seite</a>.
-</p>

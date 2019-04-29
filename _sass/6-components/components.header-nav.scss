@@ -47,7 +47,7 @@
     -webkit-transform: skewY(1deg);
     transform: skewY(1deg);
     @include breakpoint(largeAndUp) {
-      display: flex;
+      display: none;
       flex-direction: column;
       align-items: center;
       position: absolute;
@@ -58,9 +58,8 @@
       border: $border;
       border-radius: $border-radius;
       background-color: $color-background;
-      visibility: hidden;
       @include attention() {
-        visibility: visible;
+        display: flex;
       }
 
       &::before {
@@ -115,7 +114,7 @@
     transform: skewY(-1deg);
     @include attention() {
       .menu__submenu {
-        visibility: visible;
+        display: flex;
       }
     }
     @include breakpoint(largeAndUp) {
