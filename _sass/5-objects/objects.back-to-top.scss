@@ -4,13 +4,17 @@
   right: 0;
   bottom: 0;
   margin: $margin-base;
-  padding: 0.5*$padding-base $padding-base;
+  padding: 0.25*$padding-base 0.75*$padding-base;
   font-family: 'Font Awesome 5 Free';
+  font-size: 1.5*$font-size-base;
   @include transition(opacity);
   @include transition(background-color);
   @include attention() {
     color: $color-text;
     background-color: $color-light-light-base;
+  }
+  @include breakpoint(small) {
+    margin: 0.5*$margin-base;
   }
 
   &--hidden {
