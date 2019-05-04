@@ -112,13 +112,13 @@
     -ms-transform: skewY(-1deg);
     -webkit-transform: skewY(-1deg);
     transform: skewY(-1deg);
-    @include attention() {
-      .menu__submenu {
-        display: flex;
-      }
-    }
     @include breakpoint(largeAndUp) {
       border-bottom: none;
+      @include attention() {
+        .menu__submenu {
+          display: flex;
+        }
+      }
 
       &:first-of-type {
         .menu__link {
