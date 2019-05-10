@@ -4,20 +4,20 @@ title: "Selbstgemachte Badepralinen ganz ohne Verpackung"
 subtitle: "Mit nur vier Zutaten zu einem müllfreien Badeerlebnis"
 date: 2019-05-10
 categories: [Zero Waste, Müllfreies Badezimmer, DIY]
-description: "Diese selbstgemachten Badepralinen stellen eine super Alternative zu verpacktem Badezusatz und teuren Badebomben dar. Und dazu brauchst du nur viert Zutaten."
+description: "Diese selbstgemachten Badepralinen stellen eine super Alternative zu verpacktem Badezusatz und teuren Badebomben dar. Und dazu brauchst du nur vier Zutaten."
 keywords: [Badepralinen, Badebomben]
 image: "/assets/title-images/2019/2019-05-10-selbstgemachte-badepralinen.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
-Badebomben sind in der Regel die Alternative, wenn man auf müllfreien Badezusatz umsteigen will. Allerdings sind diese meist ziemlich teuer und man bekommt sie auch nicht überall. Deshalb habe ich  zu Anfang des Jahres beschlossen zu lernen diese selbst zu herzustellen. Hier das Ergebnis.
+Badebomben sind in der Regel die Alternative, wenn man auf müllfreien Badezusatz umsteigen will. Allerdings sind diese meist ziemlich teuer und man bekommt sie auch nicht überall. Deshalb habe ich  zu Anfang des Jahres beschlossen zu lernen, diese selbst zu herzustellen. Hier das Ergebnis.
 
 Vorher habe ich Badebomben meistens bei Lush gekauft. <mark>Mit 7€ das Stück sind mir diese für das regelmäßige Baden aber wirklich zu teuer, selbst wenn man eine Badebombe für vier Bäder nutzen könnte.</mark> Also ein guter Punkt, um mal etwas selbst zu machen.
 
-Ein ähnliches Rezept habe ich übrigens schonmal auf [EcoYou als Gastbeitrag](https://ecoyou.de/badekugeln-selber-machen/) veröffentlicht, habe dieses aber nochmal etwas überarbeitet.
+Ein ähnliches Rezept habe ich übrigens schonmal auf [EcoYou als Gastbeitrag](https://ecoyou.de/badekugeln-selber-machen/) veröffentlicht. Ich habe dieses aber nochmal etwas überarbeitet.
 
 ## Die Zutaten
-Ich habe ein bisschen recherchiert und mit viele unterschiedliche Rezepte angeguckt und dann mein eigenes zusammen gestellt und natürlich schon vorweg ausprobiert. Außerdem sollte ein Großteil der Badepralinen diesmal ein Geschenk werden, weshalb ich mir natürlich besonders viel Mühe gegeben habe.
+Ich habe ein bisschen recherchiert und mir viele unterschiedliche Rezepte angeguckt und dann mein eigenes zusammengestellt und natürlich schon vorweg ausprobiert. Außerdem sollte ein Großteil der Badepralinen diesmal ein Geschenk werden, weshalb ich mir natürlich besonders viel Mühe gegeben habe.
 
 Für ca. 10 bis 12 Badepralinen brauchst du:
 - 70g Kakaobutter
@@ -33,7 +33,7 @@ Für ca. 10 bis 12 Badepralinen brauchst du:
 
 Diese vier Zutaten kannst du natürlich mit beliebigen Düften zusammenmischen. Ich habe mich diesmal für Lavendel entschieden, also einige Tropfen Lavendelöl und einige Blüten.
 
-<mark>Was hast du schon an Kosmetika selbst gemacht und warst du damit erfolgreich? Lass mir doch einen Kommentar da.</mark>
+<mark>Was hast du schon an Kosmetika selbst gemacht und warst du damit erfolgreich? Lass mir doch einen Kommentar da.</mark> Und wenn du meine Posts gut findest und mich gerne unterstützen würdest, dann schau doch mal auf [Patreon](https://www.patreon.com/minimalwaste) vorbei.
 
 ## Die Zubereitung
 Zuerst solltest du dich um die Kakaobutter kümmern. Diese muss nämlich über einem Wasserbad geschmolzen werden. Das ist nicht aufwendig, kann aber einen kleinen Moment dauern. Zwischendurch immer mal wieder umrühren, dann geht es schneller.
@@ -44,9 +44,9 @@ Wenn die **Kakaobutter vollständig geschmolzen** ist, kannst du sie **dazu gebe
 
 > Tipp: Wahlweise kannst du für mehr Abwechslung auch einen Teil der Kakaobutter durch Kokosöl ersetzen.
 
-Gibt erst jetzt deine restlichen Zutaten hinzu. Das ist wichtig, damit deine Blüten oder andere Zusätze nicht zu sehr zerstückelt werden. Beim **Öl** habe ich ungefähr **10 Tropfen** verwendet. Das hängt aber ganz vom persönlichen Geschmack ab. Ich persönlich mag es eher dezenter.
+Gibt erst jetzt deine restlichen Zutaten hinzu. Das ist wichtig, damit deine Blüten oder andere Zusätze nicht zu sehr zerdrückt werden. Beim **Öl** habe ich ungefähr **10 Tropfen** verwendet. Das hängt aber ganz vom persönlichen Geschmack ab. Ich persönlich mag es eher dezenter.
 
-Beim letzten Mal habe ich Zitronenöl und einen Zitronentee verwendet, den ich im Unverpackt Laden gekauft hatte. Auch eine interessante Kombination wäre Matcha und grüner Tee, sodass die Badepralinen am Ende grün sind. Oder klassisch mit Orangenöl und -schalen für die Weihnachtszeit. Der Kreativität sind hier keine Grenzen gesetzt.
+Beim letzten Mal habe ich Zitronenöl und einen Zitronentee verwendet, den ich im Unverpackt Laden gekauft hatte. Auch eine interessante Kombination wäre Matcha und grüner Tee, sodass die Badepralinen am Ende grün sind. Oder man nimmt Orangenöl und -schalen für die Weihnachtszeit. Der Kreativität sind hier keine Grenzen gesetzt.
 
 Wenn du alles zusammen gemischt hast, kannst du daraus die **kleinen Kugeln formen**. Letztes Mal habe ich diese recht groß gemacht. <mark>Diesmal sind sie kleiner geworden, was ich besser finde, da das Badewasser dann nicht so extrem ölig ist.</mark> Forme also **10 bis 12 Kugeln** daraus. Sie sollten ungefähr so groß sein wie Tischtennisbälle, tendenziell etwas kleiner.
 
@@ -55,7 +55,7 @@ Danach solltest du sie auf einen Teller legen und an einem trockenen Ort ruhen l
 <mark>Aufbewahrt werden sollten die Badepralinen am besten in einem verschlossenen Glas, damit sie keine Feuchtigkeit abbekommen.</mark> Über die Haltbarkeit kann ich noch nicht viel sagen, dass sollte man ausprobieren. Einige Monate sind aber auf jeden Fall drin.
 
 ## Anwendung
-Badewasser aufdrehen, Badepraline ins Wasser geben und fertig. Du solltest nur darauf achten, dass du die Badepraline gleich zu Beginn mit ins Wasser gibts, damit sie sich auch gut auflösen. Durch die feste Struktur brauchen sie dadurch evtl. etwas länger als das bei normalen Badebomben der Fall ist.
+Badewasser aufdrehen, Badepraline ins Wasser geben und fertig. Du solltest nur darauf achten, dass du die Badepraline gleich zu Beginn mit ins Wasser gibts, damit sie sich auch gut auflöst. Durch die feste Struktur brauchen sie dadurch evtl. etwas länger als das bei normalen Badebomben der Fall ist.
 
 Außerdem handelt es sich hierbei eher um ein Ölbad. Das ist super gut für die Haut, aber deine Badewanne solltest du deshalb nach dem Baden nochmal mit heißem Wasser ausspülen.
 
@@ -70,7 +70,7 @@ Für die Zutaten habe ich für 100g im Unverpackt Laden folgendes bezahlt:
 - Zitronensäure, **1,30€**
 - Stärke, **0,50€**
 
-Wenn wir das auf die Menge der einzelnen Zutaten, die wir für das Rezept brauchen runter brechen, kommen wir auf folgendes:
+Wenn wir das auf die Menge der einzelnen Zutaten, die wir für das Rezept brauchen runter brechen, kommen wir auf Folgendes:
 - Kakaobutter, 1,80€ * 0,7 = **1,26€**
 - Natron, 0,49€ * 2,5 = **1,23€**
 - Zitronensäure, 1,30€ * 1,25 = **1,63€**
