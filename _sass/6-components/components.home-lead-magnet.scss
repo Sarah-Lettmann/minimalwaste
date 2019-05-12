@@ -24,27 +24,39 @@
     position: relative;
     z-index: 10;
     @include skew(1deg);
+    @include breakpoint(small) {
+      flex-wrap: wrap;
+    }
   }
 
   &__image {
     margin-right: 2*$margin-base;
     margin-bottom: 0;
-    width: 150px;
+    max-width: 250px;
     @include rotate(-5deg);
-    @include breakpoint(largeAndUp) {
-      width: 220px;
+    @include box-shadow(0px, 0px, 20px, 0px, $color-dark-base);
+    @include breakpoint(medium) {
+      max-width: 200px;
     }
     @include breakpoint(small) {
-      display: none;
+      max-width: 200px;
+      margin-right: 0;
+      margin-bottom: 2*$margin-base;
     }
   }
 
   &__content {
-    max-width: 391px;
+    max-width: 430px;
+    @include breakpoint(small) {
+      text-align: center;
+    }
   }
 
   &__title {
     margin-top: 0;
+    @include breakpoint(medium) {
+      font-size: 2.2rem;
+    }
   }
 
   &__description {

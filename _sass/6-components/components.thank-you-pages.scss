@@ -6,8 +6,9 @@
 
   &__link {
     flex-basis: 30%;
-    max-width: 300px;
-    padding: 0 0.5*$padding-base;
+    flex-grow: 1;
+    min-width: 200px;
+    padding: $padding-base 0.5*$padding-base;
   }
 
   &__image {
