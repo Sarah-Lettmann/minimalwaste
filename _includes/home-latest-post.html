@@ -5,7 +5,7 @@
     <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
       <picture>
         <source srcset="{{ post.image | remove: '.jpg' }}-mobile.jpg" media="(max-width: 540px)">
-        <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" />
+        <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
       </picture>
     </a>
     <div class="post__text">
