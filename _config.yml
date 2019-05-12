@@ -17,8 +17,8 @@ title: MinimalWaste
 subtitle: Minimalismus und Zero Waste
 email: dienste@minimalwaste.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Auf MinimalWaste gibt es Tipps, DIYs und Erfahrungsberichte rund um Zero Waste, Minimalismus,
-  Fair Fashion und Nachhaltigkeit.
+  Auf MinimalWaste gibt es jede Woche neue Tipps, DIYs und Erfahrungsberichte rund um Zero Waste,
+  Minimalismus, Fair Fashion und Nachhaltigkeit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minimalwaste.de" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
