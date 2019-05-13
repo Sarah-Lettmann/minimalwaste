@@ -1,0 +1,39 @@
+.test {
+
+  &__header {
+    @extend .lead-magnet;
+    text-align: center;
+
+    .container {
+      padding: $padding-base $padding-base 2*$padding-base;
+      position: relative;
+      z-index: 10;
+      @include skew(1deg);
+    }
+  }
+
+  &__meta {
+    @include latoFont;
+  }
+
+  &__title {
+    margin-top: 0;
+    margin-bottom: unset;
+    line-height: 1.5;
+  }
+
+  &__subtitle {
+    padding: 0 5px;
+    margin: 0;
+    display: inline-block;
+    @include latoFont;
+    background-color: $color-dark-base;
+    color: #fff;
+  }
+
+  &__body {
+    margin-top: 4*$margin-base;
+    margin-bottom: 4*$margin-base;
+  }
+
+}

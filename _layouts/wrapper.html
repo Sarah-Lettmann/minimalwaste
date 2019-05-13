@@ -35,6 +35,10 @@
           {{ content }}
         </div>
       </main>
+    {% elsif page.type == 'test' %}
+      <main id="main" class="main main--test">
+        {{ content }}
+      </main>
     {% elsif page.title == 'home' %}
       <main id="main" class="main main--home">
         {{ content }}

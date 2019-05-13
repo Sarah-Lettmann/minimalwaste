@@ -1,0 +1,15 @@
+---
+layout: wrapper
+---
+<article class="test">
+  <header class="test__header" style="background-image: url({{ page.image }});">
+    <div class="container">
+      <span class="test__meta">Test</span>
+      <h1 class="test__title">{{ page.title }}</h1>
+      <p class="test__subtitle">{{ page.subtitle }}</p>
+    </div>
+  </header>
+  <div class="test__body container">
+    {{ content }}
+  </div>
+</article>
