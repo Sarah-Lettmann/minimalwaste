@@ -1,36 +1,36 @@
 <footer class="footer">
     <div class="container">
 
-        <!-- social media profiles -->
-        <div class="social">
-          <a class="social__icon fab fa-facebook" href="{{ site.facebook-link }}" alt="" title="MinimalWaste auf Facebook"></a>
-          <a class="social__icon fab fa-instagram" href="{{ site.instagram-link }}" alt="" title="MinimalWaste auf Instagram"></a>
-          <a class="social__icon fab fa-twitter" href="{{ site.twitter-link }}" alt="" title="MinimalWaste auf Twitter"></a>
-          <a class="social__icon fab fa-pinterest" href="{{ site.pinterest-link }}" alt="" title="MinimalWaste auf Pinterest"></a>
-          {% comment %}<a class="social__icon fab fa-youtube" href="{{ site.youtube-link }}" alt="" title="MinimalWaste auf YouTube"></a>{% endcomment %}
-          {% comment %}<a class="social__icon fab fa-patreon" href="{{ site.patreon-link }}" alt="" title="unterstütze MinimalWaste auf Patreon"></a>{% endcomment %}
-          <a class="social__icon fas fa-envelope" href="mailto:{{ site.email-website }}" alt="" title="schreibe eine Email an MinimalWaste"></a>
-          <a class="social__icon fas fa-rss" href="{{ site.url }}/feed.xml" alt="" title="RSS-Feed von MinimalWaste"></a>
-        </div>
+      <!-- social media profiles -->
+      <div class="social">
+        <a class="social__icon fab fa-facebook" href="{{ site.facebook-link }}" alt="" title="MinimalWaste auf Facebook"></a>
+        <a class="social__icon fab fa-instagram" href="{{ site.instagram-link }}" alt="" title="MinimalWaste auf Instagram"></a>
+        <a class="social__icon fab fa-twitter" href="{{ site.twitter-link }}" alt="" title="MinimalWaste auf Twitter"></a>
+        <a class="social__icon fab fa-pinterest" href="{{ site.pinterest-link }}" alt="" title="MinimalWaste auf Pinterest"></a>
+        {% comment %}<a class="social__icon fab fa-youtube" href="{{ site.youtube-link }}" alt="" title="MinimalWaste auf YouTube"></a>{% endcomment %}
+        {% comment %}<a class="social__icon fab fa-patreon" href="{{ site.patreon-link }}" alt="" title="unterstütze MinimalWaste auf Patreon"></a>{% endcomment %}
+        <a class="social__icon fas fa-envelope" href="mailto:{{ site.email-website }}" alt="" title="schreibe eine Email an MinimalWaste"></a>
+        <a class="social__icon fas fa-rss" href="{{ site.url }}/feed.xml" alt="" title="RSS-Feed von MinimalWaste"></a>
+      </div>
 
-        <!-- footer navigation -->
-        <nav class="navigation">
-          <ul class="menu menu--footer">
-            {% for menu-item in site.data.footer-menu %}
-              <li class="menu__item" aria-label="{{ menu-item.name }}">
-                <a class="menu__link" href="{{ menu-item.href }}" title="{{ menu-item.title }}">{{ menu-item.name }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </nav>
+      <!-- footer navigation -->
+      <nav class="navigation">
+        <ul class="menu menu--footer">
+          {% for menu-item in site.data.footer-menu %}
+            <li class="menu__item" aria-label="{{ menu-item.name }}">
+              <a class="menu__link" href="{{ menu-item.href }}" title="{{ menu-item.title }}">{{ menu-item.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
 
-        <!-- copyright -->
-        <div class="copyright">
-            Copyright © {{ 'now' | date: "%Y" }} {{ site.title }}.
-            <span class="fas fa-code" alt=""></span> mit <span class="fas fa-heart" alt=""></span> von
-            <a href="{{ site.web-dev-site }}" title="zur Website von {{ site.web-dev }}">{{ site.web-dev }}</a> mit
-            <a href="https://jekyllrb.com" title="zur jekyll-Website">jekyll</a>.
-        </div>
+      <!-- copyright -->
+      <div class="copyright">
+          Copyright © {{ 'now' | date: "%Y" }} {{ site.title }}.
+          <span class="fas fa-code" alt=""></span> mit <span class="fas fa-heart" alt=""></span> von
+          <a href="{{ site.web-dev-site }}" title="zur Website von {{ site.web-dev }}">{{ site.web-dev }}</a> mit
+          <a href="https://jekyllrb.com" title="zur jekyll-Website">jekyll</a>.
+      </div>
 
     </div>
 </footer>
