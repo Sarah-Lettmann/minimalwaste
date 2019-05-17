@@ -6,7 +6,7 @@ date: 2019-05-24
 categories: [Zero Waste]
 description: ""
 keywords: []
-image: "/assets/title-images/2019/2019-05-24-zero-waste-alternativen-fuer-den-einstieg.jpg"
+image: "/assets/title-images/2019/2019-05-27-zero-waste-alternativen-fuer-den-einstieg.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

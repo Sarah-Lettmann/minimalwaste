@@ -6,7 +6,7 @@ date: 2019-06-07
 categories: [Zero Waste, Müllfreies Badezimmer]
 description: ""
 keywords: []
-image: "/assets/title-images/2019/2019-05-17-produkte-muellfreies-badezimmer.jpg"
+image: "/assets/title-images/2019/2019-06-10-produkte-muellfreies-badezimmer.jpg"
 author: sarah-lettmann
 affiliate: false
 ---

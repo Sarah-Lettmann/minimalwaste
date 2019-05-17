@@ -6,7 +6,7 @@ date: 2019-05-17
 categories: [Minimalismus]
 description: "Was meine Erfahrungen mit dem minimalistischen Leben sind, was ich gelernt habe und wie es mich verändert hat."
 keywords: [minimalistisch leben Erfahrungen, minimalistisch leben Erfahrung]
-image: "/assets/title-images/2019/2019-05-17-minimalistisch-leben-erfahrungen.jpg"
+image: "/assets/title-images/2019/2019-05-20-minimalistisch-leben-erfahrungen.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
