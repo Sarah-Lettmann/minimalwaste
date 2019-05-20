@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Die 10 besten Zero Waste Alternativen für den Einstieg"
+title: "Zero Waste Lifestyle: Die 10 besten Alternativen für Anfänger"
 subtitle: "Kleine Veränderungen, die einen großen Effekt haben"
 date: 2019-05-24
 categories: [Zero Waste]
 description: ""
-keywords: []
-image: "/assets/title-images/2019/2019-05-27-zero-waste-alternativen-fuer-den-einstieg.jpg"
+keywords: [Zero Waste Lifestyle, Zero Waste Alternativen]
+image: "/assets/title-images/2019/2019-05-27-zero-waste-lifestyle-alternativen-fuer-anfaenger.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
