@@ -2,7 +2,7 @@
 layout: post
 title: "Minimalistisch Leben: Meine Erfahrungen nach über 4 Jahren"
 subtitle: "Was ich gelernt habe und wie es mich verändert hat"
-date: 2019-05-17
+date: 2019-05-20
 categories: [Minimalismus]
 description: "Was meine Erfahrungen mit dem minimalistischen Leben sind, was ich gelernt habe und wie es mich verändert hat."
 keywords: [minimalistisch leben Erfahrungen, minimalistisch leben Erfahrung]
