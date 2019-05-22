@@ -14,15 +14,21 @@ affiliate: false
 Seife
 Shampoobar oder Harwaschseife
 Seifensäckchen statt Luffaschwamm
+Conditioner
 
 ## Rasieren
 Rasierhobel
 Rasierklingen
 Seife
 
+# Hautpflege
+Creme oder Öl
+DIY Bodyscrub
+Deo (zum sprühen oder fest)
+
 ## Zahnpflege
 Zahnseide
-Bambus-Zahnbürste
+Bambus-Zahnbürste mit Bambus-Etui
 Zahnputztabletten oder Zahnputzpulver
 
 ## Schminken
@@ -33,4 +39,4 @@ DIY Maskara
 
 ## Baden
 Badebomben
-dIY Badesalze
+DIY Badesalze
