@@ -10,7 +10,7 @@ image: "/assets/title-images/2019/2019-01-16-wie-nachhaltig-ist-bio-baumwolle.jp
 author: sarah-lettmann
 affiliate: false
 ---
-Eigentlich wollte ich ja eine Neuauflage meines Posts _[Sind Alternativen aus Stoff ökologisch sinnvoll?](sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ schreiben. Aber dann ist mir aufgefallen, dass ein großer Punkt in der Bilanz der Stoff ist, aus dem die Taschentücher gefertigt sind. Zuallererst kam mir da natürlich Baumwolle in den Sinn. Also gucken wir uns heute einmal an, wie nachhaltig Bio-Baumwolle gegenüber konventioneller Baumwolle ist.
+Eigentlich wollte ich ja eine Neuauflage meines Posts _[Sind Alternativen aus Stoff ökologisch sinnvoll?](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ schreiben. Aber dann ist mir aufgefallen, dass ein großer Punkt in der Bilanz der Stoff ist, aus dem die Taschentücher gefertigt sind. Zuallererst kam mir da natürlich Baumwolle in den Sinn. Also gucken wir uns heute einmal an, wie nachhaltig Bio-Baumwolle gegenüber konventioneller Baumwolle ist.
 
 Baumwolle ist allgemein sehr beliebt als Stoff für Kleidung aber auch andere Textilien, da sie strapazierfähig und damit lange haltbar ist. Es ist nicht unüblich dass Stücke aus Baumwolle länger getragen werden können als Kleidungsstücke aus synthetischen Stoffen. Zudem ist Baumwolle gut für Allergiker geeignet und biologisch abbaubar, da sie vollständig aus Zellulose besteht. **Der Stoff Baumwolle scheint also im Allgemeinen schon eine ganz gute Wahl zu sein.**
 

@@ -1,0 +1,143 @@
+@media print {
+
+  // elements that shouldn't be displayed
+  .header,
+  .footer,
+  .back-to-top,
+  .sharing,
+  .author,
+  .lead-magnet,
+  .patreon,
+  .comments,
+  .cookie-notice {
+    display: none;
+  }
+
+
+ // page space
+  @page {
+    margin: 2.5cm 1cm;
+  }
+
+  .post .post__body {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    ul,
+    ol,
+    .table {
+      margin-left: 1.5cm;
+      margin-right: 1.5cm;
+    }
+
+    blockquote {
+      margin-left: 2cm;
+      margin-right: 1cm;
+
+      p {
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
+  }
+
+  // page breaks
+  a {
+    page-break-inside: avoid
+  }
+
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    page-break-after: avoid;
+    page-break-inside: avoid
+  }
+
+  img,
+  figure {
+    page-break-inside: avoid;
+    page-break-after: avoid;
+  }
+
+  table,
+  table tbody,
+  pre {
+    page-break-inside: avoid
+  }
+
+  ul,
+  ol,
+  dl {
+    page-break-before: avoid
+  }
+
+  .diagram {
+    page-break-inside: avoid
+  }
+
+
+  // customizations
+  .post .post__body {
+
+    // images
+    img,
+    figure {
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    // show link url
+    a {
+      word-wrap: break-word;
+      &::after {
+        content: " (" attr(href) ")";
+        font-size: 80%;
+      }
+    }
+
+    // downloads
+    .download {
+      &::after {
+        content: '';
+      }
+    }
+
+    abbr{
+      word-wrap: break-word;
+      &::after {
+        content: " (" attr(title) ")";
+        font-size: 80%;
+      }
+    }
+  }
+
+  // ul list-style
+  ul li::before {
+    content: '-';
+    top: 0pt;
+    color: $color-accent-dark;
+    background-color: transparent;
+  }
+
+  // tables
+  table th {
+    font-weight: bold;
+  }
+
+  // diagrams
+  .post .diagram {
+    width: 60% !important;
+  }
+}
