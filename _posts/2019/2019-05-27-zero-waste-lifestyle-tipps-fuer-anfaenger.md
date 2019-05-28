@@ -64,7 +64,7 @@ Warum ist es so wichtig keine Plastiktüten zu verwenden? Naja, weil wir Deutsch
 
 <mark>Für den Wocheneinkauf bin ich natürlich immer vorbereitet. Aber auch für Notfälle findet sich immer eine Stofftüte in meiner Handtasche oder meinem Rucksack. Zusätzlich habe ich auch noch mein Notfall-Kit.</mark> Das ist eine **kleine Tasche, die Gemüsenetze und Beutel beinhaltet**. Falls ich also mal was vom Bäcker brauche oder sich ein spontaner Einkauf anbahnt, bin ich ausgerüstet.
 
-## 5. Achte auf Alternative beim Einkaufen
+## 5. Achte auf Alternativen beim Einkaufen
 Vielleicht ist es dir nicht klar, aber im durchschnittlichen Supermarkt und sogar beim Discounter kann man durchaus eine Wahl treffen, wenn es um die Verpackung geht. Bei **Obst und Gemüse** ist das besonders offensichtlich. Hier hast du die Möglichkeit dich für die **lose Variante** zu entscheiden, statt der in einer Verpackung. Du solltest natürlich auch **nicht zu diesen dünnen Plastikbeuteln greifen**, die es in manchen Supermärkten gibt.
 
 "Aber ich kann doch nicht die ganzen Kartoffeln lose auf's Band legen!" Ehm, doch. Die Kassierer müssen damit klar kommen. Außerdem ist das eine kleine Form des _Zivilen Ungehorsams_, durch die die Supermärkte eventuell anfangen umzudenken. By the way, damit fangen sie auch schon an. Es gibt inzwischen **Mehrweg-Gemüsenetze bei** Läden wie **Rewe** zu kaufen, die man dann für solche Fälle verwenden kann. Alternativ kannst du natürlich auch immer noch auf den **Wochenmarkt** gehen.
