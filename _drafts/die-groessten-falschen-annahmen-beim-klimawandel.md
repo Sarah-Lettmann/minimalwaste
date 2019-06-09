@@ -15,3 +15,5 @@ affiliate: false
 Klimawandel bedeutet nicht, dass es wärmer wird
 
 erklären Einbruch bei Deutscher Einheit, WW2 usw
+
+gleich viel CO2 emittiert, aber CO2-Werte steigen -> wärmere Meere gasen mehr CO2 aus. (kein linearer Anstieg)

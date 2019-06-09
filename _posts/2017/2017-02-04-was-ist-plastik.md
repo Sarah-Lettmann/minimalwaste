@@ -3,7 +3,7 @@ layout: post
 title: "Was ist Plastik eigentlich genau? - Plastik unter der Lupe (1)"
 subtitle: "Das kritische Material genauer betrachtet"
 date: 2017-02-04
-categories: [Emissionen]
+categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Was ist Plastik eigentlich? Worin ist überall Plastik enthalten und welche Stoffe findet man darin wieder? Was sind die Vorteile und was die Nachteile?"
 keywords: [Plastik]
 image: "/assets/title-images/2017/2017-02-04-was-ist-plastik.jpg"

@@ -14,6 +14,10 @@ DIY:
   name: DIY
   url: /category/diy.html
 
+Rohstoffe und Recycling:
+  name: Rohstoffe und Recycling
+  url: /category/rohstoffe-und-recycling.html
+
 Minimalismus:
   name: Minimalismus
   url: /category/minimalismus.html
@@ -22,6 +26,6 @@ Sustainable Fashion:
   name: Sustainable Fashion
   url: /category/sustainable-fashion.html
 
-Emissionen:
-  name: Emissionen
-  url: /category/emissionen.html
+Klima:
+  name: Klima
+  url: /category/klima.html

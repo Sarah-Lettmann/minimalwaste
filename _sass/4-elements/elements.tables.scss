@@ -16,13 +16,13 @@ table {
 
   th {
     text-align: left;
-    background-color: #eee;
+    background-color: $color-background;
     font-weight: normal;
   }
 
   td,
   th {
-    padding: 0.5rem;
+    padding: 0.4*$padding-base;
     border-right: $border-table;
 
     &:last-child {
