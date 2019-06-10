@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Ursache des Klimawandels ist der Mensch"
+title: "Die Ursache des Klima&shy;wandels ist der Mensch"
 subtitle: "Wie der Konsens in der Wissenschaft zustande kommt"
 date: 2019-06-10
 categories: [Klima]
@@ -16,7 +16,7 @@ _Eigentlich wollte ich ja was zum Klimawandel allgemein schreiben, aber dann ist
 
 Als Kontext: Ich studiere momentan und mache meinen Master in Informatik. Das hat jetzt erstmal nicht viel mit Klimaforschung zu tun, aber ich habe eben schon einige wissenschaftlichen Arbeiten gelesen und schon selbst ein paar kleinere geschrieben, das macht man im Studium eben. Auch die im folgenden aufgeführten Arbeiten habe ich gelesen. <mark>Wichtig bei der Beurteilung von wissenschaftlichen Arbeiten ist die Methodik, also wie die Ergebnisse erzielt wurden. Dabei gilt es bestimmte Dinge zu beachten, z.B. einen möglichen Bias (Beeinflussung) zu minimieren.</mark>
 
-## Was heißt überhaupt "der Klimawandel ist menschengemacht"?
+## Was heißt überhaupt "der Klimawandel ist menschen&shy;gemacht"?
 Naja, diese Aussage an sich ist zunächst stark vereinfacht und so nicht ganz richtig. Einerseits muss sie das sein, damit sie zugänglich ist, andererseits verschweigt das die wissenschaftliche Genauigkeit mit der dieser Konsens festgestellt wurde.
 
 Im Grunde ist die Aussage folgende: <mark>97% der wissenschatlichen Arbeiten, die zur Ursache des Klimawandels Position beziehen, sagen, dass es sehr wahrscheinlich ist, dass menschengemachte Treibhausgase die Schuld für die meisten eindeutigen Erwärmungen der Durchschnittstemperatur der Erde in der zweiten Hälfte des Zwanzigsten Jahrhunderts tragen.</mark> Puhh, ja doch, etwas sperrig, diese Aussage.
@@ -77,7 +77,7 @@ Hintergrund ist, dass in der Arbeit eben auch nur _abstracts_ angeguckt wurden u
 ## Ein Schlusswort
 Ich möchte mich schon mal für die ganzen Zahlen entschuldigen, aber wenn man solche wissenschaftlichen Erkenntnisse verstehen will, muss man sich wohl oder übel damit auseinander setzen. Wie bereits gesagt, ich wollte eigentlich gar nich so speziell zu diesem Thema schreiben, aber das ganze ist eskaliert und es hat mich wahnsinnig gemacht, dass diese Zahl immer wieder in Frage gestellt wird.
 
-Betrachte diesen Beitrag also als kleine Aufwärmrunde, denn ich werde in nächster Zeit noch mehr zum Klimawandel schreiben, damit wir alle Fakten an der Hand haben, mit denen wir Kritikern die Meinung geigen können.
+Betrachte diesen Beitrag also als kleine Aufwärmrunde, denn ich werde in nächster Zeit noch mehr zum Klimawandel schreiben, damit wir alle Fakten an der Hand haben, mit denen wir Kritikern die Meinung geigen können. Was aber auch gesagt sein muss: Natürlich besteht auch eine geringe Wahrscheinlichkeit, dass die Wissenschaft sich irrt und der Mensch nicht die Schuld am Klimawandel trägt. Trotzdem findet dieser immer noch statt und bedroht unsere gesamte Zivilisation. Meiner Meinung nach sollten wir also alles in unserer Macht stehende tun, um uns zu retten.
 
 Ich würde mich auf jeden Fall über Feedback, Fragen und Kritik freuen. Du bist auch herzlich eingeladen, selbst in den Arbeiten zu stöbern. Ansonsten wünsche ich dir eine tolle Woche und bis zum nächsten Mal,
 
