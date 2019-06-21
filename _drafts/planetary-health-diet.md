@@ -21,6 +21,8 @@ Wie sieht die Planetary Health Diet aus?
 Wäre es nicht noch besser wenn wir alle Veganer wären?
 maiLab: Retten Veganer die Umwelt? -> https://www.youtube.com/watch?v=keEKlr2dG-I
 
+https://www.youtube.com/watch?v=nUnJQWO4YJY
+
 https://de.wikipedia.org/wiki/Planetary_Health
 
 https://www.thelancet.com/journals/lanplh/home
@@ -34,3 +36,4 @@ https://www.thelancet.com/infographics/planetary-health
 
 Lancet Report on Planetary Health:
 https://www.thelancet.com/commissions/planetary-health
+https://www.thelancet.com/journals/lanplh/home

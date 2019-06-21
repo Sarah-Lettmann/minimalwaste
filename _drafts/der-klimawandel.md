@@ -10,7 +10,19 @@ image: "/assets/title-images/2019/2019-06-03-diy-zero-waste-mascara.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
-Der Klimawandel ist menschengemacht, da sind sich Wissenschaftler einig. Wer etwas anders behauptet hat keine Ahnung und versteht die Fakten nicht. Deshalb möchte ich dir heute mal ausführlich erklären, was es mit dem Klimawandel auf sich hat, wie er zu Stande kommt, welche Auswirkungen er heute schon hat und was wir dagegen tun können. Zu allem gibt es nätürlich Grafiken und Quellen, damit du dich weiter informieren kannst.
+
+https://de.wikipedia.org/wiki/Treibhauseffekt -> Treibhauseffekt
+https://de.wikipedia.org/wiki/Joseph_Fourier -> entdeckte Treibhauseffekt
+https://de.wikipedia.org/wiki/Treibhausgas -> Treibhausgase
+https://de.wikipedia.org/wiki/John_Tyndall -> entdeckte Treibhausgase
+
+https://climate.nasa.gov/evidence/ -> Daten der Nasa
+https://icecores.org/
+https://climate.nasa.gov/news/2876/new-studies-increase-confidence-in-nasas-measure-of-earths-temperature/
+https://www.dlr.de/dlr/desktopdefault.aspx/tabid-11077/1951_read-30057/
+
+https://de.wikipedia.org/wiki/Warmklima#Aktuelle_und_zuk%C3%BCnftige_Entwicklung
+https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg#cite_note-Hansen-4 -> Grafik Erdtemperaturen
 
 ## Wie kommt es zum Klimawandel?
 
@@ -37,3 +49,15 @@ Kosten, die eine Tonne CO2 verursacht -> 180€
 Verlangsamung Jetstream
 
 ## Wie können wir den Klimawandel stoppen?
+
+
+
+https://www.bmu.de/download/fuenfter-sachstandsbericht-des-ipcc/
+
+https://de.wikipedia.org/wiki/Pause_der_globalen_Erw%C3%A4rmung
+
+https://www.de-ipcc.de/256.php
+
+https://www.ipcc.ch/sr15/
+
+http://www.ecomodernism.org/deutsch
