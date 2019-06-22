@@ -16,41 +16,47 @@
 
     <!-- primary navigation -->
     <nav class="navigation">
+      <!-- mobile menu button -->
+      <a class="nav__link nav__link--menu fas fa-bars" href="#top" alt="" title="öffnen oder Schließen des Menüs" aria-label="Menü Button" aria-expanded="false" onclick="menuOpenClose()"></a>
       <!-- menu -->
-      <a class="nav__link nav__link--menu fas fa-bars" href="#" alt="" title="öffnen oder Schließen des Menüs" aria-label="Menü Button" aria-expanded="false" onclick="menuLinkClicked()"></a>
       <ul class="menu menu--main menu--hidden">
-        <li class="menu__item menu__item--has-submenu" aria-labelledby="menu__link-1">
-          <a id="menu__link-1" class="menu__link" aria-haspopup="true" aria-expanded="false" href="/category/zero-waste.html">Zero Waste</a>
-          <ul class="menu__submenu">
-            <li class="menu__item" aria-labelledby="menu__link-1-1">
-              <a id="menu__link-1-1" class="menu__link" href="/category/muellfreies-badezimmer.html">Müllfreies Badezimmer</a>
+        <li class="menu__item menu__item--has-submenu" aria-label="Zero Waste">
+          <a class="menu__link" href="" aria-haspopup="true" aria-expanded="false" onclick="submenuOpenClose(event)">Zero Waste</a>
+          <!-- submenu -->
+          <ul class="menu__submenu menu--hidden">
+            <li class="menu__item" aria-label="Alles in Zero Waste">
+              <a class="menu__link menu__link--main-link" href="/category/zero-waste.html">Alles in Zero Waste</a>
             </li>
-            <li class="menu__item" aria-labelledby="menu__link-1-2">
-              <a id="menu__link-1-2" class="menu__link" href="/category/zero-waste-kosten.html">Was kostet Zero Waste?</a>
+            <li class="menu__item" aria-label="Müllfreies Badezimmer">
+              <a class="menu__link" href="/category/muellfreies-badezimmer.html">Müllfreies Badezimmer</a>
             </li>
-            <li class="menu__item" aria-labelledby="menu__link-1-3">
-              <a id="menu__link-1-3" class="menu__link" href="/category/diy.html">DIY</a>
+            <li class="menu__item" aria-label="Was kostet Zero Waste?">
+              <a class="menu__link" href="/category/zero-waste-kosten.html">Was kostet Zero Waste?</a>
             </li>
-            <li class="menu__item" aria-labelledby="menu__link-1-3">
-              <a id="menu__link-1-3" class="menu__link" href="/category/rohstoffe-und-recycling.html">Rohstoffe und Recycling</a>
+            <li class="menu__item" aria-label="DIY">
+              <a class="menu__link" href="/category/diy.html">DIY</a>
+            </li>
+            <li class="menu__item" aria-label="Rohstoffe und Recycling">
+              <a class="menu__link" href="/category/rohstoffe-und-recycling.html">Rohstoffe und Recycling</a>
             </li>
           </ul>
+          <!-- end submenu -->
         </li>
-        <li class="menu__item" aria-labelledby="menu__link-2">
-          <a id="menu__link-2" class="menu__link" href="/category/minimalismus.html">Minimalismus</a>
+        <li class="menu__item" aria-label="Minimalismus">
+          <a class="menu__link" href="/category/minimalismus.html">Minimalismus</a>
         </li>
-        <li class="menu__item" aria-labelledby="menu__link-3">
-          <a id="menu__link-3" class="menu__link" href="/category/sustainable-fashion.html">Sustainable Fashion</a>
+        <li class="menu__item" aria-label="Sustainable Fashion">
+          <a class="menu__link" href="/category/sustainable-fashion.html">Sustainable Fashion</a>
         </li>
-        <li class="menu__item" aria-labelledby="menu__link-4">
-          <a id="menu__link-4" class="menu__link" href="/category/klima.html">Klima</a>
+        <li class="menu__item" aria-label="Klima">
+          <a class="menu__link" href="/category/klima.html">Klima</a>
         </li>
-        <li class="menu__item" aria-labelledby="menu__link-5">
-          <a id="menu__link-5" class="menu__link" href="/pages/faq">FAQ</a>
+        <li class="menu__item" aria-label="FAQ">
+          <a class="menu__link" href="/pages/faq">FAQ</a>
         </li>
         <!-- search -->
         <li class="menu__item" aria-labelledby="menu__link-6">
-          <a id="menu__link-6" class="menu__link menu__link--search" href="/pages/search" title="zur Suche">
+          <a class="menu__link menu__link--search" href="/pages/search" title="zur Suche">
             <span class="link__icon fas fa-search"></span>
             <span class="link__text">Suche</span>
           </a>

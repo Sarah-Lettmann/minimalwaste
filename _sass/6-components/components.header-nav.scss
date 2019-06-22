@@ -43,6 +43,7 @@
   }
 
   .menu__submenu {
+    display: none;
     -ms-transform: skewY(1deg);
     -webkit-transform: skewY(1deg);
     transform: skewY(1deg);
@@ -137,6 +138,16 @@
       border-bottom: none;
     }
 
+    &--has-submenu > .menu__link {
+      &::after {
+        content: '\f078';
+        font-family: 'Font Awesome 5 Free';
+        font-weight: bold;
+        font-size: $font-size-base;
+        margin-left: 0.25*$margin-base;
+      }
+    }
+
     .menu__link {
       display: block;
       padding: 0.75*$padding-base 0;
@@ -155,6 +166,10 @@
         @include breakpoint(largeAndUp) {
           border-bottom: $link-decoration;
         }
+      }
+
+      &--main-link {
+        font-weight: bold;
       }
 
       &--search {
