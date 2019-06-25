@@ -53,7 +53,7 @@ Eigenes Besteck dabei zu haben, ist immer gut, denn man weiß nie ob man nicht v
 
 Ich rolle mein Besteck immer in die **Serviette** ein und befestige alles mit einem alten Haushaltsgummi. Die Servietten kannst du dann auch übrigens für solche Dinge wie Crepes benutzen - also zum Drauflegen von Crepes - aber natürlich auch zum Mundabwischen. Mit dem **Strohhalm** kannst du ohne schlechtes Gewissen Cocktails, Milchshakes und Smoothies genießen. Die Essstäbchen sind hier optional, aber für asiatisches Essen finde ich es besser auch **Stäbchen** dabei zu haben. Außerdem nehmen die nicht wirklich Platz weg.
 
-Für das Mitnehmen von Kaffee oder anderen Getränken eignet sich ein eigener **Coffee-to-go Becher**. Die Dinger gibt es inzwischen überall. Falls du dir sowas aber nicht zulegen willst - hey, finde ich gut, ist auch nachhaltiger - dann kannst du auch ein entsprechend großes SChraubglas verwenden. Als Hitzeschutz kannst du eine gute Menge an alten Haushaltsgummis rum machen und fertig ist der eigene **upcycelte Coffee-to-go Becher**! Das ist so unglaublich Hipster, das es schon nicht mehr wahr ist...
+Für das Mitnehmen von Kaffee oder anderen Getränken eignet sich ein eigener **Coffee-to-go Becher**. Die Dinger gibt es inzwischen überall. Falls du dir sowas aber nicht zulegen willst - hey, finde ich gut, ist auch nachhaltiger - dann kannst du auch ein entsprechend großes Schraubglas verwenden. Als Hitzeschutz kannst du eine gute Menge an alten Haushaltsgummis rum machen und fertig ist der eigene **upcycelte Coffee-to-go Becher**! Das ist so unglaublich Hipster, das es schon nicht mehr wahr ist...
 
 ![Upcycelter Coffee-to-go Becher](/assets/inpost-images/2019/2019-06-24-upcycelter-coffee-to-go-becher.jpg "© {{ site.title }}")
 
@@ -65,7 +65,7 @@ Wichtig bei all diesen Dinge ist, dass du dem Kellner oder der Person, die dich 
 
 ## Wie du außerdem noch unterwegs Müll vermeiden kannst
 Neben all diesen Vorbereitungen kann Müll aber trotzdem überall lauern. Es ist einfach Wahnsinn wie oft man damit konfrontiert wird. Damit du am Ende des Tages ohne Müll nach Hause gehst, hier noch ein paar weitere Tipps:
-- Nimm keine Freebees an.
+- Nimm keine Freebies an.
 - Nimm keine Flyer oder Prospekte an.
 - Lehne den Kassenzettel ab.
 - Nimm keine kostenlosen Zugaben an, wie z.B. Taschentücher in der Apotheke.
@@ -88,7 +88,9 @@ Wenn dir also ein solcher Fehler passiert, dann trage die Verantwortung dafür. 
 Merk dir das bitte. Ich finde so kannst du selbst mit angefallenem Müll noch eine gute Entscheidung treffen.
 
 ## Ein Schlusswort
-Ich bin, was das vermeiden von Müll unterwegs angeht, gefühlt erst am Anfang. Aber ich arbeite daran immer besser zu werden. Ich findes aber auch immer wieder wichtig, dass an solche Dinge nicht mit einer kompromisslosen Radikalität rangegangen wird. Ich habe sehr viel Respekt vor Menschen, die konsequent sind und einfach auf etwas Verzichten, wenn es in Plastik kommt, aber ich finde das nur selten umsetzbar und denke auch, dass es auf Dauer nicht glücklich macht. Es geht bei Zero Waste eigentlich nicht primär darum, dass man als Individuum Müll vermeidet, sondern dass man so oft es geht mit seinem Verhalten auffällt und anderen Menschen und der Indutrie zeigt, dass man eine Veränderung will. Und diese Veränderung, die auch gerade schon statt findet, dass ist das wirklich wichtig an diesem Lebensstil.
+Ich bin, was das vermeiden von Müll unterwegs angeht, gefühlt erst am Anfang. Aber ich arbeite daran immer besser zu werden. Ich finde es aber auch immer wieder wichtig, dass an solche Dinge nicht mit einer kompromisslosen Radikalität rangegangen wird. Ich habe sehr viel Respekt vor Menschen, die konsequent sind und einfach auf etwas Verzichten, wenn es in Plastik kommt, aber ich finde das nur selten umsetzbar und denke auch, dass es auf Dauer nicht glücklich macht.
+
+Es geht bei Zero Waste eigentlich nicht primär darum, dass man als Individuum Müll vermeidet, sondern dass man so oft es geht mit seinem Verhalten auffällt und anderen Menschen und der Indutrie zeigt, dass man eine Veränderung will. Und diese Veränderung, die auch gerade schon statt findet, dass ist das wirklich wichtig an diesem Lebensstil.
 
 Also sollten wir eigentlich viel mehr danach Leben und uns danach richten wie oft unser geändertes Kaufverhalten auffällt und nicht danach wie viel Müll wir am Ende vermeiden. <mark>Es ist super wichtig wie oft wir mit Menschen ins Gespräch kommen und unsere Beweggründe darlegen, wie oft wir mit den Verkäufern reden, weil wir etwas in eine eigene Dose haben oder keine Tüte wollen. Diese Kommunikation ist der eigentlich Schlüssel und das sollten wir im Hinterkopf behalten.</mark> Hier gibt es noch ein bisschen was zum Weiterlesen:
 
