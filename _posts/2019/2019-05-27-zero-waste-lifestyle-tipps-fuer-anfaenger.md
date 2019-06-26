@@ -13,6 +13,8 @@ affiliate: false
 ---
 Ich liebe den Zero Waste Lifestyle und würde nie wieder zurück gehen wollen. Doch wenn man gerade erst anfängt, kann das alles sehr überwältigend sein. Es gibt inzwischen massig Informationen da draußen, was man alles machen kann und wozu es Alternativen gibt. Ich will dir heute ein paar Tipps für den Anfang geben, damit du gleich viel Plastik und unnötigen Verpackungsmüll sparst. Hier sind meine 9 besten Tipps für Anfänger.
 
+{% include iframe.html url="https://www.youtube.com/embed/jRabqog7-q4" %}
+
 ## 1. Analysiere deinen Müll
 Das wichtigste zu erst. **Guck dir deinen Müll** an und ich sag dir was du vermeiden solltest. Das funktioniert wirklich so, denn daraus was du wegschmeißt kannst du ganz einfach ableiten, welche Dinge du reduzieren oder für was du eine Alternative brauchst. Mein Tipp: **Such dir ein oder zwei Dinge raus**, die du am häufigsten in deinem Mülleimer findest und ersetze sie. Das können sein: Nudel- oder Chipstüten, Tetrapacks, Eierkartons, Tüten vom Bäcker oder Ähnliches.
 
