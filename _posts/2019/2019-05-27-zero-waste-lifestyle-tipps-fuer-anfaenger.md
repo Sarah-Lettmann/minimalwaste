@@ -1,11 +1,10 @@
 ---
 layout: post
-uid: 20190527
 title: "Zero Waste Lifestyle: Die 9 besten Tipps für Anfänger"
 subtitle: "Kleine Veränderungen, die einen großen Effekt haben"
 date: 2019-05-27
 categories: [Zero Waste]
-description: ""
+description: "Wenn man gerade erst mit dem Zero Waste Lifestyle anfängt, kann das schnell überwältigend sein. Darum sind hier meine 9 besten Zero Waste Tipps für Anfänger."
 keywords: [Zero Waste Lifestyle, Zero Waste Tipps, Zero Waste Anfänger]
 image: "/assets/title-images/2019/2019-05-27-zero-waste-lifestyle-tipps-fuer-anfaenger.jpg"
 author: sarah-lettmann
