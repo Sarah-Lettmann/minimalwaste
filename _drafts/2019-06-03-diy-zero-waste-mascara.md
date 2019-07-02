@@ -12,4 +12,4 @@ affiliate: false
 ---
 
 
-Aus Aktivkohle, Kokosöl und Kakaobutter
+Aus Aktivkohle, Kokosöl und Kakaobutter und Aloe Vera

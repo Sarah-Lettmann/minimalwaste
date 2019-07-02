@@ -1,0 +1,120 @@
+.newsletter-popup {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  max-width: 304px;
+  margin: $margin-base;
+  @include breakpoint(small) {
+    margin: 0.5*$margin-base;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    padding: $padding-base;
+    border: $border;
+    background-color: $color-light-base;
+
+    &--hidden {
+      max-height: 55px;
+      max-width: 55px;
+      border-radius: 50%;
+      animation: width-height-collapse 1s;
+      @keyframes width-height-collapse {
+        0% {
+          max-height: 204px;
+          max-width: 304px;
+          border-radius: 0 0 0 27px;
+        }
+        50% {
+          max-height: 0;
+          max-width: 304px;
+          border-radius: 50px 0 0 50px;
+        }
+        100% {
+          max-height: 0;
+          max-width: 0;
+          border-radius: 50%;
+        }
+      }
+
+      * {
+        opacity: 0;
+        @include transition-custom(opacity, 0.2s, ease-in-out, 0s);
+      }
+    }
+
+    &--visible {
+      max-width: 304px;
+      max-height: 204px;
+      border-radius: 0 0 0 27px;
+      animation: width-height-expand 1s;
+      @keyframes width-height-expand {
+        0% {
+          max-height: 0;
+          max-width: 0;
+          border-radius: 50%;
+        }
+        50% {
+          max-height: 0;
+          max-width: 304px;
+          border-radius: 50px 0 0 50px;
+        }
+        100% {
+          max-height: 204px;
+          max-width: 304px;
+          border-radius: 0 0 0 27px;
+        }
+      }
+
+      ~ .newsletter-popup__link {
+        color: $color-dark-base;
+        background-color: $color-light-base;
+        border: $border;
+      }
+
+      * {
+        opacity: 1;
+        @include transition-custom(opacity, 0.2s, ease-in-out, 1s);
+      }
+    }
+  }
+
+  &__link {
+    position: absolute;
+    bottom: 0;
+    width: 55px;
+    height: 55px;
+    padding: 0.5*$padding-base 0.75*$padding-base;
+    border-radius: 50%;
+    border: $border;
+    border-color: $color-light-base;
+    background-color: $color-accent;
+    color: $color-light-base;
+    font-size: 1.5*$font-size-base;
+    cursor: pointer;
+    @include transition(background-color);
+    @include transition(color);
+    @include attention() {
+      color: $color-dark-base;
+      background-color: $color-light-base;
+      border: $border;
+    }
+  }
+
+  &__title {
+    font-size: 1.5*$font-size-base;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+  }
+
+  &__button {
+    align-self: flex-end;
+  }
+
+  a[role="button"].newsletter-popup__button {
+    font-size: $font-size-base;
+  }
+}

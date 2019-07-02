@@ -60,6 +60,15 @@ Transitions
 }
 // @include transition(color);
 
+@mixin transition-custom($property, $duration, $timing, $delay) {
+  -webkit-transition: $property $duration $timing $delay;
+  -moz-transition: $property $duration $timing $delay;
+  -ms-transition: $property $duration $timing $delay;
+  -o-transition: $property $duration $timing $delay;
+  transition: $property $duration $timing $delay;
+}
+// @include transition-custom(color 1s linear 0.5s);
+
 
 
 /********************
