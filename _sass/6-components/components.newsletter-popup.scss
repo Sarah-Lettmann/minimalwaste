@@ -18,7 +18,7 @@
     &--hidden {
       max-height: 55px;
       max-width: 55px;
-      border-radius: 50%;
+      border-radius: 27px;
       animation: width-height-collapse 1s;
       @keyframes width-height-collapse {
         0% {
@@ -27,20 +27,28 @@
           border-radius: 0 0 0 27px;
         }
         50% {
-          max-height: 0;
+          max-height: 55px;
           max-width: 304px;
-          border-radius: 50px 0 0 50px;
+          border-radius: 27px 0 0 27px;
         }
         100% {
-          max-height: 0;
-          max-width: 0;
-          border-radius: 50%;
+          max-height: 55px;
+          max-width: 55px;
+          border-radius: 27px;
         }
       }
 
       * {
         opacity: 0;
-        @include transition-custom(opacity, 0.2s, ease-in-out, 0s);
+        animation: makeHidden 0.1s;
+        @keyframes makeHidden {
+          0% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0;
+          }
+        }
       }
     }
 
@@ -51,14 +59,14 @@
       animation: width-height-expand 1s;
       @keyframes width-height-expand {
         0% {
-          max-height: 0;
-          max-width: 0;
-          border-radius: 50%;
+          max-height: 55px;
+          max-width: 55px;
+          border-radius: 27px;
         }
         50% {
-          max-height: 0;
+          max-height: 55px;
           max-width: 304px;
-          border-radius: 50px 0 0 50px;
+          border-radius: 27px 0 0 27px;
         }
         100% {
           max-height: 204px;
@@ -75,7 +83,18 @@
 
       * {
         opacity: 1;
-        @include transition-custom(opacity, 0.2s, ease-in-out, 1s);
+        animation: makeVisible 1s;
+        @keyframes makeVisible {
+          0% {
+            opacity: 0;
+          }
+          80% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
       }
     }
   }

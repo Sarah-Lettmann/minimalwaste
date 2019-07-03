@@ -18,12 +18,10 @@
     <link rel="apple-touch-icon" href="/assets/logos/favicon.png">
     <!-- included stylesheets -->
     <link rel="stylesheet" href="/css/styles.css">
-    <!-- included scripts -->
-    <script src="/js/jquery-3.3.1.min.js" type="text/javascript"></script>
     {% include gtm-head.html %}
   </head>
 
-  <body class="site">
+  <body class="site preload">
     {% include gtm-body.html %}
     {% include header.html %}
     {% if page.type == 'center' %}
@@ -53,6 +51,8 @@
     {% include back-to-top.html %}
     <footer>
       <!-- footer scripts -->
+      <script src="/js/jquery-3.3.1.min.js" type="text/javascript"></script>
+      <script src="/js/preload.js" type="text/javascript"></script>
       <script src="/js/header-menu.js" type="text/javascript"></script>
       <script src="/js/cookie-consent.js" type="text/javascript"></script>
       <script src="/js/newsletter-popup.js" type="text/javascript"></script>
