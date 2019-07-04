@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wie du unterwegs Müll vermeidest"
+title: "Wie du unterwegs Müll vermeidest: Zero Waste unterwegs"
 subtitle: "Von Spontan-Einkäufen bis zum Partyabend"
 date: 2019-06-24
 categories: [Zero Waste]
