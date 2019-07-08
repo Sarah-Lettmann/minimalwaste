@@ -12,6 +12,8 @@ affiliate: false
 ---
 Möglichst plastikfrei leben ist bei mir sowieso schon der Regelfall. Aber seit Anfang des Monats ist Plastic Free July und somit habe ich mir ein paar Challenges rausgesucht, mit denen ich noch weiteres Plastik und Müll vermeiden will. Außerdem gibt es auch noch ein paar spannende Produkte, die ich in letzter Zeit entdeckt habe, und die ich gerne mit dir teilen möchte. Am Ende des Monats werden ich dann nochmal ein Fazit ziehen.
 
+{% include iframe.html url="https://www.youtube.com/embed/JU8tixsmcNM" %}
+
 ## Wo immer noch Müll anfällt
 Ja, auch bei mir fällt immer noch Müll an. Wir haben zwar nur noch knapp einen Gelben Sack in drei Monaten, aber trotzdem kann man sich ja noch verbessern. Außerdem ist bei mir inzwischen so vieles Alltag geworden, dass es mir kaum Mühe bereitet mal wieder etwas anders zu machen.
 
