@@ -12,7 +12,7 @@ affiliate: false
 ---
 ## Duschen
 Seife
-Shampoobar oder Harwaschseife
+Shampoobar oder Haarwaschseife
 Seifensäckchen statt Luffaschwamm
 Conditioner
 
@@ -21,13 +21,15 @@ Rasierhobel
 Rasierklingen
 Seife
 
-# Hautpflege
+# Pflege
 Creme oder Öl
 DIY Bodyscrub
-Deo (zum sprühen oder fest)
+Deo (zum Sprühen oder fest)
+Lippenbalsam
+Wattestäbchen / lastSwab
 
 ## Zahnpflege
-Zahnseide
+Zahnseide von Vömel oder vegan
 Bambus-Zahnbürste mit Bambus-Etui
 Zahnputztabletten oder Zahnputzpulver
 
@@ -35,7 +37,8 @@ Zahnputztabletten oder Zahnputzpulver
 Abschminktücher / Waschlappen
 Pinsel
 Paletten
-DIY Maskara
+Lippenstifte
+DIY Mascara
 
 ## Baden
 Badebomben
