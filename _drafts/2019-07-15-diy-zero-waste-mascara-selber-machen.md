@@ -14,10 +14,10 @@ Mascara ist ein Essential in jeder Makeup Routine, man kommt kaum ohne ihn aus. 
 
 ## Die Zutaten
 Für die Herstellung eines müllfreien Zero Waste Mascara brauchst du folgendes:
-- Aktivkohle im Glas (wenn du diese finden kannst), ansonsten 50g Mandeln ohne Haut
-- Kokosöl
-- Kakaobutter
-- Aloa Vera
+- Aktivkohle im Glas (wenn du diese finden kannst), ansonsten 20g Mandeln ohne Haut
+- 1 TL Kokosöl
+- 5g Kakaobutter
+- 1 Blatt Aloa Vera
 
 Und außerdem
 - ein Mörser
@@ -26,14 +26,16 @@ Und außerdem
 - eine Mascarabürste
 - ein Eyeliner Pinsel
 
-## Mein Vorhaben
+## Die Herstellung
 Im Vorfeld habe ich mir mehrere Videos angeguckt und mich informiert, wie man einen Mascara selber machen kann. Stellt sich heraus, dass die Grundidee immer gleich ist. Man braucht zunächst einmal die Farbe, also Schwarz in dem Fall.
 
 Um diese zu erhalten kann man sich Aktivkohlepulver kaufen. Das gibt es manchmal als Zahnpflegepulver, sogar im Glas, habe ich aber nur in Plastik gefunden, also brauche ich einen extra Step.
 
 Die Aktivkohle muss quasi selbst gemacht werden. Wie? Aus Mandeln. Diese brauchen wir ohne die braune Schale. Falls du nur welche mit Schale finden kannst, gibt es viele Möglichkeite diese zu entfernen, da werde ich jetzt nicht weiter drauf eingehen.
 
-Die Mandeln wollen wir nun schon etwas zerkleinern, also einfach mit dem Messer klein hacken. Das wird uns später die Arbeit erleichtern. Die zerkleinerten Mandeln gibt man dann in eine Pfanne und lässt sie ... naja, man lässt sie verkohlen. Man wartet also bis die Mandeln in der Pfanne komplett schwarz geworden sind.
+Die Mandeln wollen wir nun schon etwas zerkleinern, also einfach mit dem Messer klein hacken. Das wird uns später die Arbeit erleichtern. Die zerkleinerten Mandeln gibt man dann in eine Pfanne und lässt sie ... naja, man lässt sie verkohlen. Man wartet also bis die Mandeln in der Pfanne komplett schwarz geworden sind. Bei mir hat das gute 15 Minuten gedauert.
+
+Als nächstes gibt man die schwarz gewordenen Mandeln in einen Mörser und zerkleinert sie weiter. So lange bis eine homogene Masse daraus geworden ist. Diese Masse geben wir nun mit etwa einen Teelöffel Kokosöl, einem winzigen etwa Daumennagel großen Kakaobutter und dem Gel aus einem Blatt Aloe Vera (optional) in ein Wasserbad, bis alles verschmolzen ist.
 
 ## Das Ergebnis
 Ich habe den neu hergestellten Mascara selbstverständlich sofort ausprobiert. Dazu habe ich die Brüste meines alten Mascara gründlich gewaschen, denn ich wollte das Ergebnis schließlich nicht verfälschen.
