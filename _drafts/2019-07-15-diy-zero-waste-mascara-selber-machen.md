@@ -16,7 +16,7 @@ Mascara ist ein Essential in jeder Makeup Routine, man kommt kaum ohne ihn aus. 
 Für die Herstellung eines müllfreien Zero Waste Mascara brauchst du folgendes:
 - Aktivkohle im Glas (wenn du diese finden kannst), ansonsten 20g Mandeln ohne Haut
 - 1 TL Kokosöl
-- 5g Kakaobutter
+- 20g Kakaobutter
 - 1 Blatt Aloa Vera
 
 Und außerdem
@@ -40,13 +40,14 @@ Als nächstes gibt man die schwarz gewordenen Mandeln in einen Mörser und zerkl
 ## Das Ergebnis
 Ich habe den neu hergestellten Mascara selbstverständlich sofort ausprobiert. Dazu habe ich die Brüste meines alten Mascara gründlich gewaschen, denn ich wollte das Ergebnis schließlich nicht verfälschen.
 
-Außerdem wollte ich diese Mischung auch als Eyeliner testen. Also habe ich mir noch einen Eyelinger-Pinsel geholt mit dem ich den Test machen will.
-
-Zum Einfrieren kann ich bis jetzt noch nicht viel sagen. Ich hatte testweise eine kleine Portion über Nacht eingefroren und am nächsten Tag wieder aufgetaut und dann ganz normal verwendet. Das Ergebnis war wir bei der nicht eingefrorenen Variante.
+Zum Einfrieren kann ich bis jetzt noch nicht viel sagen. Ich hatte testweise eine kleine Portion über Nacht eingefroren und am nächsten Tag wieder aufgetaut und dann ganz normal verwendet. Das Ergebnis war wie bei der nicht eingefrorenen Variante.
 
 ## Kosten
 Da ich ja immer sehr bemührt bin zu zeigen, dass Zero Waste nicht teuer sein muss, habe ich mir mal angeguckt wie der selbst gemachte müllfreie Mascara bei den Kosten abschneidet.
 
 Für die Menge von 50g Mascara brauchten wir:
-- Mandeln, 40g, 5€
-- ...
+- 20g Mandeln, 2,60€ pro 100g ~> 0,52€
+- 20g Kakaobutter, 1,80€ pro 100g ~> 0,36€
+- 10g Kokosöl, 1,12€ pro 100g ~> 0,11€
+
+Womit wir auf kosten von 0,99€ für 50g Mascara kommen. Zum Vergleich: In einem normalen Mascara sind ungefähr 12ml.
