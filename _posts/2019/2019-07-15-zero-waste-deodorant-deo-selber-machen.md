@@ -63,7 +63,7 @@ Fülle alle Zutaten in eine Schale und lass dann alles in einem Wasserbad schmel
 
 Jetzt kannst du ein paar Tropfen Ätherisches Öl hinzugeben. Prinzipiell kannst du hier nehmen was du willst, so wie dir der Duft eben am liebsten ist. Aber ich nehme hier gerne Teebaumöl, weil dieses wie gesagt zudem eine antibakterielle Wirkung hat.
 
-Nochmal alles verrühren und dann in ein Behältnis deiner Wahl füllen. Ich nehme dafür ein kleines Schraubglas. Und damit sich alles setzen kann, für ca. eine Stunde in den Kühlschrank stellen.
+Nochmal alles verrühren und dann in ein Behältnis deiner Wahl füllen. Ich nehme dafür ein kleines Schraubglas. Und damit sich alles setzen kann, für ca. eine Stunde in den Kühlschrank stellen. Am besten auch danach an einem nicht zu warmen Ort aufbewahren, da es sonst wieder flüssig werden kann.
 
 Diese Variante des Deodorants lässt sich in kleiner Menge mit einem Finger in der Achsel aufbringen.
 
@@ -81,7 +81,7 @@ Das feste Deo hingegen will ich nun genau berechnen (alle Zutaten mit Preise auf
 - 10g Speisestärke (0,50€ pro 100g) ~> 0,05€
 - Teebaumöl ca. 0,09€
 
-Damit kommen wir auf Gesamtkosten von 0,77€ für das feste Zero Waste Deodorant.
+Damit kommen wir auf Gesamtkosten von 0,77€ für das feste Zero Waste Deodorant. Wie lange das hält kann ich noch nicht sagen, aber ich denke schon, dass es mit dem Sprühdeo mithalten kann.
 
 ## Fazit
 Das eigene Deo ist finde ich ein richtig guter Start, wenn man mit Zero Waste anfängt und es günstig halten möchte. Außerdem ist es sehr einfach und schnell mit wenigen Zutaten selbst zu machen, wirksam und man weiß, was drin ist.
