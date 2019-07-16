@@ -9,22 +9,22 @@
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta name="p:domain_verify" content="303a6cf98d134506ab7a9aafa48e9b5f"/>
     {% if page.layout == 'home' %}
-        {% include meta-home.html %}
+        {% include wrapper/meta-home.html %}
     {% else %}
-        {% include meta-page.html %}
+        {% include wrapper/meta-page.html %}
     {% endif %}
     <!-- favicon -->
     <link rel="icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png">
     <!-- included stylesheets -->
     <link rel="stylesheet" href="/css/styles.css">
-    {% include google-adsense.html %}
-    {% include gtm-head.html %}
+    {% include wrapper/google-adsense.html %}
+    {% include wrapper/gtm-head.html %}
   </head>
 
   <body class="site preload">
-    {% include gtm-body.html %}
-    {% include header.html %}
+    {% include wrapper/gtm-body.html %}
+    {% include wrapper/header.html %}
     {% if page.type == 'center' %}
       <main id="main" class="main main--center">
         <div class="container">
@@ -46,10 +46,10 @@
         </div>
       </main>
     {% endif %}
-    {% include footer.html %}
-    {% include cookie-consent.html %}
-    {% include newsletter-popup.html %}
-    {% include back-to-top.html %}
+    {% include wrapper/footer.html %}
+    {% include wrapper/cookie-consent.html %}
+    {% include wrapper/newsletter-popup.html %}
+    {% include wrapper/back-to-top.html %}
     <footer>
       <!-- footer scripts -->
       <script src="/js/jquery-3.4.1.min.js"></script>

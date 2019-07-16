@@ -1,4 +1,5 @@
-$image-size: 180px;
+$image-size: 100px;
+$image-padding-margin: 5px;
 
 .gallery {
   overflow: hidden;
@@ -6,15 +7,15 @@ $image-size: 180px;
   &__image-container {
     display: flex;
     position: relative;
-    left: -0.5*$image-size;
+    margin-left: -$image-padding-margin;
+    margin-right: -$image-padding-margin;
     //animation: gallery-animation 30s infinite;
     //@include animation(gallery-animation, 1s, 30s, ease-in-out, infinite);
   }
 
   &__image {
     min-width: $image-size;
-    height: $image-size;
-    padding: 7.5px;
+    padding: $image-padding-margin;
     margin-bottom: 0;
   }
 }
