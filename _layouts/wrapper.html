@@ -39,6 +39,13 @@
       <main id="main" class="main main--home">
         {{ content }}
       </main>
+    {% elsif page.layout == 'post' %}
+      <main id="main" class="main">
+        <div class="container">
+          {{ content }}
+        </div>
+        {% include lead-magnet.html %}
+      </main>
     {% else %}
       <main id="main" class="main">
         <div class="container">

@@ -1,5 +1,5 @@
 .lead-magnet {
-  margin-top: 0.5*$margin-base;
+  margin-bottom: 0.5*$margin-base;
   position: relative;
   background: url("/assets/content/header.jpg");
   background-size: auto;
@@ -58,8 +58,13 @@
       font-size: 2.2rem;
     }
   }
+}
 
-  &__description {
 
+.main--home {
+
+  .lead-magnet {
+    margin-top: 0.5*$margin-base;
+    margin-bottom: 3*$margin-base;
   }
 }
