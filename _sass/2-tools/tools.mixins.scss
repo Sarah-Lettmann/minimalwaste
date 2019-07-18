@@ -11,6 +11,9 @@ Breakpoints
   @else if $size == medium {
     @media (min-width: $breakpoint-small + 1) and (max-width: $breakpoint-medium) { @content; }
   }
+  @else if $size == mediumAndDown {
+    @media (max-width: $breakpoint-medium) { @content; }
+  }
   @else if $size == mediumAndLarge {
     @media (min-width: $breakpoint-small + 1) { @content; }
   }

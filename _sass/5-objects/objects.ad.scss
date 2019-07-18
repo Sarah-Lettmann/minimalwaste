@@ -1,0 +1,16 @@
+.ad {
+
+  &--mobile {
+    display: none;
+    @include breakpoint(mediumAndDown) {
+      display: block;
+    }
+  }
+
+  &--desktop {
+    display: block;
+    @include breakpoint(mediumAndDown) {
+      display: none;
+    }
+  }
+}
