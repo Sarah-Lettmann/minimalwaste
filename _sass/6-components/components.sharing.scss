@@ -1,13 +1,13 @@
 .sharing {
 
-  @include breakpoint(xsmall) {
+  @include breakpoint(small) {
     text-align: center;
   }
 
   &__title {
     display: inline;
     font-size: $font-size-text;
-    @include breakpoint(xsmall) {
+    @include breakpoint(small) {
       display: block;
       margin-bottom: 0.75*$margin-base;
     }

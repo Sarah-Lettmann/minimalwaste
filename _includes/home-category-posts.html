@@ -6,7 +6,7 @@
     </a>
   </h2>
   <div class="category__posts">
-    {% for post in site.categories[cat.name] limit:3 %}
+    {% for post in site.categories[cat.name] limit:6 %}
       <article class="post post--category" aria-label="{{ post.title }}">
         <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
           <picture>

@@ -51,33 +51,7 @@
       -ms-grid-row: 1;
       -ms-grid-column: 6;
     }
-    @include breakpoint(medium) {
-      &:nth-child(1) {
-        -ms-grid-row: 1;
-        -ms-grid-column: 1;
-      }
-      &:nth-child(2) {
-        -ms-grid-row: 1;
-        -ms-grid-column: 2;
-      }
-      &:nth-child(3) {
-        -ms-grid-row: 1;
-        -ms-grid-column: 3;
-      }
-      &:nth-child(4) {
-        -ms-grid-row: 2;
-        -ms-grid-column: 1;
-      }
-      &:nth-child(5) {
-        -ms-grid-row: 2;
-        -ms-grid-column: 2;
-      }
-      &:nth-child(6) {
-        -ms-grid-row: 2;
-        -ms-grid-column: 3;
-      }
-    }
-    @include breakpoint(small) {
+    @include breakpoint(mediumAndDown) {
       &:nth-child(1) {
         -ms-grid-row: 1;
         -ms-grid-column: 1;
