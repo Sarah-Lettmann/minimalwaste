@@ -26,4 +26,4 @@ Dosen mitnehmen -> können zum transportieren oder als Teller verwendet werden
 
 Bundeswehrbesteck und Strohhalme
 
-Stück Kernseife zum Waschen
+Stück Kernseife zum Waschen von Kleidung
