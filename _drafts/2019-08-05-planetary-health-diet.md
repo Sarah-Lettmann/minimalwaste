@@ -2,15 +2,18 @@
 layout: post
 title: "Planetary Health Diet: Eine Diät fürs Klima"
 subtitle: "Wie die richtige Ernährung für uns und unseren Planeten aussieht"
-date: 2019-05-31
+date: 2019-08-05
 categories: [Klima]
 description: ""
 keywords: [Planetary Health, Planetary Health Diet]
-image: "/assets/title-images/2019/2019-06-03-diy-zero-waste-mascara.jpg"
+image: "/assets/title-images/2019/2019-08-05-planetary-health-diet.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
-Wofür steht Planetary Health?
+Wenn es um das Klima geht, dann können wir viele Dinge tun, um unseren CO2 Fußabdruck möglichst klein zu halten. Eine Stellschraube ist die Ernährung, vor allem weniger Fleisch lautet die Devise. Aber wie viel weniger muss es wirklich sein und ist vegan die ideale Lösung? Spoiler: Nein, ist es nicht. Zumindest nicht, wenn wir alle vegan leben würden. Die ideale Ernährung für uns und unseren Planeten heißt Planetary Health Diet.
+
+## Wofür steht Planetary Health?
+https://assets.rockefellerfoundation.org/app/uploads/20160725145454/PIIS0140673615609011.pdf
 
 Wieso brauchen wir das?
 -Klima und Mensch im Gleichgewicht
