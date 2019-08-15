@@ -1,3 +1,5 @@
+$mark-border: 3px solid $main-color-light;
+
 b,
 strong {
   font-weight: 700;
@@ -17,14 +19,16 @@ sup {
 }
 
 mark {
-  background-color: $color-accent-light;
+  background-color: $main-color-light;
+  border-left: $mark-border;
+  border-right: $mark-border;
 }
 
 abbr {
   text-decoration: none;
-  border-bottom: 4px dotted $color-accent;
+  border-bottom: 4px dotted $main-color-dark;
   @include attention() {
-    color: $color-accent;
+    color: $main-color-dark;
   }
   @include transition(color);
 }

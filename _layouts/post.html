@@ -19,9 +19,9 @@ layout: wrapper
             </span>
           {% endif %}
         </div>
-        <picture>
+        <picture class="post__cover">
           <source srcset="{{ page.image | remove: '.jpg' }}-mobile.jpg" media="(max-width: 540px)">
-          <img class="post__cover" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
+          <img src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
         </picture>
     </header>
     <div class="post__body content">
@@ -32,7 +32,6 @@ layout: wrapper
     </div>
     {% include post/sharing.html %}
     {% include post/author.html %}
-    {% include post/patreon.html %}
     {% include ads/post-bottom.html %}
     {% include post/comments.html %}
 </article>

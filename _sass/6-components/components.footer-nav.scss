@@ -11,11 +11,9 @@
   }
 
   .menu__link {
-    border-bottom: 2px solid $color-light-base;
-    @include transition(border-color);
+    box-shadow: none;
     @include attention() {
-      color: unset;
-      border-bottom: $link-decoration;
+      @include box-shadow-standard();
     }
   }
 }

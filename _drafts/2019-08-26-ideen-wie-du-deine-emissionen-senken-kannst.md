@@ -10,3 +10,11 @@ image: "/assets/title-images/2019/2019-08-26-ideen-wie-du-deine-emissionen-senke
 author: sarah-lettmann
 affiliate: false
 ---
+
+kürzer duschen
+
+mal zu Fuß gehen oder das Rad nehmen
+
+nur so viel Wasser kochen, wie du brauchst
+
+Mischbaterie für Wasserhähne

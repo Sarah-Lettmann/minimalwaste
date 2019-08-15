@@ -1,10 +1,9 @@
 a {
   color: $color-text;
   text-decoration: none;
-
-  @include transition(color);
-
+  @include box-shadow-standard();
+  @include transition(all);
   @include attention() {
-    color: $color-accent-dark;
+    @include box-shadow-standard-full();
   }
 }

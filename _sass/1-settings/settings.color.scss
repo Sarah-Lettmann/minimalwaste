@@ -15,3 +15,13 @@ $color-subtext: $color-medium-base;
 $color-accent: $color-green;
 $color-accent-light: $color-light-green;
 $color-accent-dark: $color-dark-green;
+
+
+$main-color:            #aaddaa;
+$main-color-light:      lighten($main-color, 10%);
+$main-color-dark:       #88bb88;
+
+$second-color:          #666;
+$second-color-light:    lighten($second-color, 50%);
+$second-color-lighter:  lighten($second-color, 70%);
+$second-color-dark:     darken($second-color, 30%);

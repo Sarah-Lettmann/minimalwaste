@@ -1,0 +1,11 @@
+@mixin box-shadow-standard() {
+  @include box-shadow(0, -10px, 0, 0, $main-color-light, true);
+}
+
+@mixin box-shadow-standard-full() {
+  @include box-shadow(0, -25px, 0, 0, $main-color-light, true);
+}
+
+@mixin box-shadow-buttons-menu() {
+  @include box-shadow(0, 5px, 10px, 0, $color-medium-base, false);
+}

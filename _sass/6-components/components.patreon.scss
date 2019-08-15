@@ -13,6 +13,7 @@ $patreon-color: #e85b46;
     display: flex;
     padding: $padding-base;
     background-color: $patreon-color;
+    box-shadow: none;
     @include transition(transform);
     @include attention() {
       color: $color-light-base;

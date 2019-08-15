@@ -1,3 +1,4 @@
 a[role="button"] {
   @extend input[type="submit"];
+  box-shadow: none;
 }

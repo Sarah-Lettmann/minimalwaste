@@ -2,10 +2,13 @@
   overflow-x: hidden;
 
   &__header {
+    display: flex;
+    flex-direction: column;
     margin-bottom: $margin-base;
   }
 
   &__title {
+    order: 2;
     margin-right: $margin-base;
     @include breakpoint(mediumAndLarge) {
       margin-right: 4*$margin-base;
@@ -13,6 +16,7 @@
   }
 
   &__subtitle {
+    order: 3;
     color: $color-subtext;
     @include latoFont();
     font-size: 1.5*$font-size-base;
@@ -22,6 +26,7 @@
   }
 
   &__meta {
+    order: 1;
     font-size: $font-size-base;
     @include latoFont;
     @include attention() {
@@ -32,8 +37,8 @@
     }
   }
 
-  &__link {
-    border-bottom: $link-decoration;
+  &__cover {
+    order: 4;
   }
 
   &__body {
@@ -51,14 +56,6 @@
         }
       }
     }
-
-    a {
-      border-bottom: $link-decoration;
-    }
-  }
-
-  &__cover {
-    margin: $margin-base 0;
   }
 
   &__affiliate-hint {

@@ -105,5 +105,6 @@ Bis zum nächsten Mal,
 &nbsp;
 
 ## Weitere Infos
-* [EAT-Lancet Commission](https://www.thelancet.com/commissions/EAT)
-* [Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/fulltext)
+[EAT-Lancet Commission](https://www.thelancet.com/commissions/EAT)
+
+[Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/fulltext)

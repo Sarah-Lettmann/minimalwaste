@@ -5,9 +5,6 @@
     display: inline-block;
     border-bottom: 2px solid $color-light-base;
     @include transition(border-bottom);
-    @include attention() {
-      border-bottom: $link-decoration;
-    }
 
     &::after {
       content: '\f061';

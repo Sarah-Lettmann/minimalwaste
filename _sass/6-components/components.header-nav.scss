@@ -7,6 +7,7 @@
 
   .nav__link {
     font-size: 1.75*$font-size-base;
+    box-shadow: none;
     @include breakpoint(largeAndUp) {
       display: none;
     }
@@ -154,17 +155,16 @@
       -ms-transform: skewY(1deg);
       -webkit-transform: skewY(1deg);
       transform: skewY(1deg);
+      box-shadow: none;
       @include breakpoint(largeAndUp) {
         padding: 0;
         margin: 0 0.75*$padding-base;
-        border-bottom: 2px solid $color-light-base;
-        @include transition(border-color);
       }
 
       @include attention() {
         color: $color-dark-base;
         @include breakpoint(largeAndUp) {
-          border-bottom: $link-decoration;
+          @include box-shadow-standard();
         }
       }
 
@@ -174,11 +174,7 @@
 
       &--search {
         @include breakpoint(largeAndUp) {
-          border-bottom: none;
           margin-left: 0;
-          @include attention() {
-            border-bottom: none;
-          }
         }
 
         .link__icon {
@@ -186,11 +182,6 @@
           @include breakpoint(largeAndUp) {
             padding: 0.5*$padding-base;
             margin-right: 0;
-            border: 2px solid $color-light-base;
-            @include transition(border-color);
-            @include attention() {
-              border: $link-decoration;
-            }
           }
         }
 

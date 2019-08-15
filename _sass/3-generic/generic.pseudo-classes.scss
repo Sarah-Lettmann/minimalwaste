@@ -1,32 +1,32 @@
 
 /* marking text */
 ::selection {
-  background-color: $color-accent;
+  background-color: $main-color;
 }
 
 ::-moz-selection {
-  background-color: $color-accent;
+  background-color: $main-color;
 }
 
 /* outline */
 :focus {
-  outline-color: $color-accent;
+  outline-color: $main-color;
 }
 
 /* scrollbar */
 ::-webkit-scrollbar {
-  width: 15px;
-  height: 15px;
+  width: 10px;
+  height: 20px;
 }
 
 ::-webkit-scrollbar-track {
-  background: $color-light-light-base;
+  background: $second-color-light;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: $color-accent;
+  background: $main-color;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: $color-accent-dark;
+  background: $main-color-dark;
 }
