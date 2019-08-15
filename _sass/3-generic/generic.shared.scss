@@ -1,5 +1,5 @@
 body {
-  background-color: $color-background;
+  background-color: $second-color-lighter;
   @include mainFont;
 }
 
@@ -49,7 +49,7 @@ p {
   font-size: $font-size-text;
   font-weight: 300;
   line-height: $line-height-base;
-  color: $color-text;
+  color: $second-color-dark;
   @include breakpoint(small) {
     font-size: $font-size-base;
   }

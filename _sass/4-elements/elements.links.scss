@@ -1,5 +1,5 @@
 a {
-  color: $color-text;
+  color: $second-color-dark;
   text-decoration: none;
   @include box-shadow-standard();
   @include transition(all);

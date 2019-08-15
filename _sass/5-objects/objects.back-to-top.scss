@@ -8,12 +8,10 @@
   padding: 0.5*$padding-base $padding-base 0.5*$padding-base 0.96*$padding-base;
   border-radius: 50%;
   font-size: 1.5*$font-size-base;
-  background-color: $color-light-base;
+  background-color: $second-color-lighter;
   @include box-shadow-buttons-menu();
   @include transition(all);
   @include attention() {
-    color: $color-light-base;
-    background-color: $main-color-dark;
     @include box-shadow-buttons-menu();
   }
   @include breakpoint(small) {

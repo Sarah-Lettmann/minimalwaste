@@ -1,7 +1,7 @@
 // defines a section that is quotes from another source
 blockquote {
   padding-left: 0.75*$padding-base;
-  border-left: 7px solid $color-accent;
+  border-left: 7px solid $main-color;
   margin: 0.75*$margin-base 1.25*$margin-base;
   @include latoFont;
   @include breakpoint(small) {

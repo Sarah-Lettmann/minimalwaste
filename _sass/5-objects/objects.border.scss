@@ -4,12 +4,12 @@
   width: 100%;
   height: 1rem;
   @if $topOrBottom == top {
-    border-top: 0.5rem solid $color-accent;
-    border-bottom: 0.15rem solid $color-accent-light;
+    border-top: 0.5rem solid $main-color;
+    border-bottom: 0.15rem solid $main-color-light;
   }
   @else if $topOrBottom == bottom {
-    border-top: 0.15rem solid $color-accent-light;
-    border-bottom: 0.5rem solid $color-accent;
+    border-top: 0.15rem solid $main-color-light;
+    border-bottom: 0.5rem solid $main-color;
   }
   @include skew(-1deg);
 }

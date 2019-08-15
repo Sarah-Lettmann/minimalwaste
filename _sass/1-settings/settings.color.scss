@@ -1,22 +1,4 @@
 // base colors to get consistent color scheme
-$color-light-base: #fff;
-$color-light-light-base: #ccc;
-$color-medium-light-base: #aaa;
-$color-medium-base: #666;
-$color-dark-base: #262626;
-$color-green: #aaddaa;
-$color-light-green: #bbeebb;
-$color-dark-green: #88bb88;
-
-// general colors
-$color-background: $color-light-base;
-$color-text: $color-dark-base;
-$color-subtext: $color-medium-base;
-$color-accent: $color-green;
-$color-accent-light: $color-light-green;
-$color-accent-dark: $color-dark-green;
-
-
 $main-color:            #aaddaa;
 $main-color-light:      lighten($main-color, 10%);
 $main-color-dark:       #88bb88;
@@ -24,4 +6,4 @@ $main-color-dark:       #88bb88;
 $second-color:          #666;
 $second-color-light:    lighten($second-color, 50%);
 $second-color-lighter:  lighten($second-color, 70%);
-$second-color-dark:     darken($second-color, 30%);
+$second-color-dark:     darken($second-color, 25%);

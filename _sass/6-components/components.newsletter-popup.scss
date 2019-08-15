@@ -12,8 +12,8 @@
     display: flex;
     flex-direction: column;
     padding: $padding-base;
-    border: $border;
-    background-color: $color-light-base;
+    @include box-shadow-buttons-menu();
+    background-color: $second-color-lighter;
 
     &--hidden {
       max-height: 55px;
@@ -75,12 +75,6 @@
         }
       }
 
-      ~ .newsletter-popup__link {
-        color: $color-dark-base;
-        background-color: $color-light-base;
-        border: $border;
-      }
-
       * {
         opacity: 1;
         animation: makeVisible 1s;
@@ -106,18 +100,13 @@
     height: 55px;
     padding: 0.5*$padding-base 0.75*$padding-base;
     border-radius: 50%;
-    border: $border;
-    border-color: $color-light-base;
-    background-color: $color-accent;
-    color: $color-light-base;
+    box-shadow: none;
+    color: $second-color-dark;
+    background-color: $second-color-lighter;
     font-size: 1.5*$font-size-base;
     cursor: pointer;
-    @include transition(background-color);
-    @include transition(color);
     @include attention() {
-      color: $color-dark-base;
-      background-color: $color-light-base;
-      border: $border;
+      box-shadow: none;
     }
   }
 

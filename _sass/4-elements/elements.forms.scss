@@ -1,32 +1,35 @@
 $font-size-button: 1.2*$font-size-base;
 
-button,
-input[type="submit"],
-input[type="reset"] {
+.button {
   width: auto;
   padding: 0.5*$padding-base 2*$padding-base;
-  border: $border;
   border-radius: $border-radius;
-  color: $color-text;
-  background-color: $color-light-base;
+  border: none;
   @include latoFont;
   font-size: $font-size-button;
   cursor: pointer;
-  @include transition(background-color);
+  @include transition(all);
+  @include box-shadow-buttons-menu;
+}
+
+button,
+input[type="reset"] {
+  @extend .button;
+  color: $second-color-dark;
+  background-color: $second-color-lighter;
   @include attention() {
-    background-color: $color-light-light-base;
+    color: $second-color-lighter;
+    background-color: $second-color-dark;
   }
 }
 
 input[type="submit"] {
-  border: none;
-  color: $color-light-base;
-  background-color: $color-dark-base;
-  @include transition(color);
-  @include transition(background-color);
+  @extend .button;
+  color: $second-color-lighter;
+  background-color: $second-color-dark;
   @include attention() {
-    color: $color-light-base;
-    background-color: $color-medium-base;
+    color: $second-color-dark;
+    background-color: $second-color-lighter;
   }
 }
 
@@ -38,13 +41,13 @@ input {
   font-size: $font-size-base;
   padding: 0.5*$padding-base;
   margin-bottom: $margin-base;
-  color: $color-text;
+  color: $second-color-dark;
   @include latoFont;
 }
 
 input {
   &::placeholder {
-    color: $color-light-light-base;
+    color: $second-color;
   }
 }
 

@@ -4,7 +4,7 @@
   padding: 0.5*$padding-base $padding-base;
   border: $border;
   @include attention() {
-    color: $color-text;
+    color: $second-color-dark;
   }
 
   &__icon {
@@ -16,9 +16,9 @@
     padding: 0.75*$padding-base;
     margin-left: 0.5*$margin-base;
     border-radius: 50%;
-    border: 2px solid $color-accent;
-    color: $color-accent;
-    background-color: $color-background;
+    border: 2px solid $main-color;
+    color: $main-color;
+    background-color: $second-color-lighter;
 
     &::before {
       position: absolute;

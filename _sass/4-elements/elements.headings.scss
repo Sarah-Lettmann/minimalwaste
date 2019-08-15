@@ -16,12 +16,12 @@ h6 {
   font-weight: 400;
   line-height: $line-height-headings;
   margin: $margin-headings;
-  color: $color-text;
+  color: $second-color-dark;
 
   a {
     color: inherit;
     @include attention() {
-      color: $color-text;
+      color: $second-color-dark;
     }
   }
 }

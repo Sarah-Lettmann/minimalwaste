@@ -59,7 +59,7 @@
       padding: 0.5*$padding-base $padding-base;
       border: $border;
       border-radius: $border-radius;
-      background-color: $color-background;
+      background-color: $second-color-lighter;
       @include attention() {
         display: flex;
       }
@@ -70,7 +70,7 @@
         height: 20px;
         border-top: $border;
         border-left: $border;
-        background-color: $color-background;
+        background-color: $second-color-lighter;
         -ms-transform: rotate(45deg);
         -webkit-transform: rotate(45deg);
         transform: rotate(45deg);
@@ -81,13 +81,13 @@
 
     .menu__item {
       padding: 0.25*$padding-base 0;
-      background-color: rgba($color-accent, 0.1);
+      background-color: rgba($main-color, 0.1);
       @include breakpoint(largeAndUp) {
         background-color: transparent;
       }
 
       &:first-of-type {
-        border-top: 0.1rem solid $color-accent-light;
+        border-top: 0.1rem solid $main-color-light;
         @include breakpoint(largeAndUp) {
           border-top: none;
         }
@@ -110,7 +110,7 @@
 
   .menu__item {
     color: inherit;
-    border-bottom: 0.1rem solid $color-accent-light;
+    border-bottom: 0.1rem solid $main-color-light;
     -ms-transform: skewY(-1deg);
     -webkit-transform: skewY(-1deg);
     transform: skewY(-1deg);
@@ -162,7 +162,7 @@
       }
 
       @include attention() {
-        color: $color-dark-base;
+        color: $second-color-dark;
         @include breakpoint(largeAndUp) {
           @include box-shadow-standard();
         }

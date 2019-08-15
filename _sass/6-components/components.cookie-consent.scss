@@ -8,8 +8,8 @@
   z-index: 10;
   margin: $margin-base;
   padding: 0.75*$padding-base;
-  background-color: $color-light-base;
-  border: 1px solid $color-medium-light-base;
+  background-color: $second-color-lighter;
+  @include box-shadow-buttons-menu;
 
   &--hidden {
     display: none;

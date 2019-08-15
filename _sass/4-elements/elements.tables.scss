@@ -1,12 +1,10 @@
-$border-table: 1px solid $color-medium-light-base;
-
 table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 0;
 
   tr {
-    border-bottom: $border-table;
+    border-bottom: $border;
 
   }
 
@@ -16,14 +14,14 @@ table {
 
   th {
     text-align: left;
-    background-color: $color-background;
+    background-color: $second-color-lighter;
     font-weight: normal;
   }
 
   td,
   th {
     padding: 0.4*$padding-base;
-    border-right: $border-table;
+    border-right: $border;
 
     &:last-child {
       border-right: none;

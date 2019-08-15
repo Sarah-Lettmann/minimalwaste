@@ -7,5 +7,5 @@
 }
 
 @mixin box-shadow-buttons-menu() {
-  @include box-shadow(0, 5px, 10px, 0, $color-medium-base, false);
+  @include box-shadow(0, 5px, 10px, -2px, $second-color, false);
 }

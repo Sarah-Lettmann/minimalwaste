@@ -3,7 +3,7 @@ $height-mobile-header: 80px;
 
 .header {
   //border-bottom: $border;
-  background-color: $color-background;
+  background-color: $second-color-lighter;
   @include transition(margin-bottom);
 
   > .container {

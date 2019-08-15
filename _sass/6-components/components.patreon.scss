@@ -3,7 +3,7 @@ $height-patreon-image: 52px;
 $patreon-color: #e85b46;
 
 .patreon {
-  color: $color-light-base;
+  color: $second-color-lighter;
 
   * {
     color: inherit;
@@ -16,7 +16,7 @@ $patreon-color: #e85b46;
     box-shadow: none;
     @include transition(transform);
     @include attention() {
-      color: $color-light-base;
+      color: $second-color-lighter;
       transform: scale(1.05);
     }
     @include breakpoint(small) {

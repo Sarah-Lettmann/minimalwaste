@@ -1,12 +1,14 @@
 .mailchimp-form {
+  display: flex;
+  flex-direction: column;
 
   &__required {
     font-size: $font-size-base;
-    color: $color-subtext;
+    color: $second-color;
   }
 
   &__asterisk {
-    color: $color-accent;
+    color: $main-color-dark;
   }
 
   &__label {
@@ -27,5 +29,9 @@
       align-items: center;
       margin-bottom: $margin-base;
     }
+  }
+
+  &__button {
+    align-self: flex-end;
   }
 }
