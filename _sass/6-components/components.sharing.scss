@@ -14,14 +14,6 @@
   }
 
   &__icon {
-    display: inline-block;
     margin: 0 0.5*$margin-base;
-    font-size: 1.5*$font-size-base;
-    color: $second-color-dark;
-    box-shadow: none;
-    @include attention() {
-      transform: translateY(-10px);
-      box-shadow: none;
-    }
   }
 }

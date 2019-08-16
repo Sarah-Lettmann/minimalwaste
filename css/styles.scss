@@ -11,7 +11,6 @@
 @import "2-tools/tools.mixins.scss";
 @import "2-tools/tools.functions.scss";
 
-@import "3-generic/generic.box-shadow.scss";
 @import "3-generic/generic.reset.scss";
 @import "3-generic/generic.box-sizing.scss";
 @import "3-generic/generic.shared.scss";
@@ -30,10 +29,9 @@
 @import "4-elements/elements.text.scss";
 @import "4-elements/elements.frames.scss";
 
-@import "5-objects/objects.branding.scss";
-@import "5-objects/objects.border.scss";
 @import "5-objects/objects.button.scss";
-@import "5-objects/objects.tables.scss";
+@import "5-objects/objects.icon.scss";
+@import "5-objects/objects.branding.scss";
 @import "5-objects/objects.menu-item.scss";
 @import "5-objects/objects.fontawesome.scss";
 @import "5-objects/objects.copyright.scss";

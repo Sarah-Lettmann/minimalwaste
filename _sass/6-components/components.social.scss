@@ -7,14 +7,6 @@
   margin-bottom: 0.5*$margin-base;
 
   &__icon {
-    display: inline-block;
-    font-size: 1.5*$font-size-base;
     margin: 0 $margin-base;
-    line-height: 1.5*$line-height-base;
-    box-shadow: none;
-    @include attention() {
-      transform: translateY(-10px);
-      box-shadow: none;
-    }
   }
 }
