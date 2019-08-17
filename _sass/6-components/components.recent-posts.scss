@@ -1,0 +1,12 @@
+.recent-posts {
+  margin-top: 2*$margin-base;
+
+  &__title {
+    display: none;
+  }
+
+  &__posts {
+    @extend .category__posts;
+    text-align: left;
+  }
+}

@@ -1,3 +1,5 @@
+$newsletter-margin: 0.5*$margin-base;
+
 .mailchimp-form {
   display: flex;
   flex-direction: column;
@@ -16,22 +18,31 @@
   }
 
   &__headline {
-    font-size: 2rem;
-    margin-top: 0.5rem;
+    font-size: 1.5*$font-size-base;
   }
 
   &__group {
+    margin-bottom: $newsletter-margin;
 
     &--checkbox {
       display: flex;
       flex-direction: row-reverse;
       justify-content: flex-end;
       align-items: center;
-      margin-bottom: $margin-base;
+      margin-bottom: $newsletter-margin;
     }
+  }
+
+  &__input {
+    margin-bottom: $newsletter-margin;
   }
 
   &__button {
     align-self: flex-end;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+    margin-bottom: $newsletter-margin;
   }
 }

@@ -13,6 +13,10 @@
     @include breakpoint(mediumAndLarge) {
       margin-right: 4*$margin-base;
     }
+
+    > a {
+      box-shadow: none;
+    }
   }
 
   &__subtitle {

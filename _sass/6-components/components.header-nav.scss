@@ -57,8 +57,7 @@
       left: -75%;
       right: -75%;
       padding: 0.5*$padding-base $padding-base;
-      border: $border;
-      border-radius: $border-radius;
+      @include box-shadow-buttons-menu;
       background-color: $second-color-lighter;
       @include attention() {
         display: flex;
@@ -68,14 +67,13 @@
         content: '';
         width: 20px;
         height: 20px;
-        border-top: $border;
-        border-left: $border;
+        @include box-shadow(-2px, -2px, 8px, -6px, $second-color, false);
         background-color: $second-color-lighter;
         -ms-transform: rotate(45deg);
         -webkit-transform: rotate(45deg);
         transform: rotate(45deg);
         position: absolute;
-        top: -11px;
+        top: -10px;
       }
     }
 

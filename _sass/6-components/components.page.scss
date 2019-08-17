@@ -2,6 +2,10 @@
 
   &--narrow {
     max-width: $max-width-content;
-    margin: 0 auto 4*$margin-base auto;
+    margin: 0 auto;
+  }
+
+  &--wide {
+    width: auto;
   }
 }
