@@ -1,5 +1,5 @@
 .cookie-notice {
-  max-width: 175px;
+  width: 175px;
   flex-direction: column;
   align-items: center;
   position: fixed;
@@ -20,6 +20,7 @@
   }
 
   &__content {
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -27,5 +28,10 @@
     font-size: $font-size-base;
     @include latoFont;
     text-align: center;
+
+    > span {
+      display: inline-block;
+      width: 100%;
+    }
   }
 }

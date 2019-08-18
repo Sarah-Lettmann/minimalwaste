@@ -1,5 +1,6 @@
 // set aria for desktop menu and accessability
 $(document).ready(function() {
+  // only do this for desktop menu, when hover is possible
   if ($(window).width() >= 1200) {
     $(".menu__item--has-submenu").hover(submenuVisible, submenuHidden);
   }
@@ -8,11 +9,15 @@ $(document).ready(function() {
 function submenuVisible() {
   $(this).children(".menu__link").attr("aria-expanded","true");
   $(this).children(".menu__link").prop("aria-expanded","true");
+  $(this).children(".menu__submenu").removeClass("menu--hidden");
+  $(this).children(".menu__submenu").addClass("menu--visible");
 }
 
 function submenuHidden() {
   $(this).children(".menu__link").attr("aria-expanded","false");
   $(this).children(".menu__link").prop("aria-expanded","false");
+  $(this).children(".menu__submenu").removeClass("menu--visible");
+  $(this).children(".menu__submenu").addClass("menu--hidden");
 }
 
 

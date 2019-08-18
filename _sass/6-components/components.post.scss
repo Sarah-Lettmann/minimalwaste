@@ -44,6 +44,8 @@
 
   &__cover {
     order: 4;
+    display: block;
+    max-height: 664px; //ie bug with picture and flexbox
   }
 
   &__body {

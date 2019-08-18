@@ -1,0 +1,5 @@
+<section class="related-posts">
+  {% for post in site.categories[post.categories.0] %}
+  <p>{{ post.title }}</p>
+  {% endfor %}
+</section>
