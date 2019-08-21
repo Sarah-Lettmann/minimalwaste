@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0040"
 title: "Was kostet Zero Waste im Badezimmer?"
 subtitle: "Zero Waste muss nicht teuer sein und ist günstiger als du denkst"
 date: 2018-10-17

@@ -1,7 +1,8 @@
 ---
 layout: post
+uid: "0036"
 title: "Kids Save Ocean: Diese Kinder wollen den Ozean retten"
-subtitle: ""
+subtitle: "Ein Schulprojekt gegen die Verschmutzung der Meere"
 date: 2018-05-13
 categories: [Zero Waste]
 description: "Kids Save Ocean ist ein Schulprojekt, das auf die Verschmutzung der Meere aufmerksam machen soll. Diese Geschichte wollte ich gerne vorstellen."

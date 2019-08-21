@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0067"
 title: "Planetary Health Diet: Die richtige Ernährung fürs Klima"
 subtitle: "Wie die richtige Ernährung für uns und unseren Planeten aussieht"
 date: 2019-08-07

@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0015"
 title: "Furoshiki Tücher als Zero Waste Geschenkpapier"
 subtitle: "So verpackst du deine Geschenke ganz ohne Müll"
 date: 2016-12-06

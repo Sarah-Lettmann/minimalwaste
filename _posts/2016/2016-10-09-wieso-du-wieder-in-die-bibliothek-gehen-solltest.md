@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0006"
 title: "Wieso du wieder in die Bibliothek gehen solltest"
 subtitle: "Das Angebot wird dich sehr wahrscheinlich überraschen"
 date: 2016-10-09

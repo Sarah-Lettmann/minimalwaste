@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0060"
 title: "Selbstgemachte Badepralinen ganz ohne Verpackung"
 subtitle: "Mit nur vier Zutaten zu einem müllfreien Badeerlebnis"
 date: 2019-05-10

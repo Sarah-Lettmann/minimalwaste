@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0004"
 title: "Der Zero Waste Superstar: Das Weckglas"
 subtitle: "Vielseitige Anwendungsmöglichkeiten im Haushalt"
 date: 2016-09-15

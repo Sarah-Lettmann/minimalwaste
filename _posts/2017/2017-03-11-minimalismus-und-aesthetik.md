@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0021"
 title: "Von Minimalismus und Ästhetik"
 subtitle: "Wie Klarheit und Einfachheit Ruhe und Eleganz den Weg ebnen"
 date: 2017-03-11

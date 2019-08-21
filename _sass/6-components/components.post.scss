@@ -10,7 +10,7 @@
   &__title {
     order: 2;
     margin-right: $margin-base;
-    @include breakpoint(mediumAndLarge) {
+    @include breakpoint(smallAndUp) {
       margin-right: 4*$margin-base;
     }
 
@@ -45,7 +45,7 @@
   &__cover {
     order: 4;
     display: block;
-    max-height: 664px; //ie bug with picture and flexbox
+    max-height: 773px; //ie bug with picture and flexbox
   }
 
   &__body {

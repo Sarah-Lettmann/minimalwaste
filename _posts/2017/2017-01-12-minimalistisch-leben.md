@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0017"
 title: "Minimalistisch leben: Warum du anfangen solltest!"
 subtitle: "Wie dieser Lebensstil dich verändert"
 date: 2017-01-12

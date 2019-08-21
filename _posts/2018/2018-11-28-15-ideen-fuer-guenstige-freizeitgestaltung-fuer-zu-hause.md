@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0045"
 title: "15 Ideen für günstige Freizeit&shy;gestaltung für zu Hause"
 subtitle: "So sparst du Geld und erlebst mehr"
 date: 2018-11-28

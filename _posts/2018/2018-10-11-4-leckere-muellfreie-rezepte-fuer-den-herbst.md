@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0039"
 title: "4 leckere müllfreie Rezepte für den Herbst"
 subtitle: "Hinweis: Kürbis spielt dabei eine sehr wichtige Rolle"
 date: 2018-10-11

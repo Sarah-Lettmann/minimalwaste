@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0062"
 title: "Zero Waste Lifestyle: Die 9 besten Tipps für Anfänger"
 subtitle: "Kleine Veränderungen, die einen großen Effekt haben"
 date: 2019-05-27

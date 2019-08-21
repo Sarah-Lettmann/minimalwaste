@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0002"
 title: "Zero Waste Rezepte"
 subtitle: "Nachhaltige und müllreduzierte Reiniger zum einfachen Selbermachen"
 date: 2016-09-02

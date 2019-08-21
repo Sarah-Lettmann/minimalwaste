@@ -40,6 +40,8 @@
 @import "5-objects/objects.download.scss";
 @import "5-objects/objects.diagram.scss";
 @import "5-objects/objects.ad.scss";
+@import "5-objects/objects.grid.scss";
+@import "5-objects/objects.quote.scss";
 
 @import "6-components/components.header.scss";
 @import "6-components/components.header-nav.scss";
@@ -57,6 +59,7 @@
 @import "6-components/components.home.scss";
 @import "6-components/components.home-first-post.scss";
 @import "6-components/components.home-category-posts.scss";
+@import "6-components/components.home-newest-posts.scss";
 @import "6-components/components.lead-magnet.scss";
 @import "6-components/components.gallery.scss";
 @import "6-components/components.thank-you-pages.scss";

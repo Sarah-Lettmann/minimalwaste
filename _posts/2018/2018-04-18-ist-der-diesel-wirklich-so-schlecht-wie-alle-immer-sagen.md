@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0032"
 title: "Ist der Diesel wirklich so schlecht wie alle immer sagen?"
 subtitle: "AKA: Ist ein Diesel-Fahrverbot wirklich die Lösung?"
 date: 2018-04-18

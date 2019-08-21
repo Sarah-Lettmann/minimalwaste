@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0005"
 title: "Minimalismus - Es beginnt mit Ausmisten"
 subtitle: "Wie du richtig entrümpelst und nicht die Nerven verlierst"
 date: 2016-09-29

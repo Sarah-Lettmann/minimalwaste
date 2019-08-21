@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0020"
 title: "Was wir alles unverpackt kaufen (und was nicht)"
 subtitle: "Alternativen, die ohne Unverpackt Laden auskommen und was uns Schwierigkeiten bereitet"
 date: 2017-02-21

@@ -16,6 +16,12 @@ https://www.transform-magazin.de/auf-diesem-weg-kommst-du-ohne-flugzeug-in-den-u
 Nachhaltig Campen
 https://enorm-magazin.de/nachhaltiges-camping-einfach-draussen?fbclid=IwAR0C_8IG9SpgGt5voY5JT0gcQ-P-ptpS2J4BUh7TvfCpNJkbY-xsyUOT8Z8
 
+kompensieren:
+https://www.atmosfair.de/de/
+
+Nachhaltig Reisen, Hotels, usw.
+https://www.tourcert.org/
+
 Interrail
 
 Schlafsäcke und Zelt leihen -> nachhaltiger als neu oder gebraucht kaufen

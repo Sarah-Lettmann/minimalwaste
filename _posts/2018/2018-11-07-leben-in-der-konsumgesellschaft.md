@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0043"
 title: "Leben in der Konsum&shy;gesellschaft: Warum ist das so?"
 subtitle: "Oder: Wie Werbung uns manipuliert"
 date: 2018-11-07

@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0014"
 title: "7 Tipps für weniger Lebensmittel&shy;abfälle"
 subtitle: "So schaffst du es weniger Lebensmittel wegzuwerfen"
 date: 2016-11-29

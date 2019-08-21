@@ -8,14 +8,17 @@ Breakpoints
   @else if $size == small {
     @media (max-width: $breakpoint-small) { @content; }
   }
+  @else if $size == smallAndUp {
+    @media (min-width: $breakpoint-small + 1) { @content; }
+  }
   @else if $size == medium {
     @media (min-width: $breakpoint-small + 1) and (max-width: $breakpoint-medium) { @content; }
   }
   @else if $size == mediumAndDown {
     @media (max-width: $breakpoint-medium) { @content; }
   }
-  @else if $size == mediumAndLarge {
-    @media (min-width: $breakpoint-small + 1) { @content; }
+  @else if $size == mediumAndUp {
+    @media (min-width: $breakpoint-medium + 1) { @content; }
   }
   @else if $size == largeAndUp {
     @media (min-width: $breakpoint-large + 1) { @content; }

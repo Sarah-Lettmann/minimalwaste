@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0028"
 title: "Frühjahrsputz - Ausmisten und Aufräumen für den Frühling"
 subtitle: "Wie ich ausmiste, um mich auf die warme Jahreszeit vorzubereiten"
 date: 2018-03-21

@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0011"
 title: "Onlineshops für faire und nachhaltige Mode"
 subtitle: "Wo man nachhaltige und fair hergestellte Mode bekommt"
 date: 2016-11-14

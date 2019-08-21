@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0001"
 title: "25+ Nachhaltige Produkte für weniger Müll"
 subtitle: "Für fast alles gibt es eine wiederverwendbare Alternative"
 date: 2016-09-02

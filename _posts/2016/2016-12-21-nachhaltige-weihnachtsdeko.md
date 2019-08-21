@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0016"
 title: "Nachhaltige Weihnachtsdeko"
 subtitle: "Wie du müllfrei die schönste Zeit des Jahres genießen kannst"
 date: 2016-12-21

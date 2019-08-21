@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0037"
 title: "8 alltägliche Dinge für die es Zero Waste Alternativen gibt"
 subtitle: "Ja, auch für sowas gibt es Alternativen"
 date: 2018-09-24

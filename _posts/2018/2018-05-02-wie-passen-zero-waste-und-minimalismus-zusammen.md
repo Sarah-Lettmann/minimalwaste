@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0034"
 title: "Wie passen Zero Waste und Minimalismus zusammen?"
 subtitle: "Unterschiede und Gemeinsamkeiten dieser beiden Lebensstile"
 date: 2018-05-02

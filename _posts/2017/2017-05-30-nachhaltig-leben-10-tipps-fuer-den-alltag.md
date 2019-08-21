@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0023"
 title: "Nachhaltig Leben: 10 Tipps für den Alltag"
 subtitle: "Wie du dem inneren Schweinehund ein Schnippchen schlägst"
 date: 2017-05-30

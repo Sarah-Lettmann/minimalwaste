@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0009"
 title: "Coffee-to-go Becher: Ein Pfandsystem"
 subtitle: "Die nachhaltige Alternative zum Plastikbecher"
 date: 2016-11-01

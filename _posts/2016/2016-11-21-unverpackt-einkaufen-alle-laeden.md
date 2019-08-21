@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0013"
 title: "Unverpackt einkaufen: Alle Läden"
 subtitle: "Unverpackt Läden und Shops mit verpackungsfreiem Angebot in Deutschland"
 date: 2016-11-21

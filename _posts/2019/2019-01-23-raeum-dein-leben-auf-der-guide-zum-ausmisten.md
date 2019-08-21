@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0051"
 title: "Räum dein Leben auf! Der Guide zum Ausmisten"
 subtitle: "Wie du endlich Ordnung schaffst und sie auch beibehältst"
 date: 2019-01-23

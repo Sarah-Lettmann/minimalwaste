@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0019"
 title: "Inspirierende Werke zu Zero Waste und Minimalismus"
 subtitle: "Bücher, Videos, Vorträge und Blogs"
 date: 2017-02-19

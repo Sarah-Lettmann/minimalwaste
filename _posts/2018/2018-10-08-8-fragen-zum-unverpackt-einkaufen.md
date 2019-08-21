@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0038"
 title: "8 Fragen zum Unverpackt Einkaufen"
 subtitle: "Wie und wo du unverpackt einkaufen kannst"
 date: 2018-10-08

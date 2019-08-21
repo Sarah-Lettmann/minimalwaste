@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0059"
 title: "Schritt für Schritt zu weniger Konsum"
 subtitle: "So veränderst du dein Kaufverhalten und gehst bewusster mit Besitz um"
 date: 2019-05-03

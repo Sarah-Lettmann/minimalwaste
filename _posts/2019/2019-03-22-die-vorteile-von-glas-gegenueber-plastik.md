@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0056"
 title: "Die Vorteile von Glas gegenüber Plastik"
 subtitle: "Wie Glasrecycling geht und warum es so nachhaltig ist"
 date: 2019-03-22

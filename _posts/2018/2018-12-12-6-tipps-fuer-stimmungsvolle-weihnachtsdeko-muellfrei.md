@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0047"
 title: "6 Tipps für stimmungsvolle Weihnachtsdeko (müllfrei)"
 subtitle: "So einfach geht Zero Waste in der Vorweihnachtszeit"
 date: 2018-12-12

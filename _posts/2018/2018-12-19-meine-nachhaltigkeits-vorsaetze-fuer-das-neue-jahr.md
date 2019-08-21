@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0048"
 title: "Meine Nachhaltigkeits-Vorsätze für das neue Jahr"
 subtitle: "Dinge, die ich im neuen Jahr verbessern will"
 date: 2018-12-19

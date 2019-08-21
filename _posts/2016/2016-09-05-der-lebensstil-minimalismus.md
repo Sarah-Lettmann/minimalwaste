@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0003"
 title: "Der Lebensstil Minimalismus"
 subtitle: "Das Besondere an diesem Lebensstil und wie er dich verändert"
 date: 2016-09-05

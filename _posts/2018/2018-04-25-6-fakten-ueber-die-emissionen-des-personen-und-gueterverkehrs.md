@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0033"
 title: "6 Fakten zu Emissionen des Personen- und Güterverkehrs"
 subtitle: "Daher kommen unsere Verkehrs-Emissionen"
 date: 2018-04-25

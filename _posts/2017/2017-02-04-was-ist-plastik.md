@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0018"
 title: "Was ist Plastik eigentlich genau? - Plastik unter der Lupe (1)"
 subtitle: "Das kritische Material genauer betrachtet"
 date: 2017-02-04

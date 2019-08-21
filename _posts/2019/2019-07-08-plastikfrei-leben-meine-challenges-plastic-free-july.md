@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0065"
 title: "Plastikfrei leben: Meine Challenges für Plastic Free July"
 subtitle: "So will ich meinen Müll diesen Monat noch weiter reduzieren"
 date: 2019-07-08

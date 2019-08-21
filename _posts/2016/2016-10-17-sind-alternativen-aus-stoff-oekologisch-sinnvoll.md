@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0007"
 title: "Sind Alternativen aus Stoff ökologisch sinnvoll?"
 subtitle: "So steht es um die Ökobilanz von Stofftaschentüchern"
 date: 2016-10-17

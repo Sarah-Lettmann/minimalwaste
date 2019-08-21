@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0042"
 title: "Die Tragödien hinter Fast Fashion"
 subtitle: "So viel schlechtes steck in der Billig-Kleidung"
 date: 2018-10-31

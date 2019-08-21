@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0029"
 title: "4 nachhaltige Reiniger, die alles sauber bekommen"
 subtitle: "Müllfrei, günstig und effizient"
 date: 2018-03-28

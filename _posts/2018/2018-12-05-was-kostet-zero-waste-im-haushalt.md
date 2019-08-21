@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0046"
 title: "Was kostet Zero Waste im Haushalt?"
 subtitle: "Wo du sparen kannst und was teurer ist"
 date: 2018-12-05

@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0049"
 title: "Minimalistische Finanzplanung für mehr Freiheit"
 subtitle: "Wie du durch Klarheit und Übersicht Geld sparst"
 date: 2019-01-09

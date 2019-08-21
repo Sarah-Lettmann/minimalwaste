@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0053"
 title: "Die 11 beein&shy;druckensten Tiny Houses"
 subtitle: "Diese Mini-Häuser solltest du gesehen haben"
 date: 2019-02-06

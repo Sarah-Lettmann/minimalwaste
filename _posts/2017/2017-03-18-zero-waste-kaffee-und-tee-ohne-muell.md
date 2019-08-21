@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0022"
 title: "Zero Waste Kaffee und Tee ohne Plastik"
 subtitle: "Wie du die beiden Heißgetränke ganz einfach müllfrei zubereitest"
 date: 2017-03-18

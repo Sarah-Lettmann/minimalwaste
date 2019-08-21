@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0055"
 title: "4 müllfreie DIYs für einen sauberen Haushalt"
 subtitle: "Mittel, die ohne Müll auskommen und trotzdem wirken"
 date: 2019-03-15

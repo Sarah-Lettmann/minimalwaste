@@ -10,6 +10,13 @@ image: "/assets/title-images/2019/2019-08-19-der-klimawandel.jpg"
 author: sarah-lettmann
 affiliate: false
 ---
+In letzter Zeit wird durch FridaysForFuture hochpolitisch über den Klimawandel diskutiert und was man dagegen tun kann. Deshalb dachte ich es wäre eine gute Idee diesen Klimawandel mal zusammen zu fassen und mit ein paar Fakten darzustellen, damit du eine Übersicht hast.
+
+## Der Treibhauseffekt
+Eine grundlegende Rolle beim Klimawandel spielt ein wissenschaftlich bewiesenes Prinzip: der Treibhauseffekt. Das gehört inzwischen zwar zur Allgemeinbildung, ich will hier trotzdem mal genauer drauf eingehen.
+
+Vereinfacht gesagt, passiert Folgendes: Die Strahlung der Sonne kann durch die Atmosphäre dringen und trifft auf die Erdoberfläche. Diese wird dadurch erwärmt, absorbiert also einen Teil der Strahlung, reflektiert aber auch einen Teil, allerdings als Infrarotstrahlung. Für Infrarotstrahlung ist die Atmosphäre nicht so durchlässig wie für die Strahlung, die von der Sonne kam, und sie bleibt dadurch quasi in der Atmosphäre hängen. Das kommt auch durch Treibhausgase. Je mehr Treibhausgase in der Atmosphäre, desto mehr wärmeerzeugende Strahlung bleibt auf der Erde.
+
 
 https://de.wikipedia.org/wiki/Treibhauseffekt -> Treibhauseffekt
 https://de.wikipedia.org/wiki/Joseph_Fourier -> entdeckte Treibhauseffekt

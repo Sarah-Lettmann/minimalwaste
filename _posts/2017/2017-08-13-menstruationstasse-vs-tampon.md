@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0024"
 title: "Menstrua&shy;tionstasse vs. Tampon"
 subtitle: "Was die Vorteile sind und wie man sie verwendet"
 date: 2017-08-13

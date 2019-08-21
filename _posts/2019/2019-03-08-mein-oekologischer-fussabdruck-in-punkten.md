@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0054"
 title: "Mein ökologischer Fußabdruck in Punkten"
 subtitle: "Ein guter Tag hat 100 Punkte"
 date: 2019-03-08

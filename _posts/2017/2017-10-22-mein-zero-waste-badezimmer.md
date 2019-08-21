@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0026"
 title: "Mein Zero Waste Badezimmer"
 subtitle: "Von der Bambuszahnbürste bis zur Menstruationstasse"
 date: 2017-10-22

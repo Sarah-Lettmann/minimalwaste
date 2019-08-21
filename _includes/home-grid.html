@@ -1,0 +1,90 @@
+<section class="newest-posts grid home">
+
+  <!-- 2x2 grid cell for zero waste -->
+  <div class="newest-posts__zero-waste grid__cell grid__cell--22">
+    {% assign post = site.posts | where: "uid", "0064" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 1x1 grid cell for diy -->
+  <div class="newest-posts__diy grid__cell grid__cell--11">
+    {% assign post = site.posts | where: "uid", "0060" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 1x1 grid cell for recycling -->
+  <div class="newest-posts__recycling grid__cell grid__cell--11">
+    {% assign post = site.posts | where: "uid", "0056" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 1x2 grid cell for climat -->
+  <div class="newest-posts__climat grid__cell grid__cell--12">
+    {% assign post = site.posts | where: "uid", "0063" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 2x1 grid cell for quote -->
+  <div class="newest-posts__quote grid__cell grid__cell--21">
+    <blockquote class="quote">
+      <p class="quote__text">Ich kann freilich nicht sagen, ob es besser wird, wenn es anders wird; aber es muss anders werde, wenn es gut werden soll.</p>
+      <span class="quote__from">Georg Christoph Lichtenberg</span>
+    </blockquote>
+  </div>
+
+  <!-- 2x2 grid cell for zero waste bathroom -->
+  <div class="newest-posts__zero-waste-bathroom grid__cell grid__cell--22">
+    {% assign post = site.posts | where: "uid", "0026" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 1x1 grid cell for minimalism -->
+  <div class="newest-posts__minimalism grid__cell grid__cell--11">
+    {% assign post = site.posts | where: "uid", "0051" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 1x1 grid cell for minimalism -->
+  <div class="newest-posts__minimalism grid__cell grid__cell--21">
+    {% assign post = site.posts | where: "uid", "0059" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+
+  <!-- 1x1 grid cell for sustainable fashion -->
+  <div class="newest-posts__sustainable-fashion grid__cell grid__cell--11">
+    {% assign post = site.posts | where: "uid", "0042" | first %}
+    <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <a class="post__link" href="{{ post.url }}">
+        <h2 class="post__title">{{ post.title }}</h2>
+      </a>
+    </div>
+  </div>
+</section>

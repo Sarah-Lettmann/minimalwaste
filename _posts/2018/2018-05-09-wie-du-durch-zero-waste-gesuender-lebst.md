@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0035"
 title: "Wie du durch Zero Waste gesünder lebst"
 subtitle: "Über bessere Lebensmittel und weniger Chemie"
 date: 2018-05-09

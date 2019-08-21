@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0057"
 title: "Die Bilanz von Stofftaschen&shy;tüchern im Vergleich"
 subtitle: "So ökologisch sind die Alternativen aus Stoff"
 date: 2019-04-19

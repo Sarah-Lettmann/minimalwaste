@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0010"
 title: "Meine minimalistische Handtasche"
 subtitle: "Die wenigen Dinge, die ich immer bei mir trage"
 date: 2016-11-08

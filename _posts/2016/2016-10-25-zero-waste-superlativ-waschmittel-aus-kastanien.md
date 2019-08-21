@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0008"
 title: "Zero Waste Superlativ: Waschmittel aus Kastanien"
 subtitle: "Die bessere Alternative zu Waschnüssen"
 date: 2016-10-25

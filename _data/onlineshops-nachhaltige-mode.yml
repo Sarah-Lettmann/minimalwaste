@@ -61,6 +61,13 @@
   fair: ""
   located: "UK"
 
+- name: "cuz"
+  url: https://cus.cat/
+  products: "Damenmode"
+  vegan: "nein"
+  fair: "ja"
+  located: "Spanien"
+
 - name: "erlich textil"
   url: https://erlich-textil.de/
   products: "Unterwäsche und Basics"
@@ -242,6 +249,13 @@
   vegan: "ja"
   fair: ""
   located: "USA"
+
+- name: "Otherwise - vegan knit"
+  url: http://otherwise-veganknit.de/
+  products: "Gestricktes"
+  vegan: "ja"
+  fair: "ja"
+  located: "Deutschland"
 
 - name: "organic basics"
   url: https://organicbasics.com/

@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0050"
 title: "Wie nachhaltig ist Bio-Baumwolle?"
 subtitle: "Einfluss auf Mensch und Umwelt im Vergleich zu herkömmlicher Baumwolle"
 date: 2019-01-16

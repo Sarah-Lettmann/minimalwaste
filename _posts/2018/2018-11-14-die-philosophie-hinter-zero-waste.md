@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0044"
 title: "Die Philosophie hinter Zero Waste"
 subtitle: "Das sind die Prinzipien hinter dem nachhaltigen Lebensstil"
 date: 2018-11-14

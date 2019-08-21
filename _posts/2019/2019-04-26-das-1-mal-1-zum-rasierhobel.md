@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0058"
 title: "Das 1x1 zum Rasierhobel"
 subtitle: "Worauf du achten solltest und wie du ihn verwendest"
 date: 2019-04-26

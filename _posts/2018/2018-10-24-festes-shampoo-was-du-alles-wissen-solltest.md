@@ -1,5 +1,6 @@
 ---
 layout: post
+uid: "0041"
 title: "Festes Shampoo: Was du alles wissen solltest!"
 subtitle: "Alles was du wissen musst, um umzusteigen."
 date: 2018-10-24
