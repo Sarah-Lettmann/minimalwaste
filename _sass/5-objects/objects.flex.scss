@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -0.25*$margin-base;
+  margin-right: -0.25*$margin-base;
+
+  &__item {
+    margin-left: 0.25*$margin-base;
+    margin-right: 0.25*$margin-base;
+  }
+}

@@ -22,7 +22,6 @@
 @import "4-elements/elements.forms.scss";
 @import "4-elements/elements.links.scss";
 @import "4-elements/elements.lists.scss";
-@import "4-elements/elements.page.scss";
 @import "4-elements/elements.quotes.scss";
 @import "4-elements/elements.tables.scss";
 @import "4-elements/elements.images.scss";
@@ -37,10 +36,10 @@
 @import "5-objects/objects.copyright.scss";
 @import "5-objects/objects.back-to-top.scss";
 @import "5-objects/objects.skip-to-content.scss";
-@import "5-objects/objects.download.scss";
 @import "5-objects/objects.diagram.scss";
 @import "5-objects/objects.ad.scss";
 @import "5-objects/objects.grid.scss";
+@import "5-objects/objects.flex.scss";
 @import "5-objects/objects.quote.scss";
 
 @import "6-components/components.header.scss";
@@ -66,10 +65,12 @@
 @import "6-components/components.test.scss";
 @import "6-components/components.question.scss";
 
+@import "6-components/components.related-posts.scss";
 @import "6-components/components.author.scss";
 @import "6-components/components.commentform.scss";
 @import "6-components/components.social.scss";
 @import "6-components/components.sharing.scss";
+@import "6-components/components.download.scss";
 @import "6-components/components.newsletter.scss";
 @import "6-components/components.patreon.scss";
 @import "6-components/components.cookie-consent.scss";

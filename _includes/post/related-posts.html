@@ -1,5 +1,16 @@
+{% comment %}
+  Einbinden mit {% include related-posts.html %}
+{% endcomment %}
 <section class="related-posts">
-  {% for post in site.categories[post.categories.0] %}
-  <p>{{ post.title }}</p>
-  {% endfor %}
+  <h3 class="related-posts__title">Das könnte Dir auch noch gefallen</h3>
+  <div class="related-posts__posts flex">
+    {% for uid in page.related-posts %}
+      {% assign post = site.posts | where: "uid", uid | first %}
+      <div class="post flex__item" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+        <a class="post__link" href="{{ post.url }}">
+          <h4 class="post__title">{{ post.title }}</h4>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </section>

@@ -9,6 +9,7 @@ description: "Fast Fashion ist eine ständige Flut and immer neue Trends, schlec
 keywords: [Fast Fashion]
 image: "/assets/title-images/2018/2018-10-31-die-tragoedien-hinter-fast-fashion.jpg"
 author: sarah-lettmann
+related-posts: ["0052", "0053", "0056"]
 affiliate: false
 ---
 Da heutzutage immer mehr Diskussionen über Nachhaltigkeit, Bio, Fairtrade und Ähnlichem in unseren Alltag Einzug halten, wundert es nicht, dass wir inzwischen auch darüber nachdenken, wieso zur Hölle es möglich ist, das ein T-Shirt 5€ kostet. Fast Fashion ist das Stichwort - billig produzieren, billig kaufen, kaum tragen, wegschmeißen, neu kaufen. Für die Produzenten ist das ein großer Gewinn. Für die Arbeiter, die Umwelt und letztlich auch uns, die Käufer, ist das ein riesiger Verlust.
@@ -37,6 +38,8 @@ Die Unternehmen können sich dieser **Verantwortung** nur **entziehen**, da ihne
 Und glaub nicht, dass die Arbeiter_innen das alles ruhig über sich ergehen lassen würden. Es gab schon Aufstände für eine faire Entlohnung. Diese wurden **blutig niedergeschlagen**. Arbeiter_innen, die sich kritisch geäußert haben, werden systematisch attackiert und es sind auch Fälle bekannt, in denen Arbeiter_innen **zu Tode geprügelt** wurden, nur weil sie bessere Arbeitsbedingungen gefordert haben.
 
 Was ist also konkret so schlimm daran, dass unsere Kleidung in diesen Ländern produziert wird?
+
+{% include post/related-posts.html %}
 
 ## Die Gründe
 
