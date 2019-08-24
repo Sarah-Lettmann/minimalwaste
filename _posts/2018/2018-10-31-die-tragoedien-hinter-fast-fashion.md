@@ -9,7 +9,7 @@ description: "Fast Fashion ist eine ständige Flut and immer neue Trends, schlec
 keywords: [Fast Fashion]
 image: "/assets/title-images/2018/2018-10-31-die-tragoedien-hinter-fast-fashion.jpg"
 author: sarah-lettmann
-related-posts: ["0052", "0053", "0056"]
+related-posts: ["0050", "0011", "0017"]
 affiliate: false
 ---
 Da heutzutage immer mehr Diskussionen über Nachhaltigkeit, Bio, Fairtrade und Ähnlichem in unseren Alltag Einzug halten, wundert es nicht, dass wir inzwischen auch darüber nachdenken, wieso zur Hölle es möglich ist, das ein T-Shirt 5€ kostet. Fast Fashion ist das Stichwort - billig produzieren, billig kaufen, kaum tragen, wegschmeißen, neu kaufen. Für die Produzenten ist das ein großer Gewinn. Für die Arbeiter, die Umwelt und letztlich auch uns, die Käufer, ist das ein riesiger Verlust.
@@ -96,11 +96,9 @@ Ich habe inzwischen schon recht viele Stücke Second Hand gekauft. In der Regel 
 
 &nbsp;
 
-Ich hoffe dieser Beitrag sorgt dafür, dass du dich in Zukunft etwas bewusster mit deinem Kaufverhalten und deiner Kleidung auseinander setzt. Denn es sind eben nicht nur die niedrigen Arbeitslöhne, die von einem Einkauf von H&M abhängen, sondern Menschenleben. Wenn du dich noch weiter zum Thema informieren willst, dann empfehle ich dir diese Beiträge:
+Ich hoffe dieser Beitrag sorgt dafür, dass du dich in Zukunft etwas bewusster mit deinem Kaufverhalten und deiner Kleidung auseinander setzt. Denn es sind eben nicht nur die niedrigen Arbeitslöhne, die von einem Einkauf von H&M abhängen, sondern Menschenleben.
 
-[Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle/)
-
-[Onlineshops für faire und nachhaltige Mode](/blog/onlineshops-fuer-faire-und-nachhaltige-mode/)
+{% include post/related-posts.html %}
 
 Bis nächst Woche.
 
@@ -108,10 +106,10 @@ Bis nächst Woche.
 
 &nbsp;
 
-#### Zum Weiterlesen  
-1. [Greenpeace: Textilindustrie vergiftet Gewässer](https://www.greenpeace.de/themen/endlager-umwelt/textilindustrie-vergiftet-gewasser)  
-2. [Greenpeace: A Little Story About a Monstrous Mess II](http://www.greenpeace.org/eastasia/publications/reports/toxics/2014/little-story-mess-2/)  
-3. [Oxfam: Made in Myanmar](https://www.oxfam.org/en/research/made-myanmar)  
-4. [Utopia: Fast Fashion: diese 3 Fragen gewöhnen uns Wegwerfmode ab](https://utopia.de/ratgeber/fast-fashion-wegwerfmode/)  
-5. [Puls: So geht ihr nachhaltig shoppen](https://www.br.de/puls/themen/leben/faire-mode-100.html)  
+### Zum Weiterlesen  
+1. [Greenpeace: Textilindustrie vergiftet Gewässer](https://www.greenpeace.de/themen/endlager-umwelt/textilindustrie-vergiftet-gewasser)
+2. [Greenpeace: A Little Story About a Monstrous Mess II](http://www.greenpeace.org/eastasia/publications/reports/toxics/2014/little-story-mess-2/)
+3. [Oxfam: Made in Myanmar](https://www.oxfam.org/en/research/made-myanmar)
+4. [Utopia: Fast Fashion: diese 3 Fragen gewöhnen uns Wegwerfmode ab](https://utopia.de/ratgeber/fast-fashion-wegwerfmode/)
+5. [Puls: So geht ihr nachhaltig shoppen](https://www.br.de/puls/themen/leben/faire-mode-100.html)
 6. [Puls: "Menschen sterben für unsere Klamotten"](https://www.br.de/puls/themen/leben/fast-fashion-in-zahlen-102.html)

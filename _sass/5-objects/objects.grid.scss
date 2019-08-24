@@ -1,4 +1,5 @@
 .grid {
+  display: -ms-grid;
   display: grid;
 
   &__cell {
@@ -14,14 +15,20 @@
     &--11 {
       grid-column: span 1;
       grid-row: span 1;
+      -ms-grid-column-span: 1;
+      -ms-grid-row-span: 1;
     }
 
     &--12 {
       grid-column: span 1;
       grid-row: span 1;
+      -ms-grid-column-span: 1;
+      -ms-grid-row-span: 1;
       @include breakpoint(smallAndUp) {
         grid-column: span 1;
         grid-row: span 2;
+        -ms-grid-column-span: 1;
+        -ms-grid-row-span: 2;
       }
 
       &::before {
@@ -34,9 +41,13 @@
     &--21 {
       grid-column: span 1;
       grid-row: span 1;
+      -ms-grid-column-span: 1;
+      -ms-grid-row-span: 1;
       @include breakpoint(smallAndUp) {
         grid-column: span 2;
         grid-row: span 1;
+        -ms-grid-column-span: 2;
+        -ms-grid-row-span: 1;
       }
 
       &::before {
@@ -49,9 +60,13 @@
     &--22 {
       grid-column: span 1;
       grid-row: span 1;
+      -ms-grid-column-span: 1;
+      -ms-grid-row-span: 1;
       @include breakpoint(smallAndUp) {
         grid-column: span 2;
         grid-row: span 2;
+        -ms-grid-column-span: 2;
+        -ms-grid-row-span: 2;
       }
     }
   }

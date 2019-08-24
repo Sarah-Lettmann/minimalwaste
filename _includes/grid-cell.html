@@ -1,0 +1,11 @@
+{% comment %}
+  Einbinden mit {% include grid-cell.html id="" size="" post-uid="" %}
+{% endcomment %}
+<div class="newest-posts__cell newest-posts__cell--{{ include.id }} grid__cell grid__cell--{{ include.size }}" aria-labelledby="post__title">
+  {% assign post = site.posts | where: "uid", include.post-uid | first %}
+  <div class="post" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+    <a class="post__link" href="{{ post.url }}" title="{{ post.title }}">
+      <h2 id="post__title" class="post__title">{{ post.title }}</h2>
+    </a>
+  </div>
+</div>

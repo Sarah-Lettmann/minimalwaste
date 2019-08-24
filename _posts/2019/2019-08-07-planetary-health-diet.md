@@ -9,6 +9,7 @@ description: "Unsere Ernährung wirkt sich auf uns und den Planeten aus. Die Pla
 keywords: [Planetary Health, Planetary Health Diet]
 image: "/assets/title-images/2019/2019-08-07-planetary-health-diet.jpg"
 author: sarah-lettmann
+related-posts: ["0063", "0054", "0032"]
 affiliate: false
 ---
 Wenn es um das Klima geht, dann können wir viele Dinge tun, um unseren CO2 Fußabdruck möglichst klein zu halten. Eine Stellschraube ist die Ernährung, vor allem weniger Fleisch lautet die Devise. Aber wie viel weniger muss es wirklich sein und ist vegan die ideale Lösung? Die Antworten darauf liefert und die Planetary Health Diet.
@@ -44,6 +45,8 @@ Ebenso ist der Erhalt der **Biodiversität** fundamental für die **Balance unse
 Und auch die **Veränderung der Landschaft**, primär für landwirtschaftliche Zwecke, muss im Auge behalten werden. Wie bereits beschrieben sorgt sie nicht nur für mehr Emissionen, sondern trägt auch erheblich zum **Verlust der Biodiversität** bei, da Tieren der Lebensraum genommen wird.
 
 Wir haben also ganz schön viel zu tun, auch unabhängig von der reinen Ernährung. <mark>Die Art wie wir Nahrung anbauen und Lebensmittel produzieren muss sich in den nächsten Jahrzehnten radikal ändern, damit wir unser Überleben sichern können.</mark>
+
+{% include post/related-posts.html %}
 
 ## Welche Auswirkungen hat unsere Ernährung auf uns?
 Und damit nicht genug hat nicht nur unsere schlechte Ernährung viele Nachteile für uns, sondern auch die Veränderungen, die wir durch nicht nachhaltiges Wirtschaften an der Natur hervorrufen - die eben aufgezählten Faktoren. <mark>Eine ungesunde Ernährung stellt eine größeres Risiko für Erkrankungen und Serblichkeit dar, als Alkohol, Drogen und Tabakkonsum zusammen.</mark> Für den Menschen bedeutet das:
@@ -91,13 +94,7 @@ Ich finde bei dieser Ausarbeitung handelt es sich um ein sehr gut erarbeitet Pap
 
 Was hältst du von den Empfehlungen und wie ernährst du dich bisher? Will du daran in Zukunft was ändern? Wie bei vielen Dingen denke ich, dass hier jeder etwas für sich und die Umwelt tun kann, aber die grundsätzlichen Veränderungen müssen aus der Politik und der Industrie kommen. Hoffen wir, dass ein Wille dazu in den nächsten Jahren präsent wird.
 
-Hier gibt es noch mehr zum Thema Klima:
-
-[Die Ursache des Klima­wandels ist der Mensch](/blog/die-ursache-des-klimawandels-ist-der-mensch/)
-
-[Mein ökologischer Fußabdruck in Punkten](/blog/mein-oekologischer-fussabdruck-in-punkten/)
-
-[Ist der Diesel wirklich so schlecht wie alle immer sagen?](/blog/ist-der-diesel-wirklich-so-schlecht-wie-alle-immer-sagen/)
+{% include post/related-posts.html %}
 
 Bis zum nächsten Mal,
 
@@ -105,7 +102,6 @@ Bis zum nächsten Mal,
 
 &nbsp;
 
-## Weitere Infos
-[EAT-Lancet Commission](https://www.thelancet.com/commissions/EAT)
-
-[Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/fulltext)
+### Weitere Infos
+1. [EAT-Lancet Commission](https://www.thelancet.com/commissions/EAT)
+2. [Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/fulltext)
