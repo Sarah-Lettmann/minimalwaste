@@ -1,5 +1,7 @@
 ---
 layout: page
+align: left
+width: wide
 title: "FAQ"
 sitemap:
   priority: 0.7

@@ -18,3 +18,6 @@ mal zu Fuß gehen oder das Rad nehmen
 nur so viel Wasser kochen, wie du brauchst
 
 Mischbaterie für Wasserhähne
+
+
+Bereiche: Wasser, Strom, Verkehr, Lebensmittel

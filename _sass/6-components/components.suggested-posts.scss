@@ -1,20 +1,28 @@
-.newest-posts {
-  -ms-grid-columns: 1fr;
-  grid-template-columns: repeat(1, 1fr);
-  grid-gap: $padding-base;
-  grid-auto-flow: dense;
-  @include breakpoint(smallAndUp) {
-    -ms-grid-columns: 1fr 1fr;
-    grid-template-columns: repeat(2, 1fr);
+.suggested-posts {
+
+  &__title > span {
+    @include box-shadow-standard;
   }
-  @include breakpoint(mediumAndUp) {
-    -ms-grid-columns: 1fr 1fr 1fr;
-    grid-template-columns: repeat(3, 1fr);
-  }
-  @include breakpoint(largeAndUp) {
-    -ms-grid-columns: 1fr 1fr 1fr 1fr;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 1.5*$padding-base;
+
+  &__posts {
+    padding: 1.5*$padding-base 0;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: $padding-base;
+    grid-auto-flow: dense;
+    @include breakpoint(smallAndUp) {
+      -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include breakpoint(mediumAndUp) {
+      -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: repeat(3, 1fr);
+    }
+    @include breakpoint(largeAndUp) {
+      -ms-grid-columns: 1fr 1fr 1fr 1fr;
+      grid-template-columns: repeat(4, 1fr);
+      grid-gap: 1.5*$padding-base;
+    }
   }
 
   .post {

@@ -2,14 +2,12 @@
 layout: wrapper
 ---
 
-{% if page.width == 'narrow' %}
-  <article class="page page--narrow" aria-label="{{ page.title }}">
-    <h1 class="page__title">{{ page.title }}</h1>
-    {{ content }}
-  </article>
-{% else %}
-  <article class="page" aria-label="{{ page.title }}">
-    <h1 class="page__title">{{ page.title }}</h1>
-    {{ content }}
-  </article>
-{% endif %}
+{% comment %}
+  align: left, center, right
+  width: narrow, wide
+{% endcomment %}
+
+<article class="page page--{{ page.align }} page--{{ page.width }} container container--main" aria-label="{{ page.title }}">
+  <h1 class="page__title">{{ page.title }}</h1>
+  {{ content }}
+</article>

@@ -1,5 +1,7 @@
 ---
 layout: page
+align: left
+width: wide
 title: "Impressum"
 sitemap:
   priority: 0.5

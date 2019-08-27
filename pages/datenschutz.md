@@ -1,5 +1,7 @@
 ---
 layout: page
+align: left
+width: wide
 title: "Datenschutz&shy;erklärung"
 sitemap:
   priority: 0.5

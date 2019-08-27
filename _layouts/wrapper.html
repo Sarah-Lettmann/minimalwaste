@@ -24,34 +24,9 @@
   <body class="site preload">
     {% include wrapper/gtm-body.html %}
     {% include wrapper/header.html %}
-    {% if page.type == 'center' %}
-      <main id="main" class="main main--center">
-        <div class="container">
-          {{ content }}
-        </div>
-      </main>
-    {% elsif page.type == 'test' %}
-      <main id="main" class="main main--test">
-        {{ content }}
-      </main>
-    {% elsif page.title == 'home' %}
-      <main id="main" class="main main--home">
-        {{ content }}
-      </main>
-    {% elsif page.layout == 'post' %}
-      <main id="main" class="main">
-        <div class="container">
-          {{ content }}
-        </div>
-        {% include home-image-gallery.html %}
-      </main>
-    {% else %}
-      <main id="main" class="main">
-        <div class="container">
-          {{ content }}
-        </div>
-      </main>
-    {% endif %}
+    <main id="main" class="main main--{{ page.layout }}">
+      {{ content }}
+    </main>
     {% include wrapper/footer.html %}
     {% include wrapper/cookie-consent.html %}
     {% include wrapper/newsletter-popup.html %}
