@@ -21,7 +21,6 @@
     @include breakpoint(largeAndUp) {
       -ms-grid-columns: 1fr 1fr 1fr 1fr;
       grid-template-columns: repeat(4, 1fr);
-      grid-gap: 1.5*$padding-base;
     }
   }
 

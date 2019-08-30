@@ -33,8 +33,8 @@ function menuOpenClose() {
   var submmenu = $(".menu__item--has-submenu > .menu__submenu");
   var menuHeight = parseInt(mainMenu.height());
   header = $(".header");
-  main = $(".main");
-  marginMain = parseInt(main.css("margin-top").replace("px", ""));
+  container = $(".main > .container:first-of-type");
+  marginMain = parseInt(container.css("margin-top").replace("px", ""));
 
   if(mainMenu.hasClass("menu--hidden")) {
 
@@ -94,8 +94,8 @@ function submenuOpenClose(e) {
     var mainMenu = $(".menu--main");
     var submenuHeight = parseInt(submmenu.height());
     header = $(".header");
-    main = $(".main");
-    marginMain = parseInt(main.css("margin-top").replace("px", ""));
+    container = $(".main > .container:first-of-type");
+    marginMain = parseInt(container.css("margin-top").replace("px", ""));
     marginHeader = parseInt(header.css("margin-bottom").replace("px", ""));
 
     if(submmenu.hasClass("menu--hidden")) {
