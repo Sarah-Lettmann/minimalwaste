@@ -9,7 +9,6 @@ description: "Auch auf Lebensmittelabfälle sollte man achten, denn auch sie sin
 keywords: [Lebensmittelabfälle, Lebensmittel wegwerfen]
 image: "/assets/title-images/2016/2016-11-29-7-tipps-fuer-weniger-lebensmittelabfaelle.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Ich kenne das von mir selbst, auch wenn ich es ungern zugebe. Ich habe mir am Anfang auch keine Gedanken um Lebensmittelabfälle gemacht. Aber Lebensmittelabfälle zu vermeiden ist ebenso wichtig wie Verpackungsmüll zu vermeiden. Denn in die Produktion von Lebensmitteln gehen Unmengen an Ressourcen, Wasser, Energie, Arbeitskraft und Zeit, die dann in die Tonne wandern. Hier zeige ich dir wie du durch sieben einfache Schritte deinen Lebensmittelmüll auf ein Minimum reduzierst.
 

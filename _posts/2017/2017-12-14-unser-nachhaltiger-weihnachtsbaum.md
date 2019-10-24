@@ -9,7 +9,6 @@ description: "Alternativen für einen normalen Weihnachtsbaum gibt es viele. Uns
 keywords: [Nachhaltiger Weihnachtsbaum]
 image: "/assets/title-images/2017/2017-12-14-unser-nachhaltiger-weihnachtsbaum.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Einen stinknormalen Weihnachtsbaum im Baumarkt zu kaufen ist weder nachhaltig noch günstig. Auch letztes Jahr hatten wir uns schon für eine nachhaltige Alternative entschieden, nämlich einen Weihnachtsstrauch. Einfach und schön. Doch dieses Jahr wollte ich ein kleines Upgrade.
 

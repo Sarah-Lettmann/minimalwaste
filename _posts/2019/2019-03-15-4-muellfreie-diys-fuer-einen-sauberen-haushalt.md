@@ -10,7 +10,6 @@ description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer sch
 keywords: [müllfreie DIYs]
 image: "/assets/title-images/2019/2019-03-15-muellfreie-diys-fuer-einen-sauberen-haushalt.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 
 Langsam werden die Tage wieder länger, die Vögel fangen an zu singen und die Stimmung wird besser. Der Frühling steht vor der Tür. Somit wird es Zeit entwas aufzuräumen und sauber zu machen, um gut in die wärmeren Tage starten zu können. Dafür möchte ich dir ein paar einfache DIYs zeigen, die natürlich ohne Müll auskommen und dir helfen deine Wohnunung oder dein Haus sauber zu halten.

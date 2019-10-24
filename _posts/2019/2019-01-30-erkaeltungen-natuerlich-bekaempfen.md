@@ -9,7 +9,6 @@ description: "Erkältungen natürlich bekämpfen geht. Dazu muss man sich einfac
 keywords: [Erkältungen natürlich bekämpfen]
 image: "/assets/title-images/2019/2019-01-30-erkaeltungen-natuerlich-bekaempfen.jpg"
 author: sarah-lettmann
-affiliate: true
 ---
 Wie so viele hat es auch mich im neuen Jahr erwischt - Erkältungen können einem echt auf den Keks gehen. Trotzdem greife ich, wenn es nichts ernstes ist, zu natürlichen Mitteln, dann erst zu pflanzlichen Arzneien und erst im Ausnahmefall, wenn es unbedingt notwendig ist, zu starken Mitteln wie Antibiotika oder ähnlichem. Heute möchte ich mit dir meine Tipps und Tricks teilen, wie man den Prozess des “Gesundwerdens” natürlich unterstützen kann.
 
@@ -73,7 +72,7 @@ Das waren meine Tipps, wie du deinen Körper hilfst, die Erkältung schnell wied
 
 &nbsp;
 
-Natürlich gibt es auch noch viele andere Sachen, die man machen kann, wie eine goldenen Milch trinken (mit Kurkuma) oder solche Sperenzchen. Aber das muss man eben nicht. Ein Pfefferminztee tut es auch. Falls du doch noch Interesse an dem einen oder anderen Helferli hast, kann ich dir den [Bereich Hausmittel im Waschbär Onlineshop](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fbeauty-und-wellness%2Fwellness%2Fhausmittel)* empfehlen. Weiters zum Thema natürlich und müllfrei Leben, findest du hier:
+Natürlich gibt es auch noch viele andere Sachen, die man machen kann, wie eine goldenen Milch trinken (mit Kurkuma) oder solche Sperenzchen. Aber das muss man eben nicht. Ein Pfefferminztee tut es auch. Falls du doch noch Interesse an dem einen oder anderen Helferli hast, kann ich dir den [Bereich Hausmittel im Waschbär Onlineshop](https://www.waschbaer.de/shop/beauty-und-wellness/wellness/hausmittel) empfehlen. Weiters zum Thema natürlich und müllfrei Leben, findest du hier:
 
 [Wie du durch Zero Waste gesünder lebst](/blog/wie-du-durch-zero-waste-gesuender-lebst)
 

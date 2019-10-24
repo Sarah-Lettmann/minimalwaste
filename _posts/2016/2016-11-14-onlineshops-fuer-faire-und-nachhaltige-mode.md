@@ -9,7 +9,6 @@ description: "Faire und nachhaltige Mode gibt es immer häufiger zu kaufen. Hier
 keywords: [nachhaltige Mode, faire Mode]
 image: "/assets/title-images/2016/2016-11-14-onlineshops-fuer-faire-und-nachhaltige-mode.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Faire und nachhaltige Mode ist ein wichtiger Aspekt, wenn man nachhaltiger Leben und seinen ökologischen Fußabdruck klein halten möchte. Zudem kannst du damit für faire Arbeitsbedingungen und Lohn für die Arbeiter eintreten und unterstützt die Verwendung von recycelten oder natürlichen und biologisch abbaubaren Rohstoffen.
 

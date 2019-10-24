@@ -7,7 +7,6 @@ description: ""
 keywords: [1, 2]
 image: "/assets/title-images/"
 author: sarah-lettmann
-affiliate: false
 ---
 Baumschmuck aus Draht https://www.pinterest.de/pin/825425437928698062/
 
@@ -21,4 +20,4 @@ Papiersterne falten https://www.pinterest.de/pin/816277501188691156/
 
 Fensterbemalung https://www.pinterest.de/pin/597852919260859458/
 
-Dosenlaterne https://www.pinterest.de/pin/449515606541683998/ 
+Dosenlaterne https://www.pinterest.de/pin/449515606541683998/

@@ -9,7 +9,6 @@ description: "Plastic Free July steht vor der Tür. Ich habe mir ein paar besond
 keywords: [Plastikfrei leben, Plastik Free July]
 image: "/assets/title-images/2019/2019-07-08-plastikfrei-leben-meine-challenges-plastic-free-july.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Möglichst plastikfrei leben ist bei mir sowieso schon der Regelfall. Aber seit Anfang des Monats ist Plastic Free July und somit habe ich mir ein paar Challenges rausgesucht, mit denen ich noch weiteres Plastik und Müll vermeiden will. Außerdem gibt es auch noch ein paar spannende Produkte, die ich in letzter Zeit entdeckt habe, und die ich gerne mit dir teilen möchte. Am Ende des Monats werden ich dann nochmal ein Fazit ziehen.
 

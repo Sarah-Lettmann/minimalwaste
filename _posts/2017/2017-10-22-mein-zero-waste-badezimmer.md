@@ -9,7 +9,6 @@ description: "Zero Waste im Badezimmer lässt sich gut umsetzen. Für vieles gib
 keywords: [Zero Waste Badezimmer]
 image: "/assets/title-images/2017/2017-10-22-mein-zero-waste-badezimmer.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Zero Waste im Badezimmer einziehen zu lassen, ist nicht so schwer wie du vielleicht denken magst. Diese Zero Waste Badezimmer Utensilien sind super easy umzusetzen und reduzieren dadurch nicht nur deinen Müll, sondern sparen auch noch Geld. Also wirf einen Blick darauf, was du ganz einfach in deinen Badezimmer verändern kannst, um es Zero Waste zu machen.
 

@@ -8,7 +8,6 @@ description: ""
 keywords: [Klimawandel]
 image: "/assets/title-images/2019/2019-06-03-diy-zero-waste-mascara.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 
 

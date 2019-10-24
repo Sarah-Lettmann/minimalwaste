@@ -9,7 +9,6 @@ description: "Festes Shampoo ist eine gute Alternative, um Shampoo in der Flasch
 keywords: [Festes Shampoo]
 image: "/assets/title-images/2018/2018-10-24-festes-shampoo-was-du-alles-wissen-solltest.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Wenn man Müll im Badezimmer verhindern möchte, stellt sich oft die Frage, wie man wohl Shampoo und Co. ersetzen kann. Festes Shampoo ist meiner Meinung nach eine gute Alternative. Worum es sich dabei genau handelt, wie man es anwendet und was man beachten sollte, will ich dir heute erklären. Denn ganz so kompliziert ist das gar nicht und meine Haare haben es mir gedankt.
 

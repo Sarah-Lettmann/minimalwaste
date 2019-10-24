@@ -9,7 +9,6 @@ description: "Unsichtbare Unordnung Teil 2 - Abonnements, Konten und Tarife. Jet
 keywords: [Unsichtbare Unordnung]
 image: "/assets/title-images/2018/2018-04-11-unsichtbare-unordnung-abonnements-konten-und-tarife.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Letzte Woche haben wir uns ja schon deiner Dokumente angenommen. Diese Woche ist der fiese Kleinkram dran. Diese Dinger sind wirklich nervig, denn meistens fressen sie auch noch heimlich still und leise ein Loch in deinen Geldbeutel. Wir widmen uns also heute konkret: Bankkonten, E-Mail Adressen, Abonnements, Newslettern, Tarifen, Sim-Karten, Passwörtern sowie Vereins- und Clubmitgliedschaften.
 

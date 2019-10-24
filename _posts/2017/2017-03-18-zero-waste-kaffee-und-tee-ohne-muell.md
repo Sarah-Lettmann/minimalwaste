@@ -9,7 +9,6 @@ description: "Es gibt schier unendliche Möglichkeiten Kaffee ohne Plastik und m
 keywords: [Kaffee ohne Plastik, Zero Waste Tee, Kaffee und Tee ohne Müll]
 image: "/assets/title-images/2017/2017-03-18-zero-waste-kaffee-und-tee-ohne-muell.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Kaffee und Tee gehören einfach zu unserem Leben. Viele trinken sehr gerne Kaffee oder brauchen ihn sogar, um produktiv zu sein. Ich hingegen trinke dafür lieber Tee. Glücklicherweise gibt es schier unendliche Möglichkeiten Tee und Kaffee ohne Plastik und Zero Waste zuzubereiten.
 

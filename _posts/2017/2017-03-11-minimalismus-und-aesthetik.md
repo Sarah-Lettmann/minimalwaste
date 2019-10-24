@@ -9,7 +9,6 @@ description: "Minimalismus und Ästhetik: Das eine ist Grundlage für das andere
 keywords: [Minimalismus und Ästhetik]
 image: "/assets/title-images/2017/2017-03-11-minimalismus-und-aesthetik.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Früher hatte ich Berge an Dekokram. Hier ein Bild, da eine Vase, dann noch eine Decke, damit es auch gemütlich wirkt, und und und. Heute habe ich nicht mehr so viele Dinge. Vor allem habe ich nicht mehr so viel Schnickschnack, der irgendwo rumsteht. Kleine Akzente und klare Linien gefallen mir besser. Minimalistisches Design eben.
 

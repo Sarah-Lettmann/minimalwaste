@@ -7,7 +7,6 @@ description: ""
 keywords: [1, 2]
 image: "/assets/title-images/"
 author: sarah-lettmann
-affiliate: false
 ---
 
 Pflaumenmus kochen

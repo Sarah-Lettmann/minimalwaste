@@ -9,7 +9,6 @@ description: "Bio-Baumwolle ist nachhaltiger als herkömmliche Baumwolle, oder? 
 keywords: [Bio-Baumwolle]
 image: "/assets/title-images/2019/2019-01-16-wie-nachhaltig-ist-bio-baumwolle.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Eigentlich wollte ich ja eine Neuauflage meines Posts _[Sind Alternativen aus Stoff ökologisch sinnvoll?](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ schreiben. Aber dann ist mir aufgefallen, dass ein großer Punkt in der Bilanz der Stoff ist, aus dem die Taschentücher gefertigt sind. Zuallererst kam mir da natürlich Baumwolle in den Sinn. Also gucken wir uns heute einmal an, wie nachhaltig Bio-Baumwolle gegenüber konventioneller Baumwolle ist.
 

@@ -8,7 +8,6 @@ description: ""
 keywords: [Zero Waste Mascara, Mascara selber machen, mülllfreier Mascara]
 image: "/assets/title-images/2019/2019-07-15-diy-zero-waste-mascara.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Mascara ist ein Essential in jeder Makeup Routine, man kommt kaum ohne ihn aus. Bei mir ist er der Teil meines Makeups, den ich häufiger ersetzen muss. Also dachte ich, mach ich ihn halt selbst. Hier das Ergebnis.
 

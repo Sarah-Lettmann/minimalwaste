@@ -9,7 +9,6 @@ description: "Weihnachten ist die Zeit des schönen Lichterschmucks und der Kerz
 keywords: [nachhaltige Weihnachtsdeko]
 image: "/assets/title-images/2016/2016-12-21-nachhaltige-weihnachtsdeko.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Weihnachten ist die schönste Zeit des Jahres! Und ich finde, das trifft vor allem dann zu, wenn man sich von dem vielen Konsum los sagt. Selbst gemachte Weihnachtsgeschenke sind dabei nicht alles - auch die Dekoration kann man leicht selbst machen und sich so Geld und Stress sparen.
 

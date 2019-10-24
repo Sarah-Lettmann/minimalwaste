@@ -9,7 +9,6 @@ description: "Kids Save Ocean ist ein Schulprojekt, das auf die Verschmutzung de
 keywords: [Kids Save Ocean]
 image: "/assets/title-images/2018/2018-05-13-kids-save-ocean-diese-kinder-wollen-den-ozean-retten.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Vor ein paar Wochen bekam ich eine Anfrage von einem Projekt namens _[Kids Save Ocean](https://www.kidssaveocean.com/)_ - einem Projekt von Kindern, das auf die Verschmutzung unserer Meere aufmerksam machen will. Ob ich das Projekt nicht über meinen Blog oder Social Media unterstützen wolle. Klar, das mach ich doch gerne bei einer so tollen Idee.
 

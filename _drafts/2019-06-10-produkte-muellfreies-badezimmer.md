@@ -8,7 +8,6 @@ description: ""
 keywords: []
 image: "/assets/title-images/2019/2019-06-10-produkte-muellfreies-badezimmer.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 ## Duschen
 Seife

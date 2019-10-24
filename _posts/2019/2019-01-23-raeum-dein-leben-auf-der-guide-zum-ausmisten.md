@@ -9,7 +9,6 @@ description: "Es ist Zeit mal wieder aufzuräumen. Mit meinem Guide zum Ausmiste
 keywords: [Guide zum Ausmisten]
 image: "/assets/title-images/2019/2019-01-23-raeum-dein-leben-auf-der-guide-zum-ausmisten.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Wir sind im neuen Jahr und bei vielen steht bestimmt auch ausmisten auf dem Plan für 2019. Darum gibt es heute einen Guide wie du am besten vorgehst, damit das Ausmisten auch Spaß macht und du mit dem Ergebnis zufrieden bist. Ach ja, und damit du nicht wahnsinnig wirst oder den Verstand verlierst. Denn manchmal hat man so viele Sachen, dass man schier darin unterzugehen scheint. Aber keine Sorge, Ruhe bewahren, Schritt für Schritt vorgehen, dann wird das.
 

@@ -8,7 +8,6 @@ description: ""
 keywords: []
 image: "/assets/title-images/2019/2019-05-27-.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Nachhaltig in den Urlaub ohne zu fliegen
 https://www.transform-magazin.de/auf-diesem-weg-kommst-du-ohne-flugzeug-in-den-urlaub/?fbclid=IwAR3sxlOtFTo0F3B7jhREXuyahmRduhuqSmze5dtoGXoiEHxKu4eUDdmiId8

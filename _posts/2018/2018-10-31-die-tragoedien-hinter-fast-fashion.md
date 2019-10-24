@@ -10,7 +10,6 @@ keywords: [Fast Fashion]
 image: "/assets/title-images/2018/2018-10-31-die-tragoedien-hinter-fast-fashion.jpg"
 author: sarah-lettmann
 related-posts: ["0050", "0011", "0017"]
-affiliate: false
 ---
 Da heutzutage immer mehr Diskussionen über Nachhaltigkeit, Bio, Fairtrade und Ähnlichem in unseren Alltag Einzug halten, wundert es nicht, dass wir inzwischen auch darüber nachdenken, wieso zur Hölle es möglich ist, das ein T-Shirt 5€ kostet. Fast Fashion ist das Stichwort - billig produzieren, billig kaufen, kaum tragen, wegschmeißen, neu kaufen. Für die Produzenten ist das ein großer Gewinn. Für die Arbeiter, die Umwelt und letztlich auch uns, die Käufer, ist das ein riesiger Verlust.
 

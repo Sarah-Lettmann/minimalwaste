@@ -9,7 +9,6 @@ description: "Viele wissen nicht wo sie bei Zero Waste anfangen sollen. Damit du
 keywords: [fragen zum unverpackt einkaufen, unverpackt einkaufen]
 image: "/assets/title-images/2018/2018-10-08-8-fragen-zum-unverpackt-einkaufen.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Immer wieder bekomme ich aus meinem Bekannten- und Verwandtenkreis den Eindruck, dass Zero Waste als sehr spannend und erstrebenswert empfunden wird, aber viele nicht wissen, wie sie das ganze angehen sollen oder einfach sehr unsicher sind. Hier also ein paar typische Fragen, die man sich stellt (erarbeitet mit meinem Papa) und die Antworten darauf.
 

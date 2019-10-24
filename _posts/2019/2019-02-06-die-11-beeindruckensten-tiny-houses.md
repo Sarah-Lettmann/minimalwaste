@@ -9,7 +9,6 @@ description: "Die Tiny House Bewegung finde ich sehr spannend und verfolge sie s
 keywords: [Tiny House, Mini-Haus]
 image: "/assets/title-images/2019/2019-02-06-die-11-beeindruckensten-tiny-houses.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Die Tiny House Bewegung finde ich unglaublich faszinierend. Nicht nur ausgehend vom Minimalismus - also dem sich Verkleinern, weniger besitzen, mit weniger zufrieden sein - sondern auch, weil Platz und viel Raum für den einzelnen immer mehr zum Problem wird. Die Bevölkerung wächst ständig und immer mehr Menschen ziehen in die Städte - das bedeutet Leben auf engstem Raum. Tiny Houses können eine Möglichkeit sein, diesen kleinen Raum sehr angenehm und lebenswert zu gestalten.
 

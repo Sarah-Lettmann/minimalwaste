@@ -9,7 +9,6 @@ description: "Ich bin immer wieder auf der Suche nach Ideen, wie man Abende sch�
 keywords: [Freizeitgestaltung für zu Hause]
 image: "/assets/title-images/2018/2018-11-28-15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Ich bin immer wieder auf der Suche nach Ideen, wie man Abende auch mal schön zu Hause verbringen kann. Man muss ja nicht immer weg gehen. Zu Hause hat man es meistens sowieso gemütlicher und man kommt um einiges günstiger weg. Und da man zu Hause viel mehr Freiheiten hat, was man genau macht, sind die Abende meistens auch schöner, geselliger und man führt bessere Gespräche. Ich habe hier mal ein paar Ideen für dich zusammengestellt.
 

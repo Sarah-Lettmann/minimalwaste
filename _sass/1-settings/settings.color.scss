@@ -7,3 +7,37 @@ $second-color:          #666;
 $second-color-light:    lighten($second-color, 50%);
 $second-color-lighter:  lighten($second-color, 70%);
 $second-color-dark:     darken($second-color, 25%);
+
+// new color scheme
+// primary
+$primary-100:     hsl(120, 40%, 98%);
+$primary-200:     hsl(120, 41%, 90%);
+$primary-300:     hsl(120, 43%, 80%);
+$primary-400:     hsl(120, 42%, 70%);
+$primary-500:     hsl(120, 43%, 60%);
+$primary-600:     hsl(120, 43%, 50%);
+$primary-700:     hsl(120, 43%, 40%);
+$primary-800:     hsl(120, 42%, 30%);
+$primary-900:     hsl(120, 43%, 15%);
+
+// neutral
+$neutral-100:     hsl(125, 38%, 94%);
+$neutral-200:     hsl(127, 16%, 78%);
+$neutral-300:     hsl(128, 16%, 65%);
+$neutral-400:     hsl(138, 12%, 45%);
+$neutral-500:     hsl(120, 9%, 30%);
+$neutral-600:     hsl(120, 13%, 27%);
+$neutral-700:     hsl(129, 9%, 15%);
+$neutral-800:     hsl(134, 30%, 14%);
+$neutral-900:     hsl(105, 30%, 8%);
+
+// accent
+$accent-100:      hsl(339, 68%, 95%);
+$accent-200:      hsl(338, 65%, 90%);
+$accent-300:      hsl(338, 65%, 75%);
+$accent-400:      hsl(338, 65%, 65%);
+$accent-500:      hsl(338, 65%, 55%);
+$accent-600:      hsl(338, 65%, 40%);
+$accent-700:      hsl(338, 65%, 30%);
+$accent-800:      hsl(338, 65%, 20%);
+$accent-900:      hsl(336, 66%, 15%);

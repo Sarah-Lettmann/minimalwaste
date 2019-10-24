@@ -26,9 +26,6 @@ layout: wrapper
     </header>
     <div class="post__body content">
         {{ content }}
-        {% if page.affiliate == true %}
-          <p class="post__affiliate-hint">{{ site.affiliate-hint }}</p>
-        {% endif %}
     </div>
     {% include post/sharing.html %}
     {% include post/author.html %}

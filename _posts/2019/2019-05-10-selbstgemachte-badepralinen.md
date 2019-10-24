@@ -9,7 +9,6 @@ description: "Diese selbstgemachten Badepralinen stellen eine super Alternative 
 keywords: [Badepralinen, Badebomben]
 image: "/assets/title-images/2019/2019-05-10-selbstgemachte-badepralinen.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Badebomben sind in der Regel die Alternative, wenn man auf müllfreien Badezusatz umsteigen will. Allerdings sind diese meist ziemlich teuer und man bekommt sie auch nicht überall. Deshalb habe ich  zu Anfang des Jahres beschlossen zu lernen, diese selbst zu herzustellen. Hier das Ergebnis.
 

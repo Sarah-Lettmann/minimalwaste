@@ -7,7 +7,6 @@ description: ""
 keywords: [1, 2]
 image: "/assets/title-images/"
 author: sarah-lettmann
-affiliate: false
 ---
 In dieser Challenge soll es darum gehen dich Stück für Stück zu einem Leben mit weniger Müll zu führen. Dabei werden wir in der Challenge mit kleinen allgemeinen Dingen anfangen und uns dann durch verschiedene Bereich vorarbeiten. Du wirst schnell merken wie einfach das ganze ist, wenn man es Stück für Stück macht. Du kannst die Challenge natürlich auch länger strecken als 30 Tage und sie lediglich als Richtlinie verwenden, welche Dinge du nach und nach verändern kannst. Das wichtigste dabei ist aber, dass du Spaß hast! Also, los geht’s!
 

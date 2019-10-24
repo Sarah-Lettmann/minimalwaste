@@ -9,7 +9,6 @@ description: "Auch bei den Finanzen kann Ausmisten sinnvoll sein. Eine Minimalis
 keywords: [Minimalistische Finanzplanung]
 image: "/assets/title-images/2019/2019-01-09-minimalistische-finanzplanung-fuer-mehr-freiheit.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Das neue Jahr hat gerade erst begonnen. Jetzt ist die beste Zeit gleich an den Neujahrsvorsätzen zu feilen und die Finanzen stehen da meist ganz weit oben. Ich möchte dir zeigen wie du durch ein paar einfache Vorgehensweisen eine Menge Geld sparst, die Übersicht behältst und mehr Geld für die Altersvorsorge oder den Urlaub zur Verfügung hast. Dazu will ich dir Schritt für Schritt zeigen, wie du deine Finanzen minimalistisch gestaltest. Denn auch im digitalen Raum gilt: Ausmisten und auf die wenigen wichtigen Dinge konzentrieren, hilft Übersicht zu schaffen.
 

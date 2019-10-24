@@ -9,7 +9,6 @@ description: "Diese Woche ist Europäische Woche der Abfallvermeidung und es dre
 keywords: [Europäische Woche der Abfallvermeidung]
 image: "/assets/title-images/2016/2016-11-21-europaeische-woche-der-abfallvermeidung.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Heute gibt es mal einen kleinen Extra-Post. Diese Woche ist nämlich [Europäische Woche der Abfallvermeidung (EWAV)](http://www.letscleanupeurope.de/), die ganz im Zeichen von Müllvermeidung, Wiederverwendung und Recycling steht. Also hab ich mir mal ein paar Ideen für dich ausgedacht, wie du dich mit der ganzen Thematik mal ein bisschen vertraut machen kannst. Auch solche kleinen Veränderungen können schon wirklich viel bewirken!
 

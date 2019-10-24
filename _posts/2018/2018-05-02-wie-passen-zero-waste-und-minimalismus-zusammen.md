@@ -9,7 +9,6 @@ description: "Zero Waste und Minimalismus - was haben diese beiden Lebensstile g
 keywords: [Zero Waste und Minimalismus]
 image: "/assets/title-images/2018/2018-05-02-wie-passen-zero-waste-und-minimalismus-zusammen.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Seit ich so richtig mit Zero Waste losgelegt habe, kam mir immer wieder folgender Gedanke: Ein richtig krasser Minimalist würde das wahrscheinlich anders machen. Wo liegen also große Unterschiede zwischen Minimalismus und Zero Waste und wo ergänzen sich diese beiden Lebensstile? Irgendwie finde ich das Thema spannend, deshalb werde ich dir das mal in ein paar Punkten erörtern.
 

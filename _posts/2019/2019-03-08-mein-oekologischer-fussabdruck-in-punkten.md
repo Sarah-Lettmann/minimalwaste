@@ -9,7 +9,6 @@ description: "Ein vertretbarer ökologischer Fußabdruck hat maximal 100 Punkte 
 keywords: [ökologischer Fußabdruck, Klima, Emissionen]
 image: "/assets/title-images/2019/2019-03-08-mein-oekologischer-fussabdruck-in-punkten.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Vor Kurzem bin ich in einem Beitrag auf die Website
 [eingutertag.org](https://eingutertag.org/ "Ein guter Tag hat 100 Punkte") gestoßen.

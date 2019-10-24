@@ -10,7 +10,6 @@ description: "Die meisten Dinge im Haushalt können durch nachhaltige Produkte e
 keywords: [nachhaltige Produkte, Alternativen]
 image: "/assets/title-images/2016/2016-09-02-nachhaltige-produkte-zur-muellreduzierung.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispielsweise nachhaltige Produkte kaufen und wiederverwenden. Ich habe für dich eine Auflistung aller Alternativen zu herkömmlichen (evtl. in Plastik verpackten) Produkten zusammengestellt. Darunter befinden sich Dinge, die vollständig ohne Verpackung auskommen oder immer wieder verwendet werden können. Ich habe aber auch Dinge aufgeführt, die nicht vollständig auf Verpackung oder Müll verzichten, welche aber vielleicht ein guter Einstieg sind. Denn auch wenig kann viel helfen. 
 

@@ -9,7 +9,6 @@ description: "4 nachhaltige Reiniger fürs ganze Haus. Damit bekommst du wirklic
 keywords: [Nachhaltige Reiniger]
 image: "/assets/title-images/2018/2018-03-28-4-nachhaltige-reiniger-die-alles-sauber-bekommen.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Heute gibt es es ergänzend zum [Post von letzter Woche](/blog/fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling) meine go-to Reiniger, die ich im Haushalt nutze. Irgendwie sind es keine DIY Reiniger, denn man muss eigentlich nicht viel machen, um sie herzustellen. Aber sie sind super günstig, man bekommt damit so gut wie alles im Haushalt sauber und muss dabei nicht zu einem Chemie-Cocktail greifen.
 

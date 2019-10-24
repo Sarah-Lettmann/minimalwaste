@@ -9,7 +9,6 @@ description: "Zero Waste kann manchmal so einfach sein. Aber oft muss man sich e
 keywords: [Alternativen]
 image: "/assets/title-images/2018/2018-09-24-8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt.jpg"
 author: sarah-lettmann
-affiliate: true
 ---
 Zero Waste kann in manchen Dingen sooo einfach sein (Beispiel Mehrwegtrinkflasche + Leitungswasser). Aber in vieler Hinsicht ist es auch echt anstrengend, besonders, wenn man noch seinen Flow finden muss und sich noch nicht mit allem auskennt. Kreativität ist oft gefordert, um Alternativen zu finden. Aber dafür bin ich ja da. In diesem Post zeige ich dir Alternativen für 8 alltägliche Dinge, von denen du nicht denken würdest, dass man sie so einfach ersetzen kann. Also, los geht’s!
 
@@ -22,7 +21,7 @@ Es gibt **Kaffeefilter aus Plastik, Edelstahl oder Baumwolle**, die wie normale 
 
 ![Wiederverwendbarer Kaffeefilter](/assets/inpost-images/2018/2018-09-24-kaffeefilter-wiederverwendbar.jpg "© {{ site.title }}")
 
-1. Plastik (so einen verwenden wir zu Hause): [Kaffee-Dauerfilter - waschbär](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fkaffee-dauerfilter-21904)*
+1. Plastik (so einen verwenden wir zu Hause): [Kaffee-Dauerfilter - waschbär](https://www.waschbaer.de/shop/kaffee-dauerfilter-21904)
 2. Baumwolle: [Kaffeefilter aus Baumwolle - avocadostore](https://www.avocadostore.de/products/123809-kaffeefilter-in-2-groessen-aus-baumwolle-tante-olga)
 3. Edelstahl: [Kaffeefilter Edelstahl - amazon](https://www.amazon.de/Risingmed-RISINDMED%C2%AE-Wiederverwendbar-Kaffeefilter-rutschfesten/dp/B07BXSH1YL/ref=sr_1_25?ie=UTF8&qid=1537693727&sr=8-25&keywords=kaffeefilter+edelstahl)
 
@@ -36,14 +35,14 @@ Trotzdem kann man zu Hause leicht auf nachhaltige Alternativen umsteigen. Denn *
 ![Edelstahl Strohhalme](/assets/inpost-images/2018/2018-09-24-edelstahl-strohhalme.jpg "© {{ site.title }}")
 
 Hier gibt es die Alternativen:
-1. [Trinkhalme aus Glas - waschbär](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Ftrinkhalme-aus-glas-4er-set-31593)*
+1. [Trinkhalme aus Glas - waschbär](https://www.waschbaer.de/shop/trinkhalme-aus-glas-4er-set-31593)
 2. [Edelstahl Strohhalme - avocadostore](https://www.avocadostore.de/wohnen/kueche#q%3Dstrohhalm%26t%3Dno%26cats%3D1Wohnen%2520%2526%2520Leben%26catl%3D2Wohnen%2520%2526%2520Leben%26p%3D1%26ci%3DCategory_facet%253D1%253A2Wohnen%2520%2526%2520Leben)
 
 ## Backpapier
 Backpapier ist auch etwas, das echt leicht ersetzt werden kann, wenn man schon einmal davon gehört hat. Es gibt nämlich **wiederverwendbare Backfolien oder Silikonmatten**, die man auf die Bleche oder den Rost legen und anstelle des Papiers verwenden kann.
 
 Mehrweg Backfolien (Plastik):
-1. [Silikon Backmatte - waschbär](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fsilikon-teigauswell-backmatte-23860)*
+1. [Silikon Backmatte - waschbär](https://www.waschbaer.de/shop/backmatte-aus-silikon-23860)
 2. [Dauerbackfolien - amazon](https://www.amazon.de/gp/product/B01EROBHF6/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 
 An diesen finde ich besonders toll, dass sie nicht sehr dick sind. Man kann sie leicht per Hand oder auch in der Spülmaschine reinigen. Außerdem passen sich die Folien an Backformen an oder lassen sich zuschneiden. Ich packe immer eine Folie in die Kastenform, wenn ich Bananenbrot backe - das funktioniert hervorragend.
@@ -68,7 +67,7 @@ Dosen sind schwer zu recyceln, da sie innen meist noch mit einer Schicht Plastik
 ## Batterien
 Es ist super schwer auf Batterien zu verzichten. Man braucht sich für Computermäuse, den Wecker, kleine Küchengeräte und viele andere Dinge. Nicht unbedingt umweltfreundlicher, aber immerhin mehrfach verwendbar, sind **Akkus eine gute Alternative**. Diese bekommt man in Technikläden oder online und kann sie mit dem passenden Ladegerät immer wieder aufladen. Super einfach, super unkompliziert.
 
-Akkus: [Akkus AA - waschbär](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fakku-nimh-aa-mignon-31909)*
+Akkus: [Akkus AA - waschbär](https://www.waschbaer.de/shop/akku-nimh-aa-mignon-31909)
 
 Akkuladegerät: [Akkuladegerät - amazon](https://www.amazon.de/gp/product/B00FEFQM44/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 
@@ -81,7 +80,7 @@ Wir verwenden oft **Weckgläser** für solche Dinge oder auch unsere Glas-Lock-D
 
 Wer aber nicht auf das Umwickeln verzichten will, dem seien Bienenwachstücher ans Herz gelegt.
 
-Bienenwachstücher: [Bienenwachstücher - waschbär](https://partners.webmasterplan.com/click.aspx?ref=856236&site=3955&type=text&tnb=45&diurl=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fbees-wrap-3er-set-42404%3FF%3D00)*
+Bienenwachstücher: [Bienenwachstücher - waschbär](https://www.waschbaer.de/shop/bees-wrap-medium-42403)
 
 &nbsp;
 

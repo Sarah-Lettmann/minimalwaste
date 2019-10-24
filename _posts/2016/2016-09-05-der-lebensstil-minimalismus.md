@@ -9,7 +9,6 @@ description: "Der Lebensstil Minimalismus beschäftigt immer mehr Menschen. Aber
 keywords: [Lebensstil Minimalismus, minimalistisch leben]
 image: "/assets/title-images/2016/2016-09-05-der-lebensstil-minimalismus.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Minimalismus ist ja in den letzten Jahren ein immer größeres Thema in den Medien geworden. Bei genauerer Betrachtung wundert das kaum. Man gewinnt doch zunehmend den Eindruck, dass Kaufen nicht das Allheilmittel - sowohl für die Wirtschaft als auch für den Menschen - ist, sondern vielmehr ermüdet und auslaugt.
 

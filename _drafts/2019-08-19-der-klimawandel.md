@@ -8,7 +8,6 @@ description: ""
 keywords: [Klimawandel]
 image: "/assets/title-images/2019/2019-08-19-der-klimawandel.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 In letzter Zeit wird durch FridaysForFuture hochpolitisch über den Klimawandel diskutiert und was man dagegen tun kann. Deshalb dachte ich es wäre eine gute Idee diesen Klimawandel mal zusammen zu fassen und mit ein paar Fakten darzustellen, damit du eine Übersicht hast.
 

@@ -8,7 +8,6 @@ description: ""
 keywords: []
 image: "/assets/title-images/2019/2019-08-26-ideen-wie-du-deine-emissionen-senken-kannst.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 
 kürzer duschen

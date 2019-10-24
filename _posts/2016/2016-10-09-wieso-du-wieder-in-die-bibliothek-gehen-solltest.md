@@ -9,7 +9,6 @@ description: "Wenn du Minimalismus leben willst, solltest du die Bibliothek nutz
 keywords: [Bibliothek, Bücherei]
 image: "/assets/title-images/2016/2016-10-09-wieso-du-wieder-in-die-bibliothek-gehen-solltest.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Als Minimalist hat man auf seiner Reise sicherlich schon über die gute alte Bibliothek nachgedacht. Ich habe schon viele meiner alten Bücher der örtlichen Bücherei gespendet und mir auch neue ausgeliehen. Gespendete Bücher werden entweder in den Bestand aufgenommen oder auf einem kleinen Flohmarkt verkauft. Es hilft deiner Bücherei also immer weiter, wenn du ein paar deiner alten Bücher dort abgibst, auch wenn sie nicht direkt verwendet werden. Doch Büchereien bieten inzwischen einen viel größeren Umfang an Medien und an Services, als ich es noch in meiner Kindheit erlebt habe. Im Folgenden werde ich dir ein paar dieser Möglichkeiten, wie du deine örtliche Bücherei nutzen kannst, vorstellen.
 

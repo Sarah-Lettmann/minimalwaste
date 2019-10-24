@@ -9,7 +9,6 @@ description: "Das Weckglas ist mein Superstar für einen Zero Waste Lifestyle. D
 keywords: [Weckglas, Weckgläser]
 image: "/assets/title-images/2016/2016-09-15-das-weckglas.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Heute möchte ich dir meinen absoluten Favoriten und Alleskönner in Sachen Aufbewahrung, Vorkochen, Lebensmittel und Dekoration vorstellen: das Weckglas. Gerade wer auf Plastik verzichten möchte muss Alternativen finden.
 

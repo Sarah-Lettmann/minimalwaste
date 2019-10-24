@@ -9,7 +9,6 @@ description: "Wie setzt man Minimalismus im Alltag um? Am Anfang steht das Ausmi
 keywords: [ausmisten, entrümpeln]
 image: "/assets/title-images/2016/2016-09-29-minimalismus-ausmisten.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Es gibt viele unterschiedliche Herangehensweisen, wenn es ums Entrümpeln, Ausmisten oder Minimalisieren geht. Man kann nach Räumen geordnet vorgehen, nach Kategorien a la Marie Kondo oder aber nach Möbelstücken, in denen die Dinge aufbewahrt werden. Als ich meine Wohnung entmüllt habe, bin ich mit einer Mischung aus diesen Methoden vorgegangen. Meine Vorgehensweise möchte ich dir zusammen mit einigen Erfahrungen, die ich gemacht habe nun vorstellen.
 

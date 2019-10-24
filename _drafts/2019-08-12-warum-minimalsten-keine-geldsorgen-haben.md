@@ -8,7 +8,6 @@ description: ""
 keywords: []
 image: "/assets/title-images/2019/2019-08-12-warum-minimalsten-keine-geldsorgen-haben.jpg"
 author: sarah-lettmann
-affiliate: false
 ---
 Minimalismus ist inzwischen ein fester Teil meines Lebens und hat es erheblich verbessert. Dhaer bin ich auch der festen Überzeugung, dass man selbst mit kleinem Einkommen sehr gut leben kann, es ist alles eine Frage von Prioritäten. Hier also 10 Gründe warum Minimalisten in der Regel keine Geldsorgen haben.
 
@@ -42,7 +41,7 @@ Das macht es einfach sich etwas für besondere oder spezielle Anlässe zusammen 
 Und am Ende hat man ein paar sehr spezielle Kleidungsstücke im Schrank, die man nur einmal an hatte, weil man sie nur für diesen einen Anlass gekauft hat. Das frisst eine Menge Geld, weil solche Stücke in der Regel auch nicht die günstigsten sind. Also lieber zu einem _Capsule Wardrobe_ tendieren.
 
 ## 6. Minimalisten können priorisieren
-Wie ich eingangs schon erwähnte, ist Priorisierung essenziell, wenn es um Minimalismus und auch Finanzen geht. 
+Wie ich eingangs schon erwähnte, ist Priorisierung essenziell, wenn es um Minimalismus und auch Finanzen geht.
 
 wissen, dass materielles nicht so wichtig ist und können so besser priorisieren wofür sie ihr Geld verwenden wollen.
 

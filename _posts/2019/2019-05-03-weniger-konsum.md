@@ -9,7 +9,6 @@ description: "Minimalismus ist schön und gut, aber der Knackpunkt ist die Verä
 keywords: [weniger Konsum, Kaufverhalten]
 image: "/assets/title-images/2019/2019-05-03-weniger-konsum.jpg"
 author: sarah-lettmann
-affiliate: true
 ---
 Ich bin ein riesiger Fan von Minimalismus. Aber ich bin auch eine Verfechterin von Nachhaltigkeit. Deshalb stellen sich bei mir immer alle Nackenhaare auf, wenn ich sehe, wie sich nur halbherzig damit auseinander gesetzt wird. Das heißt, es wird immer Neues gekauft und dann immer wieder im gleichen Maße entsorgt. Dabei liegt der Schlüssel, um die Vorteiles eines reduzierten Lebensstils genießen zu können, in weniger Konsum an sich. Ich zeige dir heute, wie du dein Kaufverhalten nachhaltig veränderst und so wirklich aus dem Teufelskreis ausbrichst.
 
@@ -43,7 +42,7 @@ Wenn du also beispielsweise ein neues Buch haben willst, hast du folgende Option
 - Schaue nach, ob es das Buch in der örtlichen Bibliothek gibt.
 - Gucke nach, ob es bei dir in der Nähe einen Bücherschrank gibt, wo du etwas ähnliches bekommen könntest. Das kannst du beispielsweise auf [OpenBookCase.org](https://openbookcase.org/map) nachschauen.
 - Gehe in deine örtliche [Free Your Stuff-Gruppe auf Facebook](https://www.facebook.com/search/top/?q=free%20your%20stuff&epa=SEARCH_BOX) und schaue nach, was andere verschenken.
-- Nutze Websites und Apps wie [ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de) oder [shpock](https://www.shpock.com/de-de) oder auch [reBuy](http://partners.webmasterplan.com/click.asp?ref=856236&site=5261&type=text&tnb=173&diurl=https%3A//www.rebuy.de/kaufen/buecher%3Futm_campaign%3D%5BAFF%5D_AF_DE_GR_MIMI)\*, um an gebrauchte Bücher zu kommen.
+- Nutze Websites und Apps wie [ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de) oder [shpock](https://www.shpock.com/de-de) oder auch [reBuy](https://www.rebuy.de/), um an gebrauchte Bücher zu kommen.
 
 Ja, das ist natürlich aufwendiger, als einfach etwas online zu bestellen. Aber das ist auch der Sinn dahinter. Es gibt heute so viele Möglichkeiten Dinge in gutem Zustand gebraucht zu kaufen oder sogar kostenos zu bekommen. Und gerade bei Dingen wie Büchern sollte man sowas nutzen, denn die meisten Bücher liest man oft nur einmal.
 

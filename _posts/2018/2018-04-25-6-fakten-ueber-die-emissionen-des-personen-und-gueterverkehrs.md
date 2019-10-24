@@ -9,11 +9,10 @@ description: "Inzwischen weiß jeder, dass Fliegen nicht gut für die Umwelt ist
 keywords: [Emissionen des Personen- und Güterverkehrs]
 image: "/assets/title-images/2018/2018-04-25-6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs.jpg"
 author: sarah-lettmann
-affiliate: true
 ---
 Inzwischen weiß so gut wie jeder, dass Fliegen nicht gut für die Umwelt ist. Die Emissionen, die bei einem einzigen Flug freigesetzt werden, sind immens. Aber wie sieht es mit anderen Verkehrs- und Transportmitteln aus? Ich habe dir hier 6 Fakten zu den Emissionen des Personen- und zum Güterverkehr zusammengestellt, die dich vielleicht überraschen werden. Über die meisten bin ich gestolpert, als ich in einem Papier des Umweltbundesamtes gestöbert habe. Andere wiederum habe ich schon vor einiger Zeit aufgeschnappt.
 
-Ich bin ja schon oft mit [Flixbus](http://partners.webmasterplan.com/click.asp?ref=856236&site=10953&type=text&tnb=3)* gefahren, um Geld zu sparen und einfach nachhaltig unterwegs zu sein. Für mich ist das im Gegensatz zur Bahn einfach oft viel günstiger, die Sitze sind auch sehr bequem und es hat jedes Mal ein nettes Flair von Klassenfahrt.
+Ich bin ja schon oft mit [Flixbus](https://www.flixbus.de/) gefahren, um Geld zu sparen und einfach nachhaltig unterwegs zu sein. Für mich ist das im Gegensatz zur Bahn einfach oft viel günstiger, die Sitze sind auch sehr bequem und es hat jedes Mal ein nettes Flair von Klassenfahrt.
 
 ## Fakt 1: Wir nutzen des Auto etwa dreimal so häufig wie alle anderen Verkehrsmittel zusammen.
 Ja, das stimmt tatsächlich. Sieht man sich das [Papier des Umweltbundesamtes _Daten zum Verkehr_ aus dem Jahr 2012](https://www.umweltbundesamt.de/sites/default/files/medien/publikation/long/4364.pdf) an, wird sofort deutlich, dass besonders der **motorisierte Individualverkehr (Pkw, Mofas, Motorräder)** einen enormen Anteil an unser Fortbewegung im Alltag einnimmt (S. 25).
