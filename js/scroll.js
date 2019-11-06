@@ -1,11 +1,11 @@
 // back to top scroll handler and setting of css classes
-$(document).on('click', 'a[href^="#"]', function (event) {
-    event.preventDefault();
-
-    $('html, body').animate({
-        scrollTop: $($.attr(this, 'href')).offset().top - 100
-    }, 1000);
-});
+// $(document).on('click', 'a[href^="#"]', function (event) {
+//     event.preventDefault();
+//
+//     $('html, body').animate({
+//         scrollTop: $($.attr(this, 'href')).offset().top - 100
+//     }, 1000);
+// });
 
 $(window).scroll(function () {
 	if ($(this).scrollTop() > 500) {
