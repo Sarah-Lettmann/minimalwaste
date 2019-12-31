@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background-color: $second-color-lighter;
-  @include mainFont;
+  @include main-font;
+  background-color: $neutral-100;
 }
 
 article,
@@ -50,12 +50,12 @@ cite {
 
 div,
 p {
-  font-size: $font-size-text;
-  font-weight: 300;
-  line-height: $line-height-base;
-  color: $second-color-dark;
+  color: $neutral-900;
+  font-size: $font-size-paragraph;
+  line-height: $line-height-paragraph;
   @include breakpoint(small) {
-    font-size: $font-size-base;
+    font-size: $font-size-paragraph-mobile;
+    line-height: $line-height-paragraph-mobile;
   }
 }
 
@@ -66,5 +66,8 @@ dl,
 table,
 img,
 figure {
-  margin-bottom: $margin-base;
+  margin-bottom: $margin-bottom-paragraph;
+  @include breakpoint(mobile) {
+    margin-bottom: $margin-bottom-paragraph-mobile;
+  }
 }

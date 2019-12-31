@@ -1,24 +1,25 @@
-$height-header: 120px;
-$height-mobile-header: 80px;
+$height-header: 80px;
+$height-mobile-header: 60px;
 
 .header {
-  //border-bottom: $border;
-  background-color: $second-color-lighter;
-  @include transition(margin-bottom);
-
-  > .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: $height-header;
-    padding-top: 0.7*$padding-base;
-    padding-bottom: 0.7*$padding-base;
-    @include breakpoint(small) {
-      height: $height-mobile-header;
-    }
+  background-color: $neutral-100;
+  border-top: 4px solid $primary-300;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 10;
+  @include breakpoint(mobile) {
+    border-top: 2px solid $primary-300;
   }
 
-  &::after {
-    @include greenBorder(top);
+  > .container {
+    align-items: center;
+    display: flex;
+    height: $height-header;
+    justify-content: space-between;
+    @include breakpoint(mobile) {
+      height: $height-mobile-header;
+    }
   }
 }

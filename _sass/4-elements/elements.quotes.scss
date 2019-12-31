@@ -1,9 +1,9 @@
 // defines a section that is quotes from another source
 blockquote {
   padding-left: 0.75*$padding-base;
-  border-left: 7px solid $main-color;
+  border-left: 7px solid $primary-400;
   margin: 0.75*$margin-base 1.25*$margin-base;
-  @include latoFont;
+  @include main-font;
   @include breakpoint(small) {
     margin: 0.5*$margin-base 0.75*$margin-base;
   }
@@ -17,7 +17,7 @@ blockquote {
 q {
 
   &::before {
-    @include latoFont;
+    @include main-font;
     content: ">>";
     font-size: 18px;
     font-weight: bold;
@@ -26,7 +26,7 @@ q {
   }
 
   &::after {
-    @include latoFont;
+    @include main-font;
     content: "<<";
     font-size: 18px;
     font-weight: bold;

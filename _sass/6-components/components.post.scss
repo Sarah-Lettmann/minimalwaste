@@ -21,8 +21,8 @@
 
   &__subtitle {
     order: 3;
-    color: $second-color;
-    @include latoFont();
+    color: $neutral-500;
+    @include main-font();
     font-size: 1.5*$font-size-base;
     line-height: 1.2;
     @include breakpoint(small) {
@@ -33,7 +33,7 @@
   &__meta {
     order: 1;
     font-size: $font-size-base;
-    @include latoFont;
+    @include main-font;
     @include attention() {
       color: unset;
     }
@@ -54,19 +54,19 @@
     > p:first-of-type {
 
       &::first-letter {
-        font-size: 3.2*$font-size-text;
+        font-size: 3.2*$font-size-paragraph;
         line-height: 0.85;
         float: left;
         margin-right: 0.25*$margin-base;
         @include breakpoint(small) {
-          font-size: 2.8*$font-size-text;
+          font-size: 2.8*$font-size-paragraph;
         }
       }
     }
   }
 
   &__affiliate-hint {
-    @include latoFont;
+    @include main-font;
     font-size: $font-size-base;
     font-style: italic;
   }

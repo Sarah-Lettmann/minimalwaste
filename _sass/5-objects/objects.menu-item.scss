@@ -1,9 +1,39 @@
+$menu-text-size: 1.25rem; // 20px
+$menu-text-size-mobile: 1rem; // 16px;
+
 .menu__item {
-  padding-left: 0;
+  align-items: center;
+  color: $neutral-500;
+  display: flex;
+  font-size: $menu-text-size;
+  line-height: 1.5;
   margin-bottom: 0;
-  position: unset;
+  margin-right: 1.875rem; // 30px
+  padding-left: 0;
+  position: relative;
+  text-transform: lowercase;
+  @include breakpoint(mobile) {
+    color: $neutral-100;
+    font-size: $menu-text-size-mobile;
+    margin-right: 0;
+  }
 
   &::before {
     content: none;
+  }
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  &--submenu {
+    color: $neutral-100;
+    margin-right: 0;
+  }
+
+  &--overview {
+    @include breakpoint(desktop) {
+      display: none;
+    }
   }
 }

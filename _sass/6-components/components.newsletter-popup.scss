@@ -13,7 +13,7 @@
     flex-direction: column;
     padding: $padding-base;
     @include box-shadow-buttons-menu();
-    background-color: $second-color-lighter;
+    background-color: $neutral-100;
 
     &--hidden {
       max-height: 55px;
@@ -101,8 +101,8 @@
     padding: 0.5*$padding-base 0.75*$padding-base;
     border-radius: 50%;
     box-shadow: none;
-    color: $second-color-dark;
-    background-color: $second-color-lighter;
+    color: $neutral-900;
+    background-color: $neutral-100;
     font-size: 1.5*$font-size-base;
     cursor: pointer;
     @include attention() {

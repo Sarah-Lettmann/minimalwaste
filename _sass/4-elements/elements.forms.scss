@@ -5,7 +5,7 @@ $font-size-button: 1.2*$font-size-base;
   padding: 0.5*$padding-base 2*$padding-base;
   border-radius: $border-radius;
   border: none;
-  @include latoFont;
+  @include main-font;
   font-size: $font-size-button;
   cursor: pointer;
   @include transition(all);
@@ -15,21 +15,21 @@ $font-size-button: 1.2*$font-size-base;
 button,
 input[type="reset"] {
   @extend .button;
-  color: $second-color-dark;
-  background-color: $second-color-lighter;
+  color: $neutral-900;
+  background-color: $neutral-100;
   @include attention() {
-    color: $second-color-lighter;
-    background-color: $second-color-dark;
+    color: $neutral-100;
+    background-color: $neutral-900;
   }
 }
 
 input[type="submit"] {
   @extend .button;
-  color: $second-color-lighter;
-  background-color: $second-color-dark;
+  color: $neutral-100;
+  background-color: $neutral-900;
   @include attention() {
-    color: $second-color-dark;
-    background-color: $second-color-lighter;
+    color: $neutral-900;
+    background-color: $neutral-100;
   }
 }
 
@@ -41,13 +41,13 @@ input {
   font-size: $font-size-base;
   padding: 0.5*$padding-base;
   margin-bottom: $margin-base;
-  color: $second-color-dark;
-  @include latoFont;
+  color: $neutral-900;
+  @include main-font;
 }
 
 input {
   &::placeholder {
-    color: $second-color;
+    color: $neutral-500;
   }
 }
 

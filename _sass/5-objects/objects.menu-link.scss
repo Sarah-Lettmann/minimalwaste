@@ -1,0 +1,36 @@
+.menu__link {
+  background-image: linear-gradient($neutral-500, $neutral-500);
+  background-position: 50% 1.15em;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  @include transition-custom(background-size, .2s, ease-in, 0s);
+  @include attention {
+    background-size: 100% 1px;
+  }
+  @include breakpoint(mobile) {
+    background-image: linear-gradient($neutral-100, $neutral-100);
+    position: relative;
+  }
+
+  &.search__link {
+    background: none;
+  }
+
+  &--has-submenu {
+    @include breakpoint(mobile) {
+      &::after {
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+        border-top: 7px solid $neutral-100;
+        content: '';
+        position: absolute;
+        top: 38%;
+        right: -20px;
+      }
+    }
+  }
+
+  &--submenu {
+    background-image: linear-gradient($neutral-100, $neutral-100);
+  }
+}

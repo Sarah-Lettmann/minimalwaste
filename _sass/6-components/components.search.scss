@@ -1,9 +1,9 @@
-.search {
+.search-page {
 
   &-input {
     //border: none;
     width: 100%;
-    @include latoFont;
+    @include main-font;
   }
 
   &-results {

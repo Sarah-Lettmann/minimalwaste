@@ -5,7 +5,7 @@
   }
 
   &__title {
-    @include latoFont;
+    @include main-font;
     font-weight: 700;
     font-size: 1.5*$font-size-base;
     text-align: left;
@@ -65,7 +65,7 @@
       font-size: 1.2*$font-size-base;
       font-weight: normal;
       background: linear-gradient(to top, rgba(0,0,0, 0.8) 0%,rgba(0,0,0,0) 100%);
-      color: $second-color-lighter;
+      color: $neutral-100;
       align-self: flex-end;
       @include breakpoint(small) {
         font-size: $font-size-base;

@@ -1,32 +1,32 @@
 
-/* marking text */
+// marking text
 ::selection {
-  background-color: $main-color;
+  background-color: $primary-400;
 }
 
 ::-moz-selection {
-  background-color: $main-color;
+  background-color: $primary-400;
 }
 
-/* outline */
+// outline
 :focus {
-  outline-color: $main-color;
+  outline-color: $primary-400;
 }
 
-/* scrollbar */
+// scrollbar
 ::-webkit-scrollbar {
   width: 10px;
   height: 20px;
 }
 
 ::-webkit-scrollbar-track {
-  background: $second-color-light;
+  background: $neutral-200;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: $main-color;
+  background: $neutral-500;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: $main-color-dark;
+  background: $neutral-400;
 }

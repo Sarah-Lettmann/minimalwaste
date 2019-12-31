@@ -13,24 +13,11 @@
         <a class="social__icon icon fas fa-rss" href="{{ site.url }}/feed.xml" alt="" title="RSS-Feed von MinimalWaste"></a>
       </div>
 
-      <!-- footer navigation -->
-      <nav class="navigation">
-        <ul class="menu menu--footer">
-          {% for menu-item in site.data.footer-menu %}
-            <li class="menu__item" aria-label="{{ menu-item.name }}">
-              <a class="menu__link" href="{{ menu-item.href }}" title="{{ menu-item.title }}">{{ menu-item.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </nav>
+      <!-- imprint & privacy agreement -->
+      <a class="footer__link" href="/pages/datenschutz" title="Impressum & Datenschutz">Impressum & Datenschutz</a>
 
       <!-- copyright -->
-      <div class="copyright">
-          Copyright © {{ 'now' | date: "%Y" }} {{ site.title }}.
-          <span class="fas fa-code" alt=""></span> mit <span class="fas fa-heart" alt=""></span> von
-          <a href="{{ site.web-dev-site }}" title="zur Website von {{ site.web-dev }}">{{ site.web-dev }}</a> mit
-          <a href="https://jekyllrb.com" title="zur jekyll-Website">jekyll</a>.
-      </div>
+      <div class="copyright">Copyright © {{ 'now' | date: "%Y" }} {{ site.title }}.</div>
 
     </div>
 </footer>

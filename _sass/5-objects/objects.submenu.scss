@@ -1,0 +1,27 @@
+$submenu-expansion: -70%;
+
+.menu__submenu {
+  display: none;
+  @include breakpoint(desktop) {
+    align-items: center;
+    background-color: $neutral-500;
+    flex-direction: column;
+    left: $submenu-expansion;
+    padding: 1.125rem 1.25rem;
+    position: absolute;
+    right: $submenu-expansion;
+    top: 70px;
+    @include attention {
+      display: flex;
+    }
+
+    &::before {
+      border-bottom: 12px solid $neutral-500;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      content: '';
+      position: absolute;
+      top: -12px;
+    }
+  }
+}

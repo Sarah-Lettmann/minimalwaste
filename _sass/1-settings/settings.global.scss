@@ -1,17 +1,28 @@
-$font-size-base: 1rem;
-$font-size-text: 1.2rem;
-$line-height-base: 1.5;
+$max-width: 1236px; //1196px + 40px padding
+$page-side-padding: 1.25rem; // 20px
 
+$font-size-paragraph: 1.25rem; // 18px
+$line-height-paragraph: 2;
+$font-size-paragraph-mobile: 1rem; // 16px
+$line-height-paragraph-mobile: 1.7;
+$margin-bottom-paragraph: 1.25rem; // 20px
+$margin-bottom-paragraph-mobile: 1rem; // 16px
+
+
+
+
+$line-height-base: $line-height-paragraph;
+$font-size-base: 1rem;
 $margin-base: 1.5rem;
 $padding-base: 1.25rem;
 
-$transition-duration: 0.15s;
-$border: 1px solid $second-color;
+$transition-duration: .15s;
+$border: 1px solid $neutral-500;
 $border-radius: 5px;
 
-$fa-font-path: "../webfonts";
+$fa-font-path: '../webfonts';
 
 // custom
-$margin-to-content: 6*$margin-base;
-$margin-between-content: 2*$margin-base;
+$margin-to-content: 6 * $margin-base;
+$margin-between-content: 2 * $margin-base;
 $max-width-content: 760px;

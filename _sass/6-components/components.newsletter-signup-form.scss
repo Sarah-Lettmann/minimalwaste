@@ -6,11 +6,11 @@ $newsletter-margin: 0.5*$margin-base;
 
   &__required {
     font-size: $font-size-base;
-    color: $second-color;
+    color: $neutral-500;
   }
 
   &__asterisk {
-    color: $main-color-dark;
+    color: $primary-500;
   }
 
   &__label {

@@ -1,0 +1,54 @@
+$logo-height: 57px;
+$logo-width: 337px;
+$logo-height-mobile: 33px;
+$logo-width-mobile: 197px;
+
+.branding {
+  height: $logo-height;
+  @include breakpoint(mobile) {
+    height: $logo-height-mobile;
+  }
+
+  &__link {
+    display: inline-block;
+    height: 100%;
+  }
+
+  &__title {
+    display: none;
+  }
+
+  &__logo {
+    @include breakpoint(mobile) {
+      height: $logo-height-mobile;
+      width: $logo-width-mobile;
+    }
+
+    .svg__text {
+      -webkit-transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) 0s, fill 1s cubic-bezier(.47, 0, .745, .715) .8s;
+      fill: transparent;
+      stroke-dasharray: 1809.790771484375px;
+      stroke-dashoffset: 1809.790771484375px;
+      transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) 0s, fill 1s cubic-bezier(.47, 0, .745, .715) .8s;
+    }
+
+    .svg__leaf {
+      -webkit-transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) .12s, fill 1s cubic-bezier(.47, 0, .745, .715) .9s;
+      stroke-dasharray: 151.64230346679688px;
+      stroke-dashoffset: 151.64230346679688px;
+      transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) .12s, fill 1s cubic-bezier(.47, 0, .745, .715) .9s;
+    }
+
+    &--loading {
+
+      .svg__text {
+        fill: $neutral-900;
+        stroke-dashoffset: 0;
+      }
+
+      .svg__leaf {
+        stroke-dashoffset: 0;
+      }
+    }
+  }
+}

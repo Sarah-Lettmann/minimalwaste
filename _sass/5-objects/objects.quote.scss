@@ -8,7 +8,7 @@
   justify-content: center;
 
   &__text {
-    @include mainFont;
+    @include headline-font;
     font-size: 1.5*$font-size-base;
     @include breakpoint(smallAndUp) {
       font-size: 1.8*$font-size-base;

@@ -2,7 +2,7 @@
 layout: page
 align: left
 width: wide
-title: "Datenschutz&shy;erklärung"
+title: "Impressum & Datenschutz&shy;erklärung"
 sitemap:
   priority: 0.5
   changefreq: yearly

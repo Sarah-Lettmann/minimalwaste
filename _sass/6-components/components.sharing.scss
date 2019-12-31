@@ -6,7 +6,7 @@
 
   &__title {
     display: inline;
-    font-size: $font-size-text;
+    font-size: $font-size-paragraph;
     @include breakpoint(small) {
       display: block;
       margin-bottom: 0.75*$margin-base;

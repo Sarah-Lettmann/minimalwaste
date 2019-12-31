@@ -36,7 +36,7 @@ ul {
       position: absolute;
       left: $padding-base;
       top: 0.75rem;
-      background-color: $main-color-dark;
+      background-color: $primary-500;
       @include breakpoint(small) {
         top: 0.6rem;
         left: 0.25*$padding-base;
@@ -61,7 +61,7 @@ ol {
       content: counter(listNumbers, decimal-leading-zero);
       position: absolute;
       left: $padding-base;
-      color: $main-color-dark;
+      color: $primary-500;
       font-weight: bold;
       @include breakpoint(small) {
         left: 0.25*$padding-base;
