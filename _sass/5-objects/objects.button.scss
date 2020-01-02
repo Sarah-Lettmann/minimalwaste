@@ -1,4 +1,3 @@
 a[role="button"] {
   @extend input[type="submit"];
-  @include box-shadow-buttons-menu;
 }

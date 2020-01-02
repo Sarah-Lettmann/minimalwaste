@@ -27,14 +27,16 @@
 @import '4-elements/elements.text';
 @import '4-elements/elements.frames';
 
-@import '5-objects/objects.button';
-@import '5-objects/objects.icon';
+@import '5-objects/objects.skip-to-content';
 @import '5-objects/objects.menu-item';
 @import '5-objects/objects.menu-link';
-@import '5-objects/objects.submenu';
+@import '5-objects/objects.menu-submenu';
+@import '5-objects/objects.burger';
+
+@import '5-objects/objects.button';
+@import '5-objects/objects.icon';
 @import '5-objects/objects.fontawesome';
 @import '5-objects/objects.copyright';
-@import '5-objects/objects.skip-to-content';
 @import '5-objects/objects.diagram';
 @import '5-objects/objects.ad';
 @import '5-objects/objects.grid';
@@ -43,8 +45,8 @@
 
 @import '6-components/components.header';
 @import '6-components/components.branding';
+@import '6-components/components.navigation';
 @import '6-components/components.menu';
-@import '6-components/components.search-bar';
 @import '6-components/components.search';
 @import '6-components/components.footer';
 @import '6-components/components.container';

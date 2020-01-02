@@ -1,0 +1,25 @@
+.navigation {
+  align-items: center;
+  display: flex;
+  height: 100%;
+
+  &__link {
+
+    &--burger {
+      @include breakpoint(desktop) {
+        display: none;
+      }
+    }
+
+    &--search {
+      @include transition-custom(transform, .5s, ease-in-out, 0s);
+      @include attention {
+        transform: rotateY(180deg);
+      }
+      @include breakpoint(mobile) {
+        position: absolute;
+        right: 58px;
+      }
+    }
+  }
+}

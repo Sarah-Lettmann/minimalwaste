@@ -3,11 +3,12 @@ Apply attention in one go
 ********************/
 @mixin attention() {
   &:hover,
-  &:active {
+  &:active,
+  &:focus {
     @content;
   }
 }
-// @include attention() { text-decoration: underline; }
+// @include attention { text-decoration: underline; }
 
 
 
@@ -48,18 +49,6 @@ Box-Shadow
     box-shadow: $top $left $blur $spread $color;
   }
 }
-// @include box-shadow(0px, 0px, 20px, 0px, #ddd, false);
-@mixin box-shadow-standard() {
-  @include box-shadow(0, -0.4em, 0, 0, $primary-300, true);
-}
-
-@mixin box-shadow-standard-full() {
-  @include box-shadow(0, -1.2em, 0, 0, $primary-300, true);
-}
-
-@mixin box-shadow-buttons-menu() {
-  @include box-shadow(0, 5px, 10px, -2px, $neutral-500, false);
-}
 
 
 /********************
@@ -69,34 +58,35 @@ Keyframe Animation
   @-webkit-keyframes #{$animation_name} {
     @content;
   }
-
   @-moz-keyframes #{$animation_name} {
     @content;
   }
-
   @keyframes #{$animation_name} {
     @content;
   }
 }
 
-@mixin animation ($animation, $delay, $duration, $timing, $count) {
+@mixin animation ($animation, $delay, $duration, $timing, $count, $mode) {
   -webkit-animation-delay: $delay;
   -webkit-animation-duration: $duration;
   -webkit-animation-name: $animation;
   -webkit-animation-timing-function: $timing;
   -webkit-animation-iteration-count: $count;
+  -webkit-animation-fill-mode: $mode;
 
   -moz-animation-delay: $delay;
   -moz-animation-duration: $duration;
   -moz-animation-name: $animation;
   -moz-animation-timing-function: $timing;
   -moz-animation-iteration-count: $count;
+  -moz-animation-fill-mode: $mode;
 
   animation-delay: $delay;
   animation-duration: $duration;
   animation-name: $animation;
   animation-timing-function: $timing;
   animation-iteration-count: $count;
+  animation-fill-mode: $mode;
 }
 
 
@@ -119,24 +109,4 @@ transforms
   -ms-transform: translate($x, $y);
   -webkit-transform: translate($x, $y);
   transform: translate($x, $y);
-}
-
-
-/********************
-green Border
-********************/
-@mixin greenBorder($topOrBottom) {
-  content: '';
-  display: block;
-  width: 100%;
-  height: 1rem;
-  @if $topOrBottom == top {
-    border-top: 0.5rem solid $primary-400;
-    border-bottom: 0.15rem solid $primary-300;
-  }
-  @else if $topOrBottom == bottom {
-    border-top: 0.15rem solid $primary-300;
-    border-bottom: 0.5rem solid $primary-400;
-  }
-  @include skew(-1deg);
 }

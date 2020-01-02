@@ -9,7 +9,6 @@ $font-size-button: 1.2*$font-size-base;
   font-size: $font-size-button;
   cursor: pointer;
   @include transition(all);
-  @include box-shadow-buttons-menu;
 }
 
 button,

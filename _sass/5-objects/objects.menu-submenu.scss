@@ -1,27 +1,40 @@
 $submenu-expansion: -70%;
 
 .menu__submenu {
-  display: none;
   @include breakpoint(desktop) {
     align-items: center;
     background-color: $neutral-500;
+    display: flex;
     flex-direction: column;
     left: $submenu-expansion;
     padding: 1.125rem 1.25rem;
     position: absolute;
     right: $submenu-expansion;
-    top: 70px;
+    top: -1000px;
     @include attention {
-      display: flex;
+      top: 70px;
     }
+  }
+  @include breakpoint(mobile) {
+    max-height: 150px; // needs to be adapted, if more items are added to the menu
+    overflow: hidden;
+    @include transition-custom(max-height, .3s, ease-in-out, 0s);
+  }
 
-    &::before {
+  &::before {
+    @include breakpoint(desktop) {
       border-bottom: 12px solid $neutral-500;
       border-left: 12px solid transparent;
       border-right: 12px solid transparent;
       content: '';
       position: absolute;
       top: -12px;
+    }
+  }
+
+  &--hidden {
+    @include breakpoint(mobile) {
+      max-height: 0;
     }
   }
 }

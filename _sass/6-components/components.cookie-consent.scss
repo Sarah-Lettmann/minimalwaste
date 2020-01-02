@@ -9,7 +9,6 @@
   margin: $margin-base;
   padding: 0.75*$padding-base;
   background-color: $neutral-100;
-  @include box-shadow-buttons-menu;
 
   &--hidden {
     display: none;

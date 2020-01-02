@@ -27,7 +27,7 @@ h6 {
   line-height: $line-height-headings;
   margin: $margin-headings;
   color: $neutral-900;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     margin: $margin-headings-mobile;
   }
 
@@ -43,42 +43,42 @@ h6 {
 h1 {
   font-size: $font-size-h1;
   margin: 1rem 0;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-mobile-h1;
   }
 }
 
 h2 {
   font-size: $font-size-h2;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-mobile-h2;
   }
 }
 
 h3 {
   font-size: $font-size-h3;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-mobile-h3;
   }
 }
 
 h4 {
   font-size: $font-size-h4;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-mobile-h4;
   }
 }
 
 h5 {
   font-size: $font-size-h5;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-mobile-h5;
   }
 }
 
 h6 {
   font-size: $font-size-h6;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-mobile-h6;
   }
 }

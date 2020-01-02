@@ -11,8 +11,4 @@
   * {
     color: inherit;
   }
-
-  &::before {
-    @include greenBorder(bottom);
-  }
 }

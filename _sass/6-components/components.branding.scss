@@ -24,7 +24,7 @@ $logo-width-mobile: 197px;
       width: $logo-width-mobile;
     }
 
-    .svg__text {
+    &-text {
       -webkit-transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) 0s, fill 1s cubic-bezier(.47, 0, .745, .715) .8s;
       fill: transparent;
       stroke-dasharray: 1809.790771484375px;
@@ -32,7 +32,7 @@ $logo-width-mobile: 197px;
       transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) 0s, fill 1s cubic-bezier(.47, 0, .745, .715) .8s;
     }
 
-    .svg__leaf {
+    &-leaf {
       -webkit-transition: stroke-dashoffset 1s cubic-bezier(.47, 0, .745, .715) .12s, fill 1s cubic-bezier(.47, 0, .745, .715) .9s;
       stroke-dasharray: 151.64230346679688px;
       stroke-dashoffset: 151.64230346679688px;
@@ -41,12 +41,12 @@ $logo-width-mobile: 197px;
 
     &--loading {
 
-      .svg__text {
+      .branding__logo-text {
         fill: $neutral-900;
         stroke-dashoffset: 0;
       }
 
-      .svg__leaf {
+      .branding__logo-leaf {
         stroke-dashoffset: 0;
       }
     }

@@ -35,7 +35,6 @@
     margin-bottom: 0;
     max-width: 250px;
     @include rotate(-5deg);
-    @include box-shadow-buttons-menu;
     @include breakpoint(medium) {
       max-width: 200px;
     }

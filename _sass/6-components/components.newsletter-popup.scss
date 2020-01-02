@@ -12,7 +12,6 @@
     display: flex;
     flex-direction: column;
     padding: $padding-base;
-    @include box-shadow-buttons-menu();
     background-color: $neutral-100;
 
     &--hidden {
