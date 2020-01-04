@@ -2,87 +2,15 @@
 <html lang="de-DE" id="top">
 
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="theme-color" content="#c1e6c1" />
-    <meta property="og:locale" content="de_DE" />
-    <meta property="og:site_name" content="{{ site.title }}" />
-    <meta name="environment" content="{{ jekyll.environment }}" />
-    <meta name="p:domain_verify" content="303a6cf98d134506ab7a9aafa48e9b5f"/>
-    <meta property="article:publisher" content="{{ site.facebook-link }}" />
-    <meta property="article:author" content="{{ site.facebook-link }}" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:creator" content="@{{ site.twitter-username }}" />
-    <meta name="twitter:site" content="@{{ site.twitter-username }}" />
-    {% if page.title == 'Startseite' %}
-      <title>{{ site.title }} - {{ site.subtitle }}</title>
-      <meta name="description" content="{{ site.description | escape }}" />
-      <meta name="keywords" content="{{ site.keywords | join: ', ' | escape }}"/>
-      <link rel="canonical" href="{{site.url}}" />
-      <meta property="og:type" content="website" />
-      <meta property="og:title" content="{{ site.title }} - {{ site.subtitle }}" />
-      <meta property="og:description" content="{{ site.description | escape }}" />
-      <meta property="og:url" content="{{ site.url }}" />
-      <meta property="og:image" content="{{ site.url }}/assets/logos/logo.png" />
-      <meta name="twitter:url" content="{{ site.url }}" />
-      <meta name="twitter:title" content="{{ site.title }} - {{ site.subtitle }}" />
-      <meta name="twitter:description" content="{{ site.description | escape }}" />
-      <meta name="twitter:image" content="/logo.png" />
-    {% else %}
-      <title>{{ page.title | remove: '&shy;' }} | {{ site.title }}</title>
-      <meta name="description" content="{{ page.description | escape }}" />
-      <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}"/>
-      <link rel="canonical" href="{{site.url}}{{ page.url }}" />
-      <meta property="og:type" content="article" />
-      <meta property="og:title" content="{{ page.title | remove: '&shy;' }} | {{ site.title }}" />
-      <meta property="og:description" content="{{ page.description | escape }}" />
-      <meta property="og:url" content="{{site.url}}{{ page.url }}" />
-      <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-      <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}" />
-      <meta property="og:image:width" content="1260" />
-      <meta property="og:image:height" content="840" />
-      <meta property="og:updated_time" content="{{ page.date }}" />
-      <meta property="article:section" content="{{ page.categories.first }}" />
-      <meta property="article:published_time" content="{{ page.date }}" />
-      <meta property="article:modified_time" content="{{ page.date }}" />
-      <meta name="twitter:url" content="{{site.url}}{{ page.url }}" />
-      <meta name="twitter:title" content="{{ page.title | remove: '&shy;' }} | {{ site.title }}" />
-      <meta name="twitter:description" content="{{ page.description | escape }}" />
-      <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-    {% endif %}
+    {% include wrapper/meta.html %}
     <link rel="icon" type="image/x-icon" href="/assets/logos/favicon.ico" />
     <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png" />
     <link rel="stylesheet" href="/css/styles.css" />
-    {% if jekyll.environment == "production" %}
-      <!-- Google Adsense -->
-      <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <script type="text/javascript">
-           (adsbygoogle = window.adsbygoogle || []).push({
-                google_ad_client: "ca-pub-5905300284966483",
-                enable_page_level_ads: true
-           });
-      </script>
-      <!-- Google Tag Manager -->
-      <script type="text/javascript">
-        (function(w,d,s,l,i) {
-          w[l]=w[l]||[];
-          w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-          var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-          j.async=true;
-          j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-          j.setAttribute('crossorigin', 'anonymous');
-        })(window,document,'script','dataLayer','GTM-WR2L2PG');
-      </script>
-    {% endif %}
+    {% include wrapper/google-scripts-in-head.html %}
   </head>
 
   <body class="site">
-    {% if jekyll.environment == "production" %}
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR2L2PG"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
-    {% endif %}
+    {% include wrapper/google-scripts-in-body.html %}
     {% include wrapper/header.html %}
     <main id="main" class="main main--{{ page.layout }}">
       {{ content }}
@@ -90,8 +18,8 @@
     {% include wrapper/footer.html %}
     {% include wrapper/cookie-consent.html %}
     <footer>
-      <!-- footer scripts -->
       <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+      <script type="text/javascript" src="/js/logo.js"></script>
       <script type="text/javascript" src="/js/header-menu.js"></script>
       <script type="text/javascript" src="/js/cookie-consent.js"></script>
       <script type="text/javascript" src="/js/scroll.js"></script>
