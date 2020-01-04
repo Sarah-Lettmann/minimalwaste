@@ -1,58 +1,93 @@
-// .burger {
-//
-//   .burger__line {
-//
-//     &--top {
-//       @include animation(burger-to-cross--top-line, 0s, 1s, ease-in-out, 1, forwards);
-//     }
-//
-//     &--center {
-//       @include animation(burger-to-cross--center-line, 0s, 1s, ease-in-out, 1, forwards);
-//     }
-//
-//     &--bottom {
-//       @include animation(burger-to-cross--bottom-line, 0s, 1s, ease-in-out, 1, forwards);
-//     }
-//   }
-// }
-.burger__line {
-  transform-origin: 3px 8px;
+$animation-delay: 0s;
+$animation-duration: .3s;
+$animation-timing: ease-in-out;
+$animation-count: 1;
+$animation-mode: forwards;
+
+.burger {
+
+  &__line {
+
+    &--top {
+      transform-origin: 2px 7px;
+    }
+    &--bottom {
+      transform-origin: 3px 9px;
+    }
+  }
 }
 
 .burger--to-cross {
 
   .burger__line {
-    //transform-origin: 3px 8px;
 
     &--top {
-      @include animation(burger-to-cross--top-line, 0s, .5s, ease-in-out, 1, forwards);
+      @include animation(burgerToCrossTopLine, $animation-delay, $animation-duration, $animation-timing, $animation-count, $animation-mode);
     }
 
     &--center {
-      @include animation(burger-to-cross--center-line, 0s, .5s, ease-in-out, 1, forwards);
+      @include animation(burgerToCrossCenterLine, $animation-delay, $animation-duration, $animation-timing, $animation-count, $animation-mode);
     }
 
     &--bottom {
-      @include animation(burger-to-cross--bottom-line, 0s, .5s, ease-in-out, 1, forwards);
+      @include animation(burgerToCrossBottomLine, $animation-delay, $animation-duration, $animation-timing, $animation-count, $animation-mode);
+    }
+  }
+}
+
+.burger--from-cross {
+
+  .burger__line {
+
+    &--top {
+      @include animation(burgerFromCrossTopLine, $animation-delay, $animation-duration, $animation-timing, $animation-count, $animation-mode);
+    }
+
+    &--center {
+      @include animation(burgerFromCrossCenterLine, $animation-delay, $animation-duration, $animation-timing, $animation-count, $animation-mode);
+    }
+
+    &--bottom {
+      @include animation(burgerFromCrossBottomLine, $animation-delay, $animation-duration, $animation-timing, $animation-count, $animation-mode);
     }
   }
 }
 
 // keyframes
-@include keyframe(burger-to-cross--top-line) {
+// burger to cross
+@include keyframe(burgerToCrossTopLine) {
   0% { transform: none; }
   50% { transform: translate(0, 7px); }
-  100% { transform: rotate(45deg); }
+  100% { transform: translate(0, 0) rotate(45deg); }
 }
 
-@include keyframe(burger-to-cross--center-line) {
+@include keyframe(burgerToCrossCenterLine) {
   0% { opacity: 1; }
   50% { opacity: 0; }
   100% { opacity: 0; }
 }
 
-@include keyframe(burger-to-cross--bottom-line) {
+@include keyframe(burgerToCrossBottomLine) {
   0% { transform: none; }
   50% { transform: translate(0, -7px); }
-  100% { transform: rotate(-45deg); }
+  100% { transform: translate(0, 0) rotate(-45deg); }
+}
+
+// burger from cross
+@include keyframe(burgerFromCrossTopLine) {
+  0% { transform: translate(0, 0) rotate(45deg); }
+  50% { transform: translate(0, 7px) rotate(0deg); }
+  100% { transform: translate(0, 0); }
+}
+
+@include keyframe(burgerFromCrossCenterLine) {
+  0% { opacity: 0; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@include keyframe(burgerFromCrossBottomLine) {
+  0% { transform: translate(0, 0) rotate(-45deg); }
+  50% { transform: translate(0, -7px) rotate(0deg); }
+  100% { transform: translate(0, 0); }
 }

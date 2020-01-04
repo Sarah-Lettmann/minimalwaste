@@ -1,22 +1,21 @@
 var maxWidth = 1236;
 var mainMenu = $(".main-menu");
 
-
 // function to expand mobile menu when button is clicked
 $(".navigation__link").on("click", function() {
-  console.log("works");
   var mainMenuToggle = $(".navigation__link");
   var burger = mainMenuToggle.children(".burger");
   var submenuToggle = $(".menu__item--has-submenu > .menu__link");
-  // not the first time expanding main menu
   if(mainMenu.hasClass("menu--hidden")) {
     mainMenu.removeClass("menu--hidden");
     mainMenuToggle.attr("aria-expanded", true);
+    burger.removeClass("burger--from-cross");
     burger.addClass("burger--to-cross");
   } else {
     mainMenu.addClass("menu--hidden");
     mainMenuToggle.attr("aria-expanded", false);
     burger.removeClass("burger--to-cross");
+    burger.addClass("burger--from-cross");
   }
 });
 
