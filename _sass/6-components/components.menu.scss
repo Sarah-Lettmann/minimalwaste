@@ -45,16 +45,8 @@
     @include breakpoint(desktop) {
       @include attention {
         .menu__submenu {
-          top: 70px;
+          display: flex;
         }
-      }
-    }
-  }
-
-  &__link--has-submenu {
-    @include attention {
-      ~ .menu__submenu {
-        top: 70px;
       }
     }
   }

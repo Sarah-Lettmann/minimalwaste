@@ -10,10 +10,7 @@ $submenu-expansion: -70%;
     padding: 1.125rem 1.25rem;
     position: absolute;
     right: $submenu-expansion;
-    top: -1000px;
-    @include attention {
-      top: 70px;
-    }
+    top: 70px;
   }
   @include breakpoint(mobile) {
     max-height: 150px; // needs to be adapted, if more items are added to the menu
@@ -33,6 +30,9 @@ $submenu-expansion: -70%;
   }
 
   &--hidden {
+    @include breakpoint(desktop) {
+      display: none;
+    }
     @include breakpoint(mobile) {
       max-height: 0;
     }

@@ -32,10 +32,4 @@ $menu-text-size-mobile: 1rem; // 16px;
       padding-left: 1.25rem;
     }
   }
-
-  &--overview {
-    @include breakpoint(desktop) {
-      display: none;
-    }
-  }
 }

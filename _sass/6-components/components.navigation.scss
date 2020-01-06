@@ -12,9 +12,8 @@
     }
 
     &--search {
-      @include transition-custom(transform, .5s, ease-in-out, 0s);
       @include attention {
-        transform: rotateY(180deg);
+        @include animation(searchJump, 0s, .5s, cubic-bezier(.1s, 1s, 1s, .1s), infinite, both);
       }
       @include breakpoint(mobile) {
         position: absolute;
@@ -22,4 +21,10 @@
       }
     }
   }
+}
+
+@include keyframe(searchJump) {
+  0% { transform: none; }
+  50% { transform: translate(0, -5px); }
+  10% { transform: translate(0, 0); }
 }
