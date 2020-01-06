@@ -1,7 +1,10 @@
 dl,
 ol,
 ul {
-  margin-left: 2rem;
+  margin-left: 1.5rem;
+  @include breakpoint(mobile) {
+    margin-left: 1.25rem;
+  }
 }
 
 dt {
@@ -13,43 +16,32 @@ dd {
 }
 
 li {
-  margin-bottom: 0.5*$margin-base;
-  padding-left: 3*$padding-base;
+  margin-bottom: .75;
+  padding-left: 2rem;
   @include breakpoint(small) {
-    padding-left: 1.5*$padding-base;
+    padding-left: 2.25rem;
   }
 }
 
 
 /* unordered list */
 ul {
-  margin-left: 0;
 
   li {
     list-style-type: none;
     position: relative;
 
     &::before {
-      content: '';
-      width: 16px;
-      height: 5px;
+      content: url('/assets/icons/leaf.svg');
       position: absolute;
-      left: $padding-base;
-      top: 0.75rem;
-      background-color: $primary-500;
-      @include breakpoint(small) {
-        top: 0.6rem;
-        left: 0.25*$padding-base;
-        width: 12px;
-        height: 3px;
-      }
+      left: 0;
+      top: 3px;
     }
   }
 }
 
 /* ordered list */
 ol {
-  margin-left: 0;
   counter-reset: listNumbers;
 
   li {

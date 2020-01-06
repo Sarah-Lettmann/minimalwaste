@@ -8,7 +8,7 @@ $font-size-button: 1.2*$font-size-base;
   @include main-font;
   font-size: $font-size-button;
   cursor: pointer;
-  @include transition(all);
+  //@include transition(all);
 }
 
 button,

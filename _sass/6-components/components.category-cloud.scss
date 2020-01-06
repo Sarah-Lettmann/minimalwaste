@@ -1,0 +1,15 @@
+.category-cloud {
+  background-color: $primary-200;
+  padding: 6rem 0;
+  @include breakpoint(mobile) {
+    padding: 3rem 0;
+  }
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 0;
+    margin-left: 0;
+  }
+}

@@ -14,7 +14,7 @@ $patreon-color: #e85b46;
     padding: $padding-base;
     background-color: $patreon-color;
     box-shadow: none;
-    @include transition(transform);
+    //@include transition(transform);
     @include attention() {
       color: $neutral-100;
       transform: scale(1.05);

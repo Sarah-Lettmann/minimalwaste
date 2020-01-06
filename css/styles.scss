@@ -32,11 +32,12 @@
 @import '5-objects/objects.menu-link';
 @import '5-objects/objects.menu-submenu';
 @import '5-objects/objects.burger';
+@import '5-objects/objects.category-cloud-item';
+@import '5-objects/objects.category-cloud-link';
 
 @import '5-objects/objects.button';
 @import '5-objects/objects.icon';
 @import '5-objects/objects.fontawesome';
-@import '5-objects/objects.copyright';
 @import '5-objects/objects.diagram';
 @import '5-objects/objects.ad';
 @import '5-objects/objects.grid';
@@ -47,13 +48,15 @@
 @import '6-components/components.branding';
 @import '6-components/components.navigation';
 @import '6-components/components.menu';
-@import '6-components/components.search';
-@import '6-components/components.footer';
+@import '6-components/components.category-cloud';
+@import '6-components/components.social';
+@import '6-components/components.bottom';
 @import '6-components/components.container';
 
 @import '6-components/components.post';
 @import '6-components/components.page';
 @import '6-components/components.category';
+@import '6-components/components.search';
 @import '6-components/components.recent-posts';
 @import '6-components/components.new-in-category';
 @import '6-components/components.suggested-posts';
@@ -61,11 +64,9 @@
 @import '6-components/components.thank-you-pages';
 @import '6-components/components.test';
 @import '6-components/components.question';
-
 @import '6-components/components.related-posts';
 @import '6-components/components.author';
 @import '6-components/components.commentform';
-@import '6-components/components.social';
 @import '6-components/components.sharing';
 @import '6-components/components.download';
 @import '6-components/components.newsletter';

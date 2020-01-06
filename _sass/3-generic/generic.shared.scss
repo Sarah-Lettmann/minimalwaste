@@ -53,7 +53,7 @@ p {
   color: $neutral-900;
   font-size: $font-size-paragraph;
   line-height: $line-height-paragraph;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     font-size: $font-size-paragraph-mobile;
     line-height: $line-height-paragraph-mobile;
   }

@@ -3,7 +3,6 @@
 
   .category__title {
     display: inline-block;
-    @include transition(border-bottom);
 
     &::after {
       content: '\f061';

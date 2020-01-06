@@ -1,0 +1,10 @@
+.category-cloud__link {
+  background-image: linear-gradient($neutral-800, $neutral-800);
+  background-position: 50% 1.1em;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  @include transition-custom(background-size, .2s, ease-in, 0s);
+  @include attention {
+    background-size: 100% 1px;
+  }
+}

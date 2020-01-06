@@ -15,15 +15,6 @@ Apply attention in one go
 /********************
 Transitions
 ********************/
-@mixin transition($property) {
-  -webkit-transition: $property $transition-duration linear;
-  -moz-transition: $property $transition-duration linear;
-  -ms-transition: $property $transition-duration linear;
-  -o-transition: $property $transition-duration linear;
-  transition: $property $transition-duration linear;
-}
-// @include transition(color);
-
 @mixin transition-custom($property, $duration, $timing, $delay) {
   -webkit-transition: $property $duration $timing $delay;
   -moz-transition: $property $duration $timing $delay;
@@ -33,22 +24,6 @@ Transitions
 }
 // @include transition-custom(color 1s linear 0.5s);
 
-
-
-/********************
-Box-Shadow
-********************/
-@mixin box-shadow($top, $left, $blur, $spread, $color, $inset: false) {
-  @if $inset {
-    -webkit-box-shadow:inset $top $left $blur $spread $color;
-    -moz-box-shadow:inset $top $left $blur $spread $color;
-    box-shadow:inset $top $left $blur $spread $color;
-  } @else {
-    -webkit-box-shadow: $top $left $blur $spread $color;
-    -moz-box-shadow: $top $left $blur $spread $color;
-    box-shadow: $top $left $blur $spread $color;
-  }
-}
 
 
 /********************

@@ -1,0 +1,24 @@
+.category-cloud__list-item {
+  color: $neutral-800;
+  font-size: 1.25rem;
+  text-transform: lowercase;
+  padding-left: 6rem;
+  @include breakpoint(mobile) {
+    padding-left: 2.5rem;
+  }
+
+  &:first-of-type {
+    padding-left: 0;
+
+    &::before {
+      content: none;
+    }
+  }
+
+  &::before {
+    left: 40px;
+    @include breakpoint(mobile) {
+      left: 9px;
+    }
+  }
+}

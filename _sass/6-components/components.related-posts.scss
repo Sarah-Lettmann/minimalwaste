@@ -43,7 +43,7 @@
     background-size: cover;
     background-position: center;
     text-align: center;
-    @include transition(all);
+    //@include transition(all);
     @include attention() {
       opacity: 0.7;
     }

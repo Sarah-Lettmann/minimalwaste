@@ -1,0 +1,18 @@
+<div class="category-cloud">
+  <div class="container">
+    <ul class="category-cloud__list">
+    {% for category in site.data.menu %}
+      <li class="category-cloud__list-item">
+        <a class="category-cloud__link" href="{{ category.href }}">{{ category.title }}</a>
+      </li>
+      {% if category.subcategories %}
+        {% for subcategory in category.subcategories %}
+          <li class="category-cloud__list-item">
+            <a class="category-cloud__link" href="{{ subcategory.href }}">{{ subcategory.title }}</a>
+          </li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+</div>

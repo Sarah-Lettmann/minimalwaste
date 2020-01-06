@@ -30,5 +30,5 @@ abbr {
   @include attention() {
     color: $primary-500;
   }
-  @include transition(color);
+  //@include transition(color);
 }

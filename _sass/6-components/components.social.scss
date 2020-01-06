@@ -1,12 +1,29 @@
 .social {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-left: -$margin-base;
-  margin-right: -$margin-base;
-  margin-bottom: 0.5*$margin-base;
+  background-color: $neutral-100;
+  color: $neutral-800;
+  overflow: hidden;
+  padding: 6rem 0;
+  @include breakpoint(mobile) {
+    padding: 3rem 0;
+  }
+
+  &__headline {
+    margin-top: 0;
+    text-align: center;
+  }
+
+  &__icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+  }
 
   &__icon {
-    margin: 0 $margin-base;
+    margin: 0 2.75rem;
+    @include breakpoint(mobile) {
+      margin: 0 1.5rem;
+    }
   }
 }
