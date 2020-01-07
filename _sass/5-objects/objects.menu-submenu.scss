@@ -10,7 +10,7 @@ $submenu-expansion: -70%;
     padding: 1.125rem 1.25rem;
     position: absolute;
     right: $submenu-expansion;
-    top: 70px;
+    top: 80px;
   }
   @include breakpoint(mobile) {
     max-height: 150px; // needs to be adapted, if more items are added to the menu

@@ -1,4 +1,3 @@
-dl,
 ol,
 ul {
   margin-left: 1.5rem;
@@ -7,24 +6,14 @@ ul {
   }
 }
 
-dt {
-
-}
-
-dd {
-
-}
-
 li {
-  margin-bottom: .75;
+  margin-bottom: .75rem;
   padding-left: 2rem;
-  @include breakpoint(small) {
+  @include breakpoint(mobile) {
     padding-left: 2.25rem;
   }
 }
 
-
-/* unordered list */
 ul {
 
   li {
@@ -33,30 +22,29 @@ ul {
 
     &::before {
       content: url('/assets/icons/leaf.svg');
-      position: absolute;
       left: 0;
+      position: absolute;
       top: 3px;
     }
   }
 }
 
-/* ordered list */
 ol {
   counter-reset: listNumbers;
 
   li {
+    counter-increment: listNumbers;
     list-style-type: none;
     position: relative;
-    counter-increment: listNumbers;
 
     &::before {
-      content: counter(listNumbers, decimal-leading-zero);
-      position: absolute;
-      left: $padding-base;
       color: $primary-500;
+      content: counter(listNumbers, decimal-leading-zero);
       font-weight: bold;
+      left: $padding-base;
+      position: absolute;
       @include breakpoint(small) {
-        left: 0.25*$padding-base;
+        left: .25 * $padding-base;
       }
     }
   }

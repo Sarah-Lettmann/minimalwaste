@@ -9,7 +9,6 @@
 @import '1-settings/settings.fontawesome';
 
 @import '2-tools/tools.mixins';
-@import '2-tools/tools.functions';
 
 @import '3-generic/generic.reset';
 @import '3-generic/generic.box-sizing';
@@ -35,7 +34,6 @@
 @import '5-objects/objects.category-cloud-item';
 @import '5-objects/objects.category-cloud-link';
 
-@import '5-objects/objects.button';
 @import '5-objects/objects.icon';
 @import '5-objects/objects.fontawesome';
 @import '5-objects/objects.diagram';
@@ -48,6 +46,7 @@
 @import '6-components/components.branding';
 @import '6-components/components.navigation';
 @import '6-components/components.menu';
+@import '6-components/components.newsletter';
 @import '6-components/components.category-cloud';
 @import '6-components/components.social';
 @import '6-components/components.bottom';
@@ -60,7 +59,6 @@
 @import '6-components/components.recent-posts';
 @import '6-components/components.new-in-category';
 @import '6-components/components.suggested-posts';
-@import '6-components/components.lead-magnet';
 @import '6-components/components.thank-you-pages';
 @import '6-components/components.test';
 @import '6-components/components.question';
@@ -69,10 +67,6 @@
 @import '6-components/components.commentform';
 @import '6-components/components.sharing';
 @import '6-components/components.download';
-@import '6-components/components.newsletter';
-@import '6-components/components.patreon';
 @import '6-components/components.cookie-consent';
-@import '6-components/components.newsletter-popup';
-@import '6-components/components.newsletter-signup-form';
 
 @import '7-utilities/utilities.print';

@@ -1,35 +1,56 @@
 .newsletter {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border: $border;
-  padding: $padding-base;
-  @include breakpoint(small) {
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
+  background-color: $primary-300;
+  padding: 3rem 0;
+  @include breakpoint(mobile) {
+    padding: 2rem 0;
   }
 
-  &__content {
-    @include breakpoint(small) {
-      max-width: 100%;
-      margin-bottom: $margin-base;
-    }
-  }
-
-  &__title {
+  &__headline {
     margin-top: 0;
   }
 
-  &__description {
-    margin-bottom: 0;
-    font-size: $font-size-base;
+  &__headline,
+  &__subheadline {
+    text-align: center;
   }
 
-  &__button {
-    margin-left: $margin-base;
-    @include breakpoint(small) {
-        margin-left: 0;
+  &__link {
+    background-image: linear-gradient($neutral-800, $neutral-800);
+    background-position: 50% 1.1em;
+    background-repeat: no-repeat;
+    background-size: 100% 1px;
+  }
+
+  &__form {
+    @include breakpoint(desktop) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    &-label {
+      @include breakpoint(desktop) {
+        width: 100%;
+      }
+    }
+
+    &-input {
+      @include breakpoint(desktop) {
+        width: 951px;
+      }
+    }
+
+    &-text {
+      @include breakpoint(desktop) {
+        order: 3;
+        width: 100%;
+      }
+    }
+
+    &-button {
+      @include breakpoint(desktop) {
+        width: 223px;
+      }
     }
   }
 }

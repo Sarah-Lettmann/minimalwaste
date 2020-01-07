@@ -1,69 +1,47 @@
-$font-size-button: 1.2*$font-size-base;
-
-.button {
-  width: auto;
-  padding: 0.5*$padding-base 2*$padding-base;
-  border-radius: $border-radius;
-  border: none;
-  @include main-font;
-  font-size: $font-size-button;
-  cursor: pointer;
-  //@include transition(all);
+%button {
+  text-transform: lowercase;
+  @include transition-custom(background-color, .1s, linear, 0s);
 }
 
-button,
-input[type="reset"] {
-  @extend .button;
-  color: $neutral-900;
-  background-color: $neutral-100;
-  @include attention() {
-    color: $neutral-100;
-    background-color: $neutral-900;
-  }
-}
-
-input[type="submit"] {
-  @extend .button;
-  color: $neutral-100;
-  background-color: $neutral-900;
-  @include attention() {
-    color: $neutral-900;
-    background-color: $neutral-100;
-  }
-}
-
-textarea,
 input {
+  border: 0;
+  cursor: pointer;
+  font-size: $font-size-paragraph;
+  margin-bottom: 1.25rem;
+  padding: 1.125rem;
   width: 100%;
-  border: $border;
-  border-radius: $border-radius;
-  font-size: $font-size-base;
-  padding: 0.5*$padding-base;
-  margin-bottom: $margin-base;
-  color: $neutral-900;
   @include main-font;
-}
-
-input {
-  &::placeholder {
-    color: $neutral-500;
+  @include breakpoint(mobile) {
+    font-size: $font-size-paragraph-mobile;
+    margin-bottom: 1rem;
+    padding: 1rem;
   }
-}
 
-input[type="checkbox"],
-input[type="radio"] {
-  width: auto;
-  margin-bottom: 0;
-  margin-right: 0.5*$margin-base;
-  cursor: pointer;
-}
+  &[type='submit'] {
+    @extend %button;
+    background-color: $primary-800;
+    color: $neutral-100;
+    @include attention {
+      background-color: $primary-900;
+    }
+  }
 
-input[type="range"] {
-  padding: 0;
-  margin-bottom: 0;
+  &[type='reset'] {
+    @extend %button;
+    background-color: $primary-300;
+    color: $neutral-800;
+    @include attention {
+      background-color: $primary-400;
+    }
+  }
+
+  &::placeholder {
+    color: $neutral-400;
+  }
 }
 
 label {
   cursor: pointer;
   display: block;
+  font-weight: 600;
 }

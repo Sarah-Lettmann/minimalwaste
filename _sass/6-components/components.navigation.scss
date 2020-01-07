@@ -12,19 +12,10 @@
     }
 
     &--search {
-      @include attention {
-        @include animation(searchJump, 0s, .5s, cubic-bezier(.1s, 1s, 1s, .1s), infinite, both);
-      }
       @include breakpoint(mobile) {
         position: absolute;
         right: 58px;
       }
     }
   }
-}
-
-@include keyframe(searchJump) {
-  0% { transform: none; }
-  50% { transform: translate(0, -5px); }
-  10% { transform: translate(0, 0); }
 }
