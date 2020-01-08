@@ -1,12 +1,5 @@
 .menu__link {
-  background-image: linear-gradient($neutral-500, $neutral-500);
-  background-position: 50% 1.3em;
-  background-repeat: no-repeat;
-  background-size: 0% 1px;
-  @include transition-custom(background-size, .2s, ease-in, 0s);
-  @include attention {
-    background-size: 100% 1px;
-  }
+  @extend %menu-link;
   @include breakpoint(mobile) {
     background-image: linear-gradient($neutral-100, $neutral-100);
     background-position: 50% 1.1em;
@@ -21,8 +14,8 @@
         border-top: 7px solid $neutral-100;
         content: '';
         position: absolute;
-        top: 38%;
         right: -20px;
+        top: 38%;
         @include transition-custom(transform, .3s, ease-in-out, 0s);
       }
     }

@@ -15,10 +15,7 @@
   }
 
   &__link {
-    background-image: linear-gradient($neutral-800, $neutral-800);
-    background-position: 50% 1.1em;
-    background-repeat: no-repeat;
-    background-size: 100% 1px;
+    @extend %link;
   }
 
   &__form {
@@ -51,6 +48,15 @@
       @include breakpoint(desktop) {
         width: 223px;
       }
+    }
+
+    &-response {
+      display: none;
+    }
+
+    &-honeypot {
+      left: -5000px;
+      position: absolute;
     }
   }
 }

@@ -8,6 +8,12 @@ $line-height-paragraph-mobile: 1.7;
 $margin-bottom-paragraph: 1.25rem; // 20px
 $margin-bottom-paragraph-mobile: 1rem; // 16px
 
+$margin-content: 10rem; // 160px;
+$margin-content-mobile: 6.25rem; //100px
+
+$fa-font-path: '../webfonts';
+
+
 
 
 
@@ -17,11 +23,3 @@ $margin-base: 1.5rem;
 $padding-base: 1.25rem;
 
 $border: 1px solid $neutral-500;
-$border-radius: 5px;
-
-$fa-font-path: '../webfonts';
-
-// custom
-$margin-to-content: 6 * $margin-base;
-$margin-between-content: 2 * $margin-base;
-$max-width-content: 760px;

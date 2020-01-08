@@ -50,7 +50,7 @@ cite {
 
 div,
 p {
-  color: $neutral-900;
+  color: $neutral-700;
   font-size: $font-size-paragraph;
   line-height: $line-height-paragraph;
   @include breakpoint(mobile) {

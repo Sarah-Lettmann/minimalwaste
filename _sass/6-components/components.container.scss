@@ -6,11 +6,11 @@
   padding-right: $page-side-padding;
 
   &--main {
-    margin-bottom: $margin-to-content;
-    margin-top: $margin-to-content;
+    margin-bottom: $margin-content;
+    margin-top: $margin-content;
     @include breakpoint(mobile) {
-      margin-bottom: .5 * $margin-to-content;
-      margin-top: .5 * $margin-to-content;
+      margin-bottom: $margin-content-mobile;
+      margin-top: $margin-content-mobile;
     }
   }
 }

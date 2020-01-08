@@ -2,3 +2,21 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+%menu-link {
+  background-image: linear-gradient($neutral-700, $neutral-700);
+  background-position: 50% 1.3em;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  @include transition-custom(background-size, .2s, ease-in, 0s);
+  @include attention {
+    background-size: 100% 1px;
+  }
+}
+
+%link {
+  background-image: linear-gradient($neutral-700, $neutral-700);
+  background-position: 50% 1.1em;
+  background-repeat: no-repeat;
+  background-size: 100% 1px;
+}

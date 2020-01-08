@@ -16,14 +16,8 @@
   }
 
   &__menu {
+    @extend %menu-text;
+    @extend %menu-link;
     background-image: linear-gradient($neutral-100, $neutral-100);
-    background-position: 50% 1.5em;
-    background-repeat: no-repeat;
-    background-size: 0% 1px;
-    text-transform: lowercase;
-    @include transition-custom(background-size, .2s, ease-in, 0s);
-    @include attention {
-      background-size: 100% 1px;
-    }
   }
 }

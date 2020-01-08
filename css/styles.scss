@@ -16,14 +16,15 @@
 @import '3-generic/generic.pseudo-classes';
 
 @import '4-elements/elements.headings';
-@import '4-elements/elements.navigations';
-@import '4-elements/elements.forms';
+@import '4-elements/elements.in-paragraphs';
 @import '4-elements/elements.links';
 @import '4-elements/elements.lists';
-@import '4-elements/elements.quotes';
-@import '4-elements/elements.tables';
 @import '4-elements/elements.images';
+@import '4-elements/elements.tables';
+@import '4-elements/elements.quotes';
+@import '4-elements/elements.forms';
 @import '4-elements/elements.text';
+@import '4-elements/elements.navigations';
 @import '4-elements/elements.frames';
 
 @import '5-objects/objects.skip-to-content';

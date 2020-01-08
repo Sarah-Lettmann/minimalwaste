@@ -1,0 +1,28 @@
+b,
+strong {
+  font-weight: 600;
+}
+
+em,
+i {
+  font-style: italic;
+}
+
+sub {
+  vertical-align: sub;
+}
+
+sup {
+  vertical-align: super;
+}
+
+mark {
+  background-color: $primary-200;
+}
+
+abbr {
+  color: $primary-600;
+  cursor: help;
+  font-weight: 600;
+  text-decoration: none;
+}

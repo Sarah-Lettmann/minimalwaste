@@ -1,16 +1,16 @@
 %button {
-  text-transform: lowercase;
+  @extend %menu-text;
   @include transition-custom(background-color, .1s, linear, 0s);
+  cursor: pointer;
 }
 
 input {
+  @include main-font;
   border: 0;
-  cursor: pointer;
   font-size: $font-size-paragraph;
   margin-bottom: 1.25rem;
   padding: 1.125rem;
   width: 100%;
-  @include main-font;
   @include breakpoint(mobile) {
     font-size: $font-size-paragraph-mobile;
     margin-bottom: 1rem;

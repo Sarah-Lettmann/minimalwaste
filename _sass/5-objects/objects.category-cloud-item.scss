@@ -1,10 +1,7 @@
 .category-cloud__list-item {
-  color: $neutral-800;
-  font-size: 1.25rem;
+  @extend %menu-text;
   padding-left: 6rem;
-  text-transform: lowercase;
   @include breakpoint(mobile) {
-    font-size: 1rem;
     padding-left: 2.5rem;
   }
 

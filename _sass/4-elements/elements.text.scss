@@ -1,34 +1,8 @@
-$mark-border: 3px solid $primary-300;
-
-b,
-strong {
-  font-weight: 700;
-}
-
-em,
-i {
-  font-style: italic;
-}
-
-sub {
-  vertical-align: sub;
-}
-
-sup {
-  vertical-align: super;
-}
-
-mark {
-  background-color: $primary-300;
-  border-left: $mark-border;
-  border-right: $mark-border;
-}
-
-abbr {
-  text-decoration: none;
-  border-bottom: 4px dotted $primary-500;
-  @include attention() {
-    color: $primary-500;
+%menu-text {
+  font-size: 1.25rem;
+  line-height: 1.75;
+  text-transform: lowercase;
+  @include breakpoint(mobile) {
+    font-size: 1rem;
   }
-  //@include transition(color);
 }

@@ -1,5 +1,6 @@
 // unica-one-regular - latin
 @font-face {
+  font-display: fallback;
   font-family: 'Unica One';
   font-style: normal;
   font-weight: 400;
@@ -14,6 +15,7 @@
 
 // montserrat-regular - latin
 @font-face {
+  font-display: fallback;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
@@ -28,6 +30,7 @@
 
 // montserrat-italic - latin
 @font-face {
+  font-display: fallback;
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 400;
@@ -42,6 +45,7 @@
 
 // montserrat-600 - latin
 @font-face {
+  font-display: fallback;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 600;
@@ -56,6 +60,7 @@
 
 // montserrat-600italic - latin
 @font-face {
+  font-display: fallback;
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 600;
@@ -74,5 +79,5 @@
 }
 
 @mixin headline-font {
-  font-family: 'Unica One', Georgia, display;
+  font-family: 'Unica One', Verdana, sans-serif;
 }
