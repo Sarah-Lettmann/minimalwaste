@@ -1,6 +1,23 @@
 a {
   color: inherit;
   text-decoration: none;
+
+  &[role='button'] {
+    @extend %button;
+    display: inline-block;
+    margin-bottom: 1.25rem;
+    padding: 1.125rem;
+    text-align: center;
+    width: 100%;
+  }
+
+  &.submit {
+    @extend %button-submit;
+  }
+
+  &.reset {
+    @extend %button-reset;
+  }
 }
 
 %menu-link {

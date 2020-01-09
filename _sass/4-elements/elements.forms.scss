@@ -4,6 +4,22 @@
   cursor: pointer;
 }
 
+%button-submit {
+  background-color: $primary-800;
+  color: $neutral-100;
+  @include attention {
+    background-color: $primary-900;
+  }
+}
+
+%button-reset {
+  background-color: $primary-300;
+  color: $neutral-800;
+  @include attention {
+    background-color: $primary-400;
+  }
+}
+
 input {
   @include main-font;
   border: 0;
@@ -19,20 +35,12 @@ input {
 
   &[type='submit'] {
     @extend %button;
-    background-color: $primary-800;
-    color: $neutral-100;
-    @include attention {
-      background-color: $primary-900;
-    }
+    @extend %button-submit;
   }
 
   &[type='reset'] {
     @extend %button;
-    background-color: $primary-300;
-    color: $neutral-800;
-    @include attention {
-      background-color: $primary-400;
-    }
+    @extend %button-reset;
   }
 
   &::placeholder {
