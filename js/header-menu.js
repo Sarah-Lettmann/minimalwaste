@@ -1,38 +1,34 @@
-var maxWidth = 1236;
-var mainMenu = $(".main-menu");
-
 // function to expand mobile menu when button is clicked
-$(".navigation__link--burger").on("click", function() {
-  var mainMenuToggle = $(this);
-  var burger = mainMenuToggle.children(".burger");
-  var submenuToggle = $(".menu__item--has-submenu > .menu__link");
-  if(mainMenu.hasClass("menu--hidden")) {
-    mainMenu.removeClass("menu--hidden");
-    mainMenuToggle.attr("aria-expanded", true);
-    burger.removeClass("burger--from-cross");
-    burger.addClass("burger--to-cross");
+document.getElementById("navigation__link--burger").addEventListener("click", function() {
+  var mainMenu = document.getElementById("main-menu");
+  var burger = document.getElementById("burger");
+  if(mainMenu.classList.contains("menu--hidden")) {
+    mainMenu.classList.remove("menu--hidden");
+    this.setAttribute("aria-expanded", true);
+    burger.classList.remove("burger--from-cross");
+    burger.classList.add("burger--to-cross");
   } else {
-    mainMenu.addClass("menu--hidden");
-    mainMenuToggle.attr("aria-expanded", false);
-    burger.removeClass("burger--to-cross");
-    burger.addClass("burger--from-cross");
+    mainMenu.classList.add("menu--hidden");
+    this.setAttribute("aria-expanded", false);
+    burger.classList.remove("burger--to-cross");
+    burger.classList.add("burger--from-cross");
   }
-});
+}, false);
 
 // function to expand submenu when parent is clicked
-$(".menu__link--has-submenu").on("click", function(e) {
-  e = e || window.event;
-  e.stopPropagation();
-  e.preventDefault();
-  // set classes to show or hide the main menu and pushes main area down
-  var submenuListItem = $(this).parent(".menu__item--has-submenu");
-  var submmenu = submenuListItem.children(".menu__submenu");
-  var submenuHeight = parseInt(submmenu.height());
-  if(submmenu.hasClass("menu__submenu--hidden")) {
-    submmenu.removeClass("menu__submenu--hidden");
-    $(this).attr("aria-expanded", true);
-  } else {
-    submmenu.addClass("menu__submenu--hidden");
-    $(this).attr("aria-expanded", false);
-  }
-});
+var submenuToggls = document.getElementsByClassName("menu__link--has-submenu");
+for(var i = 0; i < submenuToggls.length; i++) {
+  submenuToggls[i].addEventListener("click", function(e) {
+    e = e || window.event;
+    e.stopPropagation();
+    e.preventDefault();
+    var submenu = this.nextElementSibling;
+    if(submenu.classList.contains("menu__submenu--hidden")) {
+      submenu.classList.remove("menu__submenu--hidden");
+      this.setAttribute("aria-expanded", true);
+    } else {
+      submenu.classList.add("menu__submenu--hidden");
+      this.setAttribute("aria-expanded", false);
+    }
+  }, false);
+}

@@ -14,10 +14,13 @@ window.addEventListener("load", function() {
     googleTagManager2.setAttribute("style", "display:none;visibility:hidden");
     googleTagManagerNoScript = document.createElement("noscript");
     googleTagManagerNoScript.appendChild(googleTagManager2);
+    disqus = document.createElement("script");
+    disqus.setAttribute("src", "/js/disqus.js");
     document.getElementsByTagName("head")[0].appendChild(googleAdsense1);
     document.getElementsByTagName("head")[0].appendChild(googleAdsense2);
     document.getElementsByTagName("head")[0].appendChild(googleTagManager1);
     var body = document.getElementsByTagName("body")[0];
     body.insertBefore(googleTagManagerNoScript, body.childNodes[0]);
+    document.getElementById("footer-scripts").appendChild(disqus);
   }
 }, false);

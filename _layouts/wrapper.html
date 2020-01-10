@@ -15,7 +15,7 @@
     </main>
     {% include wrapper/footer.html %}
     {% include wrapper/cookie-consent.html %}
-    <footer>
+    <footer id="footer-scripts">
       <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
       <script type="text/javascript" src="/js/logo.js"></script>
       <script type="text/javascript" src="/js/header-menu.js"></script>
@@ -23,7 +23,6 @@
       {% if jekyll.environment == "production" %}
         <script type="text/javascript" src="/js/include-scripts.js"></script>
       {% endif %}
-      <script type="text/javascript" src="/js/comments.js"></script>
     </footer>
   </body>
 

@@ -23,18 +23,17 @@ function readCookie(name) {
 
 function checkCookiesAllowed() {
   var cookie = readCookie("cookie-notice");
-  console.log("read cookie");
   if(cookie) {
     if(cookie == "accept") {
-      console.log("cookies already accepted");
+      console.info("cookies already accepted");
       return true;
     } else if(cookie == "refuse") {
-      console.log("cookies already refused");
+      console.info("cookies already refused");
       return false;
     }
   } else {
     cookieNotice.classList.remove("cn-modal--hidden");
-    console.log("user has not chosen an option yet, show cookie notice");
+    console.info("user has not chosen an option yet, show cookie notice");
     return false;
   }
 }
@@ -42,12 +41,12 @@ function checkCookiesAllowed() {
 window.addEventListener("load", function() {
   // event listener for cookie notice buttons, create cookie with fitting value
   document.getElementById("cookie-notice__button--refuse").addEventListener("click", function() {
-    console.log("cookies refused");
+    console.info("cookies refused");
     createCookie("cookie-notice", "refuse", 31);
     location.reload();
   });
   document.getElementById("cookie-notice__button--accept").addEventListener("click", function() {
-    console.log("cookies accepted");
+    console.info("cookies accepted");
     createCookie("cookie-notice", "accept", 31);
     location.reload();
   });
