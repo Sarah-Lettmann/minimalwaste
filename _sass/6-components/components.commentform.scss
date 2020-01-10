@@ -1,6 +1,13 @@
 .comments {
   text-align: center;
 
+  &__button {
+    
+    &--hidden {
+      display: none;
+    }
+  }
+
   &__disqus {
     margin-top: 4*$margin-base;
   }
