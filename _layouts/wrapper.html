@@ -6,11 +6,9 @@
     <link rel="icon" type="image/x-icon" href="/assets/logos/favicon.ico" />
     <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png" />
     <link rel="stylesheet" href="/css/styles.css" />
-    {% include wrapper/google-scripts-in-head.html %}
   </head>
 
   <body class="site">
-    {% include wrapper/google-scripts-in-body.html %}
     {% include wrapper/header.html %}
     <main id="main" class="main main--{{ page.layout }}">
       {{ content }}
@@ -22,6 +20,9 @@
       <script type="text/javascript" src="/js/logo.js"></script>
       <script type="text/javascript" src="/js/header-menu.js"></script>
       <script type="text/javascript" src="/js/cookie-consent.js"></script>
+      {% if jekyll.environment == "production" %}
+        <script type="text/javascript" src="/js/include-scripts.js"></script>
+      {% endif %}
       <script type="text/javascript" src="/js/comments.js"></script>
     </footer>
   </body>
