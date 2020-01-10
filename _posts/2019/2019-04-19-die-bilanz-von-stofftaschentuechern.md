@@ -297,25 +297,19 @@ Zuerst mal der direkte Vergleich von einem Taschentuch zum anderen. Was machen d
 
 Deutlich wird das auch nochmal in dem nachfolgenden Diagramm. <mark>Baumwolle und selbst Bio-Baumwolle sind bei der Herstellung nur eines Taschentuchs sehr viel umweltschädlicher als Papier und Recyclingpapier.</mark> Wenn du mit der Maus über die Balken fährst oder draufklickst, bekommst du weitere Informationen angezeigt.
 
-<script src="/js/plotly.min.js"></script>
-<script src="/js/plotly-layout-config.js"></script>
-<div id="oneTissue" class="diagram"></div>
-<script src="/js/posts/2019-04-19-die-bilanz-eines-stofftaschentuchs.js"></script>
+![Bilanz eines einzelnen Stofftaschentuchs - Emissionen, Energie und Wasser im Vergleich](/assets/inpost-images/2019/2019-04-19-bilanz-einzelnes-stofftaschentuch.jpg "© {{ site.title }}")
 
 Allerdings ist das bei Einwegprodukten oft so. <mark>Was sie so umweltschädlich und Mehrwegprodukte hingegen so umweltfreundlich macht, zeigt sich erst bei der Nutzung über einen langen Zeitraum.</mark> Im Folgenden findest du du drei interaktive Diagramme, je eins für den Wasserverbrauch, eins für den Energieverbrauch und eins für die CO2-Emissionen, der jeweiligen Rohstoffe.
 
-<div id="co2" class="diagram"></div>
-<script src="/js/posts/2019-04-19-co2-emissionen.js"></script>
+![CO2-Emissionen der verschiedenen Rohstoffe in Kilogramm](/assets/inpost-images/2019/2019-04-19-co2-emissionen.jpg "© {{ site.title }}")
 
 Beim den CO2-Emissionen fällt sofort auf, dass **Baumwolle und Bio-Baumwolle schon nach ein paar Jahren unschlagbar** sind. Denn in der Produktion von Stofftaschentüchern fällt zwar erstmal mehr CO2 an, das wird aber durch das Nicht-immer-wieder-neu-kaufen sehr schnell kompensiert.
 
-<div id="energy" class="diagram"></div>
-<script src="/js/posts/2019-04-19-energieverbrauch.js"></script>
+![Energieverbrauch der verschiedenen Rohstoffe in Kilowattstunden](/assets/inpost-images/2019/2019-04-19-energieverbrauch.jpg "© {{ site.title }}")
 
 Beim Energieverbauch ergibt sich ein ähnliches Bild. Allerdings ist hier auffällig, dass sich **Recyclingpapier wesentlich besser schlägt als herkömmliches Papier**. Es spart deutlich mehr als die Hälfte der Energie ein.
 
-<div id="water" class="diagram"></div>
-<script src="/js/posts/2019-04-19-wasserverbrauch.js"></script>
+![Wasserverbauche der verschiedenen Rohstoffe in Litern](/assets/inpost-images/2019/2019-04-19-wasserverbrauch.jpg "© {{ site.title }}")
 
 Beim Wasser sind die großen Verlierer Taschentücher aus normalem Papier. Alle anderen Rohstoffe schlagen sich vergleichsweise gut. <mark>Die Baumwolle überholt Papier nach geschätzt 11 bis 12 Jahren, Bio-Baumwolle ist ab dem circa achten Jahr wasserärmer.</mark> **Besonders wasserarm sind Recyclingtaschentücher**, selbst wenn die Bio-Baumwolle sich nach sehr vielen Jahren dann irgendwann doch rentiert.
 
