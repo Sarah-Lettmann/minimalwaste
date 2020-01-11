@@ -1,29 +1,46 @@
+$image-height: 650px;
+$image-width: 750px;
+
 .post {
 
   &__header {
+    height: $image-height;
     margin-bottom: 7.5rem;
+    padding-top: 285px;
     position: relative;
+
+    &::after {
+      background-color: rgba($primary-200, .6);
+      content: '';
+      height: $image-height;
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: $image-width;
+      z-index: -1;
+    }
   }
 
   &__title {
-
+    margin: 0 3rem 0 0;
   }
 
-  &__categories {
+  &__category {
     @extend %menu-text;
-  }
-
-  &__meta {
-
+    @extend %menu-link;
+    background-position: 50% 1.1em;
   }
 
   &__cover {
     display: block;
-    height: 650px;
+    height: $image-height;
+    margin-bottom: 0;
+    overflow: hidden;
     position: absolute;
     right: 0;
     top: 0;
-    width: 750px;
+    width: $image-width;
+    z-index: -1;
   }
 
   &__body {

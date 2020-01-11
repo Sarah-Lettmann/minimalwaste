@@ -1,8 +1,18 @@
 %menu-text {
+  color: $neutral-500;
   font-size: 1.25rem;
   line-height: 1.75;
   text-transform: lowercase;
   @include breakpoint(mobile) {
     font-size: 1rem;
+  }
+}
+
+%info-text {
+  color: $neutral-500;
+  font-size: 1rem;
+  line-height: 1.5;
+  @include breakpoint(mobile) {
+    font-size: .75rem;
   }
 }
