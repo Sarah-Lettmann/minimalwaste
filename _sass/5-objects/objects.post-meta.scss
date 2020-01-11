@@ -1,0 +1,9 @@
+$author-image-size: 60px;
+
+.post__meta {
+
+  .author-image {
+    height: $author-image-size;
+    width: $author-image-size;
+  }
+}

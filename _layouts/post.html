@@ -1,34 +1,8 @@
 ---
 layout: wrapper
 ---
-<article class="post container container--main" aria-label="{{ page.title }}">
-    <header class="post__header">
-        <h1 class="post__title">{{ page.title }}</h1>
-        <p class="post__subtitle">{{ page.subtitle }}</p>
-        <div class="post__meta">
-          <span>veröffentlicht am <time datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</time></span>
-          <span>von <a class="post__link" href="#author" title="mehr über {{ site[page.author].name }}">{{ site[page.author].name }}</a></span>
-          {% if page.categories.first %}
-            {% assign cat = site.data.categories[page.categories.first] %}
-            <span>in
-              <a class="post__link" href="{{ cat.url }}" title="zur Kategorie {{ cat.name }}">{{ cat.name }}</a>
-              {% for category in page.categories offset:1 %}
-                {% assign cat = site.data.categories[category] %}
-                , <a class="post__link" href="{{ cat.url }}" title="zur Kategorie {{ cat.name }}">{{ cat.name }}</a>
-              {% endfor %}
-            </span>
-          {% endif %}
-        </div>
-        <picture class="post__cover">
-          <source srcset="{{ page.image | remove: '.jpg' }}-mobile.jpg" media="(max-width: 540px)">
-          <img src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
-        </picture>
-    </header>
-    <div class="post__body content">
-        {{ content }}
-    </div>
-    {% include post/sharing.html %}
-    {% include post/author.html %}
-    {% include ads/post-bottom.html %}
-    {% include post/comments.html %}
+<article class="post container" aria-label="{{ page.title }}">
+  {% include post/header.html %}
+  {% include post/body.html %}
+  {% include post/comments.html %}
 </article>

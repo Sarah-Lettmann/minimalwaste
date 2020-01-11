@@ -1,74 +1,36 @@
 .post {
-  overflow-x: hidden;
 
   &__header {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: $margin-base;
+    margin-bottom: 7.5rem;
+    position: relative;
   }
 
   &__title {
-    order: 2;
-    margin-right: $margin-base;
-    @include breakpoint(smallAndUp) {
-      margin-right: 4*$margin-base;
-    }
 
-    > a {
-      box-shadow: none;
-    }
   }
 
-  &__subtitle {
-    order: 3;
-    color: $neutral-500;
-    @include main-font();
-    font-size: 1.5*$font-size-base;
-    line-height: 1.2;
-    @include breakpoint(small) {
-      font-size: 1.3*$font-size-base;
-    }
+  &__categories {
+    @extend %menu-text;
   }
 
   &__meta {
-    order: 1;
-    font-size: $font-size-base;
-    @include main-font;
-    @include attention() {
-      color: unset;
-    }
-    @include breakpoint(small) {
-      font-size: 0.8*$font-size-base;
-    }
+
   }
 
   &__cover {
-    order: 4;
     display: block;
-    max-height: 773px; //ie bug with picture and flexbox
+    height: 650px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 750px;
   }
 
   &__body {
     max-width: 712px;
-    position: relative;
-
-    > p:first-of-type {
-
-      &::first-letter {
-        font-size: 3.2*$font-size-paragraph;
-        line-height: 0.85;
-        float: left;
-        margin-right: 0.25*$margin-base;
-        @include breakpoint(small) {
-          font-size: 2.8*$font-size-paragraph;
-        }
-      }
-    }
   }
 
-  &__affiliate-hint {
-    @include main-font;
-    font-size: $font-size-base;
-    font-style: italic;
+  &__subtitle {
+    font-weight: 600;
   }
 }

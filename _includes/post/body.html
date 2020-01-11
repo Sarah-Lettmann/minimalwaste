@@ -1,0 +1,10 @@
+<div class="post__body">
+  <div class="post__content">
+    <p class="post__subtitle">{{ page.subtitle }}</p>
+    {{ content }}
+  </div>
+  <aside class="post__sidebar">
+    {% include post/related-posts.html %}
+  </aside>
+  {% include post/sharing.html %}
+</div>
