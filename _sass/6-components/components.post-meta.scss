@@ -1,11 +1,16 @@
 $author-image-size: 64px;
+$author-image-size-mobile: 44px;
 
 .post__meta {
   align-items: center;
   display: flex;
   margin-left: 185px;
   max-width: 250px;
-  position: relative;
+  position: absolute;
+  @include breakpoint(mobile) {
+    bottom: 0;
+    margin-left: 0;
+  }
 
   &::before,
   &::after {
@@ -13,19 +18,28 @@ $author-image-size: 64px;
     height: $author-image-size - 4px;
     position: absolute;
     width: $author-image-size - 4px;
+    @include breakpoint(mobile) {
+      height: $author-image-size-mobile - 4px;
+      width: $author-image-size-mobile - 4px;
+    }
   }
 
   &::before {
-    background: url('/assets/icons/ellipse-top-left.svg') no-repeat;
+    background: url('/assets/icons/ellipse-top-left.svg') top left no-repeat;
     left: -3px;
     top: -2px;
+    @include breakpoint(mobile) {
+      background-size: 25px;
+    }
   }
 
   &::after {
-    background: url('/assets/icons/ellipse-down-right.svg') no-repeat;
-    background-position: right bottom;
+    background: url('/assets/icons/ellipse-down-right.svg') right bottom no-repeat;
     left: 6px;
     top: 6px;
+    @include breakpoint(mobile) {
+      background-size: 25px;
+    }
   }
 
   &-author-image {
@@ -34,6 +48,10 @@ $author-image-size: 64px;
     margin: 0 1.125rem 0 0;
     padding: 2px;
     width: $author-image-size;
+    @include breakpoint(mobile) {
+      height: $author-image-size-mobile;
+      width: $author-image-size-mobile;
+    }
   }
 
   &-text {

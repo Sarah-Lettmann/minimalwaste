@@ -19,5 +19,6 @@
     @extend %menu-text;
     @extend %menu-link;
     background-image: linear-gradient($neutral-100, $neutral-100);
+    color: $neutral-100;
   }
 }

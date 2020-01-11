@@ -1,5 +1,5 @@
 %button {
-  @extend %menu-text;
+  @extend %button-text;
   @include transition-custom(background-color, .1s, linear, 0s);
   cursor: pointer;
 }
