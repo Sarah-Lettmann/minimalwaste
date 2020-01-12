@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0060"
-title: "Selbstgemachte Badepralinen ganz ohne Verpackung"
+title: "Selbstgemachte Badepralinen ohne Verpackung"
 subtitle: "Mit nur vier Zutaten zu einem müllfreien Badeerlebnis"
 date: 2019-05-10
 categories: [Zero Waste, Müllfreies Badezimmer, DIY]
@@ -9,6 +9,7 @@ description: "Diese selbstgemachten Badepralinen stellen eine super Alternative 
 keywords: [Badepralinen, Badebomben]
 image: "/assets/title-images/2019/2019-05-10-selbstgemachte-badepralinen.jpg"
 author: sarah-lettmann
+related-posts: ["0041", "0024", "0058", "0040"]
 ---
 Badebomben sind in der Regel die Alternative, wenn man auf müllfreien Badezusatz umsteigen will. Allerdings sind diese meist ziemlich teuer und man bekommt sie auch nicht überall. Deshalb habe ich  zu Anfang des Jahres beschlossen zu lernen, diese selbst zu herzustellen. Hier das Ergebnis.
 
@@ -80,14 +81,6 @@ Und damit kommen wir auf Gesamtkosten von **4,50€ für 10 bis 12 Badekugeln**,
 
 ## Fazit
 Ich persönlich bin sehr zufrieden mit den Badepralinen. Ich hatte mir für dieses Jahr vorgenommen Badebomben selbst zu machen, da ich regelmäßig Bade und diese aber recht teuern sind. Ich habe jetzt einen guten Ersatz gefunden, der sehr günstig ist und sich super schnell zusammen mischen lässt. Und, ach ja, hatte ich schon erwähnt, dass man sie auch gut verschenken kann?!
-
-Noch mehr zum Thema Zero Waste im Bad, findest du hier:
-
-[Das 1x1 zum Rasierhobel](/blog/das-1-mal-1-zum-rasierhobel/)
-
-[Festes Shampoo: Was du alles wissen solltest!](/blog/festes-shampoo-was-du-alles-wissen-solltest/)
-
-[Menstrua­tionstasse vs. Tampon](/blog/menstruationstasse-vs-tampon/)
 
 Lass mich auf jeden Fall wissen, ob du die Badepralinen ausprobiert hast und wie du sie findest. Bis zum nächsten Mal,
 

@@ -1,19 +1,13 @@
 .sharing {
-
+  display: flex;
+  flex-direction: column;
+  margin: 0 3rem;
+  padding-top: 3.5rem;
   @include breakpoint(small) {
     text-align: center;
   }
 
-  &__title {
-    display: inline;
-    font-size: $font-size-paragraph;
-    @include breakpoint(small) {
-      display: block;
-      margin-bottom: 0.75*$margin-base;
-    }
-  }
-
-  &__icon {
-    margin: 0 0.5*$margin-base;
+  &--fixed {
+    position: fixed;
   }
 }

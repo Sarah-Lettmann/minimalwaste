@@ -3,7 +3,7 @@
 
 $fa-font-path:                "../webfonts" !default;
 $fa-font-size-base:           16px !default;
-$fa-font-display:             auto;
+$fa-font-display:             fallback;
 $fa-css-prefix:               fa !default;
 $fa-version:                  "5.7.1" !default;
 $fa-border-color:             #eee !default;
@@ -1324,7 +1324,7 @@ $fa-fw-width:                 (20em / 16);
 // $fa-var-weight: \f496;
 // $fa-var-weight-hanging: \f5cd;
 // $fa-var-weixin: \f1d7;
-// $fa-var-whatsapp: \f232;
+ $fa-var-whatsapp: \f232;
 // $fa-var-whatsapp-square: \f40c;
 // $fa-var-wheelchair: \f193;
 // $fa-var-whmcs: \f40d;

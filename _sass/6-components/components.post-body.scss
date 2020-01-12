@@ -1,0 +1,21 @@
+.post {
+
+  &__body {
+    display: flex;
+    margin: 0 auto;
+    max-width: $max-width-without-padding;
+  }
+
+  &__subtitle {
+    font-weight: 600;
+  }
+
+  &__content {
+    max-width: 712px;
+  }
+
+  &__sidebar {
+    margin-left: 4rem;
+    width: 300px;
+  }
+}

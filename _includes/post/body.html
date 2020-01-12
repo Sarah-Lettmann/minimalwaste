@@ -1,10 +1,12 @@
 <div class="post__body">
+  {% include post/sharing.html %}
   <div class="post__content">
     <p class="post__subtitle">{{ page.subtitle }}</p>
     {{ content }}
   </div>
   <aside class="post__sidebar">
+    {% include post/lead-magnet.html %}
+    {% include post/sources.html %}
     {% include post/related-posts.html %}
   </aside>
-  {% include post/sharing.html %}
 </div>
