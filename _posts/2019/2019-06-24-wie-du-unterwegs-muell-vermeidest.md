@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0064"
-title: "Wie du unterwegs Müll vermeidest: Zero Waste unterwegs"
+title: "Wie du unterwegs Müll vermeidest"
 subtitle: "Von Spontan-Einkäufen bis zum Partyabend"
 date: 2019-06-24
 categories: [Zero Waste]

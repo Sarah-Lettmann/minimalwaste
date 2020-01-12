@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0043"
-title: "Leben in der Konsum&shy;gesellschaft: Warum ist das so?"
+title: "Warum leben wir in einer Konsum&shy;gesellschaft?"
 subtitle: "Oder: Wie Werbung uns manipuliert"
 date: 2018-11-07
 categories: [Minimalismus]

@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0052"
-title: "Erkältungen natürlich bekämpfen: 7 Tipps für schnelle Besserung"
+title: "7 Tipps um Erkältungen natürlich zu bekämpfen"
 subtitle: "Wie Hausmittel dir helfen Erkältungen zu besiegen"
 date: 2019-01-30
 categories: [Zero Waste]

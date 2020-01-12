@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0025"
-title: "Plastikfrei einkaufen - Alle Onlineshops die du kennen solltest"
+title: "Plastikfrei einkaufen: Alle Onlineshops"
 subtitle: "Wo du plastik- und müllfreie Produkte online findest"
 date: 2017-09-17
 categories: [Zero Waste]

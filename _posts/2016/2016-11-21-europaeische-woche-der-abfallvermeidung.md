@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0012"
-title: "Europäische Woche der Abfall&shy;vermeidung: 6 Ideen zum Ausprobieren"
+title: "Woche der Abfall&shy;vermeidung: 6 Ideen"
 subtitle: "Müllreduzierung, Wiedreverwendung und Recycling sind die Stichwörter"
 date: 2016-11-21
 categories: [Zero Waste]

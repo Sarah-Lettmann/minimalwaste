@@ -10,6 +10,7 @@ keywords: [Planetary Health, Planetary Health Diet]
 image: "/assets/title-images/2019/2019-08-07-planetary-health-diet.jpg"
 author: sarah-lettmann
 related-posts: ["0063", "0054", "0032"]
+
 ---
 Wenn es um das Klima geht, dann können wir viele Dinge tun, um unseren CO2 Fußabdruck möglichst klein zu halten. Eine Stellschraube ist die Ernährung, vor allem weniger Fleisch lautet die Devise. Aber wie viel weniger muss es wirklich sein und ist vegan die ideale Lösung? Die Antworten darauf liefert und die Planetary Health Diet.
 
@@ -93,13 +94,9 @@ Ich finde bei dieser Ausarbeitung handelt es sich um ein sehr gut erarbeitet Pap
 
 Was hältst du von den Empfehlungen und wie ernährst du dich bisher? Will du daran in Zukunft was ändern? Wie bei vielen Dingen denke ich, dass hier jeder etwas für sich und die Umwelt tun kann, aber die grundsätzlichen Veränderungen müssen aus der Politik und der Industrie kommen. Hoffen wir, dass ein Wille dazu in den nächsten Jahren präsent wird.
 
-{% include post/related-posts.html %}
-
 Bis zum nächsten Mal,
 
 \- Sarah
-
-&nbsp;
 
 ### Weitere Infos
 1. [EAT-Lancet Commission](https://www.thelancet.com/commissions/EAT)

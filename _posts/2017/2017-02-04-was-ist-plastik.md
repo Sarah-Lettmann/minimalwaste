@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0018"
-title: "Was ist Plastik eigentlich genau? - Plastik unter der Lupe (1)"
+title: "Was ist Plastik eigentlich genau?"
 subtitle: "Das kritische Material genauer betrachtet"
 date: 2017-02-04
 categories: [Zero Waste, Rohstoffe und Recycling]

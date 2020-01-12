@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0066"
-title: "Zero Waste Deodorant DIY: Einfach Deo selber machen"
+title: "Zero Waste Deodorant: Deo einfach selber machen"
 subtitle: "Schnell und einfach ein natürliches und müllfreies Deodorant selber machen"
 date: 2019-07-15
 categories: [Zero Waste, Müllfreies Badezimmer, DIY]

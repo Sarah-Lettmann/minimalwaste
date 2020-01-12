@@ -1,7 +1,7 @@
 ---
 layout: post
 uid: "0061"
-title: "Minimalistisch Leben: Meine Erfahrungen nach über 4 Jahren"
+title: "Minimalistisch Leben: Meine Erfahrungen nach 4 Jahren"
 subtitle: "Was ich gelernt habe und wie es mich verändert hat"
 date: 2019-05-20
 categories: [Minimalismus]
