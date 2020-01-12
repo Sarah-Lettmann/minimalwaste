@@ -1,0 +1,28 @@
+.lead-magnet {
+  padding: 0 1.25rem 1.25rem;
+  position: relative;
+
+  &::before {
+    background-color: $primary-300;
+    bottom: 0;
+    content: '';
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 134px;
+    z-index: -1;
+  }
+
+  &__image {
+    margin: 0 auto;
+    width: 220px;
+  }
+
+  &__title {
+    margin-top: 1.25rem;
+  }
+
+  &__text {
+    margin-bottom: 0;
+  }
+}
