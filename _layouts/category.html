@@ -11,7 +11,9 @@ layout: wrapper
   {% for post in site.categories[page.category] %}
     <article class="post post--category" aria-label="{{ post.title }}">
       <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
-        <img class="post__cover" src="{{ post.image }}" alt="{{ post.title }}" />
+        <div class="cover">
+          <img class="cover__image" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />
+        </div>
       </a>
       <div class="post__text">
         <h2 class="post__title">

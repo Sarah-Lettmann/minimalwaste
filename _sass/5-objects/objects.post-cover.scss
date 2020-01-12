@@ -1,0 +1,13 @@
+.cover {
+  background-color: $primary-200;
+
+  &__image {
+    height: 100%;
+    margin-bottom: 0;
+    object-fit: cover;
+    opacity: .4;
+    @include breakpoint(mobile) {
+      opacity: .2;
+    }
+  }
+}
