@@ -1,5 +1,9 @@
-.skip-to-content {
+[href='#main'] {
   position: absolute;
-  top: 0;
-  left: -1000px;
+  right: 100%;
+  top: 80px;
+
+  &:focus {
+    right: auto;
+  }
 }
