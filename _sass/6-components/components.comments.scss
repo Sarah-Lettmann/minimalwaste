@@ -1,0 +1,13 @@
+.comments {
+  margin-bottom: 10rem;
+  @include breakpoint(mobile) {
+    margin-bottom: 6rem;
+  }
+
+  &__button {
+
+    &--hidden {
+      display: none;
+    }
+  }
+}

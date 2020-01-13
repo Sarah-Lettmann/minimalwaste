@@ -1,75 +1,25 @@
 .related-posts {
-  margin: 2*$margin-base 0;
-  @include breakpoint(mediumAndDown) {
-    margin-bottom: $margin-base;
+
+  .post {
+    margin-bottom: 3rem;
   }
 
-  &__title {
-    @include main-font;
-    font-weight: 700;
-    font-size: 1.5*$font-size-base;
+  .cover {
+    height: 300px;
+  }
+
+  .categories {
     text-align: left;
   }
 
-  &__posts {
-    overflow-x: hidden;
-    @include breakpoint(mediumAndDown) {
-      overflow-x: scroll;
-    }
-
-    &::-webkit-scrollbar {
-      display: none;
-    }
+  hr {
+    margin: 0;
+    width: 60px;
   }
 
-  &__scroll {
-    display: none;
-    @include breakpoint(mediumAndDown) {
-      display: flex;
-      justify-content: space-between;
-    }
-
-    &-arrow {
-      padding: 0.5*$padding-base;
-      font-size: 1.2*$font-size-base;
-      cursor: pointer;
-    }
-  }
-
-  .post {
-    width: 245px;
-    height: 300px;
-    flex-shrink: 0;
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    //@include transition(all);
-    @include attention() {
-      opacity: 0.7;
-    }
-    @include breakpoint(small) {
-      width: 200px;
-    }
-
-    &__link {
-      display: block;
-      height: 100%;
-      box-shadow: none;
-      display: flex;
-    }
-
-    &__title {
-      width: 100%;
-      padding: 2*$padding-base $padding-base;
-      margin: 0;
-      font-size: 1.2*$font-size-base;
-      font-weight: normal;
-      background: linear-gradient(to top, rgba(0,0,0, 0.8) 0%,rgba(0,0,0,0) 100%);
-      color: $neutral-100;
-      align-self: flex-end;
-      @include breakpoint(small) {
-        font-size: $font-size-base;
-      }
-    }
+  .title {
+    @extend h4;
+    margin-top: 0;
+    text-align: left;
   }
 }

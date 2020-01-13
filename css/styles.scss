@@ -8,12 +8,15 @@
 @import '1-settings/settings.global';
 @import '1-settings/settings.fontawesome';
 
+
 @import '2-tools/tools.mixins';
+
 
 @import '3-generic/generic.reset';
 @import '3-generic/generic.box-sizing';
 @import '3-generic/generic.shared';
 @import '3-generic/generic.pseudo-classes';
+
 
 @import '4-elements/elements.headings';
 @import '4-elements/elements.in-paragraphs';
@@ -28,6 +31,7 @@
 @import '4-elements/elements.navigations';
 @import '4-elements/elements.frames';
 
+
 @import '5-objects/objects.skip-to-content';
 @import '5-objects/objects.menu-item';
 @import '5-objects/objects.menu-link';
@@ -41,30 +45,36 @@
 @import '5-objects/objects.post-categories';
 @import '5-objects/objects.post-cover';
 
+
 @import '6-components/components.header';
 @import '6-components/components.branding';
 @import '6-components/components.navigation';
 @import '6-components/components.menu';
+
 @import '6-components/components.newsletter';
 @import '6-components/components.category-cloud';
 @import '6-components/components.social';
 @import '6-components/components.bottom';
+
 @import '6-components/components.container';
+
 @import '6-components/components.post';
 @import '6-components/components.post-header';
 @import '6-components/components.post-meta';
 @import '6-components/components.post-body';
+@import '6-components/components.sharing';
 @import '6-components/components.post-sidebar';
 @import '6-components/components.lead-magnet';
+@import '6-components/components.sources';
+@import '6-components/components.related-posts';
+@import '6-components/components.comments';
 
 @import '6-components/components.page';
 @import '6-components/components.category';
 @import '6-components/components.search';
 @import '6-components/components.thank-you-pages';
-@import '6-components/components.related-posts';
-@import '6-components/components.commentform';
-@import '6-components/components.sharing';
 @import '6-components/components.download';
 @import '6-components/components.cookie-consent';
+
 
 @import '7-utilities/utilities.print';

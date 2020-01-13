@@ -1,20 +1,23 @@
-{% comment %}
-  Einbinden mit {% include related-posts.html %}
-{% endcomment %}
-<section class="related-posts"  aria-labelledby="related-posts__title">
-  <h3 id="related-posts__title" class="related-posts__title">Ähnliche Beiträge:</h3>
-  <div class="related-posts__posts flex">
+<div class="related-posts">
+  <h2 class="related-posts__title">Ähnliche Beiträge</h2>
+  <div class="related-posts__posts">
     {% for uid in page.related-posts %}
       {% assign post = site.posts | where: "uid", uid | first %}
-      <div class="post flex__item" style="background-image: url('{{ post.image | remove: '.jpg' }}-grid.jpg');">
+      <div class="post">
         <a class="post__link" href="{{ post.url }}">
-          <h4 class="post__title">{{ post.title }}</h4>
+          <div class="cover">
+            <img class="cover__image" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
+          </div>
+          <div class="categories">
+            {% if page.categories.first %}
+              {% assign cat = site.data.categories[page.categories.first] %}
+              <a class="categories__link" href="{{ cat.url }}" title="zur Kategorie {{ cat.name }}">{{ cat.name }}</a>
+            {% endif %}
+          </div>
+          <hr />
+          <h3 class="title">{{ post.title }}</h3>
         </a>
       </div>
     {% endfor %}
   </div>
-  <div class="related-posts__scroll">
-    <span class="related-posts__scroll-arrow related-posts__scroll-arrow--left fas fa-arrow-left"></span>
-    <span class="related-posts__scroll-arrow related-posts__scroll-arrow--right fas fa-arrow-right"></span>
-  </div>
-</section>
+</div>

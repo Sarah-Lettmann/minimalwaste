@@ -3,6 +3,7 @@
   <div class="post__content">
     <p class="post__subtitle">{{ page.subtitle }}</p>
     {{ content }}
+    {% include post/comments.html %}
   </div>
   <aside class="post__sidebar">
     {% include post/lead-magnet.html %}

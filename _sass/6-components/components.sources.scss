@@ -1,0 +1,19 @@
+.sources {
+
+  &__list {
+    margin: 0;
+
+    &-item {
+      padding-left: 0;
+
+      &::before {
+        content: none;
+      }
+    }
+  }
+
+  &__link {
+    @extend %menu-link;
+    background-position: 50% 1.1em;
+  }
+}
