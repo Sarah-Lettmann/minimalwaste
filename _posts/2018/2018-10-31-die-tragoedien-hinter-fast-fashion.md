@@ -38,8 +38,6 @@ Und glaub nicht, dass die Arbeiter_innen das alles ruhig über sich ergehen lass
 
 Was ist also konkret so schlimm daran, dass unsere Kleidung in diesen Ländern produziert wird?
 
-{% include post/related-posts.html %}
-
 ## Die Gründe
 
 ### Keine faire Entlohnung
@@ -96,8 +94,6 @@ Ich habe inzwischen schon recht viele Stücke Second Hand gekauft. In der Regel 
 &nbsp;
 
 Ich hoffe dieser Beitrag sorgt dafür, dass du dich in Zukunft etwas bewusster mit deinem Kaufverhalten und deiner Kleidung auseinander setzt. Denn es sind eben nicht nur die niedrigen Arbeitslöhne, die von einem Einkauf von H&M abhängen, sondern Menschenleben.
-
-{% include post/related-posts.html %}
 
 Bis nächst Woche.
 

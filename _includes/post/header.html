@@ -1,5 +1,6 @@
 <header class="post__header">
   <div class="post__header-text">
+    <h1 class="title">{{ page.title }}</h1>
     <div class="categories">
       {% if page.categories.first %}
         {% assign cat = site.data.categories[page.categories.first] %}
@@ -9,9 +10,8 @@
           | <a class="categories__link" href="{{ cat.url }}" title="zur Kategorie {{ cat.name }}">{{ cat.name }}</a>
         {% endfor %}
       {% endif %}
+      <hr />
     </div>
-    <hr />
-    <h1 class="title">{{ page.title }}</h1>
   </div>
   <div class="cover">
     <img class="cover__image" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" />

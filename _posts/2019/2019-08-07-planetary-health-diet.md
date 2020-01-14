@@ -46,8 +46,6 @@ Und auch die **Veränderung der Landschaft**, primär für landwirtschaftliche Z
 
 Wir haben also ganz schön viel zu tun, auch unabhängig von der reinen Ernährung. <mark>Die Art wie wir Nahrung anbauen und Lebensmittel produzieren muss sich in den nächsten Jahrzehnten radikal ändern, damit wir unser Überleben sichern können.</mark>
 
-{% include post/related-posts.html %}
-
 ## Welche Auswirkungen hat unsere Ernährung auf uns?
 Und damit nicht genug hat nicht nur unsere schlechte Ernährung viele Nachteile für uns, sondern auch die Veränderungen, die wir durch nicht nachhaltiges Wirtschaften an der Natur hervorrufen - die eben aufgezählten Faktoren. <mark>Eine ungesunde Ernährung stellt eine größeres Risiko für Erkrankungen und Serblichkeit dar, als Alkohol, Drogen und Tabakkonsum zusammen.</mark> Für den Menschen bedeutet das:
 * Unterernährung, Unterentwicklung und Hungereleiden

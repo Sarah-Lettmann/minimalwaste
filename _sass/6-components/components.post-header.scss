@@ -13,11 +13,14 @@
 
   &-text {
     bottom: 100px;
+    display: flex;
+    flex-direction: column;
     position: absolute;
   }
 
   .title {
     margin: 0 3rem 0 0;
+    order: 2;
     @include breakpoint(mobile) {
       margin-right: 0;
     }

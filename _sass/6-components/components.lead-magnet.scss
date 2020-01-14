@@ -13,8 +13,14 @@
     z-index: -1;
   }
 
+  &__link {
+    display: flex;
+    flex-direction: column;
+  }
+
   &__image {
     margin: 0 auto;
+    order: -1;
     width: 220px;
   }
 

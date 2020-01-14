@@ -20,5 +20,9 @@
     @include breakpoint(mobile) {
       margin: 0 0 6rem;
     }
+
+    a {
+      @extend %link;
+    }
   }
 }
