@@ -1,7 +1,17 @@
 .related-posts {
 
+  &__posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
   .post {
     margin-bottom: 3rem;
+    max-width: 300px;
+    @include breakpoint(mobile) {
+      margin: 0 1.25rem 3rem;
+    }
   }
 
   .cover {

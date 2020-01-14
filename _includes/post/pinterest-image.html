@@ -1,0 +1,7 @@
+{% if page.pinterest-image %}
+<div class="pinterest-image">
+  <h2 class="pinterest-image__title">Pin it!</h2>
+  <img class="pinterest-image__image" src="{{ page.pinterest-image }}" alt="{{ page.title }}" title="Pin it @ {{ site.title }}"
+    data-pin-url="{{ page.url }}" data-pin-description="{{ page.title }}" />
+</div>
+{% endif %}

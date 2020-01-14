@@ -9,11 +9,12 @@
     left: 0;
     position: absolute;
     right: 0;
-    top: 134px;
+    top: 8rem;
     z-index: -1;
   }
 
   &__link {
+    align-items: center;
     display: flex;
     flex-direction: column;
   }
@@ -30,5 +31,6 @@
 
   &__text {
     margin-bottom: 0;
+    max-width: 400px;
   }
 }

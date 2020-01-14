@@ -8,7 +8,9 @@ categories: [Zero Waste, Müllfreies Badezimmer, DIY]
 description: "Zero Waste Deodorant ist sehr einfach und schnell selbst gemacht. Ich zeige dir sowohl eine Variante zum Sprühen als auch ein müllfreies Deo in fester Form."
 keywords: [Zero Waste Deodorant, Deo selber machen, mülllfreies Deo]
 image: "/assets/title-images/2019/2019-07-15-zero-waste-deodorant-deo-selber-machen.jpg"
+pinterest-image: "/assets/pinterest-images/2019/2019-07-15-zero-waste-deodorant-deo-selber-machen.jpg"
 author: sarah-lettmann
+related-posts: ["0060", "0024", "0058", "0041", "0040", "0026"]
 ---
 Kein Mensch will stinken. Und obwohl das effektivste Mittel dagegen wohl regelmäßiges Duschen ist, wissen wir doch alle, dass man tagsüber im Job oder unterwegs ganz schön ins Schwitzen geraten kann. Was da hilft ist ein Deo. Aber da das hier ein nachhaltiger und müllfreie Blog ist, soll es bitte ein Zero Waste Deodorant sein. Wie man das selber macht, zeige ich dir heute - einmal zum Sprühen und einmal in einer festen Variante.
 
@@ -85,14 +87,6 @@ Damit kommen wir auf Gesamtkosten von 0,77€ für das feste Zero Waste Deodoran
 
 ## Fazit
 Das eigene Deo ist finde ich ein richtig guter Start, wenn man mit Zero Waste anfängt und es günstig halten möchte. Außerdem ist es sehr einfach und schnell mit wenigen Zutaten selbst zu machen, wirksam und man weiß, was drin ist.
-
-Für weitere einfache DIYs und Infos zu den Kosten von Zero Waste empfehle ich dir mal hier vorbei zu schauen:
-
-[Selbstgemachte Badepralinen ganz ohne Verpackung](/blog/selbstgemachte-badepralinen/)
-
-[Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/)
-
-[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer/)
 
 Bis zum nächsten Mal,
 

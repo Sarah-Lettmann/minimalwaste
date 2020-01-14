@@ -1,6 +1,9 @@
 .post__sidebar {
   text-align: center;
   width: 300px;
+  @include breakpoint(mobile) {
+    width: 100%;
+  }
 
   > * {
     margin-bottom: 5rem;
