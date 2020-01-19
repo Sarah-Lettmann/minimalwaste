@@ -41,11 +41,8 @@ ol {
       color: $primary-500;
       content: counter(listNumbers, decimal-leading-zero);
       font-weight: bold;
-      left: $padding-base;
+      left: 0;
       position: absolute;
-      @include breakpoint(small) {
-        left: .25 * $padding-base;
-      }
     }
   }
 }

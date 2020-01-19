@@ -16,17 +16,4 @@
   &__subtitle {
     font-weight: 600;
   }
-
-  &__content {
-    max-width: 752px;
-    padding: 0 1.25rem;
-    @include breakpoint(mobile) {
-      margin-bottom: 6rem;
-      max-width: 700px;
-    }
-
-    a {
-      @extend %link;
-    }
-  }
 }

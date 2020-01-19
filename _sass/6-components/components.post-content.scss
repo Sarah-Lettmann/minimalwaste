@@ -1,0 +1,25 @@
+.post__content {
+  max-width: 752px;
+  padding: 0 1.25rem;
+  @include breakpoint(mobile) {
+    margin-bottom: 6rem;
+    max-width: 700px;
+  }
+
+  a {
+    @extend %link;
+
+    &[href^='http']::after {
+      background: url('/assets/icons/external-link.svg') top center / cover no-repeat;
+      content: '(externer Link)';
+      display: inline-block;
+      height: 1.3em;
+      overflow: hidden;
+      position: relative;
+      text-indent: 1.3em;
+      top: 6px;
+      white-space: nowrap;
+      width: 1.3em;
+    }
+  }
+}

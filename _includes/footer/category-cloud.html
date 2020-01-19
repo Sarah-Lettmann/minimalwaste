@@ -1,14 +1,19 @@
 <div class="category-cloud">
   <div class="container">
+    <h2 class="visually-hidden">Alle Kategorien</h2>
     <ul class="category-cloud__list">
     {% for category in site.data.menu %}
       <li class="category-cloud__list-item">
-        <a class="category-cloud__link" href="{{ category.href }}">{{ category.title }}</a>
+        <a class="category-cloud__link" href="{{ category.href }}" title="Zur Kategorie {{ category.title }}">
+          {{ category.title }}
+        </a>
       </li>
       {% if category.subcategories %}
         {% for subcategory in category.subcategories %}
           <li class="category-cloud__list-item">
-            <a class="category-cloud__link" href="{{ subcategory.href }}">{{ subcategory.title }}</a>
+            <a class="category-cloud__link" href="{{ subcategory.href }}" title="Zur Kategorie {{ subcategory.title }}">
+              {{ subcategory.title }}
+            </a>
           </li>
         {% endfor %}
       {% endif %}

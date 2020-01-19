@@ -1,15 +1,37 @@
 <div class="social">
   <div class="container">
     <h2 class="social__headline">Folge MinimalWaste</h2>
-    <div class="social__icons">
-      <a class="social__icon icon icon--top fab fa-instagram" href="{{ site.instagram-link }}" target="_blank" alt="" title="MinimalWaste auf Instagram" rel="noreferrer"></a>
-      <a class="social__icon icon icon--top fab fa-twitter" href="{{ site.twitter-link }}" target="_blank" alt="" title="MinimalWaste auf Twitter" rel="noreferrer"></a>
-      <a class="social__icon icon icon--top fab fa-youtube" href="{{ site.youtube-link }}" target="_blank" alt="" title="MinimalWaste auf YouTube" rel="noreferrer"></a>
-      {% comment %}<a class="social__icon icon icon--top fab fa-facebook" href="{{ site.facebook-link }}" target="_blank" alt="" title="MinimalWaste auf Facebook"></a>{% endcomment %}
-      {% comment %}<a class="social__icon icon icon--top fab fa-pinterest" href="{{ site.pinterest-link }}" target="_blank" alt="" title="MinimalWaste auf Pinterest"></a>{% endcomment %}
-      {% comment %}<a class="social__icon icon icon--top fab fa-patreon" href="{{ site.patreon-link }}" target="_blank" alt="" title="unterstütze MinimalWaste auf Patreon"></a>{% endcomment %}
-      <a class="social__icon icon icon--top fas fa-envelope" href="mailto:{{ site.email-website }}" target="_blank" alt="" title="schreibe eine Email an MinimalWaste"></a>
-      <a class="social__icon icon icon--top fas fa-rss" href="{{ site.url }}/feed.xml" target="_blank" alt="" title="RSS-Feed von MinimalWaste"></a>
-    </div>
+    <ul class="social__list">
+      <li class="social__list-item">
+        <a class="social__icon icon icon--top fab fa-instagram" href="{{ site.instagram-link }}"
+          target="_blank" title="Folge MinimalWaste auf Instagram (externer Link)" rel="noreferrer">
+          <span class="visually-hidden">Folge MinimalWaste auf Instagram (externer Link)</span>
+        </a>
+      </li>
+      <li class="social__list-item">
+        <a class="social__icon icon icon--top fab fa-twitter" href="{{ site.twitter-link }}"
+          target="_blank" title="Folge MinimalWaste auf Twitter (externer Link)" rel="noreferrer">
+          <span class="visually-hidden">Folge MinimalWaste auf Twitter (externer Link)</span>
+        </a>
+      </li>
+      <li class="social__list-item">
+        <a class="social__icon icon icon--top fab fa-youtube" href="{{ site.youtube-link }}"
+          target="_blank" title="Folge MinimalWaste auf YouTube (externer Link)" rel="noreferrer">
+          <span class="visually-hidden">Folge MinimalWaste auf Youtube (externer Link)</span>
+        </a>
+      </li>
+      <li class="social__list-item">
+        <a class="social__icon icon icon--top fas fa-envelope" href="mailto:{{ site.email-website }}"
+          target="_blank" title="Schreibe eine Email an MinimalWaste">
+          <span class="visually-hidden">Schreibe eine Email an MinimalWaste</span>
+        </a>
+      </li>
+      <li class="social__list-item">
+        <a class="social__icon icon icon--top fas fa-rss" href="{{ site.url }}/feed.xml"
+          target="_blank" title="Abonniere den RSS-Feed von MinimalWaste">
+          <span class="visually-hidden">Abonniere den RSS-Feed von MinimalWaste</span>
+        </a>
+      </li>
+    </ul>
   </div>
 </div>

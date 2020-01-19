@@ -12,13 +12,20 @@
     @include breakpoint(mobile) {
       margin: 0 1.25rem 3rem;
     }
+
+    &__link {
+      display: flex;
+      flex-direction: column;
+    }
   }
 
   .cover {
     height: 300px;
+    order: 1;
   }
 
   .categories {
+    order: 2;
     text-align: left;
   }
 
@@ -30,6 +37,7 @@
   .title {
     @extend h4;
     margin-top: 0;
+    order: 3;
     text-align: left;
   }
 }

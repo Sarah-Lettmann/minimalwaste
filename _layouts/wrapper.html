@@ -9,12 +9,12 @@
   </head>
 
   <body class="site">
+    {% include cookie-consent.html %}
     {% include header/header.html %}
     <main id="main" class="main main--{{ page.layout }}">
       {{ content }}
     </main>
     {% include footer/footer.html %}
-    {% include cookie-consent.html %}
     <footer id="footer-scripts">
       <script type="text/javascript" src="/js/logo.js"></script>
       <script type="text/javascript" src="/js/header-menu.js"></script>
