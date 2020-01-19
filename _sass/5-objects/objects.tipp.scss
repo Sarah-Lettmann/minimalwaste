@@ -1,0 +1,10 @@
+.tipp {
+  background-color: $primary-200;
+  padding: 1.25rem;
+
+  &::before {
+    content: 'Tipp:';
+    font-weight: 600;
+    margin-right: 5px;
+  }
+}

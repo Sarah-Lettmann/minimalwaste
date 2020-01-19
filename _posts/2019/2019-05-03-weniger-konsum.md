@@ -35,7 +35,7 @@ Wir neigen dazu immer alles gleich zu kaufen. Das ist in Zeiten von Amazon und C
 
 Der erste Schritt zielt darauf ab, dieses Verhalten aufzuweichen. Das heißt, statt immer gleich etwas neu zu kaufen, wenn du es haben willst, überlege zuerst, welche Optionen du noch hast. Orientiere dich dabei an der Konsum-Pyramide. Du kannst z.B. Dinge **tauschen**, **leihen**, **selbst machen**, **kostenlos bekommen** oder in letzter Instanz **gebraucht kaufen**.
 
-> Ich spreche hier bewusst von Dingen, die du willst und nicht von Dingen, die du brauchst. Denn in der Regel bist du noch nicht so weit, wenn du noch so viel kaufst.
+_Ich spreche hier bewusst von Dingen, die du willst und nicht von Dingen, die du brauchst. Denn in der Regel bist du noch nicht so weit, wenn du noch so viel kaufst._
 
 Wenn du also beispielsweise ein neues Buch haben willst, hast du folgende Optionen:
 - Frage Freunde und Bekannte, ob sie dieses Buch haben und dir leihen könnten.
@@ -46,7 +46,8 @@ Wenn du also beispielsweise ein neues Buch haben willst, hast du folgende Option
 
 Ja, das ist natürlich aufwendiger, als einfach etwas online zu bestellen. Aber das ist auch der Sinn dahinter. Es gibt heute so viele Möglichkeiten Dinge in gutem Zustand gebraucht zu kaufen oder sogar kostenos zu bekommen. Und gerade bei Dingen wie Büchern sollte man sowas nutzen, denn die meisten Bücher liest man oft nur einmal.
 
-> Tipp: Ich habe mir angewöhnt erst in meinem Bekannten- und Freundeskreis rumzufragen, wenn ich etwas brauche. Oft hat jemand das passende und kann es evtl. sogar dauerhaft entbehren.
+Ich habe mir angewöhnt erst in meinem Bekannten- und Freundeskreis rumzufragen, wenn ich etwas brauche. Oft hat jemand das passende und kann es evtl. sogar dauerhaft entbehren.
+{: class="tipp"}
 
 Wenn es um den Bereich Freizeitgestaltung geht, dann findest du in [15 Ideen für günstige Freizeit­gestaltung für zu Hause](/blog/15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause/) außerdem jede Menge Tipps und Alternativen zu den üblichen Verdächtigen wie Abends ins Kino oder etwas essen oder trinken gehen.
 

@@ -41,7 +41,8 @@ Außerdem sind Kerzen natürlich elementar, generell was Dekoration angeht, aber
 
 Ich besitze jetzt also insgesamt drei LED-Kerzen, die ich mit Akkus betreibe und easy in einer Ladestation wieder voll laden kann (siehe dazu [Nachhaltige Produkte zur Müllreduzierung](/blog/nachhaltige-produkte-zur-muellreduzierung)). Wenn du beispielsweise noch so ein formschönes Glas hast, kannst du das je nach Jahreszeit entweder mit Nüssen, Laub und Zweigen oder Nadelzweigen, Tannenzapfen und Beeren dekorieren, wenn du nicht wie ich zu faul dazu bist. Und wenn du Schnee simulieren willst, kannst du Salz oder Meersalz in das Glas geben und die Kerze dort hinein stellen.
 
-> Tipp: Ich habe gehört, dass man auf dem Weihnachtsmarkt, kurz vorm Ende abends noch Reste von Nadelzweigen und anderem dekorativen Grünzeug kostenlos bekommen kann, da das sonst evtl. in den Müll wandert. Einfach mal ausprobieren!
+Ich habe gehört, dass man auf dem Weihnachtsmarkt, kurz vorm Ende abends noch Reste von Nadelzweigen und anderem dekorativen Grünzeug kostenlos bekommen kann, da das sonst evtl. in den Müll wandert. Einfach mal ausprobieren!
+{: class="tipp"}
 
 ## Leckereienteller
 Weihnachten und gutes Essen gehören einfach zusammen. Neben dem Essgelage bei den lieben Verwandten, kann man sich den Bauch auch mit Nüssen, Mandarinen, Orangen, leckeren Heißgetränken und selbst gemachten Plätzchen vollschlagen. Und wenn man das alles sowieso im Haus hat, dann kann man es auch schön in Szene setzen, stimmt's?
@@ -50,7 +51,8 @@ Weihnachten und gutes Essen gehören einfach zusammen. Neben dem Essgelage bei d
 
 Ich habe mir dazu einen wunderschönen alten Teller genommen, den ich von meiner Omi habe (war glaube ich mal eine Kuchenplatte) und habe alles ein bisschen hübsch angeordnet darauf platziert. Da ich auch noch ein paar Zimtstangen rumfliegen hatte, hab ich die auch gleich noch mit eingebunden. Super sind auch andere Gewürze wie Nelken, Kardamom, Anissterne oder getrocknete Orangenscheiben. Das Ensemble verströmt dann durch die Gewürze weihnachtlichen Duft, also hat man quasi zwei Fliegen mit einer Klappe geschlagen.
 
-> Tipp: Wenn du diese Sachen sowieso kaufen möchtest, dann stell dir daraus doch gleich deine eigene Glühweinmischung zusammen. Alles was dann noch dazu muss sind Rotwein, etwas Zucker und Hitze.
+Wenn du diese Sachen sowieso kaufen möchtest, dann stell dir daraus doch gleich deine eigene Glühweinmischung zusammen. Alles was dann noch dazu muss sind Rotwein, etwas Zucker und Hitze.
+{: class="tipp"}
 
 ![Nüsse](/assets/inpost-images/2016/2016-12-21-nuesse.jpg "© {{ site.title }}")
 

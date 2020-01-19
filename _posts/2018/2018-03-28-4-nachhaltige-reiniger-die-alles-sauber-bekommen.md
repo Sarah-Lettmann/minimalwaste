@@ -23,7 +23,8 @@ Der Reiniger riecht dabei allein durch das Spüli schon gut und ist sehr schonen
 
 Falls du kein Spüli zur Hand hast, kannst du aber auch Flüssigseife nehmen. Das funktioniert genau so gut.
 
-> Tipp: Für Glas brauchst du keinen extra Reiniger und musst auch kein Zeitungspapier verwenden, Wasser alleine reicht schon aus. Das einzige worauf du achten musst, ist, fettfreie Tücher zu verwenden (sowohl fürs Reinigen als auch trocken wischen). Das heißt die Tücher sollte frisch sein und du solltest damit vorher nichts anderes geputzt haben. Dann werden der Spiegel und die Fenster wirklich streifenfrei.
+Für Glas brauchst du keinen extra Reiniger und musst auch kein Zeitungspapier verwenden, Wasser alleine reicht schon aus. Das einzige worauf du achten musst, ist, fettfreie Tücher zu verwenden (sowohl fürs Reinigen als auch trocken wischen). Das heißt die Tücher sollte frisch sein und du solltest damit vorher nichts anderes geputzt haben. Dann werden der Spiegel und die Fenster wirklich streifenfrei.
+{: class="tipp"}
 
 ## Der Badreiniger: Zitronensäure
 Das ist der echte Alleskönner fürs Bad. Dazu mische ich ca. einen Teelöffel Zitronensäure auf 200 ml Wasser und gebe noch etwas Spüli mit rein. In der kleinen Sprühflasche kann ich den **Reiniger** dann **fürs Bad** oder eben auch in der Küche verwenden.

@@ -1,7 +1,11 @@
 {% comment %}
-  Einbinden mit {% include download.html file-name="" file-path="" %}
+  Einbinden mit {% include download.html name="" path="" size="" %}
 {% endcomment %}
-<a class="download" href="{{ include.file-path }}" target="_blank" aria-label="Download {{ include.file-name }}">
-  <span class="download__text">{{ include.file-name }}</span>
-  <span class="download__icon fas fa-arrow-down"></span>
+<a class="download" href="{{ include.path }}" target="_blank" title="Runterladen von '{{ include.name }}'">
+  <span class="visually-hidden">Runterladen von </span>
+  <span class="download__text">{{ include.name }}</span>
+  <span class="download__file-info">
+    <span class="visually-hidden">Dateigröße:</span> {{ include.size }}
+    <span class="visually-hidden">, Dateityp:</span> {{ include.path | split: "." | last | upcase }}
+  </span>
 </a>

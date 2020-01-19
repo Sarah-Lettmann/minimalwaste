@@ -49,7 +49,8 @@ Auch um Oberflächen feucht abzuwischen, können Spültücher genutzt werden, eb
 
 Alleine die Deutschen verbrauchen **pro Jahr 248kg Papier** (Stand 2010), wobei **Hygienepapiere** 10% daran ausmachen. Das sind **25kg pro Jahr und Kopf** an zu großem Teil sinnlos verwendeten Rohstoffen. Und gerade der Verbrauch von Hygienepapieren steigt immer weiter. Das muss nun wirklich nicht sein.
 
-> Tipp: Frag doch deine Eltern, wenn du Putzlappen und Haushaltstücher brauchst. Die Chancen stehen gut, dass sie viel zu viel davon haben und ohne zu zögern mehr als genug hergeben können. So musst du nichst neu kaufen, was die Umwelt ebenfalls schont.
+Frag doch deine Eltern, wenn du Putzlappen und Haushaltstücher brauchst. Die Chancen stehen gut, dass sie viel zu viel davon haben und ohne zu zögern mehr als genug hergeben können. So musst du nichst neu kaufen, was die Umwelt ebenfalls schont.
+{: class="tipp"}
 
 Weißt du, was noch unnötig ist? Richtig, Wattepads, Feuchttücher und andere Kosmetik-Pflege-Stöfflein. Zum **Abschminken** brauchst du nichts aufwendiges, sondern einfach nur einen **guten alten Waschlappen**. That's it. Wenn du sowas nicht hast, dann kannst du sogar ein kleines Handtuch verwenden. Du kannst aber auch ein altes Handtuch in kleinere Tücher zerschneiden und umnähen. Das wäre das quasi das Non­plus­ul­t­ra in Sachen Zero Waste: Upcycling.
 
@@ -77,7 +78,8 @@ Wie sieht es jetzt aber bei anderen Dingen aus? Oft hast du die Möglichkeit auf
 
 Wieso Glasrecycling so toll ist, habe ich mir auch schon in einem Beitrag angeschaut: [Die Vorteile von Glas gegenüber Plastik](/blog/2019-03-22-die-vorteile-von-glas-gegenueber-plastik). Dort findest du auch noch weitere Links zu diesem Thema.
 
-> Tipp: Die kleinen Gläser kannst du für alles mögliche verwenden: für selbst gemachte Marmelade und Aufstriche, um Essen zu lagern oder einzufrieren, aber auch als Vase oder Teelichthalter oder einfach um Sachen aufzubewahren.
+Die kleinen Gläser kannst du für alles mögliche verwenden: für selbst gemachte Marmelade und Aufstriche, um Essen zu lagern oder einzufrieren, aber auch als Vase oder Teelichthalter oder einfach um Sachen aufzubewahren.
+{: class="tipp"}
 
 Etwas neues für das _teegut_ jetzt Werbung macht ist, dass du deine **[Eigene Tupperdose mit an die Frischetheken bringen](https://www.tegut.com/presse/artikel/einfach-verpackungsmuell-einsparen.html)** kannst. So hast du in größeren Geschäften, die sowas anbieten, die Möglichkeit **Fleisch, Käse und Fisch ohne Verpackung** zu bekommen. Ich finde das eine geile Idee und super, dass damit auch noch groß Werbung gemacht wird. Alternativ kannst du dir natürlich **kleinere Läden wie Metzgereien** suchen, bei denen das geht oder dein Glück auf dem Wochenmarkt versuchen.
 

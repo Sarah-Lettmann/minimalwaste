@@ -43,7 +43,8 @@ In der Zwischenzeit **mische die trockenen Zutaten** Natron, Zitronensäure und 
 
 Wenn die **Kakaobutter vollständig geschmolzen** ist, kannst du sie **dazu geben** und alles gut verrühren und verkneten bis eine homogene Masse entsteht.
 
-> Tipp: Wahlweise kannst du für mehr Abwechslung auch einen Teil der Kakaobutter durch Kokosöl ersetzen.
+Wahlweise kannst du für mehr Abwechslung auch einen Teil der Kakaobutter durch Kokosöl ersetzen.
+{: class="tipp"}
 
 Gibt erst jetzt deine restlichen Zutaten hinzu. Das ist wichtig, damit deine Blüten oder andere Zusätze nicht zu sehr zerdrückt werden. Beim **Öl** habe ich ungefähr **10 Tropfen** verwendet. Das hängt aber ganz vom persönlichen Geschmack ab. Ich persönlich mag es eher dezenter.
 

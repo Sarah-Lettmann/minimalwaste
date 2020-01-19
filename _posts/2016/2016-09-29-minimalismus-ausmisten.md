@@ -84,7 +84,7 @@ Wie du siehst, kann sich auch auf dem Handy oder auf dem PC einiges ansammeln. I
 
 Ich hoffe ich konnte dir ein bisschen Inspiration für das Ausmisten liefern und du hast jetzt auch Lust dein Leben ein bisschen aufzuräumen. Das Wichtigste ist anzufangen. Dafür bist du jetzt ja mit hoffentlich nützlichen Tipps ausgestattet, die dir zumindest den Einstieg erleichtern hier kannst du dir übrigens eine Zusammenfassung runterladen:
 
-{% include download.html file-name="Minimalismus – wie fängt man an?" file-path="/assets/downloads/2016-09-29-minimalismus-wie-faengt-man-an.pdf" %}
+{% include download.html name="Minimalismus – wie fängt man an?" path="/assets/downloads/2016-09-29-minimalismus-wie-faengt-man-an.pdf" size="84 kb" %}
 
 Du solltest den ganzen Prozess so durchführen, dass du dich wohl damit fühlst. Wenn dir etwas aus diesem Artikel überhaupt nicht gefällt, lass es! Ansonsten fühle dich frei, deine eigenen Ideen zu entwickeln. Letztendlich geht es beim Minimalismus schließlich um das Schaffen von Räumen und von Freiheit, um dein Leben so gestalten zu können, wie du es möchtest.
 

@@ -1,0 +1,10 @@
+{% comment %}
+  Einbinden mit {% include quote.html url="" content="" author="" source="" %}
+  {% include quote.html url="https://www.huxley.net/bnw/four.html" content="Words can be like X-rays, if you use them properly - they’ll go through anything. You read and you’re pierced." author="Aldous Huxley" source="Brave new World" %}
+{% endcomment %}
+<blockquote cite="{{ include.url }}">
+  <p>{{ include.content }}</p>
+  <footer>{{ include.author }},
+    <cite>{{ include.source }}</cite>
+  </footer>
+</blockquote>

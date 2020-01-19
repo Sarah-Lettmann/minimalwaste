@@ -60,7 +60,7 @@ Dazu gehst du am besten in dein **Online Banking** und guckst dir an, **welche T
 
 Um alle regelmäßigen Transaktionen zu erfassen, trage sie in die entsprechende Spalte im Arbeitsblatt ein, dass ich dir zusammengestellt habe. Du kannst es im Folgenden runterladen. Für alle jährlichen Ausgabe kannst du auch gleich schon berechnen, wie viel du monatlich auf die Seite legen musst, damit du das Geld nach einem Jahr vollständig zur Verfügung hast.
 
-{% include download.html file-name="Arbeitsblatt Einnahmen Ausgabe" file-path="/assets/downloads/2019-01-09-arbeitsblatt-einnahmen-ausgaben.pdf" %}
+{% include download.html name="Arbeitsblatt Einnahmen Ausgabe" path="/assets/downloads/2019-01-09-arbeitsblatt-einnahmen-ausgaben.pdf" size="18 kb" %}
 
 Wenn du mit dem Arbeitsblatt fertig bist, kannst du alles in ein **Haushaltsbuch** überführen. So ein Budget muss nicht kompliziert sein und du kannst es ganz einfach halten. Dennoch ist es enorm nützlich, um zu sehen wofür du dein Geld ausgibst und wie viel du tatsächlich noch übrig hast am Monatsende.
 
@@ -69,7 +69,7 @@ Ein Haushaltsbuch hilft dir dabei immer die Übersicht über deine Einnahmen und
 
 In Excel kannst du dir solche Listen ganz einfach erstellen und aufsummieren lassen. Falls du darauf keine Lust hast, gibt es im Internet aber auch zig Vorlage dafür oder du nimmst die, die ich extra und nur für sich zusammen gebastelt habe.
 
-{% include download.html file-name="Haushaltsbuch Excel Template" file-path="/assets/downloads/2019-01-09-haushaltsbuch-template.xlsx" %}
+{% include download.html name="Haushaltsbuch Excel Template" path="/assets/downloads/2019-01-09-haushaltsbuch-template.xlsx" size="11 kb" %}
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-09-finanzplanung.jpg" alt="Finanzplanung" title="Foto von rawpixel – Unsplash" caption="Foto von rawpixel – Unsplash" %}
 

@@ -315,7 +315,7 @@ Beim Wasser sind die großen Verlierer Taschentücher aus normalem Papier. Alle 
 
 Die genauen Daten, etwas ausführlicher gerechnet, kannst du dir im Folgenden auch nochmal als Excel-Sheet runterladen.
 
-{% include download.html file-name="Die Bilanz von Stofftaschentüchern" file-path="/assets/downloads/2019-04-19-bilanz-taschentuecher-mehrer-jahre.xlsx" %}
+{% include download.html name="Die Bilanz von Stofftaschentüchern" path="/assets/downloads/2019-04-19-bilanz-taschentuecher-mehrer-jahre.xlsx" size="9 kb" %}
 
 ## Zusammenfassung
 Zusammenfassend kann man sagen, dass es durchaus sinnvoll ist Mehrwegprodukte zu kaufen. Wenn es um Textilien geht, sollte aber unbedingt zur Bio-Baumwolle gegriffen werden und das vor allem wegen dem niederigeren Wasserverbrauch. Aber auch hier spielen die kürzeren Transportwege, der Verzicht auf Pestizide und andere Chemikalien, der bessere Arbeiterschutz und die Erhaltung der Flora und Fauna, der Böden und Gewässer zusätzlich mit rein. Das sind alles Faktoren, die man beachten sollte.

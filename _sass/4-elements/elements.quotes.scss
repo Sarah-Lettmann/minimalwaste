@@ -1,41 +1,46 @@
-// defines a section that is quotes from another source
-blockquote {
-  padding-left: 0.75*$padding-base;
-  border-left: 7px solid $primary-400;
-  margin: 0.75*$margin-base 1.25*$margin-base;
-  @include main-font;
-  @include breakpoint(small) {
-    margin: 0.5*$margin-base 0.75*$margin-base;
-  }
-
-  * {
-    color: inherit;
+%quote-text {
+  font-size: 1.5rem;
+  font-style: italic;
+  line-height: 2;
+  @include breakpoint(mobile) {
+    font-size: 1.25rem;
   }
 }
 
-// defines a short quotation
-q {
+blockquote {
+  margin: 3rem 0;
+  padding: 0 1.25rem;
+  position: relative;
+  text-align: center;
+  @include breakpoint(mobile) {
+    padding: 0;
+  }
 
   &::before {
-    @include main-font;
-    content: ">>";
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: -3.5px;
-    margin-right: 5px;
+    @include headline-font;
+    color: $primary-200;
+    content: '"';
+    font-size: 18rem;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: -200px;
+    z-index: -1;
+    @include breakpoint(mobile) {
+      top: -160px;
+    }
   }
 
-  &::after {
-    @include main-font;
-    content: "<<";
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: -3.5px;
-    margin-left: 2px;
+  p {
+    @extend %quote-text;
+  }
+
+  footer {
+    @extend %info-text;
   }
 }
 
-// defines the name of a work (book, film, skulpture, etc)
+
 cite {
   font-style: italic;
 }

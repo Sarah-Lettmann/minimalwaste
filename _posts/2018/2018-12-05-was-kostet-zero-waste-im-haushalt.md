@@ -147,7 +147,8 @@ Gleich zu Anfang mal wieder ein echter Knaller. Leitungswasser ist so unglaublic
 
 Allein diese Produkte können dir über das Jahr hinweg also satte **439,11€** sparen. Ich finde das ist der Wahnsinn und diese Zahl hätte ich nun wirklich nicht erwartet. Auch hier gilt also: <mark>Wenn du was für die Umwelt tun willst oder Zero Waste in dein Leben integrieren willst, dann fang mit diesen Produkten an.</mark>
 
-Tipp: Bald ist Weihnachten. Wenn du vorhast auf ein paar Alternativen umzusteigen, dann lass dir doch davon etwas zu Weihnachten schenken und spare dir die höheren Erstausgaben dadurch.
+Bald ist Weihnachten. Wenn du vorhast auf ein paar Alternativen umzusteigen, dann lass dir doch davon etwas zu Weihnachten schenken und spare dir die höheren Erstausgaben dadurch.
+{: class="tipp"}
 
 Und jetzt kommen wir wieder zu den Dingen, die eben unverpackt teurer sind. Das liegt Hauptsächlich daran, dass es Dinge sind, die man nachkaufen muss, wohingegen die Dinge aus der ersten Tabelle ja immer wieder verwendet werden können.
 

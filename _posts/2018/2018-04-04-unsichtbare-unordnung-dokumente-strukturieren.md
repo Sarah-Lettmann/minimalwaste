@@ -88,7 +88,8 @@ Nun, da die Ordnerstruktur besteht, können alle Daten einsortiert werden. Mach 
 
 Am Ende des Einsortierens solltest du zumindest etwas haben, in dem du einfacher Dinge wiederfindest. Das alles soll dir den Alltag leichter machen. Wenn es das schafft, Ziel erreicht!
 
-Tipp: Achte beim Einsortieren darauf, dass du wirklich alle deine Dokumente einsortierst. Schau also auch auf dem **Desktop oder in anderen Ordnern nach (der Download-Ordner ist sehr beliebt für sowas), auf USB-Sticks, auf dem Handy** und versuche so alles an einem Platz zu sammeln. Das kann ein wenig dauern, aber der Aufwand lohnt sich!
+Achte beim Einsortieren darauf, dass du wirklich alle deine Dokumente einsortierst. Schau also auch auf dem **Desktop oder in anderen Ordnern nach (der Download-Ordner ist sehr beliebt für sowas), auf USB-Sticks, auf dem Handy** und versuche so alles an einem Platz zu sammeln. Das kann ein wenig dauern, aber der Aufwand lohnt sich!
+{: class="tipp"}
 
 Jedenfalls, das Einsortieren. Auch meine Dokumente benenne ich nach einem bestimmten Schema. Ich stelle das Datum in der Form **JJJJ-MM-TT** dem Dokumentennamen voran. Hier ein fiktives Beispiel: **2017-05-04 - Rechnung XY**.
 
@@ -107,7 +108,7 @@ Programme und Apps gehe ich regelmäßig durch und deinstalliere die, die ich ni
 
 Ich hoffe dieser Post war hilfreich für dich. Hier findest du noch die versprochene Checkliste zum einfachen Abarbeiten:
 
-{% include download.html file-name="Dokumente strukturieren: So wird's richtig gemacht!" file-path="/assets/downloads/2018-04-04-unsichtbare-unordnung-dokumente-strukturieren.pdf" %}
+{% include download.html name="Dokumente strukturieren: So wird's richtig gemacht!" path="/assets/downloads/2018-04-04-unsichtbare-unordnung-dokumente-strukturieren.pdf" size="34 kb" %}
 
 Nächste Woche geht es dann mit Bankkonten, E-Mail Adressen und Abos weiter, also dem richtig, wirklich nervigen Kleinkram. Aber ich verspreche dir, danach wirst du dich gut fühlen und viel mehr Überblick über deine Finanzen und Daten haben. Weitere Posts zum Thema:
 

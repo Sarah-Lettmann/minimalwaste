@@ -39,7 +39,8 @@ Langsames Aufgießen in kreisförmigen Bewegungen lässt den Kaffee schäumen un
 
 Nach dem Genuss kommt die Arbeit. Mit einem kleinen Löffel geben wir die Reste in unseren Biomüll. Alles andere wird dann mit Wasser gut ausgewaschen. Voila, alles ist sauber und kann wieder zurück in den Schrank. Schnell, einfach, unkompliziert.
 
-> Tipp: Kaffeesatz eignet sich sehr gut als Blumendünger oder auch als Komponente in Peelings.
+Kaffeesatz eignet sich sehr gut als Blumendünger oder auch als Komponente in Peelings.
+{: class="tipp"}
 
 Natürlich kannst du auch eine **Stempelkanne** verwenden. Damit und mit einer Kaffeemühle ist es ebenfalls super einfach Verpackungen und Müll zu vermeiden.
 

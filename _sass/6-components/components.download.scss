@@ -1,38 +1,28 @@
 .download {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.5*$padding-base $padding-base;
-  border: $border;
-  @include attention() {
-    color: $neutral-900;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.25rem;
+  padding-left: 3.5rem;
+  position: relative;
+
+  &::before {
+    content: url('/assets/icons/download.svg');
+    left: 0;
+    position: absolute;
   }
 
-  &__icon {
-    flex-shrink: 0;
-    display: inline-block;
-    position: relative;
-    width: 3rem;
-    height: 3rem;
-    padding: 0.75*$padding-base;
-    margin-left: 0.5*$margin-base;
-    border-radius: 50%;
-    border: 2px solid $primary-400;
-    color: $primary-400;
-    background-color: $neutral-100;
-
-    &::before {
-      position: absolute;
-      top: 9px;
-      right: 14px;
-      @include breakpoint(small) {
-        top: 12px;
-        right: 15px;
-      }
+  &__text {
+    line-height: 1.2;
+    @include breakpoint(mobile) {
+      line-height: 1.5;
     }
   }
 
+  &__file-info {
+    @extend %info-text;
+  }
 }
 
-.post__body .download {
-  border-bottom: $border;
+a.download {
+  background: none;
 }
