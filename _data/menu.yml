@@ -15,3 +15,8 @@
   href: /category/sustainable-fashion.html
 - title: Klima
   href: /category/klima.html
+  subcategories:
+    - title: Grün Reisen
+      href: /category/gruen-reisen.html
+    - title: Veganismus
+      href: /category/veganismus.html
