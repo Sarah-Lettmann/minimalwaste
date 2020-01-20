@@ -1,14 +1,19 @@
 .sources {
+  text-align: left;
+  @include breakpoint(mobile) {
+    display: inline-flex;
+    flex-direction: column;
+    padding: 0 1.25rem;
+  }
 
   &__list {
-    margin: 0;
+    margin-bottom: 0;
+    @include breakpoint(mobile) {
+      margin: 0;
+    }
 
-    &-item {
-      padding-left: 0;
-
-      &::before {
-        content: none;
-      }
+    &__item {
+      line-height: 1.5;
     }
   }
 

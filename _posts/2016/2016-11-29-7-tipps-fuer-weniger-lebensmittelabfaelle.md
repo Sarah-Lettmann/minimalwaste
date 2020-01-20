@@ -70,21 +70,6 @@ Wenn etwas im Restaurant übrig bleibt, wäre es doch viel zu schade es weg zu s
 
 Außerdem habe ich noch eine neue App entdeckt, die Reste im Restaurant den Kampf ansagt. Das Prinzip ist bei [Too Good To Go](http://toogoodtogo.de/) ein bisschen anders: Restaurants können übrig gebliebenes Essen einstellen und Kunden können sich diese Reste vergünstigt über die App zum Abholen reservieren. Das Essen kann dann kurz vor Ende der Öffnungszeiten beim Restaurant abgeholt werden. Man bekommt natürlich nur das was übrig geblieben ist und dabei ist auch nicht sicher worum es sich genau handelt und wie viel es ist, was man letztendlich bekommt. Aber für flexible und experimentierfreudige Leute, die auch noch Geld sparen wollen, ist das eine tolle Idee!
 
-&nbsp;
-
 Hast du solche Apps schon ausprobiert oder achtest du von dir aus immer darauf, möglichst wenig Lebensmittelabfälle zu hinterlassen? Schreibe mir gerne. Bis dahin,
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [Ermittlung der Mengen weggeworfener Lebensmittel und Hauptursachen für die Entstehung von Lebensmittelabfällen in Deutschland: Zusammenfassung einer Studie der Universität Stuttgart (März 2012), 2012](https://www.bmel.de/SharedDocs/Downloads/Ernaehrung/WvL/Studie_Lebensmittelabfaelle_Faktenblatt.pdf?__blob=publicationFile)
-2. [wwf.de: Das Grosse Wegschmeissen, Vom Acker bis zum Verbraucher: Ausmaß und Umwelteffekte der Lebensmittelverschwendung in Deutschland, 2015](http://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF_Studie_Das_grosse_Wegschmeissen.pdf)
-3. [utopia.de: Zu Hause Gemüse anbauen: Diese 4 Lebensmittel wachsen immer wieder nach](https://utopia.de/ratgeber/lebensmittel-nachwachsen-gemuese-anbauen/)
-4. [utopia.de: 8 Lebensmittel, die immer wieder nachwachsen](https://utopia.de/galerien/lebensmittel-die-immer-wieder-nachwachsen)
-5. [foodsharing.de](https://foodsharing.de/)
-6. [Deutsche Umwelthilfe: Coffee-to-go Einwegbecher &#8211; Umweltauswirkungen und Alternativen](http://www.duh.de/fileadmin/_migrated/content_uploads/Coffee-to-go_Hintergrund.pdf)
-7. [restlos-geniessen.de: Die Aktion](https://www.restlos-geniessen.de/die-aktion/)
-8. [restlos-geniessen.de: Die Beste-Reste-Box](https://www.restlos-geniessen.de/die-beste-reste-box/)
-9. [toogoodtogo.de](http://toogoodtogo.de/)

@@ -59,8 +59,6 @@ Dieses Waschmittel verwenden wir jetzt schon einige Zeit. Die **Kernseife** muss
 
 ![Selbst gemachtes Waschmittel](/assets/inpost-images/2016/2016-09-02-selbst-gemachtes-waschmittel.jpg "© {{ site.title }}")
 
-&nbsp;
-
 Falls du dich weiter über Zero Waste Alternativen informieren will, guck mal hier:
 
 [Zero Waste Superlativ: Waschmittel aus Kastanien](/blog/zero-waste-superlativ-waschmittel-aus-kastanien)
@@ -72,11 +70,3 @@ Falls du dich weiter über Zero Waste Alternativen informieren will, guck mal hi
 Vielleicht findest du ja was, das du noch nicht kanntest und in Zukunft verwenden willst. Lass es mich gerne wissen. Bis dahin,
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [Wikipedia: 2-Propanol](https://de.wikipedia.org/wiki/2-Propanol#Chemische_Eigenschaften_.28Sicherheit.29)
-2. [Wikipedia: Ätherische Öle](https://de.wikipedia.org/wiki/%C3%84therische_%C3%96le#Verwendung)
-3. [Wikipedia: Natriumhydrogencarbonat](https://de.wikipedia.org/wiki/Natriumhydrogencarbonat)
-4. [Jetzt-Clever-Sauber.de: Essig-Essenz-Tipps](http://www.jetzt-clever-sauber.de/wp-content/uploads/2016/10/Essig-Essenz-Tipps.pdf)

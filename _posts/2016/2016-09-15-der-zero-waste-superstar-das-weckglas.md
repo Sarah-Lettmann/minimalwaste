@@ -39,8 +39,6 @@ Neben der Benutzung in der Küche können Weckgläser auch hervorragend für Ker
 
 Außerdem kannst du damit auch noch viele andere Dinge machen. Beim Dekorieren sind der Kreativität ja prinzipiell keine Grenzen gesetzt. Du kannst das Innere beispielsweise mit Blumen und Ästen ausstaffieren. Für den Sommer oder den Frühling wählst du am besten helle und bunte Farben und für den Herbst kann man Beeren, Kastanien und bunte Blätter hinein tun. Sicherlich gibt es gerade in diesem Bereich noch eine ganze Menge mehr Nutzungsmöglichkeiten.
 
-&nbsp;
-
 Hast du noch Ideen, was man so alles mit den hübschen Gläsern anstellen kann? Und was ist bei dir ein Essential im Zero Waste Haushalt? Schreib mir gerne. Ich bin schließlich neugierig.
 
 \- Sarah

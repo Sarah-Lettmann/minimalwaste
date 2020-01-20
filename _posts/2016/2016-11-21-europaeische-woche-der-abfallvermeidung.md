@@ -30,8 +30,6 @@ In meinem Post [Nachhaltige Produkte zur Müllreduzierung](/blog/nachhaltige-pr
 ## 6. Unverpackt-Laden besuchen
 Vielleicht gibt es ja bei dir in der Nähe einen Unverpackt-Laden? Wenn ja, dann schau doch mal vorbei, schaden kann es ja nix. Unverpackt einkaufen hat viele Vorteile: Du sparst Verpackung, kannst genau die Mengen kaufen, die du brauchst und sparst dadurch Geld. Probier es einfach mal aus, vielleicht gefällt es dir ja. [Hier gibt es auch meine Liste von Unverpackt Läden](/blog/unverpackt-einkaufen-alle-laeden).
 
-&nbsp;
+Ich hoffe du hast Spaß an der Aktion und versucht ein paar der Tipps von oben aus. Bis zum nächsten Mal,
 
-#### Hier findest du weitere Infos:
-1. [ewwr.eu](http://www.ewwr.eu/de)
-2. [ewwr.eu: ideas](http://www.ewwr.eu/de/ideas/reduce)
+\- Sarah

@@ -80,8 +80,6 @@ Wenn du dich für eine Speicherlösung entschieden hast und deine Daten in digit
 
 Wie du siehst, kann sich auch auf dem Handy oder auf dem PC einiges ansammeln. Ich finde eine gut überlegte Auswahl an Lesezeichen hilft einem wirklich weiter. Hat man zu viele davon, verbringt man mehr Zeit mit suchen und könnte genauso gut Google bemühen. Mach dir gerade bei Apps auf dem Handy immer wieder klar, dass du sie zur Not einfach wieder neu installieren kannst. Ebenso kannst du Lesezeichen schnell wieder neu eintragen und auch Newsletter wieder abonnieren, falls du doch merken solltest, dass du gerne per E-Mail informiert werden willst.
 
-&nbsp;
-
 Ich hoffe ich konnte dir ein bisschen Inspiration für das Ausmisten liefern und du hast jetzt auch Lust dein Leben ein bisschen aufzuräumen. Das Wichtigste ist anzufangen. Dafür bist du jetzt ja mit hoffentlich nützlichen Tipps ausgestattet, die dir zumindest den Einstieg erleichtern hier kannst du dir übrigens eine Zusammenfassung runterladen:
 
 {% include download.html name="Minimalismus – wie fängt man an?" path="/assets/downloads/2016-09-29-minimalismus-wie-faengt-man-an.pdf" size="84 kb" %}

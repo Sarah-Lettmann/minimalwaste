@@ -144,8 +144,6 @@ Zu Zahnpasta aus der Tube gibt es einige Alternativen. Vorneweg Zahnputztablette
 Herkömmliche Zahnseide kommt in einer Plastikverpackung und besteht meist aus Nylon. Es gibt zwar auch Fäden, die aus Seide gefertigt sind, das sind aber eher einzelne Produkte und auch bei diesen bleibt immer noch die lästige Verpackung. Die allermeisten Zahnseiden sind also nicht biologisch abbaubar. Nachaltige Zahnseide ist kompostierbar und kann im Nachfüllpack geordert werden.  
 -> [Monomeer](http://www.monomeer.de/index.php?page=product_details&category=11&artnr=222&product=Vmel+Zahnseide)
 
-&nbsp;
-
 Natürlich sind viele Dinge auch bei Amazon oder ähnlichen Anbietern erhältlich. Mit dem Einkauf in den oben genannten Shops unterstützt du aber nachhaltige Wirtschaftskonzepte und erhältst deine Ware in vielen Fällen ohne Plastik.
 
 Fällt dir noch etwas ein, was unbedingt auf die Liste sollte? Lass es mich wissen und ich füge es gerne hinzu. Wenn du dich für weitere Alternativen interessierst, kann ich dir diese Beiträge ans Herz legen:
@@ -159,17 +157,3 @@ Fällt dir noch etwas ein, was unbedingt auf die Liste sollte? Lass es mich wiss
 Bis zum nächsten Mal,
 
 \- Sarah
-
-&nbsp;
-
-#### Weitere Infos:
-1. [Lush: Wir glitzern ganz ohne Plastik](http://www.lush-shop.de/artikel-wir-glitzern-ganz-ohne-plastik.809.0.html?sid=kibu7m49p4pc34737lmhk7m0n7)
-2. [Wikipedia: Natriumhydrogencarbonat](https://de.wikipedia.org/wiki/Natriumhydrogencarbonat)
-3. [Arbeitskreis Mehrweg Gbr: Funktionsweise](http://www.mehrweg.org/mehrwegsystem/funktionsweise/)
-4. [Menstruationstasse.net: Vor- & Nachteile](https://www.menstruationstasse.net/vor-und-nachteile)
-5. [SWAK Zahnpflege: Miswak-Zahnbürsten &#8211; Zahnpflege Tipps, Anleitung, Handhabung](http://swak.de/miswak.htm)
-6. [Der Bund: Mikroplastik &#8211; Die unsichtbare Gefahr, 2015](http://www.bund.net/fileadmin/bundnet/pdfs/meere/131119_bund_meeresschutz_mikroplastik_produktliste.pdf)
-7. [Stahl-online.de: Recycling-Weltmeister Stahl](http://www.stahl-online.de/wp-content/uploads/2013/08/Recycling_V2.pdf)
-8. [Umweltbundesamt: Qualität des Trinkwassers aus größeren Wasserwerken Deutschlands, 2013](http://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/dateien/2_tab_trinkwasser_2015-07-14.pdf)
-9. [Wikipedia: Sisalfaser](https://de.wikipedia.org/wiki/Sisalfaser)
-10. [Wikipedia: Sisal-Agave](https://de.wikipedia.org/wiki/Sisal-Agave)

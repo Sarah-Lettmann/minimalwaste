@@ -52,8 +52,6 @@ Also gilt es alte Interessen und Hobbys wieder aufleben zu lassen oder sich neue
 
 Ich hoffe ich konnte dich ein bisschen für Minimalismus begeistern oder vielleicht einfach nur aufklären, worum es bei diesem Lebensstil wirklich geht. Nämlich nicht um möglichst wenig Besitz, nur noch aus dem Rucksack leben oder auf dem Boden zu schlafen. Es geht nicht um "Project 333" oder die "100-Things-Challenge". Es geht einfach nur um dich.
 
-&nbsp;
-
 Ich hoffe dieser Post hat dir gefallen und du kannst dir jetzt ein besseres Bild vom Minimalismus machen. Wenn du dich für das Thema interessierst, will ich dir diese Beiträge ans Herz legen:
 
 [Meine minimalistische Handtasche](/blog/meine-minimalistische-handtasche)

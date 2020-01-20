@@ -12,13 +12,9 @@ author: sarah-lettmann
 ---
 Ich bekomme immer wieder von verschiedenen Seiten zu hören, dass sich die Investition in Alternativen aus Stoff, also Stoffservietten, Stofftaschentücher oder wiederverwendbare Tücher, die man in der Maschine waschen kann, nicht lohnt. Und warum? Weil das angeblich doch sowieso zu viel Wasser und Energie verbraucht. Also habe ich mich hingesetzt und den ganzen Spaß mal bis aufs kleinste bisschen durchgerechnet. Für irgendwas muss das Studium ja gut sein...
 
-* * *
-
 _**Virtuelles Wasser:** "Mit virtuelles bzw. latentes Wasser wird die Wassermenge bezeichnet, die nach einer umfassenden Bilanz als insgesamt tatsächlich für die Herstellung eines Produkts anfiel."._
 
 _**Graue Energie:** "Als graue Energie wird die Energiemenge bezeichnet, die für Herstellung, Transport, Lagerung, Verkauf und Entsorgung eines Produktes benötigt wird. Dabei werden auch alle Vorprodukte bis zur Rohstoffgewinnung berücksichtigt und der Energieeinsatz aller angewandten Produktionsprozesse addiert."._
-
-* * *
 
 Damit wären schon mal die Begrifflichkeiten geklärt. Bei der Herstellung von beispielsweise Stofftaschentüchern wird also viel Wasser und Energie verwendet. Zuerst muss nun mal der Rohstoff her, welcher allein schon Wasser und Energie für Anbau und Verarbeitung frisst. Dann kommt später die Fertigung des Produktes und letztlich noch die Verpackung hinzu. All das frisst für jedes neue Produkt immer wieder Wasser, Energie und andere Ressource wie Erdöl (für die Plastikverpackung). Es scheint also, dass Produkte, die nur einmal produziert werden müssen eine schlau Lösung sind.
 
@@ -320,20 +316,6 @@ Also überholen die Papiertaschentücher recht schnell, was den Verbrauch an Was
 
 Plastik verbrauch nämlich enorm viel Wasser und Energie in der Herstellung. Du muss dir nur kurz überlegen wie viel Umverpackung mit üblichen Papiertaschentüchern kommt im Vergleich zu den vielleicht einmal in Folie eingepackten Stofftaschentüchern (sei cleverer als ich und kauf sie nicht auf Amazon, sondern in einem Shop, der ohne Plastikverpackungen arbeitet). Das ganze wird nochmal besser, wenn die Stofftaschentücher nicht aus Baumwolle, sondern aus Leinen, Hanf oder einem Gemisch mit Baumwolle hergestellt sind. Gibt es sowas?  
 
-&nbsp;
-
 Ich hoffe das Ganze war nicht zu trocken und theoretisch und selbst wenn, hast du nun ein gutes Argument in der Hand gegen Menschen, die diese Behauptungen aufstellen. Falls du mal irgendwo über Daten bezüglich virtuelles Wasser oder grauer Energie stolpern solltest, würde ich mich über Infos freuen. Bis zum nächsten Mal,
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [Wikipedia: Baumwolle](https://de.wikipedia.org/wiki/Baumwolle#Bestandteile_und_Verarbeitung)
-2. [virtuelles-wasser.de: Baumwolle](http://virtuelles-wasser.de/baumwolle.html)
-3. [Wikipedia: Flachsfaser](https://de.wikipedia.org/wiki/Flachsfaser)
-4. [Wikipedia: Graue Energie](https://de.wikipedia.org/wiki/Graue_Energie)
-5. [Wikipedia: Virtuelles Wasser](https://de.wikipedia.org/wiki/Virtuelles_Wasser)
-6. [Ökobilanz von Lenzing LYOCELL: Eine Stoff- und Energiebilanz](http://www.lenzing.com/fileadmin/template/pdf/konzern/lenzinger_berichte/ausgabe_76_1997/LB_1997_24_Eibl2.pdf)
-7. [Wikipedia: Papier, Umweltaspekte und Recycling](https://de.wikipedia.org/wiki/Papier#Umweltaspekte_und_Recycling)
-8. [www.tempo.net: FAQ](http://www.tempo.net/de/produkte/faq/)

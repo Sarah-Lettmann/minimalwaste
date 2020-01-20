@@ -39,8 +39,6 @@ Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen w
 
 **Kennst du Onlineshops die sich besonders durch nachhaltig, vegan und/oder fair produzierte Kleidung auszeichnen? Schreib mit einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.**
 
-&nbsp;
-
 <div class="table">
   <table>
     <thead>
@@ -66,8 +64,6 @@ Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen w
   </table>
 </div>
 
-&nbsp;
+Bis zum nächsten Mal,
 
-#### Hier findest du weitere Infos:
-1. [Global Organic Textile Standard: Allgemeine Beschreibung](http://www.global-standard.org/de/the-standard/general-description.html)
-2. [fairtrade-deutschland.de: FAIRTRADE-TEXTILSTANDARD UND TEXTILPROGRAMM](https://www.fairtrade-deutschland.de/was-ist-fairtrade/fairtrade-standards/fairtrade-textilstandard-und-textilprogramm.html)
+\- Sarah

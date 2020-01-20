@@ -36,14 +36,6 @@ Wenn du die Kastanien etwas zerkleinert hast, kannst du endlich flüssiges Wasch
 ## Wie viele Kastanien brauche ich denn für ein ganzes Jahr und wie mache ich sie haltbar?
 Um die Kastanien haltbar zu machen, sollte man sie trocknen (ich habe gelesen, dass sie sonst schimmeln). Ich habe mich dazu entschieden alle Kastanien zu vierteln/halbieren und zum Trocknen auf die Fensterbank zu legen. Bis jetzt sieht alles super aus, aber ich gebe dir nochmal ein Update, wenn ich sie mal zwei Monate getestet habe. Wir haben ca. 52 Waschgänge im Jahr. Bei 8 Kastanien pro Waschgang wären das also 416 Kastanien und somit ungefähr 6 Kg. Das hatte ich auch schon gelesen und da eine Kastanie zwischen 12 g und 16 g wiegt, kommt das ganz gut hin.
 
-&nbsp;
-
 Was hältst du von der Idee Waschmittel aus Kastanien zu machen? Hast du es schon ausprobiert? Bei uns klappt es sehr gut mit der Reinigung der Wäsche. Wie sind denn deine Erfahrungen damit? Schreib mir gerne und bis zum nächsten Mal.
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [Wikipedia: Gewöhnliche Rosskastanie, Nutzung](https://de.wikipedia.org/wiki/Gew%C3%B6hnliche_Rosskastanie#Nutzung)
-2. [Wikipedia: Waschnussbaum](https://de.wikipedia.org/wiki/Waschnussbaum)

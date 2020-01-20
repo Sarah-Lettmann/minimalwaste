@@ -50,8 +50,6 @@ Die Vorteile oder Veränderungen, die ich hier niedergeschrieben habe, habe ich,
 
 Wenn man beginnt auszumisten und weniger neue Sachen zu kaufen, dann passieren manche positiven Veränderungen von ganz allein. Manches kommt eher schleichend und bei wieder anderen dauert es eine Weile bis es sich verfestigt haben. <mark>So habe ich relativ schnell gelernt auch mal nein zu sagen und sofort meinen Konsum zurück geschraubt. Allerdings hat es etwas gedauert bis ich wirklich nur noch das nötigste gekauft habe und somit auch bis ich auch die finanziellen Auswirkungen zu spüren bekam.</mark> Als ich mit einem großen Teil des Ausmistens fertig war, hatte ich auch plötzlich viel mehr Zeit und konnte mir neues Hobbys suchen.
 
-&nbsp;
-
 Alles in allem bin ich viel zufriedener seit ich damit angefangen habe. Die Entwicklung die ich durch gemacht habe, hat mich sowohl privat als auch beruflich und finanziell sehr positiv beeinflusst. Ich kann jedem empfehlen sich einmal kritisch mit seinem Konsum auseinander zu setzen und zu reflektieren, was man alles besitzt und wie viel man kauft. Selbst wenn du denkst, dass du doch eher der gemäßigte Typ bist. Ausprobieren hat noch nie geschadet. Mehr zu Minimalismus findest du hier:
 
 [Der Lebensstil Minimalismus](/blog/der-lebensstil-minimalismus/)

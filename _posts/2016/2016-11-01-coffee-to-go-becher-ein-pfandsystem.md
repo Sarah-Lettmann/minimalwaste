@@ -44,19 +44,6 @@ Um längen besser als [reCup](https://recup.de/) finde ich auch die Becher von 
 ## Was man jetzt schon tun kann
 Auch in den Städten, in denen es solche Aktionen noch nicht gibt, kann man schon Anregung schaffen. Nimm einfach deinen Thermobecher, ein Glas oder irgendein Behältnis mit, in das du dir deinen Kaffee oder Tee abfüllen lassen kannst. Ketten wie Starbucks bieten das an und geben sogar einen kleinen Rabatt an. Zudem spart das auch noch Geld und so gut wie jeder hat doch irgendwo einen Thermobecher rumlungern, oder? Außerdem ist es wichtig die großen Ketten und auch kleiner Läden auf die Nachfrage nach einer nachhaltigen Alternative zu herkömmlichen Bechern aufmerksam zu machen.
 
-&nbsp;
-
 Ich hoffe, das dies der Anfang eines Umdenkens ist, besonders was to-go Produkte angeht. Kennst du noch Initiativen, die sich um ein Mehrweg- oder Pfandsystem in verschiedenen Bereichen bemühen? Wie holst du dir deinen Kaffee, oder trinkst du ihn immer gemütlich im Sitzen? Lass einen Kommentar da. Bis dahin,
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [Deutsche Umwelthilfe: Coffee-to-go Einwegbecher - Umweltauswirkungen und Alternativen](http://www.duh.de/fileadmin/_migrated/content_uploads/Coffee-to-go_Hintergrund.pdf)
-2. [Deutsche Umwelthilfe: Ökocheck handelsüblicher Coffee to go-Becher](http://www.duh.de/fileadmin/_migrated/content_uploads/DUH_Coffee_to_go_OekoCheck_02.jpg)
-3. [bento: Endlich: Dein Coffee-to-go ist bald kein Müllproblem mehr](http://www.bento.de/nachhaltigkeit/coffee-to-go-ist-bald-kein-muellproblem-mehr-954409/)
-4. [reCup: Der Becher](https://recup.de/der-becher/)
-5. [justswapit.de: Der Becher](http://justswapit.de/der-becher/)
-6. [nowaste.eu: Trinkbecher: Treecup 300](http://www.nowaste.eu/)
-7. [refillit-elrojito.de](http://www.refillit-elrojito.de/)
