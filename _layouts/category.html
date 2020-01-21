@@ -11,10 +11,10 @@ layout: wrapper
   {% for post in site.categories[page.category] %}
     <article class="post post--category" aria-label="{{ post.title }}">
       <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
+        <h2 class="title">{{ post.title }}</h2>
         <div class="cover">
           <img class="cover__image" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
         </div>
-        <h2 class="title">{{ post.title }}</h2>
         <p class="subtitle">{{ post.subtitle }}</p>
       </a>
     </article>

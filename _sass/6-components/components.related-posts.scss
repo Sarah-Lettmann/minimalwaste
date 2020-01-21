@@ -7,15 +7,13 @@
   }
 
   .post {
+    display: flex;
+    flex-basis: 300px;
+    flex-direction: column;
+    flex-grow: 1;
     margin-bottom: 3rem;
-    max-width: 300px;
     @include breakpoint(mobile) {
       margin: 0 1.25rem 3rem;
-    }
-
-    &__link {
-      display: flex;
-      flex-direction: column;
     }
   }
 

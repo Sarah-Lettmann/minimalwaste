@@ -47,63 +47,37 @@ Wenn du den Rasierhobel für Gesichtsbehaarung verwenden willst, dann dürfte au
 ## Rasierhobel und Einwegrasierer im Vergleich
 Hier eine kleine Übersicht, ein direkten Vergleich zwischen Rasierhobel und Einwegrasierer.
 
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Rasierhobel</th>
-        <th>Einwegrasierer</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          Haltbarkeit
-        </td>
-        <td>
-          dein ganzes Leben
-        </td>
-        <td>
-          zwei Wochen, allerhöchsten, je nachdem wie oft du dich rasierst
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Wie oft muss die Klinge gewechselt werden?
-        </td>
-        <td>
-          einmal im Monat
-        </td>
-        <td>
-          alle paar Tage bis alle paar Wochen
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Kosten
-        </td>
-        <td>
-          <strong>3,04€ pro Jahr</strong>
-        </td>
-        <td>
-          <strong>52,08€ pro Jahr</strong>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Material
-        </td>
-        <td>
-          Edelstahl, manchmal auch verchromtes Metall.
-        </td>
-        <td>
-          Viel Plastik, meist gibt es noch zusätzliche Kissen oder Betten an der Klinge, die irgendwelche pflegenden Inhaltsstoffe haben..
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Rasierhobel</th>
+      <th>Einwegrasierer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Haltbarkeit</th>
+      <td data-label="Rasierhobel">dein ganzes Leben</td>
+      <td data-label="Einwegrasierer">zwei Wochen, allerhöchsten, je nachdem wie oft du dich rasierst</td>
+    </tr>
+    <tr>
+      <th>Wie oft muss die Klinge gewechselt werden?</th>
+      <td data-label="Rasierhobel">einmal im Monat</td>
+      <td data-label="Einwegrasierer">alle paar Tage bis alle paar Wochen</td>
+    </tr>
+    <tr>
+      <th>Kosten</th>
+      <td data-label="Rasierhobel"><strong>3,04€ pro Jahr</strong></td>
+      <td data-label="Einwegrasierer"><strong>52,08€ pro Jahr</strong></td>
+    </tr>
+    <tr>
+      <th>Material</th>
+      <td data-label="Rasierhobel">Edelstahl, manchmal auch verchromtes Metall.</td>
+      <td data-label="Einwegrasierer">Viel Plastik, meist gibt es noch zusätzliche Kissen oder Betten an der Klinge, die irgendwelche pflegenden Inhaltsstoffe haben.</td>
+    </tr>
+  </tbody>
+</table>
 
 _Die Genauen Rechnungen für die Kosten kannst du dir übrigens in meinem Post [Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/) angucken und nachvollziehen._
 

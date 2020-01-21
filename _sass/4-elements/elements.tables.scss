@@ -1,35 +1,65 @@
+$border: 1px solid $neutral-300;
+
 table {
-  width: 100%;
   border-collapse: collapse;
-  margin-bottom: 0;
+  margin-bottom: 1.25rem;
+  width: 100%;
 
   tr {
     border-bottom: $border;
-
-  }
-
-  tbody tr:last-child {
-    border-bottom: none;
+    @include breakpoint(mobile) {
+      border: $border;
+      margin-bottom: 1.25rem;
+    }
   }
 
   th {
-    text-align: left;
-    background-color: $neutral-100;
-    font-weight: normal;
+    background-color: $neutral-200;
+    font-weight: 600;
+  }
+
+  td {
+    @include breakpoint(mobile) {
+      padding-left: 50%;
+      position: relative;
+
+      &::before {
+        content: attr(data-label) ':';
+        padding-right: 10px;
+        white-space: nowrap;
+      }
+    }
   }
 
   td,
   th {
-    padding: 0.4*$padding-base;
-    border-right: $border;
-
-    &:last-child {
-      border-right: none;
+    padding: .5rem;
+    text-align: left;
+    @include breakpoint(desktop) {
+      border-right: $border;
     }
+  }
+
+  thead {
+    tr {
+      @include breakpoint(mobile) {
+        display: none;
+      }
+  	}
+  }
+}
+
+table,
+thead,
+tbody,
+th,
+td,
+tr {
+  @include breakpoint(mobile) {
+    display: block;
   }
 }
 
 .table {
   overflow-x: auto;
-  margin-bottom: $margin-base;
 }

@@ -54,34 +54,32 @@ Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassi
 ### Bilanz
 Ein Papiertaschentuch wiegt im Schnitt **2,6g**. Genau dafür berechnen wir jetzt wie viel Wasser, Energie und CO2 benötigt werden, den Zahlen zu speziell Tachentüchern konnte ich nicht finden. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen **Jahresverbrauch von 1460 Papiertaschentüchern** voraus (4 Stück am Tag).
 
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Verbrauch 1 Papiertaschentuch</th>
-        <th>Verbrauch pro Jahr pro Kopf</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Wasserbedarf</th>
-        <td>0,13 Liter</td>
-        <td>190 Liter</td>
-      </tr>
-      <tr>
-        <th>Energiebedarf</th>
-        <td>13 Wh</td>
-        <td>18980 Wh</td>
-      </tr>
-      <tr>
-        <th>CO2 Emissionen</th>
-        <td>2,9 g</td>
-        <td>4234 g</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>1 Papiertaschentuch</th>
+      <th>Gesamt pro Jahr pro Kopf</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasserbedarf</th>
+      <td data-label="1 Papiertaschentuch">0,13 Liter</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">190 Liter</td>
+    </tr>
+    <tr>
+      <th>Energiebedarf</th>
+      <td data-label="1 Papiertaschentuch">13 Wh</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">18980 Wh</td>
+    </tr>
+    <tr>
+      <th>CO2 Emissionen</th>
+      <td data-label="1 Papiertaschentuch">2,9 g</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">4234 g</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Recyclingpapier
 Nicht nur neu hergestelltes Papier, sondern auch besonders Recyclingpapier kann und wird hier in Deutschland zu Herstellung von Hygienepapieren verwendet. <mark>Allgemein liegt der Anteil an Altpapier in Papierprodukten bei 75%.</mark> Altpapier kann dabei **bis zu sechs Mal wieder verwendet** werden. Danach wäre das Papier durch die wiederholte Verarbeitung und den immer steigenden Anteil von anderen Stoffen nicht mehr belastbar genug.
@@ -105,34 +103,32 @@ Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in n
 ### Bilanz
 Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Die Bilanz zeigt dir die folgende Tabelle.
 
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Verbrauch 1 Papiertaschentuch</th>
-        <th>Verbrauch pro Jahr pro Kopf</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Wasserbedarf</th>
-        <td>0,039 Liter</td>
-        <td>57 Liter</td>
-      </tr>
-      <tr>
-        <th>Energiebedarf</th>
-        <td>5,2 Wh</td>
-        <td>7592 Wh</td>
-      </tr>
-      <tr>
-        <th>CO2 Emissionen</th>
-        <td>2,3 g</td>
-        <td>3358 g</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>1 Papiertaschentuch</th>
+      <th>Gesamt pro Jahr pro Kopf</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasserbedarf</th>
+      <td data-label="1 Papiertaschentuch">0,039 Liter</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">57 Liter</td>
+    </tr>
+    <tr>
+      <th>Energiebedarf</th>
+      <td data-label="1 Papiertaschentuch">5,2 Wh</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">7592 Wh</td>
+    </tr>
+    <tr>
+      <th>CO2 Emissionen</th>
+      <td data-label="1 Papiertaschentuch">2,3 g</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">3358 g</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Recyclingpapier erkennen
 Besonders bei Hygienepapieren solltest du also zu Recyclingpapier greifen, da diese nach nur einmaliger Verwendung weggeworfen werden. Außerdem spricht natürlich die Bilanz, die ich berechnet habe, ganz klar für Recyclingpapier. Halte also am besten nach dem Siegel _Blauer Engel_ Ausschau. <mark>Nur Papiere, die mit dem Blauen Engel gekennzeichnet sind, sind wirklich ressourcenschonend.</mark> In der nächsten Grafik wird gezeigt, welche Kriterien erfüllt sein müssen, damit ein Produkt dieses Siegel erhalten kann.
@@ -172,34 +168,32 @@ Für die Berechnung der Waschgänge orientiere ich mich an meinem alten Post. Fo
 
 Damit kommen wir für ein einzelnes Stofftaschentuch auf einen **Wasserverbrauch von 0,115 Litern**, einen **Energieverbrauch von 0,0024kWh** und **0,85g CO2-Emissionen** pro Waschgang.
 
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Verbrauch 1 Stofftaschentuch</th>
-        <th>Verbrauch pro Jahr pro Kopf</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Wasserbedarf</th>
-        <td>133 Liter</td>
-        <td>136 Liter</td>
-      </tr>
-      <tr>
-        <th>Energiebedarf</th>
-        <td>144 Wh</td>
-        <td>206 Wh</td>
-      </tr>
-      <tr>
-        <th>CO2 Emissionen</th>
-        <td>22 g</td>
-        <td>44 g</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>1 Stofftaschentuch</th>
+      <th>Gesamt pro Jahr pro Kopf</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasserbedarf</th>
+      <td data-label="1 Stofftaschentuch">133 Liter</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">136 Liter</td>
+    </tr>
+    <tr>
+      <th>Energiebedarf</th>
+      <td data-label="1 Stofftaschentuch">144 Wh</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">206 Wh</td>
+    </tr>
+    <tr>
+      <th>CO2 Emissionen</th>
+      <td data-label="1 Stofftaschentuch">22 g</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">44 g</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Bio-Baumwolle
 Bio-Baumwolle schneidet da schon besser ab. <mark>Viele Umweltauswirkungen die es bei der koonventionellen Baumwolle gibt, fallen hier einfach Weg, weil sie natürlich angebaut wird.</mark>
@@ -225,34 +219,32 @@ Auch hier gehen wir von 11g für ein Stofftaschentuch aus, genau wie bei der her
 
 _Auch hier haben wir natürlich einen Wasserverbrauch von 0,115 Litern, einen Energieverbrauch von 0,0024kWh und 0,85g CO2-Emissionen pro Waschgang und 26 Waschgänge._
 
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Verbrauch 1 Stofftaschentuch</th>
-        <th>Verbrauch pro Jahr pro Kopf</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Wasserbedarf</th>
-        <td>80 Liter</td>
-        <td>83 Liter</td>
-      </tr>
-      <tr>
-        <th>Energiebedarf</th>
-        <td>24 Wh</td>
-        <td>87 Wh</td>
-      </tr>
-      <tr>
-        <th>CO2 Emissionen</th>
-        <td>13 g</td>
-        <td>35 g</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>1 Stofftaschentuch</th>
+      <th>Gesamt pro Jahr pro Kopf</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasserbedarf</th>
+      <td data-label="1 Stofftaschentuch">80 Liter</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">83 Liter</td>
+    </tr>
+    <tr>
+      <th>Energiebedarf</th>
+      <td data-label="1 Stofftaschentuch">24 Wh</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">87 Wh</td>
+    </tr>
+    <tr>
+      <th>CO2 Emissionen</th>
+      <td data-label="1 Stofftaschentuch">13 g</td>
+      <td data-label="Gesamt pro Jahr pro Kopf">35 g</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Bio-Baumwolle erkennen
 Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle), da habe ich am Ende ein paar Infos reingepackt, worauf man bei Bio-Baumwolle achten sollte.
@@ -260,42 +252,40 @@ Dazu kannst du dir gerne den Post [Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-
 ## Der direkte Vergleich
 Zuerst mal der direkte Vergleich von einem Taschentuch zum anderen. Was machen die unterschiedlichen Rohstoffe bei einem Taschentuch an Emissionen, Wasser- und Energieverbrauch aus? Eine Übersicht findest du in der nachfolgenden Tabelle.
 
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Papier</th>
-        <th>Recyclingpapier</th>
-        <th>Baumwolle</th>
-        <th>Bio-Baumwolle</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Wasserbedarf</th>
-        <td>0,13 Liter</td>
-        <td>0,039 Liter</td>
-        <td>133 Liter</td>
-        <td>80 Liter</td>
-      </tr>
-      <tr>
-        <th>Energiebedarf</th>
-        <td>13 Wh</td>
-        <td>5,2 Wh</td>
-        <td>144 Wh</td>
-        <td>24 Wh</td>
-      </tr>
-      <tr>
-        <th>CO2 Emissionen</th>
-        <td>2,9 g</td>
-        <td>2,3 g</td>
-        <td>22 g</td>
-        <td>13 g</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Papier</th>
+      <th>Recyclingpapier</th>
+      <th>Baumwolle</th>
+      <th>Bio-Baumwolle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasserbedarf</th>
+      <td data-label="Papier">0,13 Liter</td>
+      <td data-label="Recyclingpapier">0,039 Liter</td>
+      <td data-label="Baumwolle">133 Liter</td>
+      <td data-label="Bio-Baumwolle">80 Liter</td>
+    </tr>
+    <tr>
+      <th>Energiebedarf</th>
+      <td data-label="Papier">13 Wh</td>
+      <td data-label="Recyclingpapier">5,2 Wh</td>
+      <td data-label="Baumwolle">144 Wh</td>
+      <td data-label="Bio-Baumwolle">24 Wh</td>
+    </tr>
+    <tr>
+      <th>CO2 Emissionen</th>
+      <td data-label="Papier">2,9 g</td>
+      <td data-label="Recyclingpapier">2,3 g</td>
+      <td data-label="Baumwolle">22 g</td>
+      <td data-label="Bio-Baumwolle">13 g</td>
+    </tr>
+  </tbody>
+</table>
 
 Deutlich wird das auch nochmal in dem nachfolgenden Diagramm. <mark>Baumwolle und selbst Bio-Baumwolle sind bei der Herstellung nur eines Taschentuchs sehr viel umweltschädlicher als Papier und Recyclingpapier.</mark> Wenn du mit der Maus über die Balken fährst oder draufklickst, bekommst du weitere Informationen angezeigt.
 
@@ -322,7 +312,8 @@ Die genauen Daten, etwas ausführlicher gerechnet, kannst du dir im Folgenden au
 ## Zusammenfassung
 Zusammenfassend kann man sagen, dass es durchaus sinnvoll ist Mehrwegprodukte zu kaufen. Wenn es um Textilien geht, sollte aber unbedingt zur Bio-Baumwolle gegriffen werden und das vor allem wegen dem niederigeren Wasserverbrauch. Aber auch hier spielen die kürzeren Transportwege, der Verzicht auf Pestizide und andere Chemikalien, der bessere Arbeiterschutz und die Erhaltung der Flora und Fauna, der Böden und Gewässer zusätzlich mit rein. Das sind alles Faktoren, die man beachten sollte.
 
-> Wenn du es wirklich gut machen willst, dass versuche ein paar alte Taschentücher von deinen Großeltern oder secondhand zu ergattern. Denn hier kann man den Wasser- und den Energieverbrauch, sowie die CO2-Emissionen für die Herstellung komplett rausrechnen.
+Wenn du es wirklich gut machen willst, dass versuche ein paar alte Taschentücher von deinen Großeltern oder secondhand zu ergattern. Denn hier kann man den Wasser- und den Energieverbrauch, sowie die CO2-Emissionen für die Herstellung komplett rausrechnen.
+{: .tipp}
 
 Ein Punkt, der mir erst später klar geworden ist und der die Statistik weiter beeinflussen könnte: <mark>Stofftaschentücher kommen nur einmal in einer Verpackung, Papiertaschentücher sind meist in 10er Packungen in Plastik eingepackt, welches natürlich auch hergestellt werden muss.</mark> Dadurch kommen pro Taschentuch auch nochmal Verbrauch und Emissionen für die Verpackung oben drauf.
 

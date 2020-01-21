@@ -9,7 +9,7 @@ description: "Unsere Ernährung wirkt sich auf uns und den Planeten aus. Die Pla
 keywords: [Planetary Health, Planetary Health Diet]
 image: "/assets/title-images/2019/2019-08-07-planetary-health-diet.jpg"
 author: sarah-lettmann
-related-posts: ["0063", "0054", "0032"]
+related-posts: ["0063", "0054", "0032", "0050", "0030", "0059", "0040", "0062", "0044"]
 
 ---
 Wenn es um das Klima geht, dann können wir viele Dinge tun, um unseren CO2 Fußabdruck möglichst klein zu halten. Eine Stellschraube ist die Ernährung, vor allem weniger Fleisch lautet die Devise. Aber wie viel weniger muss es wirklich sein und ist vegan die ideale Lösung? Die Antworten darauf liefert und die Planetary Health Diet.
