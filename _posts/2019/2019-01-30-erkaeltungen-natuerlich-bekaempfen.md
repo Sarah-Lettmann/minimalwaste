@@ -42,7 +42,7 @@ Wenn du durch das viele Husten einen gereizten Hals hast, dann hilft oft eine **
 ![Heiße Zitrone](/assets/inpost-images/2019/2019-01-30-heisse-zitrone.jpg "© {{ site.title }}")
 
 ### Japanisches Heilpflanzenöl
-<abbr title="ätherisches Minzöl">Japanisches Heilpflanzenöl</abbr> ist für mich die Geheimwaffe, wenn es um verschleimte Nebenhöhlen geht. Das kannst du dir, wenn du Kopfschmerzen von verschlossenen Nebenhöhlen hast, einfach vor dem Schlafen unter die Nase schmieren. Du kannst es aber auch zum **Baden oder Inhalieren** benutzen. Und wenn ich mich nicht irre kann man sogar bei Magenbeschwerden einnehmen.
+Japanisches Heilpflanzenöl (ätherisches Minzöl) ist für mich die Geheimwaffe, wenn es um verschleimte Nebenhöhlen geht. Das kannst du dir, wenn du Kopfschmerzen von verschlossenen Nebenhöhlen hast, einfach vor dem Schlafen unter die Nase schmieren. Du kannst es aber auch zum **Baden oder Inhalieren** benutzen. Und wenn ich mich nicht irre kann man sogar bei Magenbeschwerden einnehmen.
 
 Das Zeug kenne ich übrigens von meinem Vater, wollte es jahrelang nicht benutzen, weil ich dachte es bringt nichts und habe jetzt festgestellt, dass er doch immer Recht hatte und dieses Öl einfach Wunder wirkt. Naja, so ist das halt, wenn man nicht auf seinen Eltern hört… Japanisches Heilpflanzenöl bekommt man übrigens in jeder Drogerie.
 
@@ -69,8 +69,6 @@ Das waren meine Tipps, wie du deinen Körper hilfst, die Erkältung schnell wied
 - trink viel
 - alles andere wirkt nur unterstützend
 - man kann statt zu Medikamenten auch einfach zu einem heißen Bad oder Tee greifen
-
-&nbsp;
 
 Natürlich gibt es auch noch viele andere Sachen, die man machen kann, wie eine goldenen Milch trinken (mit Kurkuma) oder solche Sperenzchen. Aber das muss man eben nicht. Ein Pfefferminztee tut es auch. Falls du doch noch Interesse an dem einen oder anderen Helferli hast, kann ich dir den [Bereich Hausmittel im Waschbär Onlineshop](https://www.waschbaer.de/shop/beauty-und-wellness/wellness/hausmittel) empfehlen. Weiters zum Thema natürlich und müllfrei Leben, findest du hier:
 

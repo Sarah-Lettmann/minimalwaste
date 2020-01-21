@@ -348,8 +348,6 @@ Nun, unsere angepasste Tabelle:
 
 Allein durch ein paar einfache DIYs und das Kaufen von herkömmlichen Produkten, die zwar in einer Verpackung kommen, aber nicht in Plastik, können wir **29,15€ bei den Zero Waste Produkten sparen**. Jetzt habe wir nur noch **Mehrausgaben von 8,64€**.
 
-&nbsp;
-
 <mark>Auch hier ist also wieder klar geworden, dass Zero Waste an den richtigen Stellen schnell ganz schön viel Geld spart. An anderen Stellen sollte man genau hinschauen und sich evtl. Alternativen überlegen</mark>. Z.B. kann man vereinzelt Dinge selbst machen (Reiniger finde ich dazu super, weil das keine 5 Minuten dauert und sehr viel Geld spart) oder muss Kompromisse eingehen. So oder so, wenn man es clever macht, freut sich nicht nur die Umwelt, sondern auch der Geldbeutel. Hier noch weiteres zum Thema:
 
 [Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer)

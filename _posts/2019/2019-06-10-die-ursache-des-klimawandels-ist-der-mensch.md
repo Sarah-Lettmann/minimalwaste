@@ -21,7 +21,7 @@ Naja, diese Aussage an sich ist zunächst stark vereinfacht und so nicht ganz ri
 
 Im Grunde ist die Aussage folgende: <mark>97% der wissenschatlichen Arbeiten, die zur Ursache des Klimawandels Position beziehen, sagen, dass es sehr wahrscheinlich ist, dass menschengemachte Treibhausgase die Schuld für die meisten eindeutigen Erwärmungen der Durchschnittstemperatur der Erde in der zweiten Hälfte des Zwanzigsten Jahrhunderts tragen.</mark> Puhh, ja doch, etwas sperrig, diese Aussage.
 
-Dazu kannst du dir auch nochmal _Topic 2_ des [AR4 Climate Change 2007: Synthesis Report](https://www.ipcc.ch/report/ar4/syr/) des <abbr title="Intergovernmental Panel on Climate Change">IPCC</abbr> ansehen. Dort wird detailliert auf den Anstieg von verschiedenen Treibhausgasen und die Erwärmung der Erde eingegangen und eben oben genannte Aussage getroffen ("Most of the global average warming over the past 50 years is very likely due to anthropogenic GHG [(greehousegases)] increases.").
+Dazu kannst du dir auch nochmal _Topic 2_ des [AR4 Climate Change 2007: Synthesis Report](https://www.ipcc.ch/report/ar4/syr/) des IPCC ansehen. Dort wird detailliert auf den Anstieg von verschiedenen Treibhausgasen und die Erwärmung der Erde eingegangen und eben oben genannte Aussage getroffen ("Most of the global average warming over the past 50 years is very likely due to anthropogenic GHG [(greehousegases)] increases.").
 
 Wieso jetzt nur "sehr wahrscheinlich"? Naja, wir haben hier zunächst einmal sogenannte _Korrelationen_, also Zusammenhänge zwischen z.B. der steigenden Anzahl an Autos und der steigenden Konzentration von Treibhausgasen in der Atmosphäre. Eine Korrelation kann ein starkes Indiz sein, kann aber auch ohne jegliche Information sein. Immer wieder gerne angeführt wird beispielsweise die Korrelation von der Anzahl der Nicolas Cage-Filme und den Toden durch Ertrinken in Schwimmingpools.
 
@@ -45,11 +45,11 @@ In dem Essay [The Scientific Consensus on Climate Change](https://science.scienc
 
 Ich persönlich finde diese Arbeit nicht besonders gut. Es handelt sich hierbei aber auch nur um ein Essay. Es sind deshalb keine Methoden oder genauere Berechnungen zu finden und das ganze ist recht einfach gehalten. Es zeigt aber trotzdem einen Trend auf, den die nächsten beiden Papiere bestätigen werden und es diente auch als Grundstein dafür, den Konsens überhaupt so zu "berechnen".
 
-In einer zweiten Arbeit zu dem Thema [Expert credibility in climate change](https://www.pnas.org/content/107/27/12107) aus dem Jahre 2010, veröffentlich bei der <abbr title="Proceedings of the National Academy of Sciences of the United States of America">PNSA</abbr> wurden **Publikationen von 1.372 Forschern** betrachtet. Dabei wurde heraus gefunden, dass **97% bis 98% der Klimaforscher**, die besonders häufig Arbeiten zu dieser Thematik veröffentlichten, in Kategorie (01) einzuordnen waren. Außerdem entdeckte man, dass die Expertise und Prominenz der Wissenschaftler, die in Kategorie (03) einzuordnen waren, bedeutend niedriger war, als bei den zustimmenden Wissenschaftlern. TL;DR: 97% bis 98% der kompetenten Wissenschaftler sehen den Mensch als Hauptgrund für den Klimawandel an.
+In einer zweiten Arbeit zu dem Thema [Expert credibility in climate change](https://www.pnas.org/content/107/27/12107) aus dem Jahre 2010, veröffentlich bei der PNSA wurden **Publikationen von 1.372 Forschern** betrachtet. Dabei wurde heraus gefunden, dass **97% bis 98% der Klimaforscher**, die besonders häufig Arbeiten zu dieser Thematik veröffentlichten, in Kategorie (01) einzuordnen waren. Außerdem entdeckte man, dass die Expertise und Prominenz der Wissenschaftler, die in Kategorie (03) einzuordnen waren, bedeutend niedriger war, als bei den zustimmenden Wissenschaftlern. TL;DR: 97% bis 98% der kompetenten Wissenschaftler sehen den Mensch als Hauptgrund für den Klimawandel an.
 
 Diese Arbeit hat mir sehr gut gefallen. Die Methodiken sind ausführlich beschrieben und es werden sehr gezielt Vorkehrungen getroffen, um das Ergebniss zu normalisieren. So werden beispielsweise nur Arbeiten von renommierten Forschern betrachtet (mindestens 20 Publikationen). Mehr dazu weiter unten.
 
-Und es gibt noch ein weiteres Papier, das sich damit beschäftigt hat, den wissenschaftlichen Konsens aufzuzeigen. [Quantifying the consensus on anthropogenic global warming in the scientific literature](https://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024/meta) btrachtet **11.944 Papiere**, von **29.083 Autoren** geschrieben, veröffentlich in 1.980 <abbr title="Fachzeitschriften">Jornals</abbr>. Heraus kam, dass **97%** der Papiere in Kategorie (01) einzuordnen waren. Weiterhin wurde herausgefunden, dass der Anteil der Arbeiten, die in Kategorie (03) einzuordnen sind, bei gerade mal knapp 2% lag.
+Und es gibt noch ein weiteres Papier, das sich damit beschäftigt hat, den wissenschaftlichen Konsens aufzuzeigen. [Quantifying the consensus on anthropogenic global warming in the scientific literature](https://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024/meta) btrachtet **11.944 Papiere**, von **29.083 Autoren** geschrieben, veröffentlich in 1.980 Journals. Heraus kam, dass **97%** der Papiere in Kategorie (01) einzuordnen waren. Weiterhin wurde herausgefunden, dass der Anteil der Arbeiten, die in Kategorie (03) einzuordnen sind, bei gerade mal knapp 2% lag.
 
 Dieses Papier hat eine enorme Menge an Daten betrachtet. Das und wahrscheinlich auch die Tatsache, dass es die jüngste Publikation der drei hier betrachteten Arbeiten ist, sorgen dafür, dass eben dieses Papier meistens aufgeführt wird, wenn es um diese 97% geht.
 
@@ -83,10 +83,5 @@ Ich würde mich auf jeden Fall über Feedback, Fragen und Kritik freuen. Du bist
 
 \- Sarah
 
-&nbsp;
-
-## Weiter Infos
-1. [Oreskes, N. (2004). The scientific consensus on climate change. Science, 306(5702), 1686-1686.](https://science.sciencemag.org/content/306/5702/1686/tab-pdf)
-2. [Anderegg, W. R., Prall, J. W., Harold, J., & Schneider, S. H. (2010). Expert credibility in climate change. Proceedings of the National Academy of Sciences, 107(27), 12107-12109.](https://www.pnas.org/content/107/27/12107)
-3. [Cook, J., Nuccitelli, D., Green, S. A., Richardson, M., Winkler, B., Painting, R., ... & Skuce, A. (2013). Quantifying the consensus on anthropogenic global warming in the scientific literature. Environmental research letters, 8(2), 024024.](https://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024/meta)
-4. [IPCC (2007) Summary for policymakers. Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC), eds Solomon S, et al. (Cambridge Univ Press, Cambridge, UK).](https://www.ipcc.ch/report/ar4/syr/)
+*[IPCC]: Intergovernmental Panel on Climate Change
+*[PNSA]: Proceedings of the National Academy of Sciences of the United States of America

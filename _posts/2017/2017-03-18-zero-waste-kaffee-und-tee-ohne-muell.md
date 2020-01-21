@@ -100,8 +100,6 @@ Cappuccino oder Milchkaffee kannst du dann ganz leicht durch verschiedene Anteil
 - Die Stempelkanne ist eine einfache und schnelle Möglichkeit müllfrei Kaffee zu machen. Auch Tee kannst du in ihr zubereiten.
 - Für Tee greife zu Tee-Eiern oder zu einer Kanne mit Teesieb.
 
-&nbsp;
-
 Weitere Alternativen und mehr zu Zero Waste findest du hier:
 
 [Was wir alles unverpackt kaufen (und was nicht)](/blog/was-wir-alles-unverpackt-kaufen-und-was-nicht/)

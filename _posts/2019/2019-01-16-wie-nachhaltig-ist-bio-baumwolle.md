@@ -39,13 +39,13 @@ Auch Bio-Baumwolle wird in den gleichen weit entfernten Regionen angebaut, wie k
 ## Einfluss auf den Boden
 Neben dem horrenden Wasserverbrauch und den CO2-Emissionen hinterlässt Baumwolle auch noch Schäden an den Böden auf denen sie angebaut wird. Baumwolle wird in **Monokultur** angebaut, da die Pflanze sehr langsam wächst und der Gewinn maximiert werden kann, wenn die Felder gleich nach der Ernte erneut bestellt werden. Aus dem gleichen Grund werden auch **synthetische Dünger** eingesetzt, die oft giftig sind. So werden die Pflanzen zwar **größer und ertragreicher**, aber der Umwelt und Arbeiter leiden darunter.
 
-Die Monokultur macht es auch erst notwendig, dass Pestizide eingesetzt werden, die **Schädlinge wie den Baumwollkapselkäfer** fern halten sollen. So kommt es, dass **25% der weltweit genutzten Pflanzenschutzmittel** für Baumwolle verwendet werden. Und das obwohl die Anbaufläche für diese gerade mal **2,5% der weltweiten Ackerfläche** ausmacht. Außerdem werden die **Pflanzenschutzmittel** oft **ausgewaschen** und landen so im **Grundwasser** und verunreinigen dieses. Damit der Giftcocktail perfekt ist, wird nun noch mit sehr giftigen <abbr title="Herbizide, führen zum Ausfallen der Blätter">Entlaubungsmitteln</abbr> gearbeitet, um die Ernte zu erleichtern.
+Die Monokultur macht es auch erst notwendig, dass Pestizide eingesetzt werden, die **Schädlinge wie den Baumwollkapselkäfer** fern halten sollen. So kommt es, dass **25% der weltweit genutzten Pflanzenschutzmittel** für Baumwolle verwendet werden. Und das obwohl die Anbaufläche für diese gerade mal **2,5% der weltweiten Ackerfläche** ausmacht. Außerdem werden die **Pflanzenschutzmittel** oft **ausgewaschen** und landen so im **Grundwasser** und verunreinigen dieses. Damit der Giftcocktail perfekt ist, wird nun noch mit sehr giftigen Entlaubungsmitteln gearbeitet, um die Ernte zu erleichtern.
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-16-baumwollfelder.jpg" alt="Baumwollfelder" title="Foto von Nick Kane – Unsplash" caption="Foto von Nick Kane – Unsplash" %}
 
 Selbst konventionelle Baumwolle hat nach außen hin ein relativ sauberes und nachhaltiges Image. Die Realität dahinter sieht aber leider ganz anders aus.
 
-Bio-Baumwolle wird hingegen nur **mit natürlichen Mitteln gedüngt** wie Mist oder durch Gründüngung. Monokulturen entstehen gar nicht erst, da die <abbr title="oder auch Felderwirtschaft, Abfolge der angebauten Nutzpflanzen">Fruchtfolge</abbr> beachtet wird. So bleiben die Böden fruchtbar und ertragreich, da die Nährstoffe erhalten bleiben. Allerdings kann so **in mancher Saison keine Ernte** eingefahren werden.
+Bio-Baumwolle wird hingegen nur **mit natürlichen Mitteln gedüngt** wie Mist oder durch Gründüngung. Monokulturen entstehen gar nicht erst, da die Fruchtfolge beachtet wird. So bleiben die Böden fruchtbar und ertragreich, da die Nährstoffe erhalten bleiben. Allerdings kann so **in mancher Saison keine Ernte** eingefahren werden.
 
 Die **Felderwirtschaft beugt** außerdem auch **Schädlingen vor**. Gegen diese kann aber auch **durch andere Pflanzen** vorgegangen werden. Diese werden zwischen der Baumwolle platziert und so gewählt, dass sie den schädlingen “besser schmecken” als die Baumwolle. Zu guter letzt wird Bio-Baumwolle **mit der Hand geerntet** - Entlaubungsmittel sind also nicht notwendig.
 
@@ -114,14 +114,5 @@ Wir sehen uns dann nächste Woche.
 
 \- Sarah
 
-&nbsp;
-
-#### Zum Weiterlesen
-1. [Wikipedia: Baumwolle](https://de.wikipedia.org/wiki/Baumwolle)  
-2. [Soilassociation: Cool Cotton, Organic Cotton and Climate Change](https://www.soilassociation.org/media/6491/cool-cotton-organic-cotton-and-climate-change-2015.pdf)  
-3. [virtuelles-wasser.de: Baumwolle](http://virtuelles-wasser.de/baumwolle.html)  
-4. [glore.de: Bio-Baumwolle](https://www.glore.de/Materiallexikon/Bio-Baumwolle/)  
-5. [Utopia: 13 Fakten: Was du über Bio Baumwolle wissen solltest](https://utopia.de/ratgeber/bio-baumwolle-wissenswertes/)  
-6. [trigema: Bio-Baumwolle – wie entsteht die Öko-Faser?](https://www.trigema.de/magazin/bio-baumwolle/)  
-7. [TAZ: "Für jedes T-Shirt sieben Kilo CO2"](http://www.taz.de/Journalistin-ueber-Oekokleidung-/!5167617/)  
-8. [grueneerde.com: Warum Bio-Baumwolle besser ist](https://www.grueneerde.com/de/blog/gesellschaftskritisch/baumwolle-biobaumwolle/baumwolle-biobaumwolle.html?0)
+*[Entlaubungsmittel]: Herbizide, führen zum Ausfallen der Blätter
+*[Fruchtfolge]: Auch genannt Felderwirtschaft, Abfolge der angebauten Nutzpflanzen

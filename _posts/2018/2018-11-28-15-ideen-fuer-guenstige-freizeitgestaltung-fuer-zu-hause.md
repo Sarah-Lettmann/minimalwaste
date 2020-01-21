@@ -86,8 +86,6 @@ Ich habe früher manchmal **Kreuzworträtsel mit meiner Oma gelöst**, weil sie 
 ### Etwas neues lernen
 Ja, ich weiß, auch die Punkte vorher beinhalteten schon vieles, was man zusammen neu lernen kann. Aber es gibt noch viele weiter Dinge, für die du dich vielleicht interessierst, aber bis jetzt nicht dazu gekommen bist, sie dir beizubringen. Spann einfach deinen Partner oder einen andern Menschen ein und lernt es zusammen. <mark>Egal ob Kalligraphie, Zeichnen, eine neue Sprache, Bildbearbeitung, Programmieren, was auch immer - das Lernen macht so gleich viel mehr Spaß.</mark>
 
-&nbsp;
-
 Natürlich kann man viele von diesen Dingen auch kombinieren, wenn man wirklich einen ganzen Abend füllen möchte. Oder man kann einiges davon auch nachmittags machen, das liegt ganz bei dir. Wenn du dich für Minimalismus interessierst, dann schau doch mal hier:
 
 [Der Lebensstil Minimalismus](/blog/der-lebensstil-minimalismus)

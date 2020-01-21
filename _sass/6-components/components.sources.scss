@@ -3,14 +3,17 @@
   @include breakpoint(mobile) {
     display: inline-flex;
     flex-direction: column;
+    max-width: 340px;
     padding: 0 1.25rem;
+  }
+
+  &__title {
+    margin-top: 0;
+    text-align: center;
   }
 
   &__list {
     margin-bottom: 0;
-    @include breakpoint(mobile) {
-      margin: 0;
-    }
 
     &__item {
       line-height: 1.5;

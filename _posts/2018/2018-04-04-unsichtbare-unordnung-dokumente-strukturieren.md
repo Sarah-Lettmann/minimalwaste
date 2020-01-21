@@ -104,8 +104,6 @@ Meinen Desktop auf dem Notebook und meinen Homescreen auf dem Handy halte ich im
 
 Programme und Apps gehe ich regelmäßig durch und deinstalliere die, die ich nicht nutze. Das ist besonders beim Handy wichtig, denn man lädt sich schnell mal ein Spiel oder eine App runter, die man einfach mal ausprobieren möchte. Nur um dann zwei Monaten später festzustellen, dass man sie ja noch auf dem Handy und trotzdem nicht benutzt hat. Also, weg damit. **Du kannst sie jederzeit wieder installieren, falls du sie brauchst!**
 
-&nbsp;
-
 Ich hoffe dieser Post war hilfreich für dich. Hier findest du noch die versprochene Checkliste zum einfachen Abarbeiten:
 
 {% include download.html name="Dokumente strukturieren: So wird's richtig gemacht!" path="/assets/downloads/2018-04-04-unsichtbare-unordnung-dokumente-strukturieren.pdf" size="34 kb" %}

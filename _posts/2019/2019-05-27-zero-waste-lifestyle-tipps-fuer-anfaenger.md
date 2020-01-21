@@ -125,8 +125,6 @@ Das Konsumverhalten ist ungemein wichtig, wenn es darum geht, **weniger Müll** 
 
 Also, im Zweifel mal nichts kaufen.
 
-&nbsp;
-
 So, dass waren 9 Tipps und Ideen, was du als Zero Waste Anfänger alles machen kannst. Da ist doch bestimmt was für dich bei, oder? Bist du neu bei dieser ganzen Idee _Zero Waste_ oder schon ein alter Hase? Wenn letzteres, was sind deine Tipps? Lass mir einen Kommentar da. Achja, und hier gibt es auch noch ein bisschen was zum Weiterlesen:
 
 [Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste/)
@@ -138,10 +136,3 @@ So, dass waren 9 Tipps und Ideen, was du als Zero Waste Anfänger alles machen k
 Wir sehen uns nächste Woche,
 
 \- Sarah
-
-## Zum Weiterlesen
-1. [Bundesministerium für Gesundheit: Trinkwasser](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/t/trinkwasser.html)
-2. [Umweltbundesamt: Papier - Wald und Klima schützen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/papier_-_wald_und_klima_schuetzen-reichart_1.pdf)
-3. [Umweltbundesamt: Plastiktüten](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/haushalt-wohnen/plastiktueten)
-4. [Umweltbundesamt: Plastiktüten (Publikation)](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/4453.pdf)
-5. [Umweltbundesamt: BISPHENOL A - Massenchemikalie mit unerwünschten Nebenwirkungen](https://www.umweltbundesamt.de/sites/default/files/medien/publikation/long/3782.pdf)

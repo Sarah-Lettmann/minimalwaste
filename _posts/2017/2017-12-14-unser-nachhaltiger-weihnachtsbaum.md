@@ -53,8 +53,6 @@ Und, voila. Fertig ist der super nachhaltige, selbstgebastelte, Null-Euro-Weihna
 
 ![Der fertige Baum](/assets/inpost-images/2017/2017-12-14-der-baum.jpg "© {{ site.title }}")
 
-&nbsp;
-
 Viel Spaß beim Ausprobieren und Nachmachen und noch mehr zum Thema nachhaltige Weihnachten gibt es hier:
 
 [Nachhaltige Weihnachtsdeko](/blog/nachhaltige-weihnachtsdeko/)

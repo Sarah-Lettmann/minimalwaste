@@ -88,8 +88,6 @@ Für mich ist klar: <mark>Eine nachhaltige Alternative stellt nur eine Kombinati
 
 Also, mal mehr Bus/Zug fahren, mal aufs Rad steigen oder vielleicht sogar mal laufen (für die ganz wild entschlossenen). Wie müssen aufhören uns zurückzulehnen und zu denken: “Die anderen werden’s schon richten.”, denn das stimmt einfach nicht. Wir müssen aktiv werden. Kleine Veränderungen im Alltag können eine große Wirkung haben und das nicht nur für die Umwelt, sondern auch für unsere Gesundheit.
 
-&nbsp;
-
 Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit den ganzen Zahlen. Aber hey, da müssen wir halt durch (ich musste das schließlich schreiben, stell dir das mal vor). Schreib mir gerne deine Meinung und Vorschläge wie man was verändern könnte. Ich bin gespannt! Ich empfehle dir außerdem diese Posts, wenn du dich noch weiter mit dem Thema beschäftigen willst:
 
 [6 Fakten zu Emissionen des Personen- und Güterverkehrs](/blog/6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs/)
@@ -99,25 +97,3 @@ Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit de
 [Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik/)
 
 \- Sarah
-
-&nbsp;
-
-#### Zum Weiterlesen
-1. [Wikipedia: Kohlenstoffmonoxid](https://de.wikipedia.org/wiki/Kohlenstoffmonoxid)  
-2. [Wikipedia: Kohlenstoffdioxid](https://de.wikipedia.org/wiki/Kohlenstoffdioxid)  
-3. [Wikipedia: Schwefeldioxid](https://de.wikipedia.org/wiki/Schwefeldioxid)  
-4. [Wikipedia: Stickstoffdioxid](https://de.wikipedia.org/wiki/Stickstoffdioxid)  
-5. [Wikipedia: Feinstaub](https://de.wikipedia.org/wiki/Feinstaub)  
-6. [Energie Lexikon: Stickoxide](https://www.energie-lexikon.info/stickoxide.html)  
-7. [Energie Lexikon: Unverbrannte Kohlenwasserstoffe](https://www.energie-lexikon.info/unverbrannte_kohlenwasserstoffe.html)  
-8. [Energie Lexikon: Dieselmotor](https://www.energie-lexikon.info/dieselmotor.html?s=ak)  
-9. [Energie Lexikon: Ottomotor](https://www.energie-lexikon.info/ottomotor.html)  
-10. [Umweltbundesamt: Neun Fragen und Antworten zum Diesel](https://www.umweltbundesamt.de/themen/neun-fragen-antworten-diesel)  
-11. [Umweltbundesamt: Quellen der Luftschadstoffe](https://www.umweltbundesamt.de/themen/luft/emissionen-von-luftschadstoffen/quellen-der-luftschadstoffe)  
-12. [Umweltbundesamt: Kohlendioxid-Emissionen](https://www.umweltbundesamt.de/daten/klima/treibhausgas-emissionen-in-deutschland/kohlendioxid-emissionen)  
-13. [Umweltbundesamt: Emissionen des Verkehrs](https://www.umweltbundesamt.de/daten/verkehr/emissionen-des-verkehrs)  
-14. [Umweltbundesamt: Kraftstoffe](https://www.umweltbundesamt.de/daten/verkehr/kraftstoffe)
-
-Unter Vorbehalt:
-15. [co2-emissionen-vergleichen.de: CO2 Emissionen PKW](http://www.co2-emissionen-vergleichen.de/verkehr/PKW/CO2-Emissionen-PKW.html)  
-16. [autokiste.de: CO2 Rechner](http://www.autokiste.de/service/co2-rechner.htm)

@@ -78,8 +78,6 @@ Für die Abende kannst du ein paar Teelichter oder Laternen auf der Terrasse ode
 
 Hier hast du alle Möglichkeiten der Welt. Hol dir doch einfach ein paar Ideen auf Pinterest.
 
-&nbsp;
-
 <mark>Mich persönlich motiviert so eine gut geputzte Umgebung immer. Außerdem hat man bei einem Frühjahrsputz ganz schön was geleistet und kann es sich danach ohne schlechtes Gewissen draußen in den ersten Sonnenstrahlen bequem machen.</mark> Für weiteres zum Thema, kannst du dich mal hier umschauen:
 
 [Zero Waste Rezepte](/blog/zero_waste_rezepte)

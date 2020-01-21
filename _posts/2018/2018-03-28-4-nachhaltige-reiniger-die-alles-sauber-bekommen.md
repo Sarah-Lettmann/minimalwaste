@@ -38,7 +38,7 @@ Damit kann man auch gut die **Spülmaschine reinigen** (was man ca. einmal im Mo
 ## Das Multitalent: Essig
 Es kann nie schaden, Essig zur Hand zu haben. Man kann ihn pur oder mit Wasser verdünnt verwenden. Besonders zum Entkalken ist er gut geeignet.
 
-Ab und zu ein bisschen Essig mit Wasser verdünnt in den **Wasserkocher**, zack, sauber. Eine kleine Schale mit Essig kann dazu verwendet werden die <abbr title="Siebe, die unter den Wasserhahn geschraubt sind">Perlatoren</abbr> der Wasserhähne zu entkalken - super easy. **Glänzende Armaturen** - auch kein Problem.
+Ab und zu ein bisschen Essig mit Wasser verdünnt in den **Wasserkocher**, zack, sauber. Eine kleine Schale mit Essig kann dazu verwendet werden die Perlatoren der Wasserhähne zu entkalken - super easy. **Glänzende Armaturen** - auch kein Problem.
 
 Bei den Perlatoren kann es sein, dass du sie eine ganze Weile in den Essig legen musst. Wir hatte unsere ein ganzes Jahr ignoriert - wir habe hier in Darmstadt wirklich sehr kalkhaltiges Wasser - und naja, es hat mehrere Tage gebraucht. Aber es hat funktioniert!
 
@@ -51,8 +51,6 @@ Den Backofen oder das Blech mit Natron bestreuen, dann Essig drauf sprühen und 
 
 Natron eignet sich auch gut als **Rohrreiniger**. Etwas Natron in den Abfluss geben und etwas Essig (verdünnt oder pur) nachgeben. Zusehen wie es blubbert und arbeitet und einwirken lassen. Danach mit kochendem Wasser nachgießen und evtl. etwas mit dem Pömpel nachhelfen. Je nach Stärke der Verschmutzung kann diese Prozedur mehrfach wiederholt werden.
 
-&nbsp;
-
 Ich hoffe diese Reiniger helfen dir deinen Frühjahrsputz ohne Chemiekeule und schnell über die Bühne zu bringen. Ich bin davon jedenfalls begeistert. Viel Spaß damit! Für weiter DIYs und Zero Waste Tipps, kann ich dir diese Beiträge empfehlen:
 
 [Zero Waste Rezepte](/blog/zero_waste_rezepte)
@@ -62,3 +60,5 @@ Ich hoffe diese Reiniger helfen dir deinen Frühjahrsputz ohne Chemiekeule und s
 [Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer)
 
 \- Sarah
+
+*[Perlatoren]: Siebe, die unter den Wasserhahn geschraubt sind

@@ -6,7 +6,8 @@ ul {
   }
 }
 
-li {
+li,
+dd {
   margin-bottom: .75rem;
   padding-left: 2rem;
   @include breakpoint(mobile) {
@@ -45,4 +46,8 @@ ol {
       position: absolute;
     }
   }
+}
+
+dt {
+  font-weight: 600;
 }

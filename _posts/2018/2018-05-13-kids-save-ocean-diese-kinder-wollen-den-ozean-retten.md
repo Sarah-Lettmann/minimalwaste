@@ -43,8 +43,6 @@ Kreativ wie Peder ist, hat er natürlich noch mehr Ideen, an den er gerade arbei
 
 Dabei sollen wissenschaftliche Studien und Forschungen die Grundlage bilden, die Schlussfolgerungen daraus, aber durch die Kinder gezogen und präsentiert werden.
 
-&nbsp;
-
 Also ich bin wirklich Feuer und Flamme für dieses Projekt. Es zeigt, was wir, also du und ich, mit unseren Stimmen erreichen können. Selbst die kleinsten von uns haben die Macht etwas zu verändern. Wir müssen uns nur darüber klar werden, dass wir unsere Stimmen erheben können, wie auch immer das aussehen mag.
 
 Vielleicht wie ein Wal aus Plastikmüll.

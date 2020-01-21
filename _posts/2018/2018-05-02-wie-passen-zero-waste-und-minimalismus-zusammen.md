@@ -53,8 +53,6 @@ Auch wenn sich das Gerücht hartnäckig hält: Zero Waste spart Geld. Genauso wi
 
 Außerdem könnte man auch die gesündere Ernährung mit den gesparten medizinischen Kosten ins Verhältnis setzen, aber das Fass mach ich jetzt nicht auf. Zu gesunder Ernährung durch Zero Waste gibt es nächste Woche einen Post.
 
-&nbsp;
-
 Diese beiden Lebensstile unterscheiden sich in vielen Dingen stark und in anderen Aspekten reichen sie sich perfekt die Hand. Ich finde das der richtige Weg wie bei so vielem irgendwo in der Mitte liegt. Und es kommt auch darauf an, was du aus diesen Lebensstilen machst. Sie sollten einen Anreiz bieten, Dinge besser zu machen und dazu anregen unsere Verhaltensweise zu überdenken.
 
 Aber letzten Endes liegt es an dir. Was davon kann ich in meinem Alltag umsetzen? Welche Möglichkeiten habe ich? Womit fühle ich mich wohl? Lass dir nichts aufzwingen. Mach es so, wie es sich für dich richtig anfühlt! Weiters zum Thema:

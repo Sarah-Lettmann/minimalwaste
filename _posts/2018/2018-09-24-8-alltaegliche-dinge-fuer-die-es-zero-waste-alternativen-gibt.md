@@ -82,8 +82,6 @@ Wer aber nicht auf das Umwickeln verzichten will, dem seien Bienenwachstücher a
 
 Bienenwachstücher: [Bienenwachstücher - waschbär](https://www.waschbaer.de/shop/bees-wrap-medium-42403)
 
-&nbsp;
-
 Für weitere Infos kannst du dich auch mal in Shops umsehen, die sich Nachhaltigkeit auf die Fahne geschrieben haben. Dazu habe ich bereits eine Liste und noch weiter Infos: 
 
 [Plastikfrei einkaufen – Alle Onlineshops die du kennen solltest](/blog/plastikfrei-einkaufen-alle-onlineshops)

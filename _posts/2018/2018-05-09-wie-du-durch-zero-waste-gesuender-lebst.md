@@ -62,8 +62,6 @@ Wenn du mehr darüber wissen willst, wie du dein Badezimmer Zero Waste gestalten
 ## Weniger Chemie im Haus
 Nicht nur **weniger Zusatzstoffe** im Essen und Pflegeprodukten, sondern auch in **Reinigern** und anderen **Haushaltsprodukten**, darauf achtet man auf einmal, wenn Müllvermeidung und Nachhaltigkeit zum Thema werden. Entweder man kauft unverpackte und umweltverträgliche Produkte oder man macht sie gleich selbst, wenn eventuell das Angebot fehlt. Für viele Sachen, kann man einfache Hausmittel verwenden. Wenn du dich dafür interessiert, dann guck doch mal hier: [4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen).
 
-&nbsp;
-
 Du siehst also Zero Waste stellt das ganze Leben auf den Kopf, wenn auch auf eine sehr positive Art und Weise. Allgemein könnte man sagen, dass die wichtigen Dinge wieder in den Vordergrund rücken: Gesundheit, Genuss, Zufriedenheit. Ich hoffe die Infos sind ein Ansporn, dich weiter mit dem Thema auseinander zu setzen. Hier kannst du dich noch weiter informieren:
 
 [Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell/)

@@ -59,8 +59,6 @@ Haarseife, Shampooseife, Haarwaschseife = Seife (also nicht so leicht in der Anw
 ## Was gibt es sonst noch für Alternativen?
 Es gibt sehr viele Möglichkeiten sich die Haare zu waschen, nicht nur festes Shampoo oder Haarwaschseife. Es ist auch möglich das Haar mit einem selbst angerührten Roggenmehl-Shampoo zu waschen oder mit Heilerde oder Natron. Dazu gibt es auch viele Beiträge im Internet und damit kenne ich mich nicht aus, also musst du dir leider selbst helfen. Zu empfehlen sind aber immer die Beiträge von [smarticular.net](https://www.smarticular.net/).
 
-&nbsp;
-
 Ich wünsche dir auf jeden Fall viel Spaß und Erfolg beim Ausprobieren, egal für welche Variante du dich entscheidest. Wenn dich ein müllfreies Badezimmer interessiert, dann kann ich dir diese beiden Beiträge empfehlen:
 
 [Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer)

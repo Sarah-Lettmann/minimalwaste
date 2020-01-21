@@ -51,8 +51,6 @@ Um Etiketten leicht von Gläsern abzubekommen, hilft in den meisten Fällen das 
 
 Manchmal hilft dieser Tipp, aber es gibt auch Etiketten, die sind mit einem zu starken Kleber aufgetragen. Da kann man leider nichts machen.
 
-&nbsp;
-
 Das waren meine kleinen und schnellen Mittelchen für den Haushalt. Ich probiere immer gerne mit neuen Sachen herum, um etwas Geld zu sparen oder einfach immer alles da zu haben (denn die meisten Dinge kann man ja mit Natron, Essig und Co. lösen). Welche Hausmittelchen verwendest du zu Hause und welche Erfahrungen hast du gemacht? Lass es mich wissen. Außerdem gibt es hier noch weitere Beiträge passend zum Frühjahrsputz:
 
 [4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen/ "Zum Beitrag")

@@ -68,8 +68,6 @@ Wenn es eines gibt, das ich mich den Großteil meines Lebens nicht gefühlt habe
 
 Dabei muss es noch nicht mal um das Aussehen gehen, auch Dinge wie die Wahl des Berufs, mit wem man zusammen lebt, ob man Kinder bekommt, wo man wohnt, bei all diese Dingen wird eine gewisse Erwartungshaltung suggeriert. Es sind zu einem Großteil auch selbst auferlegte Zwänge. Trotzdem möchte man doch am Ende des Tages damit zufrieden sein, was man macht. Minimalismus hat mir geholfen mich davon wegzubewegen und für mich selbst zu bestimmen, was ich und wie ich mein Leben leben will.
 
-&nbsp;
-
 Ich habe also bis jetzt sehr gute Erfahrungen mit Minimalismus gemacht. Dieser Lebensstil hat mein Leben wirklich bereichert. Dabei aber lustigerweise gar nicht so sehr durch das ganze Ausmisten und nicht mehr kaufen, sondern viel mehr durch die ganzen mentalen Nebeneffekte.
 
 Ich mache mir weniger Sorgen um unwichtige Dinge und genieße die wertvollen Dinge mehr. Ich bin selbstbestimmter und weiß, dass das was ich tue und kaufe wirklich zu mir passt und meine eigene Entscheidungen sind.

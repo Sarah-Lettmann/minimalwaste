@@ -82,8 +82,6 @@ Bei Technik und Elektronik ist das schon schwieriger. Aber auch hier kannst du d
 ## Sei kreativ!
 Und zum Schluss noch: **Sei kreativ.** Es gibt viele Dinge, die man einfach mal von einer anderen Seite betrachten muss und schon ergibt sich eine Lösung. Viele Dinge können leicht mehrere Zwecke erfüllen und neu kaufen ist nicht immer die beste Lösung, auch wenn das die suggerierte ist.
 
-&nbsp;
-
 Aber vor allem: Hab Spaß daran, neues auszuprobieren, ein bisschen verrückt zu sein, vielleicht am Anfang von Freunden und Familie etwas verwundert beäugt zu werden - das geht vorbei und mit der Zeit wird alles leichter. Sei immer freundlich und erkläre immer warum du tust was du tust. Dir kann nichts im Weg stehen, außer du selbst!
 
 Außerdem könnten dir auch diese Artikel weiterhelfen:

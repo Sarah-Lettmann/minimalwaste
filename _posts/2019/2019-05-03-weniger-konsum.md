@@ -90,8 +90,6 @@ An dieser Stelle werden die mentalen Auswirkungen des ständigen Kaufens deutlic
 
 Außerdem kann es hilfreich sein, dir zu merken, was du alles kaufen würdest (z.B. als Lesezeichen im Browser). Wenn du es dann einen Monat später immer noch nicht vergessen hast und es immer noch haben willst, dann ist das schon ein recht legitimer Grund, es zu kaufen.
 
-&nbsp;
-
 Minimalismus ist befreiend und kann einem wirklich helfen sein Leben besser zu ordnen. Doch er muss auch richtig gelebt werden. Wenn er das aber wird, dann kann er nicht nur viel für uns, sondern auch für unseren Planeten tun.
 
 Ich hoffe dieser Beitrag konnte dir weiterhelfen in Zukunft mehr über deinen Konsum nachzudenken und ihn etwas zurück zu schrauben. Denn nur weniger Konsum ist wirklich nachhaltig und wirkt zudem auch noch befreiend. Was hast du bis jetzt alles ausprobiert und wie hat sich dein Konsumverhalten verändert? Lass mir gerne einen Kommentar da.

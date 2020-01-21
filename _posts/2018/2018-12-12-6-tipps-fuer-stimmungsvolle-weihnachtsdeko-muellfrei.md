@@ -56,8 +56,6 @@ Die **Anhänger aus Natron und Speisestärke** habe ich einfach Weiß gelassen, 
 ## Basteln
 Die Tipps vorher sind bis auf den Weihnachtsbaum recht schnell umgesetzt. Aber du kannst auch einfach Dinge selbst basteln. Sowas wie **Fensterdeko in Form von Papiersternen**. Oder du fertigst kleine Tiere aus Tannenzapfen und Filz. Generell habe ich dir mal eine [Pinnwand](https://www.pinterest.de/minimalwaste/weihnachten/) zusammengestellt, auf der du ganz viel Inspiration und tolle Ideen findest.
 
-&nbsp;
-
 Wenn du noch mehr zu dem Thema wissen willst, dann schau doch mal hier:
 
 [Nachhaltige Weihnachtsdeko](/blog/nachhaltige-weihnachtsdeko/)

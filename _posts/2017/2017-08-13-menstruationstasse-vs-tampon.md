@@ -157,11 +157,3 @@ Ich hoffe du konntest aus diesem Artikel ein bisschen was für dich mitnehmen, b
 [Festes Shampoo: Was du alles wissen solltest!](/blog/festes-shampoo-was-du-alles-wissen-solltest/)
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [erdbeerwoche.com](http://www.erdbeerwoche.com)
-2. [menstruationstasse.com](http://www.menstruationstasse.com/)
-3. [me-luna.eu: Reinigung](http://www.me-luna.eu/MeLuna-Informationsseiten/MeLuna-Reinigung)
-4. [Wikipedia: Menstruationstasse](https://de.wikipedia.org/wiki/Menstruationstasse)

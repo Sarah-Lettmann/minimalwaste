@@ -84,18 +84,3 @@ Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders
 Mach es gut und bis zum nächsten Mal,
 
 \- Sarah
-
-&nbsp;
-
-#### Mehr Infos
-1. [Google Books: Praxishandbuch der Kreislauf- und Rohstoffwirtschaft](https://books.google.de/books?id=7sFADwAAQBAJ&lpg=PA297&ots=qiUhpT8601&dq=glasrecycling&lr&hl=de&pg=PA297#v=onepage&q=glasrecycling&f=false)
-2. [Wikipedia: Glas-Recycling](https://de.wikipedia.org/wiki/Glas-Recycling)
-3. [Aktionsforum Glasverpackung: Nachhaltigkeit](https://www.glasaktuell.de/nachhaltigkeit/)
-4. [Der Grüne Punkt: Glasrecycling ist einfach und effektiv](https://www.gruener-punkt.de/de/glasrecycling-glas-entsorgen.html)
-5. [The European Container Glass
-Federation (FEVE): Environmental, social and economic contribution of the
-Container Glass sector in Europe](https://feve.org/wp-content/uploads/2016/04/Ernst-and-Young-Study-Environmental-social-and-economic-contribution-of-the-container-glass-sector-in-Europe.pdf)
-6. [YouTube: Recycling: Wie aus Scherben Flaschen werden](https://www.youtube.com/watch?v=X8NVrA5lHx8)
-7. [Umweltbundesamt: Glas- und Mineralfaserindustrie](https://www.umweltbundesamt.de/themen/wirtschaft-konsum/industriebranchen/mineralindustrie/glas-mineralfaserindustrie#textpart-5)
-8. [Utopia: Einweg oder Mehrweg, Glas- oder Plastikflaschen: Was ist umweltfreundlicher?](https://utopia.de/ratgeber/einweg-oder-mehrweg-glas-oder-plastikflaschen-was-ist-umweltfreundlicher/)
-9. [Umweltbundesamt: Kunststoffabfälle](https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/kunststoffabfaelle)

@@ -22,9 +22,11 @@ _Eigentlich wollte ich auch noch Leinen mit aufnehmen, aber zu diesem Stoff konn
 
 Vorweg noch ein paar Begriffsdefinitionen. Bei dem hier aufgeführten Wasser handelt es sich um _virtuelles Wasser_ und bei der Energie (Wh oder kWh) um _graue Energie_.
 
-**Virtuelles Wasser:** "Mit virtuellem bzw. latentem Wasser wird die Wassermenge bezeichnet, die nach einer umfassenden Bilanz als insgesamt tatsächlich für die Herstellung eines Produkts anfiel.".
+Virtuelles Wasser
+: Mit virtuellem bzw. latentem Wasser wird die Wassermenge bezeichnet, die nach einer umfassenden Bilanz als insgesamt tatsächlich für die Herstellung eines Produkts anfiel.
 
-**Graue Energie:** "Als graue Energie wird die Energiemenge bezeichnet, die für Herstellung, Transport, Lagerung, Verkauf und Entsorgung eines Produktes benötigt wird. Dabei werden auch alle Vorprodukte bis zur Rohstoffgewinnung berücksichtigt und der Energieeinsatz aller angewandten Produktionsprozesse addiert.".
+Graue Energie
+: Als graue Energie wird die Energiemenge bezeichnet, die für Herstellung, Transport, Lagerung, Verkauf und Entsorgung eines Produktes benötigt wird. Dabei werden auch alle Vorprodukte bis zur Rohstoffgewinnung berücksichtigt und der Energieeinsatz aller angewandten Produktionsprozesse addiert.
 
 <mark>Im Folgenden werden wir uns den Verbrauch der Rohstoffe und weitere Aspekte einzeln angucken und später diese runtergerechnet auf die Menge von Taschentüchern nach Wasser- und Energieverbrauch sowie CO2-Emissionen vergleichen.</mark>
 
@@ -40,14 +42,14 @@ Durch die Abholzung der Wälder werden zudem die Lebensräume der dort lebenden 
 Deutschland importiert 80% des Zellstoffest (davon ein sehr großer Teil Holz), der zur Papierherstellung benötigt wird. Da dieses wie schon erwähnt nicht nur aus der EU, sondern auch aus Amerika kommt, fallen teils **enorme Lieferwege** an. Die meisten Rohstoffe stammen aber wie gesagt aus Europa und haben somit einen vergleichsweise kurzen Lieferweg.
 
 ### Wasser-, Energie- und Rohstoffbedarf
-Um neues Papier herzustellen (aus sogenannten <abbr title="Fasern, die nur einmal oder erstmals zur Produktion eingesetzt werden.">Primärfasern</abbr>) werden pro Kilogramm benötigt:
+Um neues Papier herzustellen (aus sogenannten Primärfasern) werden pro Kilogramm benötigt:
 1. 50L Wasser
 2. 5kWh Energie
 3. 1,1kg CO2
 4. 2,2kg Holz
 
 ### Chemikalieneinsatz
-Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält **15g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>** (steht hier allgemein für die Menge an Schadstoffen).
+Die Papierherstellung ist mit vielen Chemikalien verbunden. Auch wenn die klassische Chlorbleiche schon seit den 80er Jahren in Deutschland verboten ist, werden wie bereits erwähnt schon beim Anbau Pestizide eingesetzt. Ein Kilogramm Papier aus Primärfasern (neu hergestelltes Papier) enthält **15g CSB** (steht hier allgemein für die Menge an Schadstoffen).
 
 ### Bilanz
 Ein Papiertaschentuch wiegt im Schnitt **2,6g**. Genau dafür berechnen wir jetzt wie viel Wasser, Energie und CO2 benötigt werden, den Zahlen zu speziell Tachentüchern konnte ich nicht finden. Der Verbrauch für ein Taschentuch und den Jahresverbrauch pro Kopf an Papiertaschentüchern sind in der folgenden Tabelle aufgelistet. Dabei setzte ich einen überschlagenen **Jahresverbrauch von 1460 Papiertaschentüchern** voraus (4 Stück am Tag).
@@ -91,14 +93,14 @@ An den negativen Auswirkungen für Mensch, Tier und Umwelt ist Recyclingpapier n
 Zu den Transportwegen konnte ich leider ähnlich wie für Papier keine konkreten Zahlen finden. Man kann aber annehmen, dass die Emissionen durch den Transport bei Recyclingpapier wesentlich geringer sind, als bei Papier aus Primärfasern. Das schließe ich daraus, dass Altpapier **regional gesammelt** und zumindest hier **in Deutschland weiterverarbeitet** wird (ich schätze es verhält sich hier ähnlich wie beim Altglasrecycling). Dadurch fallen nur recht kurze Wege an, wenn man das mit den Importen von Holz aus Brasilien oder auch Skandinavien vergleicht.
 
 ### Wasser-, Energie- und Rohstoffbedarf
-Was den Bedarf an Ressourcen angeht, ist Recyclingpapier wesentlich sparsamer. Für ein Kilogramm Papier aus <abbr title="Recyclingstoff">Sekundärfasern</abbr> (Altpapier) werden benötigt:
+Was den Bedarf an Ressourcen angeht, ist Recyclingpapier wesentlich sparsamer. Für ein Kilogramm Papier aus Sekundärfasern (Altpapier) werden benötigt:
 1. 15L Wasser
 2. 2kWh Energie
 3. 0,9kg CO2
 4. 1,2kg Altpapier
 
 ### Chemikalieneinsatz
-Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei **3g <abbr title="Chemischer Sauerstoffbedarft">CSB</abbr>**.
+Auch der Anteil an Chemikalien im fertigen Recyclingpapier ist geringer als in neu hergestelltem Papier. Er liegt pro Kilogramm bei **3g CSB**.
 
 ### Bilanz
 Auch hier gehen wir wieder von einem Papiertaschentuch aus, das **2,6g** wiegt und einem Jahresverbrauch pro Kopf von 1460 Taschentüchern. Die Bilanz zeigt dir die folgende Tabelle.
@@ -340,12 +342,6 @@ Dann bis zum nächsten Mal.
 
 \- Sarah
 
-&nbsp;
-
-#### Hier kannst du dich weiter informieren
-1. [Wikipedia: Papier](https://de.wikipedia.org/wiki/Papier)
-2. [Umweltbundesamt: Altpapier](https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/altpapier)
-3. [Umweltbundesamt: Papier - Wald und Klima schützen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/papier_-_wald_und_klima_schuetzen-reichart_1.pdf)
-4. [Der Blaue Engel](https://www.blauer-engel.de)
-5. [nachhaltig-sein.info: Wie die Zukunft der Wälder mit dem Papierverbrauch zusammenhängt](https://nachhaltig-sein.info/unternehmen-csr-nachhaltigkeit/zusammenhang-papierverbrauch-auswirkung-folgen-walder)
-6. [Stromauskunft: CO2-Emissionen](https://www.stromauskunft.de/die-klimaschuetzer/co2-emissionen/)
+*[Primärfasern]: Fasern, die nur einmal oder erstmals zur Produktion eingesetzt werden.
+*[CSB]: Chemischer Sauerstoffbedarft
+*[Sekundärfasern]: Recyclingstoff

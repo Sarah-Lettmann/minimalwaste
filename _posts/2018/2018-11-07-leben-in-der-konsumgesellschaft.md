@@ -74,8 +74,6 @@ Da kommt auch wieder Starbucks ins Spiel. Mir ist aufgefallen, dass Mischgeträn
 
 Achja, noch was am Rande: Starbucks stattet seinen Kaffee übrigens auch mit einem imaginativen Wert aus: dem Fair Trade-Versprechen. Der Kunde glaubt, er kauft guten, ehrlich produzierten Kaffee und wird dabei nur hinters Licht geführt. Dazu empfehle ich auch die [Doku “Starbucks ungefiltert” von Arte](https://www.arte.tv/de/videos/073442-000-A/starbucks-ungefiltert/) (leider momentan nicht verfügbar).
 
-&nbsp;
-
 Die ganze Werbung und das Produktdesign sind so schlimm, weil sie uns ständig verführen. Ständig hetzen wir einem neuen Ding hinterher und jagen eine Vorstellung von uns, die so nicht existiert. Darin soll kein Vorwurf stecken, nein. Man muss anerkennen, dass das Marketing vieler Unternehmen tief in unsere Psyche schaut und uns versteht. Aber diesen Umstand muss man sich eben bewusst machen und nicht fälschlicherweise glaube, man würde selbstständig entscheiden was man kauft. Denn das tut man ganz sicher nur in den seltensten Fällen.
 
 Wenn dich das Thema interessiert und vielleicht auch, was man dagegen tun kann, dann empfehle ich dir folgende Beiträge:

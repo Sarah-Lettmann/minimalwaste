@@ -90,8 +90,6 @@ Bisher benutze ich die Zahnseide von Vömel. Diese kommt in einem Glasbehälter,
 ### Waschbeutel gegen Mikroplastik
 Mikroplastik ist ein sehr großes Problem und wenn man noch Kleidung hat, die zum Teil aus Polyester oder anderen künstlichen Fasern besteht, dann lösen sich daraus beim Waschen kleinste Fasern und gelangen ins Wasser. Um vorzubeugen gibt es spezielle Waschbeutel wie den [Guppyfriend](https://guppyfriend.langbrett.com/). Dieser ist so feinmaschig, dass er Mikroplastik, das sich aus der Kleidung löst, abfangen kann.
 
-&nbsp;
-
 Ich werde mir in naher Zukunft glaube ich ein paar dieser Sachen zulegen, angefangen mit der veganen Zahnseide, dem Guppyfriend und hoffentlich kann ich auch lastSwab ausprobieren. Bei der Podusche bin ich mir immer noch nicht sicher, aber bei den Japanern ist das schon Standard, also warum nicht, right?!
 
 Wie gesagt, werde ich nach diesem Monat noch mal ein Update geben, wie es gelaufen ist. Für weitere Infos, wie man am besten Müll vermeidet und möglichst Zero Waste und plastikfrei leben kann, solltest du dich hier umschauen:

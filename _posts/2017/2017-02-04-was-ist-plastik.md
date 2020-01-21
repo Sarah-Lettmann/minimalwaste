@@ -110,34 +110,8 @@ Eine weitere Sache, die bedenklich ist, ist dass es Recherchedaten zu bei der E
 
 Solche Rückstände können beispielsweise auch in Schlämmen, die bei der Erdölförderung zurück bleiben, aufgefunden werden. <mark>Angeblich liegen die so anfallenden radioaktiven Abfälle weltweit pro Jahr in der Höhe von mehreren Millionen Tonnen. Und bis heute werden diese Abfälle nicht erfasst oder überwacht und es gibt auch keine Regelung, die sich der fachgerechten Entsorgung annimmt.</mark> Die Entsorgung der Stoffe wird bis heute der Industrie selbst überlassen, was schon zu mehreren heiklen Entdeckungen geführt hat.
 
-Ich hoffe du bist jetzt etwas schlauer als vorher und ich konnte dir einige interessante Infos liefern. Meiner Meinung nach ist Plastik ein durchaus kritischer Stoff, dessen Verwendung man sich gut überlegen sollte. Willst du gerne noch mehr über Plastik erfahren? Hier die ganze Serie im Überblick:
+Ich hoffe du bist jetzt etwas schlauer als vorher und ich konnte dir einige interessante Infos liefern. Meiner Meinung nach ist Plastik ein durchaus kritischer Stoff, dessen Verwendung man sich gut überlegen sollte.
 
-**Was ist Plastik eigentlich genau? - Plastik unter der Lupe (1)**
-
-Bioplastik und das Greenwashing - Plastik unter der Lupe (2)
-
-Alles über Mikroplastik - Plastik unter der Lupe (3)
-
-Bis dahin,
+Bis dann,
 
 \- Sarah
-
-&nbsp;
-
-#### Hier findest du weitere Infos:
-1. [Wikipedia: Kunststoff](https://de.wikipedia.org/wiki/Kunststoff)
-2. [Wikipedia: Biopolymer](https://de.wikipedia.org/wiki/Biopolymer)
-3. [Wikipedia: Erdöl](https://de.wikipedia.org/wiki/Erdöl)
-4. [Umwelt Bundesamt: Warum lassen sich biologisch abbaubare Verpackungen nicht kompostieren?](https://www.umweltbundesamt.de/service/uba-fragen/warum-lassen-sich-biologisch-abbaubare-verpackungen)
-5. [Wikipedia: Polyethylen](https://de.wikipedia.org/wiki/Polyethylen)
-6. [www.plasticseurope.org: Plastics - the Facts 2016](http://www.plasticseurope.org/Document/plastics---the-facts-2016-15787.aspx?FolID=2)
-7. [BKV: Kunststoff - Werkstoff der Ressourceneffizienz](http://www.bkv-gmbh.de/fileadmin/documents/Brosch%C3%BCren/BKV_Kunststoff_deutsch_web.pdf)
-8. [Wikipedia: Erdölgewinnung](https://de.wikipedia.org/wiki/Erd%C3%B6lgewinnung)
-9. [yourwaterfootprint.me, Amazing Infographic Samples from Your Water Footprint](https://yourwaterfootprint.me/infographic-samples/)
-10. [Wikipedia: Polyethylenterephthalat](https://de.wikipedia.org/wiki/Polyethylenterephthalat)
-11. [Wikipedia: Thermoplast](https://de.wikipedia.org/wiki/Thermoplast)
-12. [Wikipedia: Duroplaste](https://de.wikipedia.org/wiki/Duroplaste)
-13. [Wikipedia: Kohlenstofffaserverstärkter Kunststoff](https://de.wikipedia.org/wiki/Kohlenstofffaserverst%C3%A4rkter_Kunststoff)
-14. [Wikipedia: Elastomer](https://de.wikipedia.org/wiki/Elastomer)
-15. [Wikipedia: Weichmacher](https://de.wikipedia.org/wiki/Weichmacher)
-16. [Wikipedia: Bisphenol A](https://de.wikipedia.org/wiki/Bisphenol_A)

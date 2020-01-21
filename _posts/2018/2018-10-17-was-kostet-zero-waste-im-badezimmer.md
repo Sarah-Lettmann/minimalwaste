@@ -316,8 +316,6 @@ Damit liegen die **Mehrkosten bei ca 23€**, was du mit der Ersparnis bei den g
 
 <mark>Man muss also durchaus mal rechnen und sich informieren und dann entscheiden, was günstig ist und wo man sparen kann - das kann man leicht ersetzen - und wo es eher schwierig ist. Da solltest du dir keinen Druck machen!</mark>
 
-&nbsp;
-
 Nachstehend habe ich noch die Rechnungen zu den Produkten aus den Tabellen oben aufgeführt (falls es dich interessiert). Ich hoffe damit konnte ich den Irrglauben, dass Zero Waste immer teurer ist als herkömmliche Produkte, die man bei DM und Co. bekommt, etwas zerstreuen. Das könnte dich außerdem noch interessieren:
 
 [8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen)

@@ -94,8 +94,6 @@ Du kannst natürlich noch weiter damit rumspielen, aber das ist zumindest die Gr
 
 Dafür empfehle ich dir das Programm _KeePass_. Das gibt es für PC und Android und ist eine Datenbank für Passwörter. Nach Kategorien sortiert, kann man alle seine wichtigen Daten anlegen und mit Doppelklick auf Passwort oder Nutzername diese gleich kopieren und einfügen. Ich nutze das neuerdings und besonders für Kundennummern und solche Sachen, die man sich nicht gut merken kann, finde ich es ziemlich gut.
 
-&nbsp;
-
 Damit wäre ich am Ende diese wirklich überhaupt nicht, viel zu lang gewordenen Beitrags. Puhh… Ich hoffe du konntest daraus einiges mitnehmen und es spart dir in Zukunft Geld, Zeit und Nerven. Hier gibt es noch weiteres zum Thema Minimalismus:
 
 [Unsichtbare Unordnung: Dokumente Strukturieren](/blog/unsichtbare-unordnung-dokumente-strukturieren)

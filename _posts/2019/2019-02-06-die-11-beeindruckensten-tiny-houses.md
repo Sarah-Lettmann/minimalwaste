@@ -70,8 +70,6 @@ Ein Tiny House ist nichts für ältere Menschen? Dieses hier beweist das Gegente
 
 Wirklich wunderschön finde ich die Idee dieser Frau, ein Haus in einen alten Zugwaggon zu bauen. Mit dem dunklen Holz und alten Möbel, mag das nicht Jedermanns Sache sein, hat aber viel Charakter.
 
-&nbsp;
-
 Für weiter Infos, wie man so ein Tiny House realisieren kann, was die Vorteile sind und wie viel sowas kostet, hier noch ein paar Video: [Wohnen: Leben im Mini-Haus - WDR Doku](https://www.youtube.com/watch?v=WSmKeFtB1yg). Und noch mehr zum Thema Minimalismus:
 
 [Minimalistische Finanzplanung für mehr Freiheit](/blog/minimalistische-finanzplanung-fuer-mehr-freiheit)

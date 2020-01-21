@@ -71,8 +71,6 @@ Danach den Kuchen bei **180°C Umluft ca. 45 Minuten** backen.
 
 ![Kürbis Kuchen oder auch Pumpkin Pie](/assets/inpost-images/2018/2018-10-11-kuerbis-kuchen.jpg "© {{ site.title }}")
 
-&nbsp;
-
 Ich hoffe du findest diese Rezepte genauso toll wie ich. Ich fand es wirklich erstaunlich wie leicht sowas wie Kürbispüree selbst zu machen ist. Das könnte dich außerdem noch interessieren:
 
 [7 Tipps für weniger Lebensmittelabfälle](/blog/7-tipps-fuer-weniger-lebensmittelabfaelle)

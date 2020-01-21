@@ -21,8 +21,6 @@ mark {
 }
 
 abbr {
-  color: $primary-600;
   cursor: help;
-  font-weight: 600;
-  text-decoration: none;
+  text-decoration: underline dotted;
 }

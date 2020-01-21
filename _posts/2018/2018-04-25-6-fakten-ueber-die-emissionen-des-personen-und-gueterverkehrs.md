@@ -52,8 +52,6 @@ Nicht etwa vom Flugverkehr fühlen sich viele Menschen **stark gestört**, sonde
 
 Im Vergleich der Lärmquellen Nachbarn, Straßenverkehr, Schienenverkehr, Flugverkehr und Industrie und Gewerbe schneidet der **Schienenverkehr am besten** ab. Zu finden auf S. 53 von [Daten zum Verkehr](https://www.umweltbundesamt.de/sites/default/files/medien/publikation/long/4364.pdf).
 
-&nbsp;
-
 Alles in allem war doch einiges dabei, dass mich wirklich überrascht hat. Deutlich ist auf jeden Fall, dass der Zugverkehr am umweltfreundlichsten und am angenehmsten für die Bevölkerung ist. Und der Straßenverkehr hingegen sich in vielen verschiedenen Aspekten negativ auf uns auswirkt.
 
 Ich hoffe du nimmst diese Infos mit und nutzt demnächst mehr den Zug oder bestellst nicht mehr so häufig im Internet. Mehr zum Thema Umwelt und Emissionen, findest du hier:
@@ -67,11 +65,3 @@ Ich hoffe du nimmst diese Infos mit und nutzt demnächst mehr den Zug oder beste
 Bis dahin,
 
 \- Sarah
-
-&nbsp;
-
-#### Weiter Informationen
-1. [Umweltbundesamt: Emissionsdaten](https://www.umweltbundesamt.de/themen/verkehr-laerm/emissionsdaten)  
-2. [Umweltbundesamt: Daten zum Verkehr](https://www.umweltbundesamt.de/sites/default/files/medien/publikation/long/4364.pdf)  
-3. [Greenpeace: CO2-Emissionen der Schifffahrt bisher stark unterschätzt](https://www.greenpeace.de/themen/klimawandel/ursachen-klimawandel/co2-emissionen-der-schifffahrt-bisher-stark-unterschaetzt)  
-4. [Nabu: Mythos klimafreundliche Containerschiffe](https://www.nabu.de/umwelt-und-ressourcen/verkehr/schifffahrt/containerschifffahrt/16646.html)
