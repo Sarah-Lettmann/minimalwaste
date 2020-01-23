@@ -34,42 +34,27 @@ Womit ich einen Wasserverbrauch von **1,95 l** und einen Stromverbrauch von **0,
 und  
 2,5 kWh * 0,0026 = 0,0065 kWh
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Verbrauch Herstellung
-      </th>
-      <th>
-        Verbrauch pro Jahr (bei einem Taschentuch pro Tag - 365 Tage)
-      </th>
+      <th>Resource</th>
+      <th>Verbrauch Herstellung</th>
+      <th>Verbrauch pro Jahr (bei einem Taschentuch pro Tag - 365 Tage)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasser</th>
+      <td data-label="Verbrauch Herstellung">1,95 l</td>
+      <td data-label="Verbrauch pro Jahr (bei einem Taschentuch pro Tag - 365 Tage)">711,75 l</td>
     </tr>
     <tr>
-      <th>
-        Wasser
-      </th>
-      <td>
-        1,95 l
-      </td>
-      <td>
-        711,75 l
-      </td>
+      <th>Strom</th>
+      <td data-label="Verbrauch Herstellung">0,0065 kWh</td>
+      <td data-label="Verbrauch pro Jahr (bei einem Taschentuch pro Tag - 365 Tage)">2,3725 kWh</td>
     </tr>
-    <tr>
-      <th>
-        Strom
-      </th>
-      <td>
-        0,0065 kWh
-      </td>
-      <td>
-        2,3725 kWh
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 ## Alternativen aus Stoff: Das Stofftaschentuch unter der Lupe
 Was ich über Stofftaschentücher heraus gefunden habe, ist leider nicht so viel wie es mir lieb gewesen wäre. Zu der Herstellung von Baumwolle an sich habe ich aber einiges gefunden, womit ich rechnen konnte.
@@ -105,212 +90,116 @@ Das heißt ein einzelnes Stofftaschentuch braucht bei einen Waschgang auch nur 
 und  
 1,5 kWh * 0,0016 = 0,0024 kWh
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Verbrauch Herstellung
-      </th>
-      <th>
-        Verbrauch pro Waschgang
-      </th>
-      <th>
-        Verbrauch pro Jahr (26 Waschgänge)
-      </th>
+      <th>Resource</th>
+      <th>Verbrauch Herstellung</th>
+      <th>Verbrauch pro Waschgang</th>
+      <th>Verbrauch pro Jahr (26 Waschgänge)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasser</th>
+      <td data-label="Verbrauch Herstellung">134,2 l</td>
+      <td data-label="Verbrauch pro Waschgang">0,115 l</td>
+      <td data-label="Verbrauch pro Jahr (26 Waschgänge)">2,99 l</td>
     </tr>
     <tr>
-      <th>
-        Wasser
-      </th>
-      <td>
-        134,2 l
-      </td>
-      <td>
-        0,115 l
-      </td>
-      <td>
-        2,99 l
-      </td>
+      <th>Strom</th>
+      <td data-label="Verbrauch Herstellung">0,145 kWh</td>
+      <td data-label="Verbrauch pro Waschgang">0,0024 kWh</td>
+      <td data-label="Verbrauch pro Jahr (26 Waschgänge)">0,0624 kWh</td>
     </tr>
-    <tr>
-      <th>
-        Strom
-      </th>
-      <td>
-        0,145 kWh
-      </td>
-      <td>
-        0,0024 kWh
-      </td>
-      <td>
-        0,0624 kWh
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 ## Was ist also besser für die Ökobilanz?
 In der Herstellung verbraucht das aus Baumwolle gefertigte Stofftaschentuch also natürlich viel mehr Ressourcen als das Papiertaschentuch:
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Verbrauch Herstellung Papiertaschentuch
-      </th>
-      <th>
-        Verbrauch Herstellung Stofftaschentuch
-      </th>
+      <th>Resource</th>
+      <th>Verbrauch Herstellung Papiertaschentuch</th>
+      <th>Verbrauch Herstellung Stofftaschentuch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasser</th>
+      <td data-label="Verbrauch Herstellung Papiertaschentuch">1,95 l</td>
+      <td data-label="Verbrauch Herstellung Stofftaschentuch">134,2 l</td>
     </tr>
     <tr>
-      <th>
-        Wasser
-      </th>
-      <td>
-        1,95 l
-      </td>
-      <td>
-        134,2 l
-      </td>
+      <th>Strom</th>
+      <td data-label="Verbrauch Herstellung Papiertaschentuch">0,0065 kWh</td>
+      <td data-label="Verbrauch Herstellung Stofftaschentuch">0,145 kWh</td>
     </tr>
-    <tr>
-      <th>
-        Strom
-      </th>
-      <td>
-        0,0065 kWh
-      </td>
-      <td>
-        0,145 kWh
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Aber darum geht es ja in erster Linie nicht. Ein Stofftaschentuch kann ja wesentlich länger verwendet werden, durchaus einige Jahre. Was erhalten wir also, wenn wir das alles mal auf 5 und 10 Jahre hochrechnen? Dazu muss noch klar sein, dass wenn ich nur alle 2 Wochen wasche, 14 Stofftaschentücher benötigt werden, wenn ich jeden Tag eines benutze. Ich nehme also den Verbrauch bei der Herstellung mal 14 und ebenso den Verbrauch pro Waschgang pro Taschentuch mal 14, da ja auch jedes mal diese 14 Stofftaschentücher gewaschen werden müssen und nicht nur eines. Für die Papiertaschentücher ändert sich nichts. Außerdem habe ich diesmal mehr gerundet (wenn möglich), damit es anschaulicher ist und du besser vergleichen kannst.
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Verbrauch Herstellung für 14 Stofftaschentücher
-      </th>
-      <th>
-        Verbrauch pro Waschgang für 14 Stofftaschentücher
-      </th>
-      <th>
-        Verbrauch pro Jahr: 26 Waschgänge
-      </th>
-      <th>
-        Verbrauch 5 Jahre: 130 Waschgänge
-      </th>
-      <th>
-        Verbrauch 10 Jahre: 260 Waschgänge
-      </th>
+      <th>Resource</th>
+      <th>Verbrauch Herstellung für 14 Stofftaschentücher</th>
+      <th>Verbrauch pro Waschgang für 14 Stofftaschentücher</th>
+      <th>Verbrauch pro Jahr: 26 Waschgänge</th>
+      <th>Verbrauch 5 Jahre: 130 Waschgänge</th>
+      <th>Verbrauch 10 Jahre: 260 Waschgänge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasser</th>
+      <td data-label="Verbrauch Herstellung für 14 Stofftaschentücher">1893 l</td>
+      <td data-label="Verbrauch pro Waschgang für 14 Stofftaschentücher">1,6 l</td>
+      <td data-label="Verbrauch pro Jahr: 26 Waschgänge">1935 l</td>
+      <td data-label="Verbrauch 5 Jahre: 130 Waschgänge">2101 l</td>
+      <td data-label="Verbrauch 10 Jahre: 260 Waschgänge">2309 l</td>
     </tr>
     <tr>
-      <th>
-        Wasser
-      </th>
-      <td>
-        1893 l
-      </td>
-      <td>
-        1,6 l
-      </td>
-      <td>
-        1935 l
-      </td>
-      <td>
-        2101 l
-      </td>
-      <td>
-        2309 l
-      </td>
+      <th>Strom</th>
+      <td data-label="Verbrauch Herstellung für 14 Stofftaschentücher">2 kWh</td>
+      <td data-label="Verbrauch pro Waschgang für 14 Stofftaschentücher">0,0336 kWh</td>
+      <td data-label="Verbrauch pro Jahr: 26 Waschgänge">2,9 kWh</td>
+      <td data-label="Verbrauch 5 Jahre: 130 Waschgänge">6,4 kWh</td>
+      <td data-label="Verbrauch 10 Jahre: 260 Waschgänge">10,7 kWh</td>
     </tr>
-    <tr>
-      <th>
-        Strom
-      </th>
-      <td>
-        2 kWh
-      </td>
-      <td>
-        0,0336 kWh
-      </td>
-      <td>
-        2,9 kWh
-      </td>
-      <td>
-         6,4 kWh
-      </td>
-      <td>
-        10,7 kWh
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Verbrauch Herstellung 1 Papiertaschentuch
-      </th>
-      <th>
-        Verbrauch pro Jahr: 365 Tage
-      </th>
-      <th>
-        Verbrauch 5 Jahre: 1825 Tage
-      </th>
-      <th>
-        Verbrauch 10 Jahre: 3650 Tage
-      </th>
+      <th>Resource</th>
+      <th>Verbrauch Herstellung 1 Papiertaschentuch</th>
+      <th>Verbrauch pro Jahr: 365 Tage</th>
+      <th>Verbrauch 5 Jahre: 1825 Tage</th>
+      <th>Verbrauch 10 Jahre: 3650 Tage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wasser</th>
+      <td data-label="Verbrauch Herstellung 1 Papiertaschentuch">1,95 l</td>
+      <td data-label="Verbrauch pro Jahr: 365 Tage">711,75 l</td>
+      <td data-label="Verbrauch 5 Jahre: 1825 Tage">3558 l</td>
+      <td data-label="Verbrauch 10 Jahre: 3650 Tage">7117 l</td>
     </tr>
     <tr>
-      <th>
-        Wasser
-      </th>
-      <td>
-        1,95 l
-      </td>
-      <td>
-        711,75 l
-      </td>
-      <td>
-        3558 l
-      </td>
-      <td>
-        7117 l
-      </td>
+      <th>Strom</th>
+      <td data-label="Verbrauch Herstellung 1 Papiertaschentuch">0,0065 kWh</td>
+      <td data-label="Verbrauch pro Jahr: 365 Tage">2,3725 kWh</td>
+      <td data-label="Verbrauch 5 Jahre: 1825 Tage">11,9 kWh</td>
+      <td data-label="Verbrauch 10 Jahre: 3650 Tage">23,7 kWh</td>
     </tr>
-    <tr>
-      <th>
-        Strom
-      </th>
-      <td>
-        0,0065 kWh
-      </td>
-      <td>
-        2,3725 kWh
-      </td>
-      <td>
-        11,9 kWh
-      </td>
-      <td>
-        23,7 kWh
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Also überholen die Papiertaschentücher recht schnell, was den Verbrauch an Wasser und vor allem Strom angeht. Ich habe sogar überschlagen, dass die Stofftaschentücher ab ca 2,5 Jahren schon ökologischer sind. Natürlich gilt: Je länger du sie verwendest, desto besser wird die Ökobilanz! Außerdem sind in dieser Rechnung keinerlei Verpackungen mit einberechnet, was das ganze Bild noch einmal erheblich verschärfen würde.
 

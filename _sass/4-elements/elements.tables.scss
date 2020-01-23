@@ -38,6 +38,12 @@ table {
     @include breakpoint(desktop) {
       border-right: $border;
     }
+
+    &:last-of-type {
+      @include breakpoint(desktop) {
+        border-right: 0;
+      }
+    }
   }
 
   thead {

@@ -39,30 +39,28 @@ Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen w
 
 **Kennst du Onlineshops die sich besonders durch nachhaltig, vegan und/oder fair produzierte Kleidung auszeichnen? Schreib mit einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.**
 
-<div class="table">
-  <table>
-    <thead>
+<table>
+  <thead>
+    <tr>
+      <th>URL</th>
+      <th>Produkte</th>
+      <th>vegan?</th>
+      <th>fair?</th>
+      <th>Sitz in</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for shop in site.data.onlineshops-nachhaltige-mode %}
       <tr>
-        <th>URL</th>
-        <th>Produkte</th>
-        <th>vegan?</th>
-        <th>fair?</th>
-        <th>Sitz in</th>
+        <td data-label="URL"><a href="{{ shop.url }}">{{ shop.name }}</a></td>
+        <td data-label="Produkte">{{ shop.products }}</td>
+        <td data-label="vegan?">{{ shop.vegan }}</td>
+        <td data-label="fair?">{{ shop.fair }}</td>
+        <td data-label="Sitz in">{{ shop.located }}</td>
       </tr>
-    </thead>
-    <tbody>
-      {% for shop in site.data.onlineshops-nachhaltige-mode %}
-        <tr>
-          <td><a href="{{ shop.url }}">{{ shop.name }}</a></td>
-          <td>{{ shop.products }}</td>
-          <td>{{ shop.vegan }}</td>
-          <td>{{ shop.fair }}</td>
-          <td>{{ shop.located }}</td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
+    {% endfor %}
+  </tbody>
+</table>
 
 Bis zum nächsten Mal,
 

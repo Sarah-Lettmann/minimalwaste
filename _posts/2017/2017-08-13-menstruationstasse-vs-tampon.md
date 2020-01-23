@@ -33,63 +33,38 @@ Zuerst hatte ich eine von Lunette, die sich aber leider schnell verfärbt hat. A
 Me Luna hat finde ich generell eine sehr großen Auswahl. Link findest du weiter unten.
 
 ## Menstrua&shy;tionstasse und Tampon im Vergleich
-<div class="table">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>Menstruationstasse</th>
-        <th>Tampons</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          Haltbarkeit
-        </td>
-        <td>
-          eine Menstruationstasse hält bis zu 10 Jahre
-        </td>
-        <td>
-          ein Tampon hält für 2 - 8 Std., eine Packung Tampons zwischen 1 bis 3 Zyklen
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Wie oft muss gewechselt werden
-        </td>
-        <td>
-          alle 8 - 12 Stunden
-        </td>
-        <td>
-          4 - 8 Std.
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Kosten
-        </td>
-        <td>
-          15,00 € - 30,00 €
-        </td>
-        <td>
-          0,07€ - 0,09€ (bei 3 Stück pro Tag, 6 Tage lang, 12 mal im Jahr, 10 Jahre lang sind das 2160 Tampons und kostet dich 150€ und 200€, variiert aber natürlich)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Inhaltsstoffe
-        </td>
-        <td>
-          TPE oder medizinisches Silikon
-        </td>
-        <td>
-          Baumwolle oder Zellwolle, Kunstsoffbestandteile (Beschichtung), Binden enthalten oft saugfähige Granulate aus Kunststoff
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Eigenschaft</th>
+      <th>Menstruationstasse</th>
+      <th>Tampons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Haltbarkeit</th>
+      <td data-label="Menstruationstasse">eine Menstruationstasse hält bis zu 10 Jahre</td>
+      <td data-label="Tampons">ein Tampon hält für 2 - 8 Std., eine Packung Tampons zwischen 1 bis 3 Zyklen</td>
+    </tr>
+    <tr>
+      <th>Wie oft muss gewechselt werden</th>
+      <td data-label="Menstruationstasse">alle 8 - 12 Stunden</td>
+      <td data-label="Tampons">4 - 8 Std.</td>
+    </tr>
+    <tr>
+      <th>Kosten</th>
+      <td data-label="Menstruationstasse">15,00 € - 30,00 €</td>
+      <td data-label="Tampons">0,07€ - 0,09€ (bei 3 Stück pro Tag, 6 Tage lang, 12 mal im Jahr, 10 Jahre lang sind das 2160 Tampons und kostet dich 150€ und 200€, variiert aber natürlich)</td>
+    </tr>
+    <tr>
+      <th>Inhaltsstoffe</th>
+      <td data-label="Menstruationstasse">TPE oder medizinisches Silikon</td>
+      <td data-label="Tampons">Baumwolle oder Zellwolle, Kunstsoffbestandteile (Beschichtung), Binden enthalten oft saugfähige Granulate aus Kunststoff</td>
+    </tr>
+  </tbody>
+</table>
 
 Außerdem kommen noch folgende Vorteile bei einer Menstruationstasse hinzu:
 

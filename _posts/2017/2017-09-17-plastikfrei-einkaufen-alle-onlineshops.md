@@ -16,28 +16,24 @@ Nachhaltiger online shoppen ist also möglich. Du solltest aber immer im Hinterk
 
 <mark>Kennst du Onlineshops die ohne Plastikverpackung oder Polsterung versenden? Oder die vielleicht einfach nur nachhaltig produzierte Produkte verkaufen?</mark> Schreib mir einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.
 
-&nbsp;
-
-<div class="table">
-  <table>
-    <thead>
+<table>
+  <thead>
+    <tr>
+      <th>URL</th>
+      <th>Produkte</th>
+      <th>Sitz in</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for shop in site.data.onlineshops-plastikfrei %}
       <tr>
-        <th>URL</th>
-        <th>Produkte</th>
-        <th>Sitz in</th>
+        <td data-label="URL"><a href="{{ shop.url }}">{{ shop.name }}</a></td>
+        <td data-label="Produkte">{{ shop.products }}</td>
+        <td data-label="Sitz in">{{ shop.located }}</td>
       </tr>
-    </thead>
-    <tbody>
-      {% for shop in site.data.onlineshops-plastikfrei %}
-        <tr>
-          <td><a href="{{ shop.url }}">{{ shop.name }}</a></td>
-          <td>{{ shop.products }}</td>
-          <td>{{ shop.located }}</td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
+    {% endfor %}
+  </tbody>
+</table>
 
 Wie immer würde ich mich über Feedback und Ergänzungen freuen. Bis zum nächsten Mal.
 
