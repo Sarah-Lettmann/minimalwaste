@@ -1,15 +1,53 @@
-.iframe-container {
+.iframe {
+  margin: 3rem 0;
   overflow: hidden;
-  padding-top: 56.25%;
-  margin-bottom: $margin-base;
   position: relative;
-}
 
-.iframe-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border: 0;
-  width: 100%;
-  height: 100%;
+  &--loaded {
+    padding-top: 56.25%;
+
+    .cover {
+      display: none;
+
+      ~ .video {
+        display: block;
+      }
+    }
+  }
+
+  .video,
+  .map {
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  .map {
+    display: block;
+  }
+
+  .cover {
+    @include attention {
+      cursor: pointer;
+    }
+    position: relative;
+
+    &::before {
+      content: url('/assets/icons/play-button.svg');
+      left: calc(50% - 50px);
+      opacity: .9;
+      position: absolute;
+      top: calc(50% - 38px);
+      z-index: 5;
+    }
+
+    &__image {
+      @include breakpoint(mobile) {
+        opacity: .4;
+      }
+    }
+  }
 }

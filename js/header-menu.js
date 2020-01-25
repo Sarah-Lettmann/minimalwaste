@@ -23,7 +23,6 @@ document.getElementById("navigation__link--burger").addEventListener("click", fu
   var siteUrl = window.location.href;
   var listItemLinks = document.getElementsByClassName("menu__link");
   for(i = 0; i < listItemLinks.length; i++) {
-    console.log(listItemLinks[i]);
     if(listItemLinks[i].href == siteUrl) {
       listItemLinks[i].href = "#main";
     }

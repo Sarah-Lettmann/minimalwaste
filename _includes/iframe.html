@@ -1,9 +1,11 @@
 {% comment %}
-  Einbinden mit {% include iframe.html url="" %}
+  Einbinden mit {% include iframe.html image-link="" url="" %}
 {% endcomment %}
-<div class="iframe-container">
-  <iframe width="700" height="394"
-  src="{{ include.url }}"
-  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
+<div id="iframe" class="iframe">
+  <div id="iframe__image" class="cover">
+    <img class="cover__image" src="{{ include.image-link }}" alt="Video Cover zu {{ page.title }}" title="Video starten" width="712" height="400" />
+  </div>
+  <iframe id="iframe__video" class="video" width="700" height="394" allow="autoplay"
+    data-src="{{ include.url }}?autoplay=1" frameborder="0" allowfullscreen="">
+  </iframe>
 </div>
