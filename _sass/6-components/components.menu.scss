@@ -1,14 +1,14 @@
 .menu {
   display: flex;
+  justify-content: flex-end;
+  width: 100%;
   @include breakpoint(mobile) {
     background-color: $neutral-500;
     flex-direction: column;
     left: 0;
-    overflow: hidden;
-    padding: 0 $page-side-padding;
     position: fixed;
     right: 0;
-    top: $height-mobile-header;
+    top: $height-mobile-header + 2;
   }
   @include breakpoint(desktop) {
     height: 100%;
@@ -16,28 +16,11 @@
 
   &--hidden {
     @include breakpoint(mobile) {
-      display: none;
-    }
-  }
 
-  > .menu__item {
-    @include breakpoint(mobile) {
+      .menu__item {
 
-      &:first-of-type {
-        margin-top: .75rem;
-      }
-
-      &:last-of-type {
-        margin-bottom: .75rem;
-      }
-    }
-  }
-
-  &__item--has-submenu {
-    @include breakpoint(desktop) {
-      @include attention {
-        .menu__submenu {
-          display: flex;
+        &:not(.menu__item--home) {
+          display: none;
         }
       }
     }

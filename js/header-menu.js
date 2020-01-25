@@ -1,5 +1,8 @@
 // function to expand mobile menu when button is clicked
-document.getElementById("navigation__link--burger").addEventListener("click", function() {
+document.getElementById("navigation__link--burger").addEventListener("click", function(e) {
+  e = e || window.event;
+  e.stopPropagation();
+  e.preventDefault();
   var mainMenu = document.getElementById("main-menu");
   var burger = document.getElementById("burger");
   if(mainMenu.classList.contains("menu--hidden")) {
@@ -15,20 +18,14 @@ document.getElementById("navigation__link--burger").addEventListener("click", fu
   }
 }, false);
 
-// function to expand submenu when parent is clicked
-var submenuToggls = document.getElementsByClassName("menu__link--has-submenu");
-for(var i = 0; i < submenuToggls.length; i++) {
-  submenuToggls[i].addEventListener("click", function(e) {
-    e = e || window.event;
-    e.stopPropagation();
-    e.preventDefault();
-    var submenu = this.nextElementSibling;
-    if(submenu.classList.contains("menu__submenu--hidden")) {
-      submenu.classList.remove("menu__submenu--hidden");
-      this.setAttribute("aria-expanded", true);
-    } else {
-      submenu.classList.add("menu__submenu--hidden");
-      this.setAttribute("aria-expanded", false);
+// function to set class for the current site in menu
+(function() {
+  var siteUrl = window.location.href;
+  var listItemLinks = document.getElementsByClassName("menu__link");
+  for(i = 0; i < listItemLinks.length; i++) {
+    console.log(listItemLinks[i]);
+    if(listItemLinks[i].href == siteUrl) {
+      listItemLinks[i].href = "#main";
     }
-  }, false);
-}
+  }
+})();

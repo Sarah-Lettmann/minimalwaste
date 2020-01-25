@@ -1,28 +1,14 @@
 <!-- primary menu -->
 <ul id="main-menu" class="menu menu--hidden main-menu">
-{% for page in site.data.menu %}
-  {% if page.subcategories %}
-  <li class="menu__item menu__item--has-submenu" aria-label="{{ page.title }}">
-    <a class="menu__link menu__link--has-submenu" href="{{ page.href }}" aria-expanded="false">{{ page.title }}</a>
-    <!-- submenu -->
-    <ul class="menu__submenu menu__submenu--hidden">
-      <!-- overview link -->
-      <li class="menu__item menu__item--submenu" aria-label="Übersicht {{ page.title }}">
-        <a class="menu__link menu__link--submenu" href="{{ page.href }}">Übersicht {{ page.title }}</a>
-      </li>
-      <!-- end overview link -->
-      {% for subpages in page.subcategories %}
-      <li class="menu__item menu__item--submenu" aria-label="{{ subpages.title }}">
-        <a class="menu__link menu__link--submenu" href="{{ subpages.href }}">{{ subpages.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-    <!-- end submenu -->
+  <li class="menu__item menu__item--home">
+    <a class="menu__link menu__link--home" href="/">
+      {% include header/logo.html %}
+      <span class="visually-hidden">MinimalWaste Startseite</span>
+    </a>
   </li>
-  {% else %}
-  <li class="menu__item" aria-label="{{ page.title }}">
+  {% for page in site.data.menu %}
+  <li class="menu__item">
     <a class="menu__link" href="{{ page.href }}">{{ page.title }}</a>
   </li>
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>

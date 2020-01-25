@@ -10,7 +10,6 @@
     color: $neutral-100;
     display: list-item;
     margin-right: 0;
-    opacity: 1;
     @include transition-custom(opacity, .3s, linear, 0s);
   }
 
@@ -18,11 +17,12 @@
     content: none;
   }
 
-  &--submenu {
-    color: $neutral-100;
-    margin-right: 0;
+  &--home {
+    left: 0;
+    position: absolute;
     @include breakpoint(mobile) {
-      padding-left: 1.25rem;
+      left: 1.25rem;
+      top: -57px;
     }
   }
 }

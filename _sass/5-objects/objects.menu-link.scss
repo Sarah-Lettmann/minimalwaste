@@ -1,33 +1,42 @@
 .menu__link {
   @extend %menu-link;
   @include breakpoint(mobile) {
-    background-image: linear-gradient($neutral-100, $neutral-100);
-    background-position: 50% 1.1em;
-    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
   }
 
-  &--has-submenu {
+  &:not(.menu__link--home) {
     @include breakpoint(mobile) {
-      &::after {
-        border-left: 7px solid transparent;
-        border-right: 7px solid transparent;
-        border-top: 7px solid $neutral-100;
-        content: '';
-        position: absolute;
-        right: -20px;
-        top: 38%;
-        @include transition-custom(transform, .3s, ease-in-out, 0s);
+      @include attention {
+        background: $neutral-600;
       }
+      border-bottom: 1px solid $neutral-600;
+    }
+  }
+
+  &[href='#main'] {
+    position: static;
+
+    &::after {
+      content: ' (aktuelle Seite)';
+      display: inline-block;
+      height: 0;
+      overflow: hidden;
+      width: 0;
     }
 
-    &[aria-expanded=true]::after {
+    &:not(.menu__link--home) {
+      @include breakpoint(desktop) {
+        background-size: 100% 1px;
+      }
       @include breakpoint(mobile) {
-        transform: rotateZ(-180deg);
+        background: $neutral-600;
       }
     }
   }
 
-  &--submenu {
-    background-image: linear-gradient($neutral-100, $neutral-100);
+  &--home {
+    background: none;
+    padding: 0;
   }
 }

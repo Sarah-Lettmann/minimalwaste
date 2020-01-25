@@ -1,7 +1,9 @@
 <header class="header">
   <div class="container">
     {% include header/skip-to-content.html %}
-    {% include header/branding.html %}
+    {% if page.layout == 'home' %}
+      <h1 class="page-title">{{ site.title }} - {{ site.subtitle }}</h1>
+    {% endif %}
     {% include header/navigation.html %}
   </div>
 </header>
