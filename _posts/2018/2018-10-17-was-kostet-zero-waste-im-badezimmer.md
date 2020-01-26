@@ -20,204 +20,108 @@ Die Rechnungen zu den den ganzen Zahlen, habe ich mal ans Ende gepackt - das mus
 
 Zunächst also einmal eine Auflistung und ein Vergleich von Produkten, mit denen man sparen kann, wenn man auf die Zero Waste Alternativen umsteigt. <mark>Auch Anschaffungen, die über viele Jahre halten, habe ich von den Kosten auf ein Jahr runtergebrochen.</mark> Und das kam dabei heraus:
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Herkömmlich
-      </th>
-      <th>
-        Zero Waste
-      </th>
+      <th>Dinge</th>
+      <th>Herkömmlich</th>
+      <th>Zero Waste</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Tampon/Menstruationstasse</th>
+      <td data-label="Herkömmlich">13,65€</td>
+      <td data-label="Zero Waste">1,50€</td>
     </tr>
     <tr>
-      <th>
-        Tampon/Menstruationstasse
-      </th>
-      <td>
-        13,65€
-      </td>
-      <td>
-        1,50€
-      </td>
+      <th>Wattepads/Abschminktücher</th>
+      <td data-label="Herkömmlich">5,20€</td>
+      <td data-label="Zero Waste">0,50€</td>
     </tr>
     <tr>
-      <th>
-        Wattepads/Abschminktücher
-      </th>
-      <td>
-        5,20€
-      </td>
-      <td>
-        0,50€
-      </td>
+      <th>Einwegrasierer/Rasierhobel</th>
+      <td data-label="Herkömmlich">52,08€</td>
+      <td data-label="Zero Waste">1,60€</td>
     </tr>
     <tr>
-      <th>
-        Einwegrasierer/Rasierhobel
-      </th>
-      <td>
-        52,08€
-      </td>
-      <td>
-        1,60€
-      </td>
+      <th>Rasierschaum/Seife</th>
+      <td data-label="Herkömmlich">3,00€</td>
+      <td data-label="Zero Waste">1,50€</td>
     </tr>
     <tr>
-      <th>
-        Rasierschaum/Seife
-      </th>
-      <td>
-        3,00€
-      </td>
-      <td>
-        1,50€
-      </td>
+      <th>Duschgel/Seife</th>
+      <td data-label="Herkömmlich">3,00€</td>
+      <td data-label="Zero Waste">1,50€</td>
     </tr>
     <tr>
-      <th>
-        Duschgel/Seife
-      </th>
-      <td>
-        3,00€
-      </td>
-      <td>
-        1,50€
-      </td>
+      <th>Flüssigseife/Seife</th>
+      <td data-label="Herkömmlich">3,00€</td>
+      <td data-label="Zero Waste">3,00€</td>
     </tr>
     <tr>
-      <th>
-        Flüssigseife/Seife
-      </th>
-      <td>
-        3,00€
-      </td>
-      <td>
-        3,00€
-      </td>
+      <th>Deo</th>
+      <td data-label="Herkömmlich">2,20€</td>
+      <td data-label="Zero Waste">0,04€</td>
     </tr>
     <tr>
-      <th>
-        Deo
-      </th>
-      <td>
-        2,20€
-      </td>
-      <td>
-        0,04€
-      </td>
+      <th><strong>Summe</strong></th>
+      <td data-label="Herkömmlich"><strong>82,13€</strong></td>
+      <td data-label="Zero Waste"><strong>9,64€</strong></td>
     </tr>
-    <tr>
-      <th>
-        <strong>Summe</strong>
-      </th>
-      <td>
-        <strong>82,13€</strong>
-      </td>
-      <td>
-        <strong>9,64€</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Wenn du also alleine diese Produkte austauschst, kannst du aufs Jahr hochgerechnet satte **73€ sparen** und dabei noch etwas für die Umwelt tun. <mark>Wenn du also auf deine Ausgaben achten musst und nicht so viel Geld zur Verfügung hast, würde ich in Sachen Müllvermeidung genau bei diesen Produkten ansetzen.</mark>
 
 Aber es gibt natürlich auch **unverpackte Dinge, die unwahrscheinlich viel teurer sind**, als die herkömmlichen Produkte. So sieht es beispielsweise mit Zahnbürsten oder festem Shampoo aus. Auch hier habe ich das wieder aufs Jahr hochgerechnet.
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Herkömmlich
-      </th>
-      <th>
-        Zero Waste
-      </th>
+      <th>Dinge</th>
+      <th>Herkömmlich</th>
+      <th>Zero Waste</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Shampoo</th>
+      <td data-label="Herkömmlich">3,30€</td>
+      <td data-label="Zero Waste">48,00€</td>
     </tr>
     <tr>
-      <th>
-        Shampoo
-      </th>
-      <td>
-        3,30€
-      </td>
-      <td>
-        48,00€
-      </td>
+      <th>Zahnbürste</th>
+      <td data-label="Herkömmlich">3,00€</td>
+      <td data-label="Zero Waste">19,60€</td>
     </tr>
     <tr>
-      <th>
-        Zahnbürste
-      </th>
-      <td>
-        3,00€
-      </td>
-      <td>
-        19,60€
-      </td>
+      <th>Zahnpasta/Zahnputztabletten</th>
+      <td data-label="Herkömmlich">5,10€</td>
+      <td data-label="Zero Waste">21,90€</td>
     </tr>
     <tr>
-      <th>
-        Zahnpasta/Zahnputztabletten
-      </th>
-      <td>
-        5,10€
-      </td>
-      <td>
-        21,90€
-      </td>
+      <th>Zahnseide</th>
+      <td data-label="Herkömmlich">2,28€</td>
+      <td data-label="Zero Waste">25,28€</td>
     </tr>
     <tr>
-      <th>
-        Zahnseide
-      </th>
-      <td>
-        2,28€
-      </td>
-      <td>
-        25,28€
-      </td>
+      <th>Wattestäbchen</th>
+      <td data-label="Herkömmlich">0,26€</td>
+      <td data-label="Zero Waste">0,50€</td>
     </tr>
     <tr>
-      <th>
-        Wattestäbchen
-      </th>
-      <td>
-        0,26€
-      </td>
-      <td>
-        0,50€
-      </td>
+      <th>Toilettenpapier</th>
+      <td data-label="Herkömmlich">25,80€</td>
+      <td data-label="Zero Waste">96,00€</td>
     </tr>
     <tr>
-      <th>
-        Toilettenpapier
-      </th>
-      <td>
-        25,80€
-      </td>
-      <td>
-        96,00€
-      </td>
+      <th><strong>Summe</strong></th>
+      <td data-label="Herkömmlich"><strong>39,74€</strong></td>
+      <td data-label="Zero Waste"><strong>211,28€</strong></td>
     </tr>
-    <tr>
-      <th>
-        <strong>Summe</strong>
-      </th>
-      <td>
-        <strong>39,74€</strong>
-      </td>
-      <td>
-        <strong>211,28€</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Das ist immerhin eine Preisdifferenz von knapp **172€**, die man für Unverpackte Produkte **mehr bezahlt**. Aber wie gesagt, das sind die Dinge, bei denen man sich bewusst machen sollte, dass sie teurer sind und das auch berücksichtigen sollte, wenn man mit Zero Waste anfängt. Die Produkte in der ersten Tabellen sind also besser für den Anfang geeignet.
 
@@ -231,86 +135,47 @@ Beim **Toilettenpapier** handhaben wir es momentan auch so, dass uns unverpackt 
 
 Mit diesen Anpassungen sieht die Tabelle dann so aus:
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-      </th>
-      <th>
-        Herkömmlich
-      </th>
-      <th>
-        Zero Waste
-      </th>
+      <th>Dinge</th>
+      <th>Herkömmlich</th>
+      <th>Zero Waste</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Shampoo</th>
+      <td data-label="Herkömmlich">3,30€</td>
+      <td data-label="Zero Waste">9,00€</td>
     </tr>
     <tr>
-      <th>
-        Shampoo
-      </th>
-      <td>
-        3,30€
-      </td>
-      <td>
-        9,00€
-      </td>
+      <th>Zahnbürste</th>
+      <td data-label="Herkömmlich">3,00€</td>
+      <td data-label="Zero Waste">19,60€</td>
     </tr>
     <tr>
-      <th>
-        Zahnbürste
-      </th>
-      <td>
-        3,00€
-      </td>
-      <td>
-        19,60€
-      </td>
+      <th>Zahnpasta/Zahnputztabletten</th>
+      <td data-label="Herkömmlich">5,10€</td>
+      <td data-label="Zero Waste">6,00€</td>
     </tr>
     <tr>
-      <th>
-        Zahnpasta/Zahnputztabletten
-      </th>
-      <td>
-        5,10€
-      </td>
-      <td>
-        6,00€
-      </td>
+      <th>Wattestäbchen</th>
+      <td data-label="Herkömmlich">0,26€</td>
+      <td data-label="Zero Waste">0,50€</td>
     </tr>
     <tr>
-      <th>
-        Wattestäbchen
-      </th>
-      <td>
-        0,26€
-      </td>
-      <td>
-        0,50€
-      </td>
+      <th>Toilettenpapier</th>
+      <td data-label="Herkömmlich">25,80€</td>
+      <td data-label="Zero Waste">25,80€ weil herkömmlich</td>
     </tr>
     <tr>
-      <th>
-        Toilettenpapier
-      </th>
-      <td>
-        25,80€
-      </td>
-      <td>
-        25,80€ weil herkömmlich
-      </td>
+      <th><strong>Summe</strong></th>
+      <td data-label="Herkömmlich"><strong>37,46€</strong></td>
+      <td data-label="Zero Waste"><strong>60,90€</strong></td>
     </tr>
-    <tr>
-      <th>
-        <strong>Summe</strong>
-      </th>
-      <td>
-        <strong>37,46€</strong>
-      </td>
-      <td>
-        <strong>60,90€</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Damit liegen die **Mehrkosten bei ca 23€**, was du mit der Ersparnis bei den günstigeren Produkten raus hast und trotzdem noch sparst! Insgesamt sind das übers Jahr gute **52€**.
 
@@ -330,322 +195,220 @@ Bis nächstes Mal.
 
 &nbsp;
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Menstruationstasse
-      </th>
-      <th>
-        Tampons
-      </th>
+      <th>Menstruationstasse</th>
+      <th>Tampons</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        15€ für 10 Jahre = 1,50€ pro Jahr
-      </td>
-      <td>
-        <p>
-          0,05€ pro Stück * (13*7*3) = 0,05€ * 273 = 13,65€ pro Jahr
-        </p>
-        <p>
-          [Preis pro Tampon * (Anzahl Menstruationen * Tage in der Woche * benutzte Tampons)]
-        </p>
-        <p>
-          So eine riesige Ersparnis! Und dabei habe ich noch mit den günstigen Tampons gerechnet!
-        </p>
+      <td data-label="Menstruationstasse">15€ für 10 Jahre = 1,50€ pro Jahr</td>
+      <td data-label="Tampons">
+        <p>0,05€ pro Stück * (13*7*3) = 0,05€ * 273 = 13,65€ pro Jahr</p>
+        <p>[Preis pro Tampon * (Anzahl Menstruationen * Tage in der Woche * benutzte Tampons)]</p>
+        <p>So eine riesige Ersparnis! Und dabei habe ich noch mit den günstigen Tampons gerechnet!</p>
       </td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Abschminktücher
-      </th>
-      <th>
-        Wattepads
-      </th>
+      <th>Abschminktücher</th>
+      <th>Wattepads</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        15€ für 30 Jahre = 0,50€ pro Jahr
-      </td>
-      <td>
-        <p>
-          0,01€ pro Stück * (52*5*2) = 0,01€ * 520 = 5,20€ pro Jahr
-        </p>
-        <p>
-          [Preis pro Stück * (Anzahl Wochen im Jahr * Tage an denen man Schminke trägt * Anzahl benutzter Pads)]
-        </p>
-        <p>
-          Wenn du natürlich anstelle der neu gekauften Abschminktücher alte Waschlappen von deinen Eltern oder selbstgemachte aus alten Handtücher verwendest, dann sind die Kosten so gut wie Null.
-        </p>
+      <td data-label="Abschminktücher">15€ für 30 Jahre = 0,50€ pro Jahr</td>
+      <td data-label="Wattepads">
+        <p>0,01€ pro Stück * (52*5*2) = 0,01€ * 520 = 5,20€ pro Jahr</p>
+        <p>[Preis pro Stück * (Anzahl Wochen im Jahr * Tage an denen man Schminke trägt * Anzahl benutzter Pads)]</p>
+        <p>Wenn du natürlich anstelle der neu gekauften Abschminktücher alte Waschlappen von deinen Eltern oder selbstgemachte aus alten Handtücher verwendest, dann sind die Kosten so gut wie Null.</p>
       </td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Rasierhobel
-      </th>
-      <th>
-        Einwegrasierer
-      </th>
+      <th>Rasierhobel</th>
+      <th>Einwegrasierer</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        <p>
-          20€ für Rasierhobel für ein ganzes Leben ~ 50 Jahre = 0,40€ pro Jahr
-        </p>
-        <p>
-          + 12 Rasierklingen im Jahr a 0,22€ pro Stück = 2,64€ pro Jahr
-        </p>
-        <p>
-          = 3,04€ pro Jahr
-        </p>
+      <td data-label="Rasierhobel">
+        <p>20€ für Rasierhobel für ein ganzes Leben ~ 50 Jahre = 0,40€ pro Jahr</p>
+        <p>+ 12 Rasierklingen im Jahr a 0,22€ pro Stück = 2,64€ pro Jahr</p>
+        <p>= 3,04€ pro Jahr</p>
       </td>
-      <td>
-        <p>
-          4€ für Rasierer für ganzes Leben ~ 50 Jahre = 0,08€ pro Jahr
-        </p>
-        <p>
-          + 2€ pro Klinge für 2 Woche * (52 / 2) Wochen = 52€ pro Jahr
-        </p>
-        <p>
-          = 52,08€ pro Jahr
-        </p>
+      <td data-label="Einwegrasierer">
+        <p>4€ für Rasierer für ganzes Leben ~ 50 Jahre = 0,08€ pro Jahr</p>
+        <p>+ 2€ pro Klinge für 2 Woche * (52 / 2) Wochen = 52€ pro Jahr</p>
+        <p>= 52,08€ pro Jahr</p>
       </td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Seife
-      </th>
-      <th>
-        Rasierschaum
-      </th>
+      <th>Seife</th>
+      <th>Rasierschaum</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        0,75€ * 2 pro Jahr (wenn wirklich nur fürs Rasieren verwendet) = 1,50€ pro Jahr
-      </td>
-      <td>
-        0,75€ * 4 = 3,00€ pro Jahr
-      </td>
+      <td data-label="Seife">0,75€ * 2 pro Jahr (wenn wirklich nur fürs Rasieren verwendet) = 1,50€ pro Jahr</td>
+      <td data-label="Rasierschaum">0,75€ * 4 = 3,00€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Seife
-      </th>
-      <th>
-        Duschgel
-      </th>
+      <th>Seife</th>
+      <th>Duschgel</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        0,75€ * 2 pro Jahr (wenn wirklich nur fürs Duschen verwendet) = 1,50€ pro Jahr
-      </td>
-      <td>
-        0,75€ * 4 = 3,00€ pro Jahr
-      </td>
+      <td data-label="Seife">0,75€ * 2 pro Jahr (wenn wirklich nur fürs Duschen verwendet) = 1,50€ pro Jahr</td>
+      <td data-label="Duschgel">0,75€ * 4 = 3,00€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 **Handseife vs. Flüssigseife**
 Hier gibt es glaube ich keine großen Unterschiede von der Nutzungsdauer und vom Preis.
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Deo (selbst gemacht)
-      </th>
-      <th>
-        Deo (herkömmlich)
-      </th>
+      <th>Deo (selbst gemacht)</th>
+      <th>Deo (herkömmlich)</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        <p>
-          0,49€ pro 100g Natron, also bei 2g = 0,0098€
-        </p>
-        <p>
-          + 3,49€ für 10ml Teebaumöl, also 0,25ml bei 5 Tropfen = 0,09€
-        </p>
-        <p>
-          + 0,02€ pro Liter, also bei 40ml = 0,0008€
-        </p>
-        <p>
-          = 0,01€ pro Deo * 4
-        </p>
-        <p>
-          = 0,04€ pro Jahr
-        </p>
+      <td data-label="Deo (selbst gemacht)">
+        <p>0,49€ pro 100g Natron, also bei 2g = 0,0098€</p>
+        <p>+ 3,49€ für 10ml Teebaumöl, also 0,25ml bei 5 Tropfen = 0,09€</p>
+        <p>+ 0,02€ pro Liter, also bei 40ml = 0,0008€</p>
+        <p>= 0,01€ pro Deo * 4</p>
+        <p>= 0,04€ pro Jahr</p>
       </td>
-      <td>
-        <p>
-          0,55€ pro Deo * 4
-        </p>
-        <p>
-          = 2,20€ pro Jahr
-        </p>
+      <td data-label="Deo (herkömmlich)">
+        <p>0,55€ pro Deo * 4</p>
+        <p>= 2,20€ pro Jahr</p>
       </td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Zahnputztabletten
-      </th>
-      <th>
-        Zahnpasta
-      </th>
+      <th>Zahnputztabletten</th>
+      <th>Zahnpasta</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        11€ pro 100g, also bei 0,3g pro Stück (333 Stück pro 100g), also 0,03€ pro Stück * (2 * 365) = 21,90€ pro Jahr
-      </td>
-      <td>
-        0,85€ pro Stück für 2 Monate * 6 = 5,10€ pro Jahr
-      </td>
+      <td data-label="Zahnputztabletten">11€ pro 100g, also bei 0,3g pro Stück (333 Stück pro 100g), also 0,03€ pro Stück * (2 * 365) = 21,90€ pro Jahr</td>
+      <td data-label="Zahnpasta">0,85€ pro Stück für 2 Monate * 6 = 5,10€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">         
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Shampoo-Bar
-      </th>
-      <th>
-        Shampoo aus der Flasche
-      </th>
+      <th>Shampoo-Bar</th>
+      <th>Shampoo aus der Flasche</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        8€ pro Stück für 2 Monate * 6 = 48,00€ pro Jahr
-      </td>
-      <td>
-        0,55€ pro Stück für 2 Monate * 6 = 3,30€ pro Jahr
-      </td>
+      <td data-label="Shampoo-Bar">8€ pro Stück für 2 Monate * 6 = 48,00€ pro Jahr</td>
+      <td data-label="Shampoo aus der Flasche">0,55€ pro Stück für 2 Monate * 6 = 3,30€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Von der Nutzungsdauer tut sich da nach meiner Erfahrung nicht viel. Auch wenn es immer heißt, dass feste Shampoos viel länger halten würden, konnte ich das bis jetzt nicht feststellen (nach mehrjähriger Nutzung).
 
-<div class="table">  
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Bambuszahnbürste
-      </th>
-      <th>
-        Zahnbürste aus Plastik
-      </th>
+      <th>Bambuszahnbürste</th>
+      <th>Zahnbürste aus Plastik</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        4,90€ für 3 Monate * 4 = 19,60€ pro Jahr
-      </td>
-      <td>
-        0,75€ für 3 Monate * 4 = 3,00€ pro Jahr
-      </td>
+      <td data-label="Bambuszahnbürste">4,90€ für 3 Monate * 4 = 19,60€ pro Jahr</td>
+      <td data-label="Zahnbürste aus Plastik">0,75€ für 3 Monate * 4 = 3,00€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Auch hier gibt es keine besonderen Unterschiede bei der Nutzungsdauer.
 
-<div class="table">  
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Zahnseide im Glasbehälter
-      </th>
-      <th>
-        Zahnseide in Plastik
-      </th>
+      <th>Zahnseide im Glasbehälter</th>
+      <th>Zahnseide in Plastik</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        <p>
-          Glasbehälter: 4,15€ für das ganze Leben ~ 50 = 0,08€ pro Jahr
-        </p>
-        <p>
-          + 1 Rolle Zahnseide (10m) 2,10€ pro Monat * 12 (wenn täglich genutzt) = 25,20€ pro Jahr
-        </p>
-        <p>
-          = 25,28€ pro Jahr
-        </p>
+      <td data-label="Zahnseide im Glasbehälter">
+        <p>Glasbehälter: 4,15€ für das ganze Leben ~ 50 = 0,08€ pro Jahr</p>
+        <p>+ 1 Rolle Zahnseide (10m) 2,10€ pro Monat * 12 (wenn täglich genutzt) = 25,20€ pro Jahr</p>
+        <p>= 25,28€ pro Jahr</p>
       </td>
-      <td>
-        1 Packung Zahnseide (50m) für 0,95€ pro 5 Monate * 2,4 = 2,28€ pro Jahr
-      </td>
+      <td data-label="Zahnseide in Plastik">1 Packung Zahnseide (50m) für 0,95€ pro 5 Monate * 2,4 = 2,28€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Bio Wattestäbchen aus Papier
-      </th>
-      <th>
-        Wattestäbchen aus Plastik
-      </th>
+      <th>Bio Wattestäbchen aus Papier</th>
+      <th>Wattestäbchen aus Plastik</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        0,48€ pro 100 Stk., bei 2 Stk. pro Woche sind das 104 im Jahr = 0,50€ pro Jahr
-      </td>
-      <td>
-        0,25€ pro 100 Stk., bei 2 Stk. pro Woche sind das 104 im Jahr = 0,26€ pro Jahr
-      </td>
+      <td data-label="Bio Wattestäbchen aus Papier">0,48€ pro 100 Stk., bei 2 Stk. pro Woche sind das 104 im Jahr = 0,50€ pro Jahr</td>
+      <td data-label="Wattestäbchen aus Plastik">0,25€ pro 100 Stk., bei 2 Stk. pro Woche sind das 104 im Jahr = 0,26€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
 
 Hier macht es Preislich also kaum einen Unterschied.
 
-<div class="table">
-  <table>
+<table>
+  <thead>
     <tr>
-      <th>
-        Unverpacktes Toilettenpapier
-      </th>
-      <th>
-        Recycling Toilettenpapier
-      </th>
+      <th>Unverpacktes Toilettenpapier</th>
+      <th>Recycling Toilettenpapier</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td>
-        1,00€ pro Rolle, bei 8 sind das 8,00€ pro Monat * 12 = 96,00€ pro Jahr
-      </td>
-      <td>
-        2,15€ für 8 Rollen (0,27€ pro Rolle) für einen Monat * 12 = 25,80€ pro Jahr
-      </td>
+      <td data-label="Unverpacktes Toilettenpapier">1,00€ pro Rolle, bei 8 sind das 8,00€ pro Monat * 12 = 96,00€ pro Jahr</td>
+      <td data-label="Recycling Toilettenpapier">2,15€ für 8 Rollen (0,27€ pro Rolle) für einen Monat * 12 = 25,80€ pro Jahr</td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
