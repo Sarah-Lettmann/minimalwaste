@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Interrail: So funktioniert die Zugreise durch Europa"
-subtitle: ""
-date: 2019-08-26
+uid: "0068"
+title: "Interrail Ticket: So funktioniert die Zugreise durch Europa"
+subtitle: "Was du über die Reise mit Interrail wissen solltest"
+date: 2020-02-28
 categories: [Klima, Grün Reisen]
-description: ""
-keywords: []
-image: "/assets/title-images/2019/2019-08-26-so-geht-gebraucht-kaufen-second-hand-101.jpg"
+description: "Ein Interrail Ticket schenkt dir Freiheit. Trotzdem solltest du einges beachten bevor du losfährst. Tipps für die Reise mit Interrail Pass."
+keywords: [Interrail, Interrail Ticket, Interrail Pass]
+image: "/assets/title-images/2020/2020-02-28-interrail-so-funktioniert-die-zugreise-durch-europa.jpg"
+pinterest-image: "/assets/pinterest-images/2020/.jpg"
 author: sarah-lettmann
+related-posts: ["0069", "0070", "0071", "0049", "0013"]
 ---
 Im September vergangenen Jahres waren mein Freund und ich auf einer Rundreise durch Europa. Das ganze haben wir klassisch im Backpacker Stil gemacht: mit Rucksäcken auf dem Rücken und im Zug. Möglich war das dank Interrail, das es wie du vielleicht nicht weißt heute immer noch gibt. Ich möchte dir erklären wie du so eine Reise planst und vorbereitest und auf welche Tiefen und Höhen du gespannt sein kannst.
 
