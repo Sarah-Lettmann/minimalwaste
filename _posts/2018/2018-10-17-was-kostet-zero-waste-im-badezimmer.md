@@ -4,7 +4,7 @@ uid: "0040"
 title: "Was kostet Zero Waste im Badezimmer?"
 subtitle: "Zero Waste muss nicht teuer sein und ist günstiger als du denkst"
 date: 2018-10-17
-categories: [Zero Waste, Müllfreies Badezimmer, Zero Waste Kosten]
+categories: [Zero Waste, Zero Waste Kosten]
 description: "Was kostet Zero Waste im Badezimmer? Dieser Frage will ich nachgehen und habe für dich mal gerechnet und herkömmliche Produkte mit unverpackten verglichen."
 keywords: [Was kostet Zero Waste im Badezimmer]
 image: "/assets/title-images/2018/2018-10-17-was-kostet-zero-waste-im-badezimmer.jpg"

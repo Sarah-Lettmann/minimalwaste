@@ -1,23 +1,9 @@
 ---
 layout: wrapper
 ---
-<article class="category container container--main" aria-label="Kategorie: {{ page.category }}">
-  <header class="category__header">
-    <h1 class="category__title">Kategorie: {{ page.title }}</h1>
-    <p class="category__description">{{ page.description }}</p>
-  </header>
-
-  <div class="category__posts">
-  {% for post in site.categories[page.category] %}
-    <article class="post post--category" aria-label="{{ post.title }}">
-      <a class="post__link" href="{{ post.url }}" title="zum Post {{ post.title }}">
-        <h2 class="title">{{ post.title }}</h2>
-        <div class="cover">
-          <img class="cover__image" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
-        </div>
-        <p class="subtitle">{{ post.subtitle }}</p>
-      </a>
-    </article>
-  {% endfor %}
-  </div>
-</article>
+<div class="category">
+  {% include category/header.html %}
+  {% include category/subcategories.html %}
+  {% include category/featured.html %}
+  {% include category/postslist.html %}
+</div>

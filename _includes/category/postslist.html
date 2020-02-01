@@ -1,0 +1,21 @@
+<ul class="category__posts">
+{% for post in site.categories[page.category] %}
+  <li>
+    <article class="post post--category">
+      <h2 class="title">
+        <a class="post__link" href="{{ post.url }}" title="Zum Post {{ post.title }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <div class="cover">
+        <img class="cover__image" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
+      </div>
+      <p class="subtitle">
+        <a class="post__link" href="{{ post.url }}" title="Zum Post {{ post.title }}">
+          {{ post.subtitle }}
+        </a>
+      </p>
+    </article>
+  </li>
+{% endfor %}
+</ul>

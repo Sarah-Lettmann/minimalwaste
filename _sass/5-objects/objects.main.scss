@@ -1,0 +1,6 @@
+.main {
+  margin-top: 84px;
+  @include breakpoint(mobile) {
+    margin-top: 62px;
+  }
+}

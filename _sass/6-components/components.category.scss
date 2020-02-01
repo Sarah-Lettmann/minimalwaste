@@ -1,11 +1,5 @@
 .category {
 
-  &__description {
-    @include breakpoint(small) {
-      margin-bottom: 0.5*$margin-base;
-    }
-  }
-
   &__posts {
     display: flex;
     flex-wrap: wrap;

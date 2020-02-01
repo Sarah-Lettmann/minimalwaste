@@ -1,0 +1,16 @@
+{% assign category = site.data.menu | where: "title", page.category %}
+subcategories: {{ category.subcategories }}
+{% if category.subcategories %}
+<div class="subcategories">
+  <h2 class="subcategories__title">Unterkategorien</h2>
+  <nav class="subcategories__navigation">
+    <ul class="subcategories__list">
+      {% for subcategory in category.subcategories %}
+      <li class="subcategories__list-item">
+        <a class="subcategories__link" href="{{ subcategory.href }}">{{ subcategory.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
+{% endif %}

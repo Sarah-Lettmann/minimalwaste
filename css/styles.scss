@@ -27,6 +27,8 @@
 @import '4-elements/elements.text';
 @import '4-elements/elements.navigations';
 
+@import '5-objects/objects.main';
+@import '5-objects/objects.container';
 @import '5-objects/objects.skip-to-content';
 @import '5-objects/objects.logo';
 @import '5-objects/objects.menu-item';
@@ -51,8 +53,6 @@
 @import '6-components/components.social';
 @import '6-components/components.bottom';
 
-@import '6-components/components.container';
-
 @import '6-components/components.post';
 @import '6-components/components.post-header';
 @import '6-components/components.post-meta';
@@ -67,6 +67,8 @@
 @import '6-components/components.comments';
 @import '6-components/components.download';
 @import '6-components/components.iframe';
+
+@import '6-components/components.category-header';
 
 @import '6-components/components.page';
 @import '6-components/components.category';
