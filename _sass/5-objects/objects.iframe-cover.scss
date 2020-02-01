@@ -1,0 +1,18 @@
+.iframe__cover {
+  position: relative;
+
+  &::before {
+    content: url('/assets/icons/play-button.svg');
+    left: calc(50% - 50px);
+    opacity: .9;
+    position: absolute;
+    top: calc(50% - 38px);
+    z-index: 5;
+  }
+
+  &-image {
+    @include breakpoint(mobile) {
+      opacity: .4;
+    }
+  }
+}

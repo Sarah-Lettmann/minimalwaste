@@ -1,7 +1,6 @@
 %button {
   @extend %button-text;
   @include transition-custom(background-color, .1s, linear, 0s);
-  cursor: pointer;
 }
 
 %button-submit {
@@ -56,6 +55,14 @@ button {
   font-size: $font-size-paragraph;
   margin-bottom: 1.25rem;
   padding: 1.125rem;
+
+  &.primary {
+    @extend %button-submit;
+  }
+
+  &.secondary {
+    @extend %button-reset;
+  }
 }
 
 label {

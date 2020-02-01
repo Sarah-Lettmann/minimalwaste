@@ -1,0 +1,32 @@
+.iframe {
+  margin: 3rem 0;
+  overflow: hidden;
+  position: relative;
+
+  .video,
+  .map {
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  .map {
+    display: block;
+  }
+
+  &--loaded {
+    padding-top: 56.25%;
+
+    .iframe__load-button,
+    .iframe__cover {
+      display: none;
+    }
+
+    .iframe__video { // need for higher specifity
+      display: block;
+    }
+  }
+}

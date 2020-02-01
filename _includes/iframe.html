@@ -1,11 +1,14 @@
 {% comment %}
-  Einbinden mit {% include iframe.html image-link="" url="" %}
+  Einbinden mit {% include iframe.html image-link="" id="" %}
 {% endcomment %}
-<div id="iframe" class="iframe">
-  <div id="iframe__image" class="cover">
-    <img class="cover__image" src="{{ include.image-link }}" alt="Video Cover zu {{ page.title }}" title="Video starten" width="712" height="400" />
-  </div>
-  <iframe id="iframe__video" class="video" width="700" height="394" allow="autoplay"
-    data-src="{{ include.url }}?autoplay=1" frameborder="0" allowfullscreen="">
+<div class="iframe">
+  <button class="iframe__load-button" type="button">
+    <span class="visually-hidden">Video zu '{{ page.title }}' starten.</span>
+    <div class="iframe__cover cover">
+      <img class="iframe__cover-image cover__image" src="{{ include.image-link }}" alt="Video Cover zu {{ page.title }}" title="Video zu '{{ page.title }}' starten" width="712" height="400" />
+    </div>
+  </button>
+  <iframe class="iframe__video video" width="700" height="394" allow="autoplay"
+    data-src="https://www.youtube-nocookie.com/embed/{{ include.id }}?autoplay=1" frameborder="0" allowfullscreen="">
   </iframe>
 </div>

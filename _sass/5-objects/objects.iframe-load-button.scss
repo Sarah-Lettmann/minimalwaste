@@ -1,0 +1,12 @@
+.iframe__load-button {
+  @include attention {
+    .iframe__cover {
+      background-color: $primary-400;
+
+      &::before {
+        opacity: 1;
+      }
+    }
+  }
+  padding: 0;
+}

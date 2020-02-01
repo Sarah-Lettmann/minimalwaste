@@ -26,7 +26,6 @@
 @import '4-elements/elements.forms';
 @import '4-elements/elements.text';
 @import '4-elements/elements.navigations';
-@import '4-elements/elements.frames';
 
 @import '5-objects/objects.skip-to-content';
 @import '5-objects/objects.logo';
@@ -41,6 +40,8 @@
 @import '5-objects/objects.tipp';
 @import '5-objects/objects.post-categories';
 @import '5-objects/objects.post-cover';
+@import '5-objects/objects.iframe-cover';
+@import '5-objects/objects.iframe-load-button';
 
 @import '6-components/components.header';
 @import '6-components/components.navigation';
@@ -64,12 +65,13 @@
 @import '6-components/components.pinterest-image';
 @import '6-components/components.related-posts';
 @import '6-components/components.comments';
+@import '6-components/components.download';
+@import '6-components/components.iframe';
 
 @import '6-components/components.page';
 @import '6-components/components.category';
 @import '6-components/components.search';
 @import '6-components/components.thank-you-pages';
-@import '6-components/components.download';
 @import '6-components/components.cookie-consent';
 
 @import '7-utilities/utilities.visually-hidden';

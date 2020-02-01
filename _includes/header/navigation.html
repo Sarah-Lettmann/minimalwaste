@@ -1,19 +1,19 @@
 <!-- primary navigation -->
 <nav id="navigation" class="navigation">
   <!-- mobile menu button -->
-  <a id="navigation__link--burger" class="navigation__link navigation__link--burger" href="" title="Öffnen oder Schließen des Menüs" aria-labelledby="burger__title" aria-expanded="false">
-    <svg id="burger" class="navigation__icon burger" width="20" height="16" viewbox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <title id="burger__title">Öffnen oder Schließen des Menüs</title>
+  <button id="navigation-burger-button" class="navigation__burger" href="" title="Menu" aria-labelledby="burger-title" aria-expanded="false">
+    <svg id="burger-icon" class="navigation__icon burger" width="20" height="16" viewbox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <title id="burger-title">Menu</title>
       <line class="burger__line burger__line--top" x1="1" y1="1" x2="19" y2="1" stroke="#3E593E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       <line class="burger__line burger__line--center" x1="1" y1="8" x2="19" y2="8" stroke="#3E593E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       <line class="burger__line burger__line--bottom" x1="1" y1="15" x2="19" y2="15" stroke="#3E593E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     </svg>
-  </a>
+  </button>
   {% include header/menu.html %}
   <!-- search -->
-  <a class="navigation__link navigation__link--search" href="/pages/search" title="Zur Suche" aria-labelledby="search__title">
-    <svg class="search icon" width="22" height="18" viewbox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <title id="search__title">Zur Suche</title>
+  <a class="navigation__search" href="/pages/search" title="Suche" aria-labelledby="search-title">
+    <svg class="navigation__icon search icon" width="22" height="18" viewbox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <title id="search-title">Suche</title>
       <line class="search__line" x1="13" y1="11.5" x2="20" y2="17" stroke="#3f5a3f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       <circle class="search__circle" cx="7.5" cy="7.5" r="6.5" stroke="#3f5a3f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>

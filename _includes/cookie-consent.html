@@ -1,6 +1,6 @@
-<div id="cn-modal" class="cn-modal cn-modal--hidden">
+<div class="cn-modal cn-modal--hidden" role="dialog" aria-describedby="cookie-notice-title">
   <div class="cookie-notice">
-    <h2 class="cookie-notice__title">MinimalWaste verwendet Cookies</h2>
+    <h2 id="cookie-notice-title" class="cookie-notice__title" tabindex="0">MinimalWaste verwendet Cookies</h2>
     <p class="cookie-notice__text">
       MinimalWaste verwendet Cookies, damit der Blog stetig besser und informativer
       gestaltet werden kann. Weiteren Informationen findest du in der
@@ -9,12 +9,12 @@
       <a class="cookie-notice__link" href="mailto:info@minimalwaste.de?subject=datenschutz" title="Schreibe eine Nachricht an MinimalWaste">info@minimalwaste.de</a>.
     </p>
     <div class="cookie-notice__buttons">
-      <a id="cookie-notice__button--refuse" class="cookie-notice__button cookie-notice__button--refuse reset" role="button" title="Cookies ablehnen.">
-        Nein, ich möchte keine Cookies!
-      </a>
-      <a id="cookie-notice__button--accept" class="cookie-notice__button cookie-notice__button--accept submit" role="button" title="Cookies erlauben">
-        Cookies sind ok :)
-      </a>
+      <button class="cookie-notice__button cookie-notice__button--refuse secondary" title="Cookies ablehnen.">
+        Nein, ich möchte keine Cookies
+      </button>
+      <button class="cookie-notice__button cookie-notice__button--accept primary" title="Cookies erlauben">
+        Cookies sind ok
+      </button>
     </div>
   </div>
 </div>

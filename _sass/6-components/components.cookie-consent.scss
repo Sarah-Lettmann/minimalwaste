@@ -40,10 +40,18 @@
     @include breakpoint(desktop) {
       display: flex;
     }
+  }
 
-    a:first-child {
+  &__button {
+    margin-bottom: 0;
+    width: 100%;
+
+    &:first-child {
+      @include breakpoint(mobile) {
+        margin-bottom: 1.25rem;
+      }
       @include breakpoint(desktop) {
-          margin-right: 1.25rem;
+        margin-right: 1.25rem;
       }
     }
   }
