@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Alles, was man selbst machen kann"
+title: "DIY"
 date: 2016-09-02
 category: DIY
 permalink: /category/diy

@@ -1,5 +1,4 @@
 .category__header {
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
   height: 407px;
@@ -9,15 +8,14 @@
   &-title,
   &-description {
     margin: 0;
-    padding: 0 $page-side-padding;
-  }
-
-  &-title {
     max-width: $max-width;
   }
 
   &-description {
-    max-width: 712px;
+    padding-right: 504px;
+    @include breakpoint(mobile) {
+      padding-right: 0;
+    }
   }
 
   &-cover {

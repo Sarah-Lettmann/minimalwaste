@@ -1,7 +1,9 @@
 <header class="category__header">
-  <h1 class="category__header-title">Kategorie: {{ page.title }}</h1>
-  <p class="category__header-description">{{ page.description }}</p>
+  <div class="container">
+    <h1 class="category__header-title">Kategorie: {{ page.category }}</h1>
+    <p class="category__header-description">{{ page.description }}</p>
+  </div>
   <div class="category__header-cover cover">
-    <img class="category__header-image cover__image" src="/assets/category-images/{{ page.title | slugify }}.jpg" alt="" />
+    <img class="category__header-image cover__image" src="/assets/category-images/{{ page.category | slugify: 'latin' }}.jpg" alt="" />
   </div>
 </header>
