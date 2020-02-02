@@ -8,9 +8,9 @@ categories: [Klima, Grün Reisen]
 description: "Ein Interrail Ticket schenkt dir Freiheit. Trotzdem solltest du einges beachten bevor du losfährst. Tipps für die Reise mit Interrail Pass."
 keywords: [Interrail, Interrail Ticket, Interrail Pass]
 image: "/assets/title-images/2020/2020-02-28-interrail-so-funktioniert-die-zugreise-durch-europa.jpg"
-pinterest-image: "/assets/pinterest-images/2020/.jpg"
+pinterest-image: "/assets/pinterest-images/2020/2020-02-28-interrail-so-funktioniert-die-zugreise-durch-europa.jpg"
 author: sarah-lettmann
-related-posts: ["0069", "0070", "0071", "0049", "0013"]
+related-posts: ["0069", "0070", "0071", "0049", "0013", "0064", "0026", "0030", "0031"]
 ---
 Im September vergangenen Jahres waren mein Freund und ich auf einer Rundreise durch Europa. Das ganze haben wir klassisch im Backpacker Stil gemacht: mit Rucksäcken auf dem Rücken und im Zug. Möglich war das dank Interrail, das es wie du vielleicht nicht weißt heute immer noch gibt. Ich möchte dir erklären wie du so eine Reise planst und vorbereitest und auf welche Tiefen und Höhen du gespannt sein kannst.
 
@@ -52,7 +52,7 @@ Ich empfehle dir deine Reise vorher zu planen und das meiste auch vorher zu buch
 
 Wenn du Sitzplatzreservierungen buchen musst, dann kannst du das in der Regel auch vor Ort an einem Schalter am Bahnhof. Das haben wir auch oft gemacht und hatten damit keine Probleme (außer einmal ein bisschen Verwirrung bei weilchem Schalter wir was kaufen können). Wenn du für die ersten Verbindungen Reservierungen brauchst, würde ich diese allerdings vorher buchen, damit du entspannt starten kannst.
 
-In jedem Fall solltest du für den Eurotunnel im Voraus reservieren, da du dort nicht so viel Zeit hast, weil es eine Kontroller gibt und die Züge schnell voll sein können. Und es gibt halt keine gute andere Alternative, was deine Pläne sonst sehr durcheinander bringen könnte. Hier kannst du den [Eurostar mit Interrail](https://www.eurostar.com/uk-en/deals/interrail) reservieren.
+In jedem Fall solltest du für den Eurotunnel im Voraus reservieren, da du dort nicht so viel Zeit hast, weil es eine Kontrolle gibt und die Züge schnell voll sein können. Und es gibt halt keine gute andere Alternative, was deine Pläne sonst sehr durcheinander bringen könnte. Hier kannst du den [Eurostar mit Interrail](https://www.eurostar.com/uk-en/deals/interrail) reservieren.
 
 ## So funktioniert die Reise
 

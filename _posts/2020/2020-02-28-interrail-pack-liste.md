@@ -10,7 +10,7 @@ keywords: [Interrail, Interrail Packliste, Interrail Tipps]
 image: "/assets/title-images/2019/2019-08-26-so-geht-gebraucht-kaufen-second-hand-101.jpg"
 pinterest-image: "/assets/pinterest-images/2020/.jpg"
 author: sarah-lettmann
-related-posts: ["0068", "0064", "0070", "0041", "0013", "0057", "0026", "0041", "0024"]
+related-posts: ["0071", "0068", "0069", "0070", "0064", "0013", "0057", "0026", "0041"]
 ---
 Unsere Interrail-Reise war wirklich toll und ich kann jedem nur empfehlen es auch mal auszuprobieren. Ohne eine gute Vorbereitung geht allerdings nichts. Die Grundlagen dazu findest du im Beitrag [Interrail Ticket: So funktioniert die Zugreise durch Europa](/blog/interrail-so-funktioniert-die-zugreise-durch-europa). Hier geht es nun darum, was genau man alles einpacken sollte, um möglichst flexibel zu sein. Am Ende gibt es nochmals eine Packliste zum Download.
 

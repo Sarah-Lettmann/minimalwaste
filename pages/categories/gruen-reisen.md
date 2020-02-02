@@ -1,13 +1,13 @@
 ---
 layout: category
-title: "Alles rund um den Klimawandel"
-date: 2016-09-02
-category: Klima
-permalink: /category/klima
+title: "Grün Reisen"
+date: 2020-02-28
+category: Grün Reisen
+permalink: /category/gruen-reisen
 description: "."
-keywords: [emissionen, co2-ausstoß]
+keywords: []
 sitemap:
   priority: 0.7
   changefreq: weekly
-  lastmod: 2019-03-01
+  lastmod: 2020-02-28
 ---
