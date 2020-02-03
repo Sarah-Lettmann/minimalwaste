@@ -13,7 +13,7 @@
     height: $height-mobile-header;
     justify-content: space-between;
     left: 0;
-    padding: 0 .625rem;
+    padding: 0 1.25rem;
     position: fixed;
     right: 0;
     top: auto;
@@ -21,7 +21,6 @@
   }
 
   &__icon {
-    margin: 0 .625rem;
 
     &--newletter {
       border: 1px solid $neutral-500;
