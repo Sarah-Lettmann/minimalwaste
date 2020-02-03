@@ -12,9 +12,11 @@ author: sarah-lettmann
 ---
 Ich bekomme immer wieder von verschiedenen Seiten zu hören, dass sich die Investition in Alternativen aus Stoff, also Stoffservietten, Stofftaschentücher oder wiederverwendbare Tücher, die man in der Maschine waschen kann, nicht lohnt. Und warum? Weil das angeblich doch sowieso zu viel Wasser und Energie verbraucht. Also habe ich mich hingesetzt und den ganzen Spaß mal bis aufs kleinste bisschen durchgerechnet. Für irgendwas muss das Studium ja gut sein...
 
-_**Virtuelles Wasser:** "Mit virtuelles bzw. latentes Wasser wird die Wassermenge bezeichnet, die nach einer umfassenden Bilanz als insgesamt tatsächlich für die Herstellung eines Produkts anfiel."._
+Virtuelles Wasser
+: Mit virtuelles bzw. latentes Wasser wird die Wassermenge bezeichnet, die nach einer umfassenden Bilanz als insgesamt tatsächlich für die Herstellung eines Produkts anfiel.
 
-_**Graue Energie:** "Als graue Energie wird die Energiemenge bezeichnet, die für Herstellung, Transport, Lagerung, Verkauf und Entsorgung eines Produktes benötigt wird. Dabei werden auch alle Vorprodukte bis zur Rohstoffgewinnung berücksichtigt und der Energieeinsatz aller angewandten Produktionsprozesse addiert."._
+Graue Energie
+: Als graue Energie wird die Energiemenge bezeichnet, die für Herstellung, Transport, Lagerung, Verkauf und Entsorgung eines Produktes benötigt wird. Dabei werden auch alle Vorprodukte bis zur Rohstoffgewinnung berücksichtigt und der Energieeinsatz aller angewandten Produktionsprozesse addiert.
 
 Damit wären schon mal die Begrifflichkeiten geklärt. Bei der Herstellung von beispielsweise Stofftaschentüchern wird also viel Wasser und Energie verwendet. Zuerst muss nun mal der Rohstoff her, welcher allein schon Wasser und Energie für Anbau und Verarbeitung frisst. Dann kommt später die Fertigung des Produktes und letztlich noch die Verpackung hinzu. All das frisst für jedes neue Produkt immer wieder Wasser, Energie und andere Ressource wie Erdöl (für die Plastikverpackung). Es scheint also, dass Produkte, die nur einmal produziert werden müssen eine schlau Lösung sind.
 

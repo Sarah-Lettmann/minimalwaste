@@ -1,21 +1,31 @@
 @media print {
 
-  body > *:not(main) {
+  body > *:not(main),
+  .sharing,
+  .post__sidebar > *:not(.sources),
+  .comments {
     display: none;
+  }
+
+  body {
+    background-color: #fff;
   }
 
   @page {
     margin: 1cm;
   }
 
-  * {
-    page-break-inside: avoid
+  img,
+  figure,
+  ul,
+  ol,
+  dl,
+  table {
+    page-break-inside: avoid;
   }
 
-  // customizations
-  .post .post__body {
+  .post__body {
 
-    // images
     img,
     figure {
       max-width: 500px;
@@ -23,41 +33,42 @@
       margin-right: auto;
     }
 
-    // show link url
-    a:not(.icon) {
+    a {
       word-wrap: break-word;
       &::after {
-        content: " (" attr(href) ")";
+        content: ' (' attr(href) ')';
         font-size: 80%;
+      }
+
+      &[href^='http']::after {
+        background: none;
+        content: ' (' attr(href) ' | externer Link)' !important;
+        display: inline;
+        overflow: auto;
+        position: static;
+        text-indent: .3em;
+        top: auto;
+        white-space: normal;
+        width: auto;
       }
     }
 
-    // downloads
     .download {
       &::after {
-        content: '';
+        content: none;
       }
     }
 
     abbr {
       word-wrap: break-word;
       &::after {
-        content: " (" attr(title) ")";
+        content: ' (' attr(title) ')';
         font-size: 80%;
       }
     }
   }
 
-  // ul list-style
-  ul li::before {
-    content: '-';
-    top: 0pt;
-    color: $primary-500;
-    background-color: transparent;
-  }
-
-  // tables
-  table th {
-    font-weight: bold;
+  .sources {
+    max-width: none;
   }
 }

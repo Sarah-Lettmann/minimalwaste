@@ -15,4 +15,12 @@
       @include translate2D(-8px, 0);
     }
   }
+
+  &--m-top {
+    @include breakpoint(mobile) {
+      @include attention {
+        @include translate2D(0, -8px);
+      }
+    }
+  }
 }

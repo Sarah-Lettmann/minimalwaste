@@ -1,9 +1,12 @@
+$post-content-width: 752px;
+$post-content-width-mobile: 700px;
+
 .post__content {
-  max-width: 752px;
+  max-width: $post-content-width;
   padding: 0 1.25rem;
   @include breakpoint(mobile) {
     margin-bottom: 6rem;
-    max-width: 700px;
+    max-width: $post-content-width-mobile;
   }
 
   a {

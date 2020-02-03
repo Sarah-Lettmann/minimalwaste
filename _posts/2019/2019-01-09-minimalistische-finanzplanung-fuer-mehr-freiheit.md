@@ -73,7 +73,8 @@ In Excel kannst du dir solche Listen ganz einfach erstellen und aufsummieren las
 
 {% include figure.html src="/assets/inpost-images/2019/2019-01-09-finanzplanung.jpg" alt="Finanzplanung" title="Foto von rawpixel – Unsplash" caption="Foto von rawpixel – Unsplash" %}
 
-> Falls du keine festen Einnahmen haben solltest, weil du beispielsweise selbstständig bist odere als Freelancer arbeitest, dann rechne am besten mit einem Minimum, dass du pro Monat zu erwarten hast oder maximal mit einem Durchschnittswert. Beachte beim Gehalt natürlich auch Abgaben wie Steuern oder Krankenversicherung.
+Falls du keine festen Einnahmen haben solltest, weil du beispielsweise selbstständig bist odere als Freelancer arbeitest, dann rechne am besten mit einem Minimum, dass du pro Monat zu erwarten hast oder maximal mit einem Durchschnittswert. Beachte beim Gehalt natürlich auch Abgaben wie Steuern oder Krankenversicherung.
+{: .tipp}
 
 Trage unter Ausgaben Dinge wie Miete, Nebenkosten, Strom, Internet und Handyvertrag ein. Trage außerdem alle Abonnements ein, die dir sonst so einfallen und ebenso ein festes Budget für Lebensmittel und wie viel du jeden Monat sparst. Für jährliche Kosten hast du ja idealerweise schon einen monatlichen Sparbetrag errechnet. Diesen kannst du entweder unter “fixe Ausgaben” oder im Bereich “Sparkonto” in dein Haushaltsbuch eintragen. <mark>Für solche Dinge könnte es übrigens eine gute Idee sein, ein separates Sparkonto zu eröffnen, damit dir immer klar ist, dass du dieses Geld nicht zur Verfügung hast, sondern es eigentlich bereits ausgegeben ist.</mark>
 

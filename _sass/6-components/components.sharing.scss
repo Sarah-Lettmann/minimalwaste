@@ -6,6 +6,47 @@
   position: sticky;
   top: 84px;
   @include breakpoint(mobile) {
-    display: none;
+    align-items: center;
+    background-color: $primary-100;
+    bottom: 0;
+    flex-direction: row;
+    height: $height-mobile-header;
+    justify-content: space-between;
+    left: 0;
+    padding: 0 .625rem;
+    position: fixed;
+    right: 0;
+    top: auto;
+    z-index: 10;
+  }
+
+  &__icon {
+    margin: 0 .625rem;
+
+    &--newletter {
+      border: 1px solid $neutral-500;
+      border-radius: 5px;
+      color: $neutral-500;
+      font-size: .875rem;
+      line-height: 1;
+      padding: .375rem;
+      @include attention {
+        background-color: $primary-400;
+        border-color: $neutral-800;
+        color: $neutral-800;
+      }
+      @include transition-custom(all, .1s, linear, 0s);
+      @include breakpoint(desktop) {
+        display: none;
+      }
+
+      &::before {
+        margin-right: .25rem;
+      }
+    }
+  }
+
+  &__text {
+    @include main-font;
   }
 }
