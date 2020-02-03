@@ -1,4 +1,9 @@
 var cookieNotice = document.querySelector(".cn-modal");
+var cookieNoticeInner = document.querySelector(".cookie-notice");
+var focusableElements = cookieNoticeInner.querySelectorAll(".cookie-notice a, .cookie-notice button");
+focusableElements = Array.prototype.slice.call(focusableElements);
+var firstFocusableElement = focusableElements[0];
+var lastFocusableElement = focusableElements[ focusableElements.length - 1 ];
 
 // create cookie settings cookie
 function createCookie(name,value,days) {
@@ -66,6 +71,21 @@ cookieNotice.addEventListener("keydown", function(e) {
 
 	switch(e.keyCode) {
 		case KEY_TAB:
+      if(focusableElements.length === 1) {
+  			e.preventDefault();
+  			break;
+  		}
+  		if(e.shiftKey) {
+        if ( document.activeElement === firstFocusableElement ) {
+    			e.preventDefault();
+    			lastFocusableElement.focus();
+    		}
+  		} else {
+        if ( document.activeElement === lastFocusableElement ) {
+    			e.preventDefault();
+    			firstFocusableElement.focus();
+    		}
+  		}
       break;
 		case KEY_ESC:
       cookieNotice.classList.add("cn-modal--hidden");
@@ -73,4 +93,12 @@ cookieNotice.addEventListener("keydown", function(e) {
 		default:
 			break;
 	}
+});
+
+cookieNotice.addEventListener("click", function(e) {
+  this.classList.add("cn-modal--hidden");
+});
+
+cookieNoticeInner.addEventListener("click", function(e) {
+  e.stopPropagation();
 });
