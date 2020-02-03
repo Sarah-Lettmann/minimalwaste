@@ -1,10 +1,10 @@
 // function to expand mobile menu when button is clicked
-document.getElementById("navigation-burger-button").addEventListener("click", function(e) {
+document.querySelector(".navigation__burger").addEventListener("click", function(e) {
   e = e || window.event;
   e.stopPropagation();
   e.preventDefault();
-  var mainMenu = document.getElementById("main-menu");
-  var burger = document.getElementById("burger-icon");
+  var mainMenu = document.querySelector(".menu--main");
+  var burger = document.querySelector(".navigation__icon.burger");
   if(mainMenu.classList.contains("menu--hidden")) {
     mainMenu.classList.remove("menu--hidden");
     this.setAttribute("aria-expanded", true);

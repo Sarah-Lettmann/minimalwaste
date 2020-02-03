@@ -49,19 +49,15 @@ function checkCookiesAllowed() {
   }
 }
 
-// Listener for buttons of dialog (accept or refuse cookies)
-window.addEventListener("load", function() {
-  // event listener for cookie notice buttons, create cookie with fitting value
-  document.querySelector(".cookie-notice__button--refuse").addEventListener("click", function() {
-    createCookie("cookie-notice", "refuse", 31);
-    checkCookiesAllowed();
-  });
-  document.querySelector(".cookie-notice__button--accept").addEventListener("click", function() {
-    createCookie("cookie-notice", "accept", 31);
-    checkCookiesAllowed();
-  });
+// event listener for cookie notice buttons, create cookie with fitting value
+document.querySelector(".cookie-notice__button--refuse").addEventListener("click", function() {
+  createCookie("cookie-notice", "refuse", 31);
   checkCookiesAllowed();
-}, false);
+});
+document.querySelector(".cookie-notice__button--accept").addEventListener("click", function() {
+  createCookie("cookie-notice", "accept", 31);
+  includeScripts();
+});
 
 // event listener for only allow focus in dialog and not allow user to tab out of dialog
 // also allows closing the dialog with pushing ESC key

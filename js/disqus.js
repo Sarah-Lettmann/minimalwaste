@@ -1,4 +1,4 @@
-var commentsButton = document.getElementById("comments__button");
+var commentsButton = document.querySelector(".comments__button");
 var disqus_config = function () {
     this.page.url = commentsButton.getAttribute("data-disqus-url");
 };

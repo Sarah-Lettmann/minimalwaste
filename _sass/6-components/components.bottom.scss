@@ -2,6 +2,7 @@
   background-color: $neutral-500;
   padding: 3rem 0;
   @include breakpoint(mobile) {
+    margin-bottom: $height-mobile-header;
     padding: 2rem 0;
   }
 
