@@ -7,8 +7,6 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "So sollte deine Interrail Packliste aussehen, damit du eine enspannte Reise hast. Mit manchem hast du vielleicht nicht gerechnet."
 keywords: [Interrail, Interrail Packliste, Interrail Tipps]
-image: "/assets/title-images/2019/2019-08-26-so-geht-gebraucht-kaufen-second-hand-101.jpg"
-pinterest-image: "/assets/pinterest-images/2020/.jpg"
 author: sarah-lettmann
 related-posts: ["0071", "0068", "0069", "0070", "0064", "0013", "0057", "0026", "0041"]
 ---

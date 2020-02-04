@@ -7,7 +7,6 @@ date: 2019-04-19
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Wie sieht die Öko Bilanz von Stofftaschentüchern gegenüber herkömmlichen Papiertaschentüchern aus. Ich habe es durchgerechnet."
 keywords: [Bilanz von Stofftaschentüchern, Stofftaschentücher]
-image: "/assets/title-images/2019/2019-04-05-die-bilanz-von-stofftaschentuechern.jpg"
 author: sarah-lettmann
 ---
 Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. Allerdings habe ich ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.

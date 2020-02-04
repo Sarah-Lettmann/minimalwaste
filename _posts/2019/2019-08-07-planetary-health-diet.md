@@ -7,7 +7,6 @@ date: 2019-08-07
 categories: [Klima]
 description: "Unsere Ernährung wirkt sich auf uns und den Planeten aus. Die Planetary Health Diet liefert für die Gesundheit von Körper und Umwelt einen Leitfaden."
 keywords: [Planetary Health, Planetary Health Diet]
-image: "/assets/title-images/2019/2019-08-07-planetary-health-diet.jpg"
 author: sarah-lettmann
 related-posts: ["0063", "0054", "0032", "0050", "0030", "0059", "0040", "0062", "0044"]
 ---

@@ -7,7 +7,6 @@ date: 2019-05-20
 categories: [Minimalismus]
 description: "Was meine Erfahrungen mit dem minimalistischen Leben sind, was ich gelernt habe und wie es mich verändert hat."
 keywords: [minimalistisch leben Erfahrungen, minimalistisch leben Erfahrung]
-image: "/assets/title-images/2019/2019-05-20-minimalistisch-leben-erfahrungen.jpg"
 author: sarah-lettmann
 ---
 Es ist nun schon über vier Jahre her, dass ich damit angefangen habe, mich mit Minimalismus zu beschäftigen und auszumisten. Welche Erfahrungen ich mit dem minimalistischen Leben gemacht habe und was sich für mich verändert hat, möchte ich mit dir teilen.

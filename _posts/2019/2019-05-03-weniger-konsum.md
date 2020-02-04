@@ -7,7 +7,6 @@ date: 2019-05-03
 categories: [Minimalismus]
 description: "Minimalismus ist schön und gut, aber der Knackpunkt ist die Veränderung des Kaufverhaltens und damit weniger Konsum an sich."
 keywords: [weniger Konsum, Kaufverhalten]
-image: "/assets/title-images/2019/2019-05-03-weniger-konsum.jpg"
 author: sarah-lettmann
 ---
 Ich bin ein riesiger Fan von Minimalismus. Aber ich bin auch eine Verfechterin von Nachhaltigkeit. Deshalb stellen sich bei mir immer alle Nackenhaare auf, wenn ich sehe, wie sich nur halbherzig damit auseinander gesetzt wird. Das heißt, es wird immer Neues gekauft und dann immer wieder im gleichen Maße entsorgt. Dabei liegt der Schlüssel, um die Vorteiles eines reduzierten Lebensstils genießen zu können, in weniger Konsum an sich. Ich zeige dir heute, wie du dein Kaufverhalten nachhaltig veränderst und so wirklich aus dem Teufelskreis ausbrichst.

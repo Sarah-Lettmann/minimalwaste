@@ -17,7 +17,7 @@
     </div>
   </div>
   <div class="cover">
-    <img class="cover__image" src="{{ page.image }}" alt="{{ page.title }}" title="© {{ site.title }}" width="1236" height="650" />
+    <img class="cover__image" src="/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="{{ page.title }}" title="© {{ site.title }}" width="1236" height="650" />
   </div>
   <div class="meta">
     <img class="meta__author-image" src="{{ site[page.author].picture }}" alt="Autor {{ site[page.author].name }}" title="Bild von {{ site[page.author].name }}" width="60" height="60" />

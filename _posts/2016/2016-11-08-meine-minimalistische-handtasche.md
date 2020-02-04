@@ -7,7 +7,6 @@ date: 2016-11-08
 categories: [Minimalismus]
 description: "Ich liebe meine minimalistische Handtasche. Wieso ich mich dafür entschieden habe und welche Vorteile das hat, erzähl ich dir in diesem Beitrag."
 keywords: [minimalistische Handtasche]
-image: "/assets/title-images/2016/2016-11-08-meine-minimalistische-handtasche.jpg"
 author: sarah-lettmann
 ---
 Als ich mit Minimalismus anfing, war eine der ersten Dinge, der ich mich widmete: Richtig, meine Handtasche. Weil Frauen immer alles mögliche in ihrer Handtasche haben (vielleicht kennst du das ja von dir selbst oder von deiner Freundin), ist es auch schwer etwas darin zu finden. Außerdem hat es mich genervt, dass sie so groß und klobig war und immer viel zu schwer, um sie an nur einer Schulter zu tragen. Vielleicht kennst du das ja auch? Als ich mich dann um eine Verbesserung kümmerte, habe ich mich auch gleich der Geldbörse angenommen. Das Ding hat mich nämlich aus den gleichen Gründen genervt.

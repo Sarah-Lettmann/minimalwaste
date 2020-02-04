@@ -7,7 +7,6 @@ date: 2018-12-05
 categories: [Zero Waste, Zero Waste Kosten]
 description: "Was kostet Zero Waste im Haushalt? Kann man sich das leisten? Ich gebe dir eine Übersicht, was einzelne Dinge kosten, wo du sparen kannst und was teuer ist."
 keywords: [Was kostet Zero Waste im Haushalt]
-image: "/assets/title-images/2018/2018-12-05-was-kostet-zero-waste-im-haushalt.jpg"
 author: sarah-lettmann
 ---
 Wenn es um Zero Waste oder im Allgemeinen um Nachhaltigkeit geht, wollen die meisten immer erst mal wissen: “Ist das nicht viel zu teuer?” oder “Kann man sich das als normaler Mensch überhaupt leisten?”. Vor einigen Wochen habe ich bereits einen Post zum Thema [“Was kostet Zero Waste im Badezimmer”](/blog/was-kostet-zero-waste-im-badezimmer/) gemacht. Und es hat sich herausgestellt, dass viele Dinge sogar günstiger sind. Heute widmen wir uns dem Haushalt, also Putzmitteln, Taschentüchern, usw.

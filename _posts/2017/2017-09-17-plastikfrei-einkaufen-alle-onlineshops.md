@@ -7,7 +7,6 @@ date: 2017-09-17
 categories: [Zero Waste]
 description: "Plastikfrei einkaufen und zwar online. Ja, auch das geht! Auf dieser Seite findest du eine Liste mit Onlineshops bei denen du plastikfrei einkaufen kannst."
 keywords: [plastikfrei einkaufen]
-image: "/assets/title-images/2017/2017-09-17-plastikfrei-einkaufen-alle-onlineshops.jpg"
 author: sarah-lettmann
 ---
 Plastikfrei einkaufen und zwar online. Ja, auch das geht! Auf dieser Seite findest du eine Liste mit Onlineshops, die sich plastikfreies Einkaufen auf die Fahne geschrieben haben. Natürlich kommen auch diese in einem Paket, aber die verkauften Artikel sind nachhaltig produziert, unterstützen dich beim Müllvermeiden oder sind eben plastikfrei. Ebenso wird in den meisten Fällen kein Plastik für die Polsterung oder Verpackung verwendet.

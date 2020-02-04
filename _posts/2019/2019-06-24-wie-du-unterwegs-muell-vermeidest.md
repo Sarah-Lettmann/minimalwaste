@@ -7,7 +7,6 @@ date: 2019-06-24
 categories: [Zero Waste]
 description: "Müll vermeiden hört nicht beim Einkaufen auf, sondern ist auch dann wichtig, wenn wir unterwegs sind. Ich zeige dir wie du unterwegs vorbereitet bist, um Müll vermeiden zu können."
 keywords: [unterwegs Müll vermeiden, Zero Waste unterwegs]
-image: "/assets/title-images/2019/2019-06-24-wie-du-unterwegs-muell-vermeidest.jpg"
 author: sarah-lettmann
 ---
 Lange Zeit habe ich mich hauptsächlich auf meine Einkäufe fokussiert und versucht dort möglichst viel Müll zu vermeiden. Inzwischen bin ich darin recht gut geworden, also war es Zeit einen Schritt weiter zu gehen. Ich hatte mir für dieses Jahr vorgenommen auch unterwegs, auf Partys oder im Restaurant Müll zu vermeiden. Wie das geht, will ich mit dir teilen.

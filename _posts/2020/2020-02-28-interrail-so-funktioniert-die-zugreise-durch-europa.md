@@ -7,8 +7,6 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "Ein Interrail Ticket schenkt dir Freiheit. Trotzdem solltest du einges beachten bevor du losfährst. Tipps für die Reise mit Interrail Pass."
 keywords: [Interrail, Interrail Ticket, Interrail Pass]
-image: "/assets/title-images/2020/2020-02-28-interrail-so-funktioniert-die-zugreise-durch-europa.jpg"
-pinterest-image: "/assets/pinterest-images/2020/2020-02-28-interrail-so-funktioniert-die-zugreise-durch-europa.jpg"
 author: sarah-lettmann
 related-posts: ["0069", "0070", "0071", "0049", "0013", "0064", "0026", "0030", "0031"]
 ---

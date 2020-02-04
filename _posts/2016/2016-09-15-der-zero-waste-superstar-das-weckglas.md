@@ -7,7 +7,6 @@ date: 2016-09-15
 categories: [Zero Waste]
 description: "Das Weckglas ist mein Superstar für einen Zero Waste Lifestyle. Du kannst Lebensmittel darin aufbewahren oder Kerzen hinein stellen, sie sind für alles gut."
 keywords: [Weckglas, Weckgläser]
-image: "/assets/title-images/2016/2016-09-15-das-weckglas.jpg"
 author: sarah-lettmann
 ---
 Heute möchte ich dir meinen absoluten Favoriten und Alleskönner in Sachen Aufbewahrung, Vorkochen, Lebensmittel und Dekoration vorstellen: das Weckglas. Gerade wer auf Plastik verzichten möchte muss Alternativen finden.

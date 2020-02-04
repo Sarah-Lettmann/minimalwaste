@@ -7,7 +7,6 @@ date: 2019-03-08
 categories: [Klima]
 description: "Ein vertretbarer ökologischer Fußabdruck hat maximal 100 Punkte sagt eingutertag.org. So sehen meine Emissionen eines Tages in Punkten aus."
 keywords: [ökologischer Fußabdruck, Klima, Emissionen]
-image: "/assets/title-images/2019/2019-03-08-mein-oekologischer-fussabdruck-in-punkten.jpg"
 author: sarah-lettmann
 ---
 Vor Kurzem bin ich in einem Beitrag auf die Website

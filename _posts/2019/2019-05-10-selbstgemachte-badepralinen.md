@@ -7,7 +7,6 @@ date: 2019-05-10
 categories: [Zero Waste, Müllfreies Badezimmer, DIY]
 description: "Diese selbstgemachten Badepralinen stellen eine super Alternative zu verpacktem Badezusatz und teuren Badebomben dar. Und dazu brauchst du nur vier Zutaten."
 keywords: [Badepralinen, Badebomben]
-image: "/assets/title-images/2019/2019-05-10-selbstgemachte-badepralinen.jpg"
 author: sarah-lettmann
 related-posts: ["0041", "0024", "0058", "0040"]
 ---

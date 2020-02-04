@@ -1,7 +1,6 @@
-{% assign category = site.data.menu | where: "title", page.category %}
-subcategories: {{ category.subcategories }}
+{% assign category = site.data.menu | where: "title", page.category | first %}
 {% if category.subcategories %}
-<div class="subcategories">
+<div class="subcategories container">
   <h2 class="subcategories__title">Unterkategorien</h2>
   <nav class="subcategories__navigation">
     <ul class="subcategories__list">

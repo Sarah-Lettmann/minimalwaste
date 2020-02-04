@@ -7,8 +7,6 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "2019 habe ich mit meinem Freund eine Interrail Reise durch Europa gemacht. Wir waren 22 Tage unterwegs und haben 12 Städte gesehen. Ein Reisebericht."
 keywords: [Interrail, Interrail Reise, ]
-image: "/assets/title-images/2020/2020-02-28-interrail-reisetagebuch.jpg"
-pinterest-image: "/assets/pinterest-images/2020/.jpg"
 author: sarah-lettmann
 related-posts: ["0068", "0069", "0071"]
 ---

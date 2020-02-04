@@ -7,7 +7,6 @@ date: 2017-02-04
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Was ist Plastik eigentlich? Worin ist überall Plastik enthalten und welche Stoffe findet man darin wieder? Was sind die Vorteile und was die Nachteile?"
 keywords: [Plastik]
-image: "/assets/title-images/2017/2017-02-04-was-ist-plastik.jpg"
 author: sarah-lettmann
 ---
 Hallöchen. Heute ist es endlich soweit. Der erste Artikel aus einer ganzen Reihe geht an den Start. Worum es in der Artikel-Reihe geht? Plastik. Und zwar um möglichst viele unterschiedliche Aspekte dieser Stoffe. Schließlich sollte man schon verstehen worum es eigentlich geht und warum Plastik nicht gerade gut für die Umwelt ist. In diesem ersten Beitrag geht es darum, woraus Plastik besteht, woraus es gefertigt wird, um die Giftstoffe, die sich darin befinden, die Ressourcen die genutzt werden, um Plastik zu produzieren und zu verarbeiten und natürlich um die Umweltauswirkungen.

@@ -7,7 +7,6 @@ date: 2018-10-31
 categories: [Sustainable Fashion]
 description: "Fast Fashion ist eine ständige Flut and immer neue Trends, schlechte Qualität, billig produziert und billiger Preis. Aber was steckt noch hinter dem System?"
 keywords: [Fast Fashion]
-image: "/assets/title-images/2018/2018-10-31-die-tragoedien-hinter-fast-fashion.jpg"
 author: sarah-lettmann
 related-posts: ["0050", "0011", "0017"]
 ---

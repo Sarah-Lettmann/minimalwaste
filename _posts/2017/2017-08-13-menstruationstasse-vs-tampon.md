@@ -7,7 +7,6 @@ date: 2017-08-13
 categories: [Zero Waste, Müllfreies Badezimmer]
 description: "Ich greife zur Menstruationstasse anstelle eines Tampon. Sie ist ökologischer, spart Geld, ist genauso bequem und muss seltener gewechselt werden."
 keywords: [Menstruationstasse, Menstruationsbecher]
-image: "/assets/title-images/2017/2017-08-13-menstruationstasse-vs-tampon.jpg"
 author: sarah-lettmann
 ---
 Endlich, endlich möchte ich mal zu einem Thema kommen, das für manche vielleicht ein bisschen unangenehm ist. Es geht um die Hygiene Produkte, die man als Frau einmal im Monat benötigt. Die meisten dürften ja zum Tampon greifen, wenn es soweit ist. Habe ich früher auch gemacht, weil ich sie einfach viel bequemer fand als Binden. Heute greife ich zur Menstruationstasse. Ja ich weiß, das klingt wirklich extrem unsexy. Aber lass mich dir dieses tolle Teil erstmal vorstellen.

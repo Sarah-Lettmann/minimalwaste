@@ -7,7 +7,6 @@ date: 2018-03-21
 categories: [Minimalismus]
 description: "Der jährliche Frühjahrsputz hilft einem jedes Jahr seine Sachen zusammen zu bekommen. Ich zeige dir wie ich das mache."
 keywords: [Frühjahrsputz]
-image: "/assets/title-images/2018/2018-03-21-fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling.jpg"
 author: sarah-lettmann
 ---
 Eigentlich sollte die Einleitung zu diesem Post so aussehen: “Es ist soweit. Die grauen und kalten Wintermonate scheinen nun endlich hinter uns zu liegen. Zeit, die eigenen vier Wände fit für die warme Jahreszeit zu machen.”

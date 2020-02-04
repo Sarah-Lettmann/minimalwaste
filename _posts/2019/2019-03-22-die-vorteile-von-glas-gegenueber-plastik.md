@@ -7,7 +7,6 @@ date: 2019-03-22
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Glasrecyling ist nachhaltig und effizient. Warum das so ist und wie Altglas recycelt wird erkläre ich dir in diesem Beitrag."
 keywords: [Glasrecycling, Vorteile von Glas]
-image: "/assets/title-images/2019/2019-03-22-die-vorteile-von-glas-gegenueber-plastik.jpg"
 author: sarah-lettmann
 ---
 Glas wird immer als nachhaltige Alternative zu Plastik promotet, ähnlich wie Papier. Jährlich werden alleine in Deutschland circa zwei Millionen Tonnen Altglas eingesammlt und recycelt. Aber aus welchen Gründen sind Verpackungen aus Glas soviel nachhaltiger? Wie sieht der Recyclingprozess aus? Wie steht es mit Transportwegen und den damit verbundenen Emissionen? Und welche Rolle in der Rechnung spielen eigentlich Pfandgläser? Auf diese Fragen wollen wir heute Antworten finden.

@@ -8,7 +8,8 @@
         </a>
       </h2>
       <div class="cover">
-        <img class="cover__image" src="{{ post.image }}" alt="{{ post.title }}" title="© {{ site.title }}" />
+        <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
+          alt="{{ post.title }}" title="© {{ site.title }}" />
       </div>
       <p class="subtitle">
         <a class="post__link" href="{{ post.url }}" title="Zum Post {{ post.title }}">

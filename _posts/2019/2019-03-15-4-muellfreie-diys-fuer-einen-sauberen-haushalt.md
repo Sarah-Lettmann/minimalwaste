@@ -8,7 +8,6 @@ categories: [Zero Waste, DIY]
 description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer schön sauber halten
               kannst. Die Zutaten sind günstig und die Mittel schnell zusammengemischt."
 keywords: [müllfreie DIYs]
-image: "/assets/title-images/2019/2019-03-15-muellfreie-diys-fuer-einen-sauberen-haushalt.jpg"
 author: sarah-lettmann
 ---
 

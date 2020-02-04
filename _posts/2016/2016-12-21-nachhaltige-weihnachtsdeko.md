@@ -7,7 +7,6 @@ date: 2016-12-21
 categories: [Zero Waste, DIY]
 description: "Weihnachten ist die Zeit des schönen Lichterschmucks und der Kerzen. Ich zeige dir meine nachhaltige Weihnachtsdeko. Ganz einfach nachzumachen."
 keywords: [nachhaltige Weihnachtsdeko]
-image: "/assets/title-images/2016/2016-12-21-nachhaltige-weihnachtsdeko.jpg"
 author: sarah-lettmann
 ---
 Weihnachten ist die schönste Zeit des Jahres! Und ich finde, das trifft vor allem dann zu, wenn man sich von dem vielen Konsum los sagt. Selbst gemachte Weihnachtsgeschenke sind dabei nicht alles - auch die Dekoration kann man leicht selbst machen und sich so Geld und Stress sparen.

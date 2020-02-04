@@ -7,7 +7,6 @@ date: 2018-11-14
 categories: [Zero Waste]
 description: "Was ist die zentrale Philosophie hinter Zero Waste und welche Prinzipien solltest du verfolgen, wenn dir dieser Lebensstsil wichtig ist? Ich verrate es dir!"
 keywords: [Philosophie hinter Zero Waste]
-image: "/assets/title-images/2018/2018-11-14-die-philosophie-hinter-zero-waste.jpg"
 author: sarah-lettmann
 ---
 Es gibt ein paar einfache Prinzipien, an die man sich bei der Müllreduzierung und -vermeidung halten kann. Das gilt sowohl für den Anfang, als auch für jeden anderen Zeitpunkt. Zero Waste zu werden oder zumindest so wenig Müll wie möglich zu hinterlassen ist ein Prozess. Man kann das kaum über Nacht schaffen und es gibt immer Raum für Verbesserungen. Wonach sollte man sich also richten, wenn man Müll vermeiden will?

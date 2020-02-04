@@ -7,8 +7,6 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "Interrail und Backpacking sind tedenziell günstige Reisemethoden. Trotzdem gibt es viele Ecken und Enden an denen man einiges sparen kann."
 keywords: [Interrail, Interrail Reise, Interrail Kosten]
-image: "/assets/title-images/2020/2020-02-28-interrail-guenstig-reisen.jpg"
-pinterest-image: "/assets/pinterest-images/2020/2020-02-28-interrail-guenstig-reisen.jpg"
 author: sarah-lettmann
 related-posts: ["0068", "0069", "0070", "0049", "0013", "0064", "0001", "0014", "0024"]
 ---

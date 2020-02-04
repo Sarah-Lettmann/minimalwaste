@@ -7,7 +7,6 @@ date: 2017-02-19
 categories: [Zero Waste, Minimalismus]
 description: "Inspirierende und sehenswerte Filme, Blogs, Talks und Bücher zu den Themen Nachhaltigkeit, Zero Waste und Minimalismus."
 keywords: [Zero Waste und Minimalismus]
-image: "/assets/title-images/2017/2017-02-19-werke-zero-waste-und-minimalismus.jpg"
 author: sarah-lettmann
 ---
 Möchtest du auch gerne mehr zu den Themen Nachhaltigkeit, Zero Waste und Minimalismus erfahren? Mir ist es zu Beginn schwer gefallen Informationen zu finden. Deshalb hier einige Inspiration für dich, damit du zukünftig gut informiert bist und Freunden und Familie Rede und Antwort stehen kannst.
