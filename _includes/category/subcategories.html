@@ -6,7 +6,12 @@
     <ul class="subcategories__list">
       {% for subcategory in category.subcategories %}
       <li class="subcategories__list-item">
-        <a class="subcategories__link" href="{{ subcategory.href }}">{{ subcategory.title }}</a>
+        <a class="subcategories__link" href="{{ subcategory.href }}">
+          <h3 class="subcategories__link-title">{{ subcategory.title }}</h3>
+          <div class="subcategories__cover cover cover--background">
+            <img class="subcategories__image cover__image" src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
+          </div>
+        </a>
       </li>
       {% endfor %}
     </ul>

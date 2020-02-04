@@ -1,6 +1,15 @@
 .cover {
   background-color: $primary-200;
 
+  &--background {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+  }
+
   &__image {
     height: 100%;
     margin: 0;

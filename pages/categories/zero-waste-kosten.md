@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Was kostet Zero Waste?"
+title: "Zero Waste Kosten"
 date: 2016-09-02
 category: Zero Waste Kosten
 permalink: /category/zero-waste-kosten

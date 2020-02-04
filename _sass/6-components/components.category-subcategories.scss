@@ -1,0 +1,46 @@
+.subcategories {
+  margin-bottom: 6.25rem;
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -.625rem;
+  }
+
+  &__list-item {
+    flex: 1 0 269px;
+    height: 150px;
+    margin: 0 .625rem 1.25rem;
+    padding-left: 0;
+    position: relative;
+
+    &::before {
+      content: none;
+    }
+  }
+
+  &__link-title {
+    color: $neutral-100;
+    margin: 0;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  &__link {
+    @include attention {
+      color: $neutral-100;
+
+      .subcategories__cover {
+        background-color: $neutral-700;
+      }
+    }
+  }
+
+  &__cover {
+    background-color: $neutral-600;
+  }
+
+  &__image {
+    opacity: .3;
+  }
+}

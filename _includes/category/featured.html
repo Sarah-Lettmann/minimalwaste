@@ -1,0 +1,15 @@
+<div class="featured container">
+  <h2 class="featured__title">Empfohlene Beiträge</h2>
+  {% assign latest-post = site.posts | where_exp: "category", "category contains page.category" %}
+  <div class="featured__latest-post">
+    <h3 class="title">{{ latest-post.title }}</h3>
+  </div>
+  <ul class="feature__list">
+    <li>
+      <h3>{{ post.title }}</h3>
+      <div class="cover">
+        <img class="cover__image" src="" alt="" />
+      </div>
+    </li>
+  </ul>
+</div>
