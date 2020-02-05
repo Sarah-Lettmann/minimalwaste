@@ -2,7 +2,7 @@
   color: $neutral-500;
   display: inline-block;
   font-size: 1.5*$font-size-base;
-  @include transition-custom(transform, 0.2s, ease-in-out, 0s);
+  @include transition-custom(transform, .2s, ease-in-out, 0s);
 
   &--top {
     @include attention {

@@ -1,15 +1,28 @@
+{% assign category = site.data.menu | where: "title", page.category | first %}
 <div class="featured container">
   <h2 class="featured__title">Empfohlene Beiträge</h2>
-  {% assign latest-post = site.posts | where_exp: "category", "category contains page.category" %}
-  <div class="featured__latest-post">
-    <h3 class="title">{{ latest-post.title }}</h3>
-  </div>
-  <ul class="feature__list">
-    <li>
-      <h3>{{ post.title }}</h3>
+  <ul class="featured__list">
+    {% assign latest-post = site.categories[page.category] | first %}
+    <li class="featured__post featured__post--newest">
+      <h3 class="title title--h1">
+        <a class="featured__link" href="{{ latest-post.url }}">{{ latest-post.title }}</a>
+      </h3>
       <div class="cover">
-        <img class="cover__image" src="" alt="" />
+        <img class="cover__image" src="/assets/title-images/{{ latest-post.date | split: '-' | first }}/{{ latest-post.date | split: ' ' | first }}-{{ latest-post.url | remove: '/blog/' | remove: '/'}}.jpg"
+          alt="Cover von '{{ latest-post.title }}'" />
       </div>
     </li>
+    {% for uid in category.featured %}
+      {% assign post = site.posts | where: "uid", uid | first %}
+      <li class="featured__post">
+        <h3 class="title title--h2">
+          <a class="featured__link" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+        <div class="cover">
+          <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
+            alt="Cover von '{{ post.title }}'" />
+        </div>
+      </li>
+    {% endfor %}
   </ul>
 </div>

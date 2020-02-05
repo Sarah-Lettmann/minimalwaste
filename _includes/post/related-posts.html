@@ -18,8 +18,8 @@
         </div>
         <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
           <div class="cover">
-              <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
-                alt="Cover von '{{ post.title }}'" />
+            <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
+              alt="Cover von '{{ post.title }}'" />
           </div>
         </a>
       </article>

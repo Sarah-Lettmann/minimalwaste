@@ -1,0 +1,64 @@
+.featured {
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -1.25rem;
+  }
+
+  &__post {
+    align-items: center;
+    display: flex;
+    flex-basis: 578px;
+    margin: 0 1.25rem 2rem;
+    padding-left: 0;
+
+    &::before {
+      content: none;
+    }
+
+    .title {
+      margin: 0;
+      order: 2;
+      padding-left: 1.125rem;
+    }
+
+    .cover {
+      flex: 0 0 190px;
+      height: 190px;
+    }
+
+    &--newest {
+      align-items: flex-end;
+      flex-basis: 100%;
+      margin-bottom: 3rem;
+
+      .title,
+      .cover {
+        flex-basis: 50%;
+      }
+
+      .title {
+        padding-left: 2.5rem;
+        position: relative;
+
+        &::before {
+          @include main-font;
+          background-color: $primary-500;
+          border-radius: 25px;
+          color: $neutral-100;
+          content: 'Neuster Beitrag';
+          font-size: 1.25rem;
+          font-weight: 600;
+          padding: .5rem .75rem;
+          position: absolute;
+          top: -42px;
+        }
+      }
+
+      .cover {
+        height: 578px;
+      }
+    }
+  }
+}

@@ -24,20 +24,23 @@
     margin: 0;
     padding: 2rem;
     text-align: center;
+    @include attention {
+      color: $neutral-800;
+    }
   }
 
   &__link {
     @include attention {
-      color: $neutral-100;
 
       .subcategories__cover {
-        background-color: $neutral-700;
+        background-color: $primary-200;
       }
     }
   }
 
   &__cover {
     background-color: $neutral-600;
+    @include transition-custom(all, .2s, ease-in-out, 0s);
   }
 
   &__image {

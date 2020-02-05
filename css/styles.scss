@@ -40,8 +40,9 @@
 @import '5-objects/objects.ad';
 @import '5-objects/objects.quote';
 @import '5-objects/objects.tipp';
+@import '5-objects/objects.title';
+@import '5-objects/objects.cover';
 @import '5-objects/objects.post-categories';
-@import '5-objects/objects.post-cover';
 @import '5-objects/objects.iframe-cover';
 @import '5-objects/objects.iframe-load-button';
 
@@ -70,6 +71,7 @@
 
 @import '6-components/components.category-header';
 @import '6-components/components.category-subcategories';
+@import '6-components/components.category-featured';
 
 @import '6-components/components.page';
 @import '6-components/components.category';
