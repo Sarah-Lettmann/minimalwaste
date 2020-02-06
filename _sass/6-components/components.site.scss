@@ -1,0 +1,8 @@
+.site {
+
+  &--post {
+    @include breakpoint(mobile) {
+      margin-bottom: $height-mobile-header;
+    }
+  }
+}

@@ -1,6 +1,6 @@
 <header class="post__header">
   <div class="post__header-text">
-    <h1 class="title">{{ page.title }}</h1>
+    <h1 class="post__title">{{ page.title }}</h1>
     <div class="categories">
       {% if page.categories.first %}
         {% assign cat = site.data.categories[page.categories.first] %}
@@ -17,7 +17,7 @@
     </div>
   </div>
   <div class="cover">
-    <img class="cover__image" src="/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="{{ page.title }}" title="© {{ site.title }}" width="1236" height="650" />
+    <img class="cover__image" src="/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" width="1236" height="650" />
   </div>
   <div class="meta">
     <img class="meta__author-image" src="{{ site[page.author].picture }}" alt="Autor {{ site[page.author].name }}" title="Bild von {{ site[page.author].name }}" width="60" height="60" />

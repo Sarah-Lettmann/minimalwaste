@@ -1,27 +1,32 @@
 {% assign category = site.data.menu | where: "title", page.category | first %}
-<div class="featured container">
-  <h2 class="featured__title">Empfohlene Beiträge</h2>
-  <ul class="featured__list">
+<div class="featured-posts container">
+  <h2 class="featured-posts__title">Empfohlene Beiträge</h2>
+  <ul class="featured-posts__list">
     {% assign latest-post = site.categories[page.category] | first %}
-    <li class="featured__post featured__post--newest">
-      <h3 class="title title--h1">
-        <a class="featured__link" href="{{ latest-post.url }}">{{ latest-post.title }}</a>
-      </h3>
-      <div class="cover">
-        <img class="cover__image" src="/assets/title-images/{{ latest-post.date | split: '-' | first }}/{{ latest-post.date | split: ' ' | first }}-{{ latest-post.url | remove: '/blog/' | remove: '/'}}.jpg"
-          alt="Cover von '{{ latest-post.title }}'" />
-      </div>
+    <li class="featured-posts__list-item">
+      <article class="post post--newest">
+        <h3 class="post__title post__title--h1">
+          <a class="post__link" href="{{ latest-post.url }}" title="Zum Post '{{ latest-post.title }}'">
+            <span class="post__title-label">Neuster Beitrag</span>
+            {{ latest-post.title }}
+          </a>
+        </h3>
+        <div class="cover">
+          <img class="cover__image" src="/assets/title-images/{{ latest-post.date | split: '-' | first }}/{{ latest-post.date | split: ' ' | first }}-{{ latest-post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+        </div>
+      </article>
     </li>
     {% for uid in category.featured %}
       {% assign post = site.posts | where: "uid", uid | first %}
-      <li class="featured__post">
-        <h3 class="title title--h2">
-          <a class="featured__link" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <div class="cover">
-          <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
-            alt="Cover von '{{ post.title }}'" />
-        </div>
+      <li class="featured-posts__list-item">
+        <article class="post">
+          <h3 class="post__title post__title--h2">
+            <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
+          </h3>
+          <div class="cover">
+            <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+          </div>
+        </article>
       </li>
     {% endfor %}
   </ul>

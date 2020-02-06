@@ -5,7 +5,7 @@
     {% for uid in page.related-posts %}
       {% assign post = site.posts | where: "uid", uid | first %}
       <article class="post">
-        <h3 class="title">
+        <h3 class="post__title post__title--h4">
           <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
         </h3>
         <div class="categories">
@@ -16,12 +16,9 @@
           </a>
           <hr />
         </div>
-        <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
-          <div class="cover">
-            <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
-              alt="Cover von '{{ post.title }}'" />
-          </div>
-        </a>
+        <div class="cover">
+          <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+        </div>
       </article>
     {% endfor %}
   </div>

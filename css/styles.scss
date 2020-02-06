@@ -36,13 +36,14 @@
 @import '5-objects/objects.burger';
 @import '5-objects/objects.category-cloud-item';
 @import '5-objects/objects.category-cloud-link';
+@import '5-objects/objects.post-title';
+@import '5-objects/objects.post-link';
+@import '5-objects/objects.post-categories';
+@import '5-objects/objects.cover';
 @import '5-objects/objects.icon';
 @import '5-objects/objects.ad';
 @import '5-objects/objects.quote';
 @import '5-objects/objects.tipp';
-@import '5-objects/objects.title';
-@import '5-objects/objects.cover';
-@import '5-objects/objects.post-categories';
 @import '5-objects/objects.iframe-cover';
 @import '5-objects/objects.iframe-load-button';
 
@@ -78,6 +79,7 @@
 @import '6-components/components.search';
 @import '6-components/components.thank-you-pages';
 @import '6-components/components.cookie-consent';
+@import '6-components/components.site';
 
 @import '7-utilities/utilities.visually-hidden';
 @import '7-utilities/utilities.print';

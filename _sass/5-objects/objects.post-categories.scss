@@ -4,5 +4,7 @@
     @extend %menu-text;
     @extend %menu-link;
     background-position: 50% 1.1em;
+    position: relative;
+    z-index: 2;
   }
 }

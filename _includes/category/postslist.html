@@ -1,21 +1,16 @@
-<ul class="category__posts">
+<ul class="all container">
 {% for post in site.categories[page.category] %}
   <li>
-    <article class="post post--category">
-      <h2 class="title">
-        <a class="post__link" href="{{ post.url }}" title="Zum Post {{ post.title }}">
+    <article class="post">
+      <h2 class="post__title">
+        <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
           {{ post.title }}
         </a>
       </h2>
       <div class="cover">
-        <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
-          alt="{{ post.title }}" title="© {{ site.title }}" />
+        <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
       </div>
-      <p class="subtitle">
-        <a class="post__link" href="{{ post.url }}" title="Zum Post {{ post.title }}">
-          {{ post.subtitle }}
-        </a>
-      </p>
+      <p class="subtitle">{{ post.subtitle }}</p>
     </article>
   </li>
 {% endfor %}

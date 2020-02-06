@@ -1,4 +1,4 @@
-.featured {
+.featured-posts {
 
   &__list {
     display: flex;
@@ -6,9 +6,7 @@
     margin: 0 -1.25rem;
   }
 
-  &__post {
-    align-items: center;
-    display: flex;
+  &__list-item {
     flex-basis: 578px;
     margin: 0 1.25rem 2rem;
     padding-left: 0;
@@ -17,7 +15,17 @@
       content: none;
     }
 
-    .title {
+    &:first-of-type {
+      flex-basis: 100%;
+      margin-bottom: 3rem;
+    }
+  }
+
+  .post {
+    align-items: center;
+    display: flex;
+
+    &__title {
       margin: 0;
       order: 2;
       padding-left: 1.125rem;
@@ -30,30 +38,27 @@
 
     &--newest {
       align-items: flex-end;
-      flex-basis: 100%;
-      margin-bottom: 3rem;
 
-      .title,
+      .post__title,
       .cover {
         flex-basis: 50%;
       }
 
-      .title {
+      .post__title {
         padding-left: 2.5rem;
-        position: relative;
+      }
 
-        &::before {
-          @include main-font;
-          background-color: $primary-500;
-          border-radius: 25px;
-          color: $neutral-100;
-          content: 'Neuster Beitrag';
-          font-size: 1.25rem;
-          font-weight: 600;
-          padding: .5rem .75rem;
-          position: absolute;
-          top: -42px;
-        }
+      .post__title-label {
+        @include main-font;
+        background-color: $primary-500;
+        border-radius: 25px;
+        color: $neutral-100;
+        content: 'Neuster Beitrag';
+        font-size: 1.25rem;
+        font-weight: 600;
+        padding: .5rem .75rem;
+        position: absolute;
+        top: 107px;
       }
 
       .cover {

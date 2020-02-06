@@ -19,7 +19,7 @@
     position: absolute;
   }
 
-  .title {
+  .post__title {
     margin: 0 6rem 0 0;
     order: 2;
     @include breakpoint(mobile) {
