@@ -1,6 +1,16 @@
 - title: Zero Waste
   href: /category/zero-waste.html
   featured: ["0064", "0062", "0044", "0038"]
+  pages:
+    - title: Alle Unverpack Läden im Überblick
+      href: /blog/unverpackt-einkaufen-alle-laeden/
+      image: assets/title-images/2016/2016-11-21-unverpackt-einkaufen-alle-laeden.jpg
+    - title: Nachhaltige und Plastikfreie Online Shops
+      href: /blog/plastikfrei-einkaufen-alle-onlineshops/
+      image: assets/title-images/2017/2017-09-17-plastikfrei-einkaufen-alle-onlineshops.jpg
+  links:
+    - title: wastelandrebel.com
+      url: https://wastelandrebel.com/de/
   subcategories:
     - title: Müllfreies Badezimmer
       href: /category/muellfreies-badezimmer.html

@@ -1,17 +1,30 @@
-<ul class="all container">
-{% for post in site.categories[page.category] %}
-  <li>
-    <article class="post">
-      <h2 class="post__title">
-        <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
-          {{ post.title }}
-        </a>
-      </h2>
-      <div class="cover">
-        <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
-      </div>
-      <p class="subtitle">{{ post.subtitle }}</p>
-    </article>
-  </li>
-{% endfor %}
-</ul>
+<div class="all-posts container">
+  <h2 class="all-posts__title">Alle Beiträge</h2>
+  <ul class="all-posts__list">
+  {% for post in site.categories[page.category] %}
+    <li class="all-posts__list-item">
+      <article class="post">
+        <h3 class="post__title">
+          <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
+            {{ post.title }}
+          </a>
+        </h3>
+        <p class="subtitle">{{ post.subtitle }}</p>
+        <div class="cover">
+          <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+        </div>
+      </article>
+    </li>
+  {% endfor %}
+  </ul>
+
+  {% assign category = site.data.menu | where: "title", page.category | first %}
+  <aside class="all-posts__sidebar">
+    <h3 class="all-posts__title">Mehr zum Thema</h3>
+    <ul class="all-posts__list">
+    {% for link in category.links %}
+
+    {% endfor %}
+    </ul>
+  </aside>
+</div>

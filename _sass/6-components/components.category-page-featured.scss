@@ -1,0 +1,105 @@
+$cover-height-mobile: 280px;
+
+.featured-posts {
+  margin-bottom: 5.5rem;
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -1.25rem;
+  }
+
+  &__list-item {
+    flex: 1 1 375px;
+    margin: 0 1.25rem 2rem;
+    padding-left: 0;
+
+    &::before {
+      content: none;
+    }
+
+    &:first-of-type {
+      flex-basis: 100%;
+      margin-bottom: 3rem;
+    }
+  }
+
+  .post {
+    align-items: center;
+    display: flex;
+    @include breakpoint(mobile) {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    &__text {
+      order: 2;
+      padding-left: 1.125rem;
+      @include breakpoint(mobile) {
+        padding-left: 0;
+      }
+    }
+
+    &__title {
+      margin: 0 0 .75rem;
+      @include breakpoint(mobile) {
+        margin-top: .75rem;
+      }
+    }
+
+    &__subtitle {
+      color: $neutral-500;
+      font-weight: 400;
+      margin-bottom: 0;
+    }
+
+    .cover {
+      flex: 0 0 190px;
+      height: 190px;
+      @include breakpoint(mobile) {
+        height: $cover-height-mobile;
+      }
+    }
+
+    &--newest {
+      @include breakpoint(mobile) {
+        align-items: center;
+        flex-direction: row;
+      }
+
+      .post__title,
+      .cover {
+        flex-basis: calc(50% - 1.25rem);
+      }
+
+      .post__title {
+        margin-bottom: 0;
+        order: 2;
+      }
+
+      .post__subtitle {
+        order: 3;
+      }
+
+      .post__text {
+        align-items: flex-start;
+        display: flex;
+        flex-direction: column;
+        margin-left: 1.25rem;
+        padding: 0;
+      }
+
+      .post__label {
+        order: 1;
+      }
+
+      .cover {
+        height: 578px;
+        margin-right: 1.25rem;
+        @include breakpoint(mobile) {
+          height: $cover-height-mobile;
+        }
+      }
+    }
+  }
+}

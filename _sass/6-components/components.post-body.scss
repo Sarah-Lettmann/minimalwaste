@@ -1,19 +1,12 @@
-.post {
-
-  &__body {
-    align-items: start;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 0 auto 10rem;
-    max-width: $max-width-without-padding;
-    @include breakpoint(mobile) {
-      justify-content: center;
-      margin-bottom: 6rem;
-    }
-  }
-
-  &__subtitle {
-    font-weight: 600;
+.post__body {
+  align-items: start;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto 10rem;
+  max-width: $max-width-without-padding;
+  @include breakpoint(mobile) {
+    justify-content: center;
+    margin-bottom: 6rem;
   }
 }

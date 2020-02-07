@@ -1,0 +1,18 @@
+.teasers {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.teaser {
+  flex: 1 1 578px;
+  height: 300px;
+  position: relative;
+
+  &__title {
+    font-size: 3rem;
+
+    &::after {
+      content: url();
+    }
+  }
+}

@@ -1,8 +1,13 @@
-<div class="teaser">
-  <h2 class="teaser__title">
-    <a href=""></a>
-  </h2>
-  <div class="">
-    <img class="" src="/assets/" alt="" />
+{% assign category = site.data.menu | where: "title", page.category | first %}
+<div class="teasers container">
+{% for page in category.pages %}
+  <div class="teaser">
+    <h2 class="teaser__title">
+      <a class="teaser__link" href="{{ page.href }}">{{ page.title }}</a>
+    </h2>
+    <div class="cover cover--background">
+      <img class="cover__image" src="{{ page.image }}" alt="" />
+    </div>
   </div>
+{% endfor %}
 </div>

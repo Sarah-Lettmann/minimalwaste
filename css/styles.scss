@@ -7,9 +7,7 @@
 @import '1-settings/settings.breakpoints';
 @import '1-settings/settings.global';
 @import '1-settings/settings.fontawesome';
-
 @import '2-tools/tools.mixins';
-
 @import '3-generic/generic.reset';
 @import '3-generic/generic.box-sizing';
 @import '3-generic/generic.shared';
@@ -37,8 +35,10 @@
 @import '5-objects/objects.category-cloud-item';
 @import '5-objects/objects.category-cloud-link';
 @import '5-objects/objects.post-title';
+@import '5-objects/objects.post-subtitle';
 @import '5-objects/objects.post-link';
 @import '5-objects/objects.post-categories';
+@import '5-objects/objects.post-label';
 @import '5-objects/objects.cover';
 @import '5-objects/objects.icon';
 @import '5-objects/objects.ad';
@@ -70,12 +70,11 @@
 @import '6-components/components.download';
 @import '6-components/components.iframe';
 
-@import '6-components/components.category-header';
-@import '6-components/components.category-subcategories';
-@import '6-components/components.category-featured';
-
+@import '6-components/components.category-page-header';
+@import '6-components/components.category-page-subcategories';
+@import '6-components/components.category-page-featured';
+@import '6-components/components.category-page-teaser';
 @import '6-components/components.page';
-@import '6-components/components.category';
 @import '6-components/components.search';
 @import '6-components/components.thank-you-pages';
 @import '6-components/components.cookie-consent';

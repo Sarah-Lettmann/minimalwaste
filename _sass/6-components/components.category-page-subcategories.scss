@@ -1,3 +1,5 @@
+$list-item-height: 150px;
+
 .subcategories {
   margin-bottom: 6.25rem;
 
@@ -9,7 +11,7 @@
 
   &__list-item {
     flex: 1 0 269px;
-    height: 150px;
+    height: $list-item-height;
     margin: 0 .625rem 1.25rem;
     padding-left: 0;
     position: relative;
@@ -21,6 +23,7 @@
 
   &__link-title {
     color: $neutral-100;
+    height: $list-item-height;
     margin: 0;
     padding: 2rem;
     text-align: center;
@@ -30,16 +33,18 @@
   }
 
   &__link {
+    display: block;
+
     @include attention {
 
       .subcategories__cover {
-        background-color: $primary-200;
+        background-color: $primary-500;
       }
     }
   }
 
   &__cover {
-    background-color: $neutral-600;
+    background-color: $primary-800;
     @include transition-custom(all, .2s, ease-in-out, 0s);
   }
 
