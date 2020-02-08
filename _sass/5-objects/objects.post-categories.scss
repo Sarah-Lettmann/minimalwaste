@@ -1,6 +1,6 @@
-.categories {
+.post__categories {
 
-  &__link {
+  &-link {
     @extend %menu-text;
     @extend %menu-link;
     background-position: 50% 1.1em;

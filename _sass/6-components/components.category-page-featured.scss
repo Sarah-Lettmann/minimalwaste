@@ -12,10 +12,8 @@ $cover-height-mobile: 280px;
   &__list-item {
     flex: 1 1 375px;
     margin: 0 1.25rem 2rem;
-    padding-left: 0;
-
-    &::before {
-      content: none;
+    @include breakpoint(mobile) {
+      margin-bottom: 3rem;
     }
 
     &:first-of-type {
@@ -43,14 +41,8 @@ $cover-height-mobile: 280px;
     &__title {
       margin: 0 0 .75rem;
       @include breakpoint(mobile) {
-        margin-top: .75rem;
+        margin: .75rem 0 0;
       }
-    }
-
-    &__subtitle {
-      color: $neutral-500;
-      font-weight: 400;
-      margin-bottom: 0;
     }
 
     .cover {
@@ -70,11 +62,17 @@ $cover-height-mobile: 280px;
       .post__title,
       .cover {
         flex-basis: calc(50% - 1.25rem);
+        @include breakpoint(mobile) {
+          flex-basis: 100%;
+        }
       }
 
       .post__title {
         margin-bottom: 0;
         order: 2;
+        @include breakpoint(desktop) {
+          font-size: $font-size-h1;
+        }
       }
 
       .post__subtitle {
@@ -87,6 +85,11 @@ $cover-height-mobile: 280px;
         flex-direction: column;
         margin-left: 1.25rem;
         padding: 0;
+        @include breakpoint(mobile) {
+          margin: 0 1.25rem;
+          position: absolute;
+          z-index: 1;
+        }
       }
 
       .post__label {
@@ -97,7 +100,14 @@ $cover-height-mobile: 280px;
         height: 578px;
         margin-right: 1.25rem;
         @include breakpoint(mobile) {
-          height: $cover-height-mobile;
+          height: 400px;
+          margin: 0;
+        }
+
+        &__image {
+          @include breakpoint(mobile) {
+            opacity: .2;
+          }
         }
       }
     }

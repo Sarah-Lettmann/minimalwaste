@@ -4,12 +4,14 @@
   {% for post in site.categories[page.category] %}
     <li class="all-posts__list-item">
       <article class="post">
-        <h3 class="post__title">
-          <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
-            {{ post.title }}
-          </a>
-        </h3>
-        <p class="subtitle">{{ post.subtitle }}</p>
+        <div class="post__text">
+          <h3 class="post__title post__title--h2">
+            <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
+              {{ post.title }}
+            </a>
+          </h3>
+          <p class="post__subtitle">{{ post.subtitle }}</p>
+        </div>
         <div class="cover">
           <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
         </div>
@@ -19,11 +21,13 @@
   </ul>
 
   {% assign category = site.data.menu | where: "title", page.category | first %}
-  <aside class="all-posts__sidebar">
-    <h3 class="all-posts__title">Mehr zum Thema</h3>
-    <ul class="all-posts__list">
+  <aside class="all-posts__sidebar sources">
+    <h3 class="sources__title">Mehr zum Thema</h3>
+    <ul class="sources__list">
     {% for link in category.links %}
-
+      <li class="sources__list-item">
+        <a class="sources__link" href="{{ link.href }}">{{ link.title }}</a>
+      </li>
     {% endfor %}
     </ul>
   </aside>

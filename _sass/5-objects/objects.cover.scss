@@ -15,8 +15,5 @@
     margin: 0;
     object-fit: cover;
     opacity: .4;
-    @include breakpoint(mobile) {
-      opacity: .2;
-    }
   }
 }

@@ -1,10 +1,17 @@
 $author-image-size: 64px;
 $author-image-size-mobile: 44px;
 
-.meta {
+.post__meta {
   align-items: center;
+  bottom: 35px;
   display: flex;
+  margin-left: 185px;
   max-width: 250px;
+  position: absolute;
+  @include breakpoint(mobile) {
+    bottom: 0;
+    margin-left: 0;
+  }
 
   &::before,
   &::after {
@@ -36,7 +43,7 @@ $author-image-size-mobile: 44px;
     }
   }
 
-  &__author-image {
+  &-author-image {
     border-radius: 50%;
     height: $author-image-size;
     margin: 0 1.125rem 0 0;
@@ -48,7 +55,7 @@ $author-image-size-mobile: 44px;
     }
   }
 
-  &__text {
+  &-text {
     @extend %info-text;
     margin-bottom: 0;
   }

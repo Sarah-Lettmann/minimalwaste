@@ -1,13 +1,20 @@
 {% assign category = site.data.menu | where: "title", page.category | first %}
-<div class="teasers container">
-{% for page in category.pages %}
-  <div class="teaser">
-    <h2 class="teaser__title">
-      <a class="teaser__link" href="{{ page.href }}">{{ page.title }}</a>
-    </h2>
-    <div class="cover cover--background">
-      <img class="cover__image" src="{{ page.image }}" alt="" />
+{% if category.pages %}
+  <div class="teasers container">
+  {% for page in category.pages %}
+    <div class="teaser">
+      <a class="teaser__link" href="{{ page.href }}">
+        <h2 class="teaser__title">
+          {{ page.title }}
+          <svg class="teaser__icon" width="102" height="30" viewBox="0 0 102 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill="#FAFBFA" d="M101.414 16.4142C102.195 15.6332 102.195 14.3668 101.414 13.5858L88.6863 0.857864C87.9052 0.0768158 86.6389 0.0768158 85.8579 0.857864C85.0768 1.63891 85.0768 2.90524 85.8579 3.68629L97.1716 15L85.8579 26.3137C85.0768 27.0948 85.0768 28.3611 85.8579 29.1421C86.6389 29.9232 87.9052 29.9232 88.6863 29.1421L101.414 16.4142ZM0 17H100V13H0V17Z" />
+          </svg>
+        </h2>
+        <div class="teaser__cover cover cover--background">
+          <img class="teaser__image cover__image" src="{{ page.image }}" alt="" />
+        </div>
+      </a>
     </div>
+  {% endfor %}
   </div>
-{% endfor %}
-</div>
+{% endif %}

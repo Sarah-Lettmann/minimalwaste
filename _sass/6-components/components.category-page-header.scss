@@ -1,9 +1,14 @@
 .category__header {
   display: flex;
   flex-direction: column;
-  height: 407px;
+  height: 400px;
   justify-content: center;
+  margin-bottom: 7.5rem;
   position: relative;
+  @include breakpoint(mobile) {
+    height: 320px;
+    margin-bottom: 4rem;
+  }
 
   &-title,
   &-description {

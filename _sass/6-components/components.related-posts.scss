@@ -21,16 +21,16 @@
       order: 3;
       text-align: left;
     }
+
+    &__categories {
+      order: 2;
+      text-align: left;
+    }
   }
 
   .cover {
     height: 300px;
     order: 1;
-  }
-
-  .categories {
-    order: 2;
-    text-align: left;
   }
 
   hr {

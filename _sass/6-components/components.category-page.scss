@@ -1,0 +1,16 @@
+.category {
+
+  li:not(.sources__list-item) {
+    padding-left: 0;
+
+    &::before {
+      content: none;
+    }
+  }
+
+  .post__subtitle {
+    color: #3f5a3f;
+    font-weight: 400;
+    margin-bottom: 0;
+  }
+}

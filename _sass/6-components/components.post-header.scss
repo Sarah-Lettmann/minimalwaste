@@ -38,15 +38,11 @@
       height: 360px;
       width: 100%;
     }
-  }
 
-  .meta {
-    bottom: 35px;
-    margin-left: 185px;
-    position: absolute;
-    @include breakpoint(mobile) {
-      bottom: 0;
-      margin-left: 0;
+    &__image {
+      @include breakpoint(mobile) {
+        opacity: .2;
+      }
     }
   }
 }

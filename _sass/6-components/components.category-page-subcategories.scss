@@ -1,44 +1,41 @@
-$list-item-height: 150px;
+$subcategory-height: 150px;
 
 .subcategories {
   margin-bottom: 6.25rem;
+  @include breakpoint(mobile) {
+    margin-bottom: 2.75rem;
+  }
 
   &__list {
     display: flex;
     flex-wrap: wrap;
     margin: 0 -.625rem;
   }
+}
 
-  &__list-item {
-    flex: 1 0 269px;
-    height: $list-item-height;
-    margin: 0 .625rem 1.25rem;
-    padding-left: 0;
-    position: relative;
+.subcategory {
+  flex: 1 0 269px;
+  height: $subcategory-height;
+  margin: 0 .625rem 1.25rem;
+  position: relative;
 
-    &::before {
-      content: none;
-    }
-  }
-
-  &__link-title {
+  &__title {
     color: $neutral-100;
-    height: $list-item-height;
+    height: $subcategory-height;
     margin: 0;
     padding: 2rem;
     text-align: center;
-    @include attention {
-      color: $neutral-800;
-    }
   }
 
   &__link {
     display: block;
-
     @include attention {
+      .subcategory__title {
+        color: $neutral-800;
+      }
 
-      .subcategories__cover {
-        background-color: $primary-500;
+      .subcategory__cover {
+        background-color: $primary-400;
       }
     }
   }
@@ -46,9 +43,5 @@ $list-item-height: 150px;
   &__cover {
     background-color: $primary-800;
     @include transition-custom(all, .2s, ease-in-out, 0s);
-  }
-
-  &__image {
-    opacity: .3;
   }
 }
