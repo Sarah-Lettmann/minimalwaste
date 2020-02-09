@@ -8,6 +8,7 @@ categories: [Klima]
 description: ""
 keywords: [Klimawandel, Klimawandel Ursachen, menschengemachter Klimawandel]
 author: sarah-lettmann
+related-posts: ["0067", "0068", "0033", "0053", "0032", "0054", "0059", "0017", "0027"]
 ---
 Der Klimawandel ist sehr wahrscheinlich menschengemacht, da sind sich Wissenschaftler einig. Wer etwas anders behauptet hat keine Ahnung und hat sich nicht richtig mit der Thematik auseinander gesetzt. Deshalb möchte ich dir heute mal ausführlich darlegen, wie die Wissenschaft zu diesem Konsens kommt. Dazu habe ich Papiere gelesen und mir Zahlen angeguckt und alles für dich in diesem Beitrag zusammen gefasst.
 

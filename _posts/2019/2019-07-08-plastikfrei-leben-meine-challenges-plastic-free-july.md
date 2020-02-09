@@ -8,6 +8,7 @@ categories: [Zero Waste]
 description: "Plastic Free July steht vor der Tür. Ich habe mir ein paar besondere Challenges rausgesucht, mit denen ich diesen Monat möglichst plastikfrei leben will."
 keywords: [Plastikfrei leben, Plastik Free July]
 author: sarah-lettmann
+related-posts: ["0062", "0064", "0059", "0036", "0023", "0020", "0014", "0001", "0018"]
 ---
 Möglichst plastikfrei leben ist bei mir sowieso schon der Regelfall. Aber seit Anfang des Monats ist Plastic Free July und somit habe ich mir ein paar Challenges rausgesucht, mit denen ich noch weiteres Plastik und Müll vermeiden will. Außerdem gibt es auch noch ein paar spannende Produkte, die ich in letzter Zeit entdeckt habe, und die ich gerne mit dir teilen möchte. Am Ende des Monats werden ich dann nochmal ein Fazit ziehen.
 
@@ -44,7 +45,7 @@ Auch ein großes Thema sind Brotaufstriche, Saucen und Dips. Diese kaufen wir zw
 
 Beispiele dafür sind **Hummus**, **Tomatenaufstriche**, **Kräuter- und Käsesaucen** (vielleicht auch vegan, mal gucken) und **Salsa**. Aber auch Saucen für Mahlzeiten wie **Pesto** oder **cremige Saucen** könnte ich jetzt besser selbst machen. Ein Dip, den ich immer schon selbst mache ist übrigens Guacamole, denn dafür braucht man nur eine Gabel zum Zerkleinern der Avocado.
 
-> Wenn du übrigens mal Lust hättest, ein paar vegane und müllfreie Rezepte zu erfahren, dann sag mir Bescheid.
+Wenn du übrigens mal Lust hättest, ein paar vegane und müllfreie Rezepte zu erfahren, dann sag mir Bescheid.
 
 ### Vegane Milchalternativen
 Seit einigen Wochen machen wir unsere Hafermilch selbst und sind durch sie komplett von Milch weggekommen. Den Anstoß dafür gab uns ein Kumpel, der nur Hafermilch von Oatly trinkt. Daraufhin haben wir diese auch ausprobiert und gerade die Bariste Edition fanden wir einfach sagenhaft. Da diese aber wie alle andere Pflanzenmilch im Tetrapack kommt, habe ich versucht sie zu Hause nachzumachen. Das ist mir auch ganz gut gelungen und das Rezept dafür werde ich diesen Monat auch noch auf dem Blog teilen.
