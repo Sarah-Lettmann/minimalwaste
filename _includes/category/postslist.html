@@ -13,20 +13,20 @@
           <p class="post__subtitle">{{ post.subtitle }}</p>
         </div>
         <div class="cover">
-          <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+          <img class="cover__image lazy" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
         </div>
       </article>
     </li>
   {% endfor %}
   </ul>
 
-  {% assign category = site.data.menu | where: "title", page.category | first %}
+  {% assign category = site.data.categories[page.category] %}
   <aside class="all-posts__sidebar sources">
     <h3 class="sources__title">Mehr zum Thema</h3>
     <ul class="sources__list">
     {% for link in category.links %}
       <li class="sources__list-item">
-        <a class="sources__link" href="{{ link.href }}">{{ link.title }}</a>
+        <a class="sources__link" href="{{ link.url }}">{{ link.title }}</a>
       </li>
     {% endfor %}
     </ul>

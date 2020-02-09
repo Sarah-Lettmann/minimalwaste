@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Müllfreies Bad"
+title: "Müllfreies Badezimmer"
 date: 2016-09-02
 category: Müllfreies Badezimmer
 permalink: /category/muellfreies-badezimmer
