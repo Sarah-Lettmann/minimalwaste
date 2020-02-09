@@ -1,0 +1,30 @@
+.supercategory {
+  margin-bottom: 7.5rem;
+  @include breakpoint(mobile) {
+    margin-bottom: 4rem;
+  }
+
+  &__title {
+    color: $neutral-500;
+    font-size: 1.25rem;
+    line-height: 1.75;
+    text-transform: lowercase;
+    @include breakpoint(mobile) {
+      font-size: 1rem;
+    }
+  }
+
+  &__icon {
+    margin-right: 1.25rem;
+    vertical-align: middle;
+  }
+
+  &__link {
+    @extend %menu-link;
+    background-position: 50% 1.1em;
+  }
+
+  &__category {
+    color: $neutral-800;
+  }
+}
