@@ -1,0 +1,103 @@
+- name: Binde
+  alternative: Stoffbinde, Menstruationshose
+  category: Bad
+  costs: initial teurer
+  image:
+  posts: []
+  links: []
+
+- name: Badezusatz
+  alternative: Badebomben, selbstgemachte Badepralinen oder Salze
+  category: Bad
+  costs: teurer / günstiger
+  image:
+  posts: ["0060", "0026", "0040"]
+  links: []
+
+- name: Creme
+  alternative: Creme in Metalldose oder Glas, selbst gemachte Creme, Öle
+  category: Bad
+  costs: je nachdem
+  image:
+  posts: []
+  links: []
+
+- name: Deo
+  alternative:
+    - name: Deosticks in Karton
+      costs: tendenziell teurer
+    - name: selbst gemacht zum Sprühen oder fest
+      costs: günstiger
+  category: Bad
+  image:
+  posts: []
+  links: []
+
+- name: Haarshampoo
+  alternative: Haarseife oder Shampoobar
+  category: Bad
+  costs: teurer
+  image:
+  posts: ["0041", "0026", "0040"]
+  links: []
+
+- name: Rasierer
+  alternative: Rasierhobel
+  category: Bad
+  costs: initial teurer, dann schnell günstiger
+  image:
+  posts: ["0026", "0040"]
+  links: []
+
+- name: Rasierklingen
+  alternative: Einfache Rasierklingen
+  category: Bad
+  costs: günstiger
+  image:
+  posts: ["0040"]
+  links: []
+
+- name: Rasierschaum
+  alternative: Seife, evtl. mit Aufschäumer
+  category: Bad
+  costs: günstiger
+  image:
+  posts: ["0026", "0040"]
+  links: []
+
+- name: Tampon
+  alternative: Menstruationstasse
+  category: Bad
+  costs: initial teurer, dann schnell günstiger
+  image:
+  posts: ["0024", "0026", "0040"]
+  links: []
+
+- name: Wattestäbchen
+  alternative: Wattestäbchen aus Papier und Baumwolle, lastSwab, Ohrschlinge
+  category: Bad
+  costs: günstiger
+  image:
+  posts: []
+  links: []
+
+## Duschen
+#Seife
+#Seifensäckchen statt Luffaschwamm
+#Conditioner
+
+# Pflege
+# DIY Bodyscrub
+# Lippenbalsam
+#
+# ## Zahnpflege
+# Zahnseide von Vömel oder vegan
+# Bambus-Zahnbürste mit Bambus-Etui
+# Zahnputztabletten oder Zahnputzpulver
+#
+# ## Schminken
+# Abschminktücher / Waschlappen
+# Pinsel
+# Paletten
+# Lippenstifte
+# DIY Mascara
