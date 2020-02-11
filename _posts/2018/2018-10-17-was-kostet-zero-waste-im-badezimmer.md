@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0040"
 title: "Was kostet Zero Waste im Badezimmer?"
 subtitle: "Zero Waste muss nicht teuer sein und ist günstiger als du denkst"
@@ -7,7 +6,6 @@ date: 2018-10-17
 categories: [Zero Waste, Zero Waste Kosten]
 description: "Was kostet Zero Waste im Badezimmer? Dieser Frage will ich nachgehen und habe für dich mal gerechnet und herkömmliche Produkte mit unverpackten verglichen."
 keywords: [Was kostet Zero Waste im Badezimmer]
-author: sarah-lettmann
 ---
 Bestimmt hast du einen der folgenden Sätze auch schon gehört oder gedacht: “Unverpackt Einkaufen ist viel zu teuer!”, “Zero Waste kann man sich nicht leisten!”. Naja, dem wollte ich mal nachgehen. Deshalb gibt es hier als ersten Teil einer Serie einen Überblick über die Kosten von Zero Waste Produkten im Badezimmer.
 

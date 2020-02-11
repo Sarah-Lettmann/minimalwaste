@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0023"
 title: "Nachhaltig Leben: 10 Tipps für den Alltag"
 subtitle: "Wie du dem inneren Schweinehund ein Schnippchen schlägst"
@@ -7,7 +6,6 @@ date: 2017-05-30
 categories: [Zero Waste]
 description: "Nachhaltig Leben kann einem viel abverlangen, denn oftmals kommt der inner Schweinehund in die Quere. Hier ein paar Tipps, wie es im Alltag leichter wird."
 keywords: [nachhaltig leben, nachhaltiger leben]
-author: sarah-lettmann
 ---
 Es ist nicht immer einfach. Nachhaltig Leben oder zumindest der Versuch kann einem viel abverlangen. Aber man will es ja! Oftmals kommt einem dann aber doch der innere Schweinehund in die Quere. Und das ist in Ordnung, denn niemand ist perfekt. Trotzdem habe ich ein paar Tipps, wie du es dir im Alltag leichter machen kannst. Am Ende geht es darum sich der vielen Vorteile eines nachhaltigen Lebensstils bewusst zu werden und die richtige Planung zu haben. Viel Spaß.
 

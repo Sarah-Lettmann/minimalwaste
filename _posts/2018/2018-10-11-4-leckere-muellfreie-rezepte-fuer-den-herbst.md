@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0039"
 title: "4 leckere müllfreie Rezepte für den Herbst"
 subtitle: "Hinweis: Kürbis spielt dabei eine sehr wichtige Rolle"
@@ -7,7 +6,6 @@ date: 2018-10-11
 categories: [Zero Waste, DIY]
 description: "Passend zum Herbstbeginn gibt es heute ein paar lecker müllfreie Rezepte, die sich leicht herstellen lassen. Dabei spielt natürlich Kürbis eine Hauptrolle."
 keywords: [müllfreie Rezepte]
-author: sarah-lettmann
 ---
 Passend zum Herbstbeginn gibt es heute ein paar lecker müllfreie Rezepte, die sich leicht herstellen lassen. Dabei spielt natürlich Kürbis eine Hauptrolle - wie sollte es im Herbst sonst sein. Die ersten beiden Rezepte sind eher Grundlagen und diese kann man immer wieder in verschiedenen Gerichten verwenden, nicht nur in den beiden, die ich danach noch vorstelle. Also viel Spaß und lass es dir schmecken!
 

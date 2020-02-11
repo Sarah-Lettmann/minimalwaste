@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0042"
 title: "Die Tragödien hinter Fast Fashion"
 subtitle: "So viel schlechtes steck in der Billig-Kleidung"
@@ -7,7 +6,6 @@ date: 2018-10-31
 categories: [Sustainable Fashion]
 description: "Fast Fashion ist eine ständige Flut and immer neue Trends, schlechte Qualität, billig produziert und billiger Preis. Aber was steckt noch hinter dem System?"
 keywords: [Fast Fashion]
-author: sarah-lettmann
 related-posts: ["0050", "0011", "0017"]
 ---
 Da heutzutage immer mehr Diskussionen über Nachhaltigkeit, Bio, Fairtrade und Ähnlichem in unseren Alltag Einzug halten, wundert es nicht, dass wir inzwischen auch darüber nachdenken, wieso zur Hölle es möglich ist, das ein T-Shirt 5€ kostet. Fast Fashion ist das Stichwort - billig produzieren, billig kaufen, kaum tragen, wegschmeißen, neu kaufen. Für die Produzenten ist das ein großer Gewinn. Für die Arbeiter, die Umwelt und letztlich auch uns, die Käufer, ist das ein riesiger Verlust.

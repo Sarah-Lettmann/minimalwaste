@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0066"
 title: "Zero Waste Deodorant: Deo einfach selber machen"
 subtitle: "Schnell und einfach ein natürliches, müllfreies Deodorant herstellen"
@@ -7,7 +6,6 @@ date: 2019-07-15
 categories: [Zero Waste, Müllfreies Badezimmer, DIY]
 description: "Zero Waste Deodorant ist sehr einfach und schnell selbst gemacht. Ich zeige dir sowohl eine Variante zum Sprühen als auch ein müllfreies Deo in fester Form."
 keywords: [Zero Waste Deodorant, Deo selber machen, mülllfreies Deo]
-author: sarah-lettmann
 related-posts: ["0060", "0024", "0058", "0041", "0040", "0026", "0029", "0002", "0028"]
 ---
 Kein Mensch will stinken. Und obwohl das effektivste Mittel dagegen wohl regelmäßiges Duschen ist, wissen wir doch alle, dass man tagsüber im Job oder unterwegs ganz schön ins Schwitzen geraten kann. Was da hilft ist ein Deo. Aber da das hier ein nachhaltiger und müllfreie Blog ist, soll es bitte ein Zero Waste Deodorant sein. Wie man das selber macht, zeige ich dir heute - einmal zum Sprühen und einmal in einer festen Variante.

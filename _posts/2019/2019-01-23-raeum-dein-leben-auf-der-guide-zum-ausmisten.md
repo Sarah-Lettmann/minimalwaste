@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0051"
 title: "Räum dein Leben auf! Der Guide zum Ausmisten"
 subtitle: "Wie du endlich Ordnung schaffst und sie auch beibehältst"
@@ -7,7 +6,6 @@ date: 2019-01-23
 categories: [Minimalismus]
 description: "Es ist Zeit mal wieder aufzuräumen. Mit meinem Guide zum Ausmisten kannst du endlich alle unnötigen Dinge ganz leicht aussortieren."
 keywords: [Guide zum Ausmisten]
-author: sarah-lettmann
 related-posts: ["0061", "0059", "0043", "0034", "0053", "0003", "0010", "0028", "0021"]
 ---
 Wir sind im neuen Jahr und bei vielen steht bestimmt auch ausmisten auf dem Plan für 2019. Darum gibt es heute einen Guide wie du am besten vorgehst, damit das Ausmisten auch Spaß macht und du mit dem Ergebnis zufrieden bist. Ach ja, und damit du nicht wahnsinnig wirst oder den Verstand verlierst. Denn manchmal hat man so viele Sachen, dass man schier darin unterzugehen scheint. Aber keine Sorge, Ruhe bewahren, Schritt für Schritt vorgehen, dann wird das.

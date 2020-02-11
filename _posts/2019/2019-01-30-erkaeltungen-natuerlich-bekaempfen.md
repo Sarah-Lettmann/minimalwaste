@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0052"
 title: "7 Tipps um Erkältungen natürlich zu bekämpfen"
 subtitle: "Wie Hausmittel dir helfen Erkältungen zu besiegen"
@@ -7,7 +6,6 @@ date: 2019-01-30
 categories: [Zero Waste]
 description: "Erkältungen natürlich bekämpfen geht. Dazu muss man sich einfach wieder auf die Basics besinnen - Medikamente sind meistens nicht nötig."
 keywords: [Erkältungen natürlich bekämpfen]
-author: sarah-lettmann
 related-posts: ["0067", "0035", "0054", "0044", "0063", "0043", "0059", "0022", "0014"]
 ---
 Wie so viele hat es auch mich im neuen Jahr erwischt - Erkältungen können einem echt auf den Keks gehen. Trotzdem greife ich, wenn es nichts ernstes ist, zu natürlichen Mitteln, dann erst zu pflanzlichen Arzneien und erst im Ausnahmefall, wenn es unbedingt notwendig ist, zu starken Mitteln wie Antibiotika oder ähnlichem. Heute möchte ich mit dir meine Tipps und Tricks teilen, wie man den Prozess des “Gesundwerdens” natürlich unterstützen kann.

@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0030"
 title: "Unsichtbare Unordnung: Dokumente Strukturieren"
 subtitle: "Wie du Herr/Frau über deinen Papierkram wirst"
@@ -7,7 +6,6 @@ date: 2018-04-04
 categories: [Minimalismus]
 description: "Unsichtbare Unordnung ist die nicht physische Unordnung. Programme und Apps, E-Mail Adressen, Bankkonten, Vereinsmitgliedschaften, Abonnements zählen dazu."
 keywords: [Unsichtbare Unordnung]
-author: sarah-lettmann
 ---
 Etwas, das beim Ausmisten immer wieder vergessen wird, ist die digitale Unordnung. Ich nenne sie auch gerne unsichtbare Unordnung. Allerdings mag sie zwar unsichtbar, oder besser gesagt nicht physisch sein, aber sie kann einem im Alltag doch schnell die Nerven rauben. Oder eben Geld.
 

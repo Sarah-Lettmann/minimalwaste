@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0015"
 title: "Furoshiki Tücher als Zero Waste Geschenkpapier"
 subtitle: "So verpackst du deine Geschenke ganz ohne Müll"
@@ -7,7 +6,6 @@ date: 2016-12-06
 categories: [Zero Waste]
 description: "Furoshiki Tücher kann man als Zero Waste Geschenkpapier verwenden. Sie sehen wunderschön aus und verleihen den Geschenken eine persönliche Note."
 keywords: [Zero Waste Geschenkpapier, Furoshiki Tücher]
-author: sarah-lettmann
 ---
 Eine der ersten Dinge auf die ich schon 2015 stieß sind Furoshiki Tücher. Das war zu der Zeit, als ich gerade erst angefangen hatte mich mit Zero Waste auseinander zu setzen. Und was soll ich sagen, sie schienen mir als perfekte Alternative für ein Produkt, das nur gefertigt wird, um nach dem großen Auspacken gleich wieder in den Müll zu wandern.
 

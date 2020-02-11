@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0022"
 title: "Zero Waste Kaffee und Tee ohne Plastik"
 subtitle: "Wie du die beiden Heißgetränke ganz einfach müllfrei zubereitest"
@@ -7,7 +6,6 @@ date: 2017-03-18
 categories: [Zero Waste]
 description: "Es gibt schier unendliche Möglichkeiten Kaffee ohne Plastik und müllfrei zuzubereiten. Dazu gibt es unendlich viele Zero Waste Alternativen."
 keywords: [Kaffee ohne Plastik, Zero Waste Tee, Kaffee und Tee ohne Müll]
-author: sarah-lettmann
 ---
 Kaffee und Tee gehören einfach zu unserem Leben. Viele trinken sehr gerne Kaffee oder brauchen ihn sogar, um produktiv zu sein. Ich hingegen trinke dafür lieber Tee. Glücklicherweise gibt es schier unendliche Möglichkeiten Tee und Kaffee ohne Plastik und Zero Waste zuzubereiten.
 

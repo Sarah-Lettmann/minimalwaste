@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0049"
 title: "Minimalistische Finanzplanung für mehr Freiheit"
 subtitle: "Wie du durch Klarheit und Übersicht Geld sparst"
@@ -7,7 +6,6 @@ date: 2019-01-09
 categories: [Minimalismus]
 description: "Auch bei den Finanzen kann Ausmisten sinnvoll sein. Eine Minimalistische Finanzplanung hilft dir, Geld sinnvoller zu verwenden. Ich zeige dir wie das geht."
 keywords: [Minimalistische Finanzplanung]
-author: sarah-lettmann
 related-posts: ["0030", "0031", "0003", "0006", "0043", "0059", "0051", "0017", "0053"]
 ---
 Das neue Jahr hat gerade erst begonnen. Jetzt ist die beste Zeit gleich an den Neujahrsvorsätzen zu feilen und die Finanzen stehen da meist ganz weit oben. Ich möchte dir zeigen wie du durch ein paar einfache Vorgehensweisen eine Menge Geld sparst, die Übersicht behältst und mehr Geld für die Altersvorsorge oder den Urlaub zur Verfügung hast. Dazu will ich dir Schritt für Schritt zeigen, wie du deine Finanzen minimalistisch gestaltest. Denn auch im digitalen Raum gilt: Ausmisten und auf die wenigen wichtigen Dinge konzentrieren, hilft Übersicht zu schaffen.

@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0073"
 title: ""
 subtitle: ""
@@ -7,7 +6,6 @@ date: 2020-02-28
 categories: [Klima]
 description: ""
 keywords: []
-author: sarah-lettmann
 related-posts: []
 ---
 Ganz klar, für die Energiewende müssen wir an den großen Stellschrauben drehen. Trotzdem ist es wichtig wieder bewusster mit Ressourcen umzugehen und sie nicht zu verschwenden, wie wir das alle heute oft tun. Das fängt schon im Haushalt an. Durch die folgenden Tipps will ich dir zeigen, welche kleinen Dinge du verändern kannst und so bewusster mit Ressourcen wie Wasser und Energie umgehst und natürlich deinen Ökologischen Rucksack nach unten korrigierst.

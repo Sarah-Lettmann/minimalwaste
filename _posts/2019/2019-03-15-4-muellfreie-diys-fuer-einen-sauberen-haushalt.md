@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0055"
 title: "4 müllfreie DIYs für einen sauberen Haushalt"
 subtitle: "Mittel, die ohne Müll auskommen und trotzdem wirken"
@@ -8,7 +7,6 @@ categories: [Zero Waste, DIY]
 description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer schön sauber halten
               kannst. Die Zutaten sind günstig und die Mittel schnell zusammengemischt."
 keywords: [müllfreie DIYs]
-author: sarah-lettmann
 related-posts: ["0029", "0039", "0002", "0041", "0025", "0009", "0052", "0022", "0028"]
 ---
 

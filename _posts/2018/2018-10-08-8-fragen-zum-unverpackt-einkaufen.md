@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0038"
 title: "8 Fragen zum Unverpackt Einkaufen"
 subtitle: "Wie und wo du unverpackt einkaufen kannst"
@@ -7,7 +6,6 @@ date: 2018-10-08
 categories: [Zero Waste]
 description: "Viele wissen nicht wo sie bei Zero Waste anfangen sollen. Damit du besser vorbereitet bist, habe ich dir 8 Fragen zum Unverpackt Einkaufen zusammengestellt."
 keywords: [fragen zum unverpackt einkaufen, unverpackt einkaufen]
-author: sarah-lettmann
 ---
 Immer wieder bekomme ich aus meinem Bekannten- und Verwandtenkreis den Eindruck, dass Zero Waste als sehr spannend und erstrebenswert empfunden wird, aber viele nicht wissen, wie sie das ganze angehen sollen oder einfach sehr unsicher sind. Hier also ein paar typische Fragen, die man sich stellt (erarbeitet mit meinem Papa) und die Antworten darauf.
 

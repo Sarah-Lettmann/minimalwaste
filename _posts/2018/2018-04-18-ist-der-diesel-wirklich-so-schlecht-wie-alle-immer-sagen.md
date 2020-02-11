@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0032"
 title: "Ist der Diesel wirklich so schlecht wie alle immer sagen?"
 subtitle: "AKA: Ist ein Diesel-Fahrverbot wirklich die Lösung?"
@@ -7,7 +6,6 @@ date: 2018-04-18
 categories: [Klima]
 description: "Der Diesel ist schlecht für die Umwelt und Benziner sind viel besser. Stimmt das? Oder wie sieht es mit den Abgasen von Benzinern und Diesel wirklich aus?"
 keywords: [Diesel]
-author: sarah-lettmann
 ---
 Sicherlich hast du es auch schon mitbekommen: Es soll Fahrverbote für Diesel in Städten geben, weil diese angeblich echte Dreckschleudern sein sollen. Angefangen hat das ganze mit dem VW-Skandal. Jedenfalls habe ich mich seit Anfang der Debatte immer wieder gefragt, warum ausgerechnet der Diesel so schlecht für die Umwelt sein soll und was einen Benziner so viel besser macht.
 

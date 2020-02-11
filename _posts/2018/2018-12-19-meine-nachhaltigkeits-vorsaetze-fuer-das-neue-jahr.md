@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0048"
 title: "Meine Nachhaltigkeits-Vorsätze für das neue Jahr"
 subtitle: "Dinge, die ich im neuen Jahr verbessern will"
@@ -7,7 +6,6 @@ date: 2018-12-19
 categories: [Zero Waste]
 description: "Meine Nachhaltigkeits-Vorsätze zielen vor allem auf Müllvermeidung ab und da besonders auf Dinge, die über die letzten Jahre einfach nicht so wichtig waren."
 keywords: [Nachhaltigkeits-Vorsätze]
-author: sarah-lettmann
 ---
 Es gibt immer Raum für Verbesserungen, das ist klar. Ich habe mein Leben vor fast 3 Jahren auf Zero Waste umgestellt und auch schon viel erreicht. Unsere Müllmengen sind radikal gesunken. Einen gelben Sack machen wir zu zweit geschätzt alle zwei bis 3 Monate voll. Restmüll haben wir kaum noch. Aber es gibt eben ein paar Bereiche, in denen ich Verbesserungspotenzial sehe.
 

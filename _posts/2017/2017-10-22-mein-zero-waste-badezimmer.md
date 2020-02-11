@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0026"
 title: "Mein Zero Waste Badezimmer"
 subtitle: "Von der Bambuszahnbürste bis zur Menstruationstasse"
@@ -7,7 +6,6 @@ date: 2017-10-22
 categories: [Zero Waste, Müllfreies Badezimmer]
 description: "Zero Waste im Badezimmer lässt sich gut umsetzen. Für vieles gibt es einen einfachen Ersatz, der Geld spart und das Leben sogar leichter macht."
 keywords: [Zero Waste Badezimmer]
-author: sarah-lettmann
 ---
 Zero Waste im Badezimmer einziehen zu lassen, ist nicht so schwer wie du vielleicht denken magst. Diese Zero Waste Badezimmer Utensilien sind super easy umzusetzen und reduzieren dadurch nicht nur deinen Müll, sondern sparen auch noch Geld. Also wirf einen Blick darauf, was du ganz einfach in deinen Badezimmer verändern kannst, um es Zero Waste zu machen.
 

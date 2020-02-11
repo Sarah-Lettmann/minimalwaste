@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0050"
 title: "Wie nachhaltig ist Bio-Baumwolle?"
 subtitle: "Einfluss auf Mensch und Umwelt im Vergleich zu herkömmlicher Baumwolle"
@@ -7,7 +6,6 @@ date: 2019-01-16
 categories: [Sustainable Fashion]
 description: "Bio-Baumwolle ist nachhaltiger als herkömmliche Baumwolle, oder? Wie sieht es mit den Auswirkungen auf die Umwelt/den Menschen aus? Schauen wir es und an!"
 keywords: [Bio-Baumwolle]
-author: sarah-lettmann
 related-posts: ["0042", "0011", "0003", "0018", "0043", "0056", "0065", "0054", "0015"]
 ---
 Eigentlich wollte ich ja eine Neuauflage meines Posts _[Sind Alternativen aus Stoff ökologisch sinnvoll?](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ schreiben. Aber dann ist mir aufgefallen, dass ein großer Punkt in der Bilanz der Stoff ist, aus dem die Taschentücher gefertigt sind. Zuallererst kam mir da natürlich Baumwolle in den Sinn. Also gucken wir uns heute einmal an, wie nachhaltig Bio-Baumwolle gegenüber konventioneller Baumwolle ist.

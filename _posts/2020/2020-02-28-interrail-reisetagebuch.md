@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0070"
 title: "Mein Interrail Reisebericht: 12 Städte in 22 Tagen"
 subtitle: "Was wir alles gesehen und welche Erfahrungen wir gemacht haben"
@@ -7,7 +6,6 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "2019 habe ich mit meinem Freund eine Interrail Reise durch Europa gemacht. Wir waren 22 Tage unterwegs und haben 12 Städte gesehen. Ein Reisebericht."
 keywords: [Interrail, Interrail Reise, ]
-author: sarah-lettmann
 related-posts: ["0068", "0069", "0071"]
 ---
 Ich wollte schon immer eine richtige Backpacking Reise machen. In Hostels schlafen, nur den Rucksack dabei haben und die Dinge nehmen wie sie kommen. 2019 war es dann soweit. Wir habe unsere Reise geplant. 22 Tage sollten es werden und 12 Städte wollten wir sehen. Von allen Seiten wurde uns gesagt, dass das bestimmt sehr anstrengend sei, aber wir fanden die Idee super. Das hier ist der Reisebericht.

@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0054"
 title: "Mein ökologischer Fuß&shy;abdruck in Punkten"
 subtitle: "Ein guter Tag hat 100 Punkte"
@@ -7,7 +6,6 @@ date: 2019-03-08
 categories: [Klima]
 description: "Ein vertretbarer ökologischer Fußabdruck hat maximal 100 Punkte sagt eingutertag.org. So sehen meine Emissionen eines Tages in Punkten aus."
 keywords: [ökologischer Fußabdruck, Klima, Emissionen]
-author: sarah-lettmann
 related-posts: ["0067", "0063", "0050", "0033", "0032", "0023", "0014", "0059", "0065"]
 ---
 Vor Kurzem bin ich in einem Beitrag auf die Website

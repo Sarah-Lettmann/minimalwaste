@@ -1,13 +1,11 @@
 ---
-layout: post
 uid: "0063"
 title: "Die Ursache des Klima&shy;wandels ist der Mensch"
 subtitle: "Wie der Konsens in der Wissenschaft zustande kommt"
 date: 2019-06-10
 categories: [Klima]
-description: ""
+description: "Die Wissenschaft ist sich einige: Der Klimawandel ist menschengemacht. Aber woher wissen wir, dass sich alle einig sind?"
 keywords: [Klimawandel, Klimawandel Ursachen, menschengemachter Klimawandel]
-author: sarah-lettmann
 related-posts: ["0067", "0068", "0033", "0053", "0032", "0054", "0059", "0017", "0027"]
 ---
 Der Klimawandel ist sehr wahrscheinlich menschengemacht, da sind sich Wissenschaftler einig. Wer etwas anders behauptet hat keine Ahnung und hat sich nicht richtig mit der Thematik auseinander gesetzt. Deshalb möchte ich dir heute mal ausführlich darlegen, wie die Wissenschaft zu diesem Konsens kommt. Dazu habe ich Papiere gelesen und mir Zahlen angeguckt und alles für dich in diesem Beitrag zusammen gefasst.

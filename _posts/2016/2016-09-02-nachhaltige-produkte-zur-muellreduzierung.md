@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0001"
 title: "25+ Nachhaltige Produkte für weniger Müll"
 subtitle: "Für fast alles gibt es eine wiederverwendbare Alternative"
@@ -8,7 +7,6 @@ categories: [Zero Waste]
 description: "Die meisten Dinge im Haushalt können durch nachhaltige Produkte ersetzen
               werden. Hier findest du meine Liste an Alternativen."
 keywords: [nachhaltige Produkte, Alternativen]
-author: sarah-lettmann
 ---
 Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispielsweise nachhaltige Produkte kaufen und wiederverwenden. Ich habe für dich eine Auflistung aller Alternativen zu herkömmlichen (evtl. in Plastik verpackten) Produkten zusammengestellt. Darunter befinden sich Dinge, die vollständig ohne Verpackung auskommen oder immer wieder verwendet werden können. Ich habe aber auch Dinge aufgeführt, die nicht vollständig auf Verpackung oder Müll verzichten, welche aber vielleicht ein guter Einstieg sind. Denn auch wenig kann viel helfen. 
 

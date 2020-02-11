@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0035"
 title: "Wie du durch Zero Waste gesünder lebst"
 subtitle: "Über bessere Lebensmittel und weniger Chemie"
@@ -7,7 +6,6 @@ date: 2018-05-09
 categories: [Zero Waste]
 description: "Durch Zero Waste lebt man fast automatisch gesünder. Die Arte der Lebensmittel, die man kauft, spielen dabei eine entscheidende Rolle."
 keywords: [Zero Waste gesünder]
-author: sarah-lettmann
 ---
 Wenn du Zero Waste lebst, dann tust du nicht nur was für die Umwelt, sondern auch für deine Gesundheit. Ja, das ist wirklich so. Und es ergibt sich auch einfach von selbst. Eigentlich tust du deinem ganzen Körper was Gutes. Warum das so ist… Ich werde dir ein paar Gründe aufzählen.
 

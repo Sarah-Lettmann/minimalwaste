@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0057"
 title: "Die Bilanz von Stofftaschen&shy;tüchern im Vergleich"
 subtitle: "So ökologisch sind die Alternativen aus Stoff"
@@ -7,7 +6,6 @@ date: 2019-04-19
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Wie sieht die Öko Bilanz von Stofftaschentüchern gegenüber herkömmlichen Papiertaschentüchern aus. Ich habe es durchgerechnet."
 keywords: [Bilanz von Stofftaschentüchern, Stofftaschentücher]
-author: sarah-lettmann
 related-posts: ["0007", "0001", "0023", "0047", "0035", "0037", "0046", "0013", "0055"]
 ---
 Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. Allerdings habe ich ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.

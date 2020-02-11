@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0003"
 title: "Der Lebensstil Minimalismus"
 subtitle: "Das Besondere an diesem Lebensstil und wie er dich verändert"
@@ -7,7 +6,6 @@ date: 2016-09-05
 categories: [Minimalismus]
 description: "Der Lebensstil Minimalismus beschäftigt immer mehr Menschen. Aber was genau steckt dahinter und auf welche Bereiche des Lebens wirkt er sich aus?"
 keywords: [Lebensstil Minimalismus, minimalistisch leben]
-author: sarah-lettmann
 ---
 Minimalismus ist ja in den letzten Jahren ein immer größeres Thema in den Medien geworden. Bei genauerer Betrachtung wundert das kaum. Man gewinnt doch zunehmend den Eindruck, dass Kaufen nicht das Allheilmittel - sowohl für die Wirtschaft als auch für den Menschen - ist, sondern vielmehr ermüdet und auslaugt.
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0017"
 title: "Minimalistisch leben: Warum du anfangen solltest!"
 subtitle: "Wie dieser Lebensstil dich verändert"
@@ -7,7 +6,6 @@ date: 2017-01-12
 categories: [Minimalismus]
 description: "Minimalistisch leben. Warum solltest du das versuchen? Ganz einfach: Es hat unendlich viele Vorteile, denen ich diesen Artikel gewidmet habe."
 keywords: [minimalistisch leben]
-author: sarah-lettmann
 ---
 Minimalistisch leben hat so viele Vorteile, dass ich gar nicht recht weiß wo ich anfangen soll. Minimalismus wirkt sich auf so viele Aspekte des Lebens aus. Dabei geht es nicht nur um Einfachheit, sondern vor allem auch um Zufriedenheit und klare Vorstellungen.
 

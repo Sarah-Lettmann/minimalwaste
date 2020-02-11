@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0008"
 title: "Zero Waste Superlativ: Waschmittel aus Kastanien"
 subtitle: "Die bessere Alternative zu Waschnüssen"
@@ -7,7 +6,6 @@ date: 2016-10-25
 categories: [Zero Waste, DIY]
 description: "Dieses Waschmittel aus Kastanien ist das tollste, was es gibt, wenn man Zero Waste leben möchte. Es ist kompostierbar, umsonst und ganz natürlich."
 keywords: [Waschmittel aus Kastanien]
-author: sarah-lettmann
 ---
 Es ist natürlich. Es ist kompostierbar. Es ist gratis. Schon als ich letztes Jahr meine Zero Waste Reise begann, stieß ich auf das Waschmittel aus Kastanien. Natürlich war ich sofort hin und weg und wollte es unbedingt ausprobieren. Da ich damals aber leider keine eigene Waschmaschine besaß, kein Gefäß für Handwäsche und auch keine Zeit hatte mich mit selbst gemachten Produkten auseinander zu setzen, fiel das ganze dann ins Wasser.
 

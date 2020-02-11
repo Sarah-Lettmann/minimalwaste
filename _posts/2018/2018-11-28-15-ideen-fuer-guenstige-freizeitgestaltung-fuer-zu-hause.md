@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0045"
 title: "15 Ideen für Freizeit&shy;gestaltung zu Hause"
 subtitle: "So sparst du Geld und erlebst mehr"
@@ -7,7 +6,6 @@ date: 2018-11-28
 categories: [Minimalismus]
 description: "Ich bin immer wieder auf der Suche nach Ideen, wie man Abende schön zu Hause verbringen kann. Hier also 15 Ideen zur Freizeitgestaltung für zu Hause."
 keywords: [Freizeitgestaltung für zu Hause]
-author: sarah-lettmann
 ---
 Ich bin immer wieder auf der Suche nach Ideen, wie man Abende auch mal schön zu Hause verbringen kann. Man muss ja nicht immer weg gehen. Zu Hause hat man es meistens sowieso gemütlicher und man kommt um einiges günstiger weg. Und da man zu Hause viel mehr Freiheiten hat, was man genau macht, sind die Abende meistens auch schöner, geselliger und man führt bessere Gespräche. Ich habe hier mal ein paar Ideen für dich zusammengestellt.
 

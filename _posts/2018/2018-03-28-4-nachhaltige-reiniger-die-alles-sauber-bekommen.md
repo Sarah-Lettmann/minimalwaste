@@ -1,5 +1,4 @@
 ---
-layout: post
 uid: "0029"
 title: "4 nachhaltige Reiniger, die alles sauber bekommen"
 subtitle: "Müllfrei, günstig und effizient"
@@ -7,7 +6,6 @@ date: 2018-03-28
 categories: [Zero Waste, DIY]
 description: "4 nachhaltige Reiniger fürs ganze Haus. Damit bekommst du wirklich alles sauber und sie sind dabei auch noch sehr einfach herzustellen."
 keywords: [Nachhaltige Reiniger]
-author: sarah-lettmann
 ---
 Heute gibt es es ergänzend zum [Post von letzter Woche](/blog/fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling) meine go-to Reiniger, die ich im Haushalt nutze. Irgendwie sind es keine DIY Reiniger, denn man muss eigentlich nicht viel machen, um sie herzustellen. Aber sie sind super günstig, man bekommt damit so gut wie alles im Haushalt sauber und muss dabei nicht zu einem Chemie-Cocktail greifen.
 
