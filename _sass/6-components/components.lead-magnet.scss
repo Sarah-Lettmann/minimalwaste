@@ -34,3 +34,26 @@
     max-width: 400px;
   }
 }
+
+// show lead magnet on mobile after first paragraph in post content
+.post__content {
+  .lead-magnet {
+    @include breakpoint(desktop) {
+      display: none;
+    }
+    margin: 5rem 0;
+    text-align: center;
+
+    &__link {
+      background: none;
+    }
+  }
+}
+
+.post__sidebar {
+  .lead-magnet {
+    @include breakpoint(mobile) {
+      display: none;
+    }
+  }
+}

@@ -1,4 +1,6 @@
 <div class="post__content">
   <p class="post__subtitle"><span class="visually-hidden">Untertitel: </span>{{ page.subtitle }}</p>
-  {{ content }}
+  {{ page.excerpt }}
+  {% include post/lead-magnet.html %}
+  {{ content | remove_first: page.excerpt }}
 </div>

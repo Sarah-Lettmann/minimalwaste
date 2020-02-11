@@ -1,7 +1,7 @@
 <div class="pinterest-image">
   <h2 class="pinterest-image__title">Post anpinnen</h2>
   <a href="//pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ site.url }}{{ page.pinterest-image }}&description={{ page.title }}"
-    target="_blank" title="Diesen Post auf Pinterest merken (externer Link)">
+    class="pinterest-image__link" target="_blank" title="Diesen Post auf Pinterest merken (externer Link)">
     <span class="visually-hidden">Diesen Post auf Pinterest merken (externer Link)</span>
     <img class="pinterest-image__image lazy" data-src="/assets/pinterest-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg"
       alt="Pinterest Cover zu '{{ page.title }}'" data-pin-url="{{ page.url }}" data-pin-description="{{ page.title }}" />
