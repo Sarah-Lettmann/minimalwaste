@@ -56,6 +56,12 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   #- jekyll-feed
+  - jekyll-target-blank
+
+# links
+target-blank:
+    noopener: false
+    rel: noopener
 
 # Sass
 sass:
