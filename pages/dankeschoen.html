@@ -18,9 +18,9 @@ title: "Schön, dass du mit dabei bist."
 <p>Außerdem hast du Zugriff auf alle Downloads:</p>
 <div class="bonus">
   {% for bonus in site.data.bonus %}
-    <a id="{{ bonus.id }}" class="bonus__link" href="{{ bonus.url }}" target="blank" title="runterladen vom PDF '{{ bonus.name }}'" aria-label="{{ bonus.name }}">
+    <a id="{{ bonus.id }}" class="bonus__link" href="{{ bonus.url }}" target="blank" title="runterladen vom PDF '{{ bonus.name }}'" aria-labelledby="bonus-title">
       <img class="bonus__image" src="{{ bonus.image }}" alt="PDF {{ bonus.name }}" title="© {{ site.title }}" />
-      <h2 class="bonus__title">{{ bonus.name }}</h2>
+      <h2 class="bonus__title" id="bonus-title">{{ bonus.name }}</h2>
     </a>
   {% endfor %}
 </div>
