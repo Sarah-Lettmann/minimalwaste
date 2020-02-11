@@ -21,6 +21,10 @@ mark {
 }
 
 abbr {
-  cursor: help;
-  text-decoration: underline dotted;
+  text-decoration: none;
+
+  &::after {
+    content: '(' attr(title) ')';
+    margin-left: 0.2em;
+  }
 }
