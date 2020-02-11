@@ -9,6 +9,7 @@ description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer sch
               kannst. Die Zutaten sind günstig und die Mittel schnell zusammengemischt."
 keywords: [müllfreie DIYs]
 author: sarah-lettmann
+related-posts: ["0029", "0039", "0002", "0041", "0025", "0009", "0052", "0022", "0028"]
 ---
 
 Langsam werden die Tage wieder länger, die Vögel fangen an zu singen und die Stimmung wird besser. Der Frühling steht vor der Tür. Somit wird es Zeit entwas aufzuräumen und sauber zu machen, um gut in die wärmeren Tage starten zu können. Dafür möchte ich dir ein paar einfache DIYs zeigen, die natürlich ohne Müll auskommen und dir helfen deine Wohnunung oder dein Haus sauber zu halten.
@@ -50,14 +51,7 @@ Um Etiketten leicht von Gläsern abzubekommen, hilft in den meisten Fällen das 
 
 Manchmal hilft dieser Tipp, aber es gibt auch Etiketten, die sind mit einem zu starken Kleber aufgetragen. Da kann man leider nichts machen.
 
-Das waren meine kleinen und schnellen Mittelchen für den Haushalt. Ich probiere immer gerne mit neuen Sachen herum, um etwas Geld zu sparen oder einfach immer alles da zu haben (denn die meisten Dinge kann man ja mit Natron, Essig und Co. lösen). Welche Hausmittelchen verwendest du zu Hause und welche Erfahrungen hast du gemacht? Lass es mich wissen. Außerdem gibt es hier noch weitere Beiträge passend zum Frühjahrsputz:
-
-[4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen/ "Zum Beitrag")
-
-[Was kostet Zero Waste im Haushalt?](/blog/was-kostet-zero-waste-im-haushalt/ "Zum Beitrag")
-
-[Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/ "Zum Beitrag")
-
+Das waren meine kleinen und schnellen Mittelchen für den Haushalt. Ich probiere immer gerne mit neuen Sachen herum, um etwas Geld zu sparen oder einfach immer alles da zu haben (denn die meisten Dinge kann man ja mit Natron, Essig und Co. lösen). Welche Hausmittelchen verwendest du zu Hause und welche Erfahrungen hast du gemacht? Lass es mich wissen.
 Bis nächste Woche.
 
 \- Sarah

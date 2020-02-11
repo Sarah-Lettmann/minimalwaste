@@ -8,6 +8,7 @@ categories: [Minimalismus]
 description: "Die Tiny House Bewegung finde ich sehr spannend und verfolge sie schon eine ganze Weile. Hier habe ich dir meine 11 Lieblingsprojekte zusammengetragen."
 keywords: [Tiny House, Mini-Haus]
 author: sarah-lettmann
+related-posts: ["0059", "0051", "0061", "0045", "0048", "0034", "0028", "0027", "0006"]
 ---
 Die Tiny House Bewegung finde ich unglaublich faszinierend. Nicht nur ausgehend vom Minimalismus - also dem sich Verkleinern, weniger besitzen, mit weniger zufrieden sein - sondern auch, weil Platz und viel Raum für den einzelnen immer mehr zum Problem wird. Die Bevölkerung wächst ständig und immer mehr Menschen ziehen in die Städte - das bedeutet Leben auf engstem Raum. Tiny Houses können eine Möglichkeit sein, diesen kleinen Raum sehr angenehm und lebenswert zu gestalten.
 
@@ -69,13 +70,7 @@ Ein Tiny House ist nichts für ältere Menschen? Dieses hier beweist das Gegente
 
 Wirklich wunderschön finde ich die Idee dieser Frau, ein Haus in einen alten Zugwaggon zu bauen. Mit dem dunklen Holz und alten Möbel, mag das nicht Jedermanns Sache sein, hat aber viel Charakter.
 
-Für weiter Infos, wie man so ein Tiny House realisieren kann, was die Vorteile sind und wie viel sowas kostet, hier noch ein paar Video: [Wohnen: Leben im Mini-Haus - WDR Doku](https://www.youtube.com/watch?v=WSmKeFtB1yg). Und noch mehr zum Thema Minimalismus:
-
-[Minimalistische Finanzplanung für mehr Freiheit](/blog/minimalistische-finanzplanung-fuer-mehr-freiheit)
-
-[15 Ideen für günstige Freizeitgestaltung für zu Hause](/blog/15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause)
-
-[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
+Für weiter Infos, wie man so ein Tiny House realisieren kann, was die Vorteile sind und wie viel sowas kostet, hier noch ein paar Video: [Wohnen: Leben im Mini-Haus - WDR Doku](https://www.youtube.com/watch?v=WSmKeFtB1yg).
 
 Wenn ihr nochmal eine Übersicht über diese Dinge oder einfach weitere Beiträge zu den Mini-Häusern wollt, dann lasst es mich wissen. Ich finde dieses Thema nämlich auch sehr spannend und würde gerne mehr darüber wissen. Bis nächste Woche
 

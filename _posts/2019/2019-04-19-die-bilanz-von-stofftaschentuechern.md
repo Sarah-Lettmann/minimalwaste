@@ -8,6 +8,7 @@ categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Wie sieht die Öko Bilanz von Stofftaschentüchern gegenüber herkömmlichen Papiertaschentüchern aus. Ich habe es durchgerechnet."
 keywords: [Bilanz von Stofftaschentüchern, Stofftaschentücher]
 author: sarah-lettmann
+related-posts: ["0007", "0001", "0023", "0047", "0035", "0037", "0046", "0013", "0055"]
 ---
 Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. Allerdings habe ich ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.
 
@@ -320,13 +321,7 @@ Auch dieses Mal war es wieder spannend zu sehen, wie sich die Zahlen über die J
 
 Allerdings möchte ich hier nochmal erwähnen, dass dieser Post keine wissenschaftliche Arbeit ist und auch nicht den Anspruch erhebt vollständig oder in allem korrekt zu sein. <mark>Er soll lediglich mit Zahlen untermauern, was eigentlich bekannt ist: Wegwerfprodukte sind umweltschädlich und man sollte lieber auf Mehrweg setzen.</mark> Selbst wenn das am Anfang mehr kostet (sowohl Geld als auch Rohstoffe), macht es sich am Ende in der Regel bezahlt.
 
-Gibt mir gerne Feedback, was du von dem Post hältst und welche Themen dich sonst noch interessieren würden oder welche Rohstoffe oder Alltagsprodukte ich mir noch angucken soll. Wenn du dich noch weiter über Nachhaltigkeit informieren willst, dann schau mal hier:
-
-[Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle)
-
-[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik)
-
-[Mein ökologischer Fußabdruck in Punkten](/blog/mein-oekologischer-fussabdruck-in-punkten)
+Gibt mir gerne Feedback, was du von dem Post hältst und welche Themen dich sonst noch interessieren würden oder welche Rohstoffe oder Alltagsprodukte ich mir noch angucken soll.
 
 Dann bis zum nächsten Mal.
 

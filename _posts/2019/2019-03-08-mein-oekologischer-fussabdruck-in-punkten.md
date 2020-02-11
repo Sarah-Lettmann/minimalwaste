@@ -8,6 +8,7 @@ categories: [Klima]
 description: "Ein vertretbarer ökologischer Fußabdruck hat maximal 100 Punkte sagt eingutertag.org. So sehen meine Emissionen eines Tages in Punkten aus."
 keywords: [ökologischer Fußabdruck, Klima, Emissionen]
 author: sarah-lettmann
+related-posts: ["0067", "0063", "0050", "0033", "0032", "0023", "0014", "0059", "0065"]
 ---
 Vor Kurzem bin ich in einem Beitrag auf die Website
 [eingutertag.org](https://eingutertag.org/ "Ein guter Tag hat 100 Punkte") gestoßen.
@@ -318,15 +319,6 @@ Mehr Bewegung, gesünderer Ernährung in Form von mehr Gemüse und Obst, weniger
 Ökostrom und die Nutzung von öffentlichen Verkehrsmittel sind gut für die Umwelt
 und – ich kann es leider nicht lassen und muss es nochmal betonen –
 gut für das Wohlbefinden und den Geldbeutel.
-
-Wenn du noch mehr zum Thema Nachhaltigkeit und weniger Konsum wissen willst,
-dann empfehle ich dir folgende Beiträge:
-
-[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste)
-
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
 
 Mich würde interessieren, was du machst, um deinen ökologischen Fußabdruck klein zu halten
 und wie dein bester Tag bisher aussieht. Lass es mich gerne wissen. Bis zum nächsten Mal.

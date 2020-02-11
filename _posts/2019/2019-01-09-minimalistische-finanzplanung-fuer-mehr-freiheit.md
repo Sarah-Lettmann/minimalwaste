@@ -8,6 +8,7 @@ categories: [Minimalismus]
 description: "Auch bei den Finanzen kann Ausmisten sinnvoll sein. Eine Minimalistische Finanzplanung hilft dir, Geld sinnvoller zu verwenden. Ich zeige dir wie das geht."
 keywords: [Minimalistische Finanzplanung]
 author: sarah-lettmann
+related-posts: ["0030", "0031", "0003", "0006", "0043", "0059", "0051", "0017", "0053"]
 ---
 Das neue Jahr hat gerade erst begonnen. Jetzt ist die beste Zeit gleich an den Neujahrsvorsätzen zu feilen und die Finanzen stehen da meist ganz weit oben. Ich möchte dir zeigen wie du durch ein paar einfache Vorgehensweisen eine Menge Geld sparst, die Übersicht behältst und mehr Geld für die Altersvorsorge oder den Urlaub zur Verfügung hast. Dazu will ich dir Schritt für Schritt zeigen, wie du deine Finanzen minimalistisch gestaltest. Denn auch im digitalen Raum gilt: Ausmisten und auf die wenigen wichtigen Dinge konzentrieren, hilft Übersicht zu schaffen.
 
@@ -110,13 +111,7 @@ Diese Kosten sind oft unnötig hoch. Am besten kannst du ihnen Herr oder Frau we
 - Durchforste die Ausgaben des letzten Jahres und identifiziere unnötige Kosten.
 - Verfolge ein paar Monate deine variablen Ausgaben um “Geldfresser” zu finden.
 
-So, das waren meine Tipps für deine Finanzen. Ich persönlich liebe ja Organisation und solche Aufgabe. Und mehr Geld zur Verfügung zu haben, macht auch Spaß. <mark>Minimalismus hat mir definitiv geholfen mein Geld weniger und dafür sinnvoller auszugeben.</mark> Wie sieht es bei dir aus? Hast du schon ein Haushaltsbuch? Oder schonmal jeden Monat alle Ausgaben erfasst? Ich hoffe es waren ein paar Tipps für dich mit dabei. Und falls du dich für Minimalismus interessierst, dann empfehle ich dir folgende Artikel:
-
-[Leben in der Konsumgesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft)
-
-[Unsichtbare Unordnung: Dokumente Strukturieren](/blog/unsichtbare-unordnung-dokumente-strukturieren)
-
-[Unsichtbare Unordnung: Abonnements, Konten und Tarife](/blog/unsichtbare-unordnung-abonnements-konten-und-tarife)
+So, das waren meine Tipps für deine Finanzen. Ich persönlich liebe ja Organisation und solche Aufgabe. Und mehr Geld zur Verfügung zu haben, macht auch Spaß. <mark>Minimalismus hat mir definitiv geholfen mein Geld weniger und dafür sinnvoller auszugeben.</mark> Wie sieht es bei dir aus? Hast du schon ein Haushaltsbuch? Oder schonmal jeden Monat alle Ausgaben erfasst? Ich hoffe es waren ein paar Tipps für dich mit dabei.
 
 Wir sehen uns nächste Woche. Bis dahin,
 

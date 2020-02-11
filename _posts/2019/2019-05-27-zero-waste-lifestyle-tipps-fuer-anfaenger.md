@@ -125,13 +125,7 @@ Das Konsumverhalten ist ungemein wichtig, wenn es darum geht, **weniger Müll** 
 
 Also, im Zweifel mal nichts kaufen.
 
-So, dass waren 9 Tipps und Ideen, was du als Zero Waste Anfänger alles machen kannst. Da ist doch bestimmt was für dich bei, oder? Bist du neu bei dieser ganzen Idee _Zero Waste_ oder schon ein alter Hase? Wenn letzteres, was sind deine Tipps? Lass mir einen Kommentar da. Achja, und hier gibt es auch noch ein bisschen was zum Weiterlesen:
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste/)
-
-[8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen/)
-
-[Die Bilanz von Stofftaschen­tüchern im Vergleich](/blog/die-bilanz-von-stofftaschentuechern/)
+So, dass waren 9 Tipps und Ideen, was du als Zero Waste Anfänger alles machen kannst. Da ist doch bestimmt was für dich bei, oder? Bist du neu bei dieser ganzen Idee _Zero Waste_ oder schon ein alter Hase? Wenn letzteres, was sind deine Tipps? Lass mir einen Kommentar da.
 
 Wir sehen uns nächste Woche,
 

@@ -8,6 +8,7 @@ categories: [Sustainable Fashion]
 description: "Bio-Baumwolle ist nachhaltiger als herkömmliche Baumwolle, oder? Wie sieht es mit den Auswirkungen auf die Umwelt/den Menschen aus? Schauen wir es und an!"
 keywords: [Bio-Baumwolle]
 author: sarah-lettmann
+related-posts: ["0042", "0011", "0003", "0018", "0043", "0056", "0065", "0054", "0015"]
 ---
 Eigentlich wollte ich ja eine Neuauflage meines Posts _[Sind Alternativen aus Stoff ökologisch sinnvoll?](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ schreiben. Aber dann ist mir aufgefallen, dass ein großer Punkt in der Bilanz der Stoff ist, aus dem die Taschentücher gefertigt sind. Zuallererst kam mir da natürlich Baumwolle in den Sinn. Also gucken wir uns heute einmal an, wie nachhaltig Bio-Baumwolle gegenüber konventioneller Baumwolle ist.
 
@@ -101,13 +102,7 @@ Abschließend kann man sagen, <mark>dass Bio-Baumwolle die bessere Wahl ist, sel
 - enthält keine giftigen Chemikalien, die wir dann auf der Haut tragen.
 - hat keinen negativen Einfluss auf die Umwelt, den Boden, das Wasser, Flora und Fauna und die Menschen in den Anbaugebieten.
 
-Ich hoffe ich konnte dich motivieren, bei deinem nächsten Kauf von Kleidung auf Bio-Baumwolle zu achten. Denn selbst wenn sie noch lange nicht perfekt ist, es ist ein großer Schritt in die richtige Richtung und hin zu nachhaltiger Landwirtschaft. Wenn du dich noch weiter über nachhaltige Mode oder Nachhaltigkeit im Allgemeinen informieren möchtest, dann guck mal hier:
-
-[Die Tragödien hinter Fast Fashion](/blog/die-tragoedien-hinter-fast-fashion)
-
-[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik)
-
-[Was ist Plastik eigentlich genau?](/blog/was-ist-plastik)
+Ich hoffe ich konnte dich motivieren, bei deinem nächsten Kauf von Kleidung auf Bio-Baumwolle zu achten. Denn selbst wenn sie noch lange nicht perfekt ist, es ist ein großer Schritt in die richtige Richtung und hin zu nachhaltiger Landwirtschaft.
 
 Wir sehen uns dann nächste Woche.
 

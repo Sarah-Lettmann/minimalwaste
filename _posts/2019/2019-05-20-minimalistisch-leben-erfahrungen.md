@@ -74,14 +74,6 @@ Ich mache mir weniger Sorgen um unwichtige Dinge und genieße die wertvollen Din
 
 Ob ich dir also empfehlen kann, das ebenfalls auszuprobieren: zu hundertprozent ja!
 
-Wenn du jetzt noch mehr zum Thema Minimalismus erfahren willst, dann kannst du damit anfangen:
-
-[Schritt für Schritt zu weniger Konsum](/blog/weniger-konsum/)
-
-[Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/)
-
-[Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/)
-
 Bis zum nächsten Mal,
 
 \- Sarah

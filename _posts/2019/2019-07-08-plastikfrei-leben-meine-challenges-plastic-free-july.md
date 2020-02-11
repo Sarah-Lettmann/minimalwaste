@@ -92,14 +92,6 @@ Mikroplastik ist ein sehr großes Problem und wenn man noch Kleidung hat, die zu
 
 Ich werde mir in naher Zukunft glaube ich ein paar dieser Sachen zulegen, angefangen mit der veganen Zahnseide, dem Guppyfriend und hoffentlich kann ich auch lastSwab ausprobieren. Bei der Podusche bin ich mir immer noch nicht sicher, aber bei den Japanern ist das schon Standard, also warum nicht, right?!
 
-Wie gesagt, werde ich nach diesem Monat noch mal ein Update geben, wie es gelaufen ist. Für weitere Infos, wie man am besten Müll vermeidet und möglichst Zero Waste und plastikfrei leben kann, solltest du dich hier umschauen:
-
-[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer/)
-
-[Wie du unterwegs Müll vermeidest: Zero Waste unterwegs](/blog/wie-du-unterwegs-muell-vermeidest/)
-
-[Zero Waste Lifestyle: Die 9 besten Tipps für Anfänger](/blog/zero-waste-lifestyle-tipps-fuer-anfaenger/)
-
 Viel Spaß und Erfolg beim _Plastic Free July_ und bis zum nächsten Mal,
 
 \- Sarah

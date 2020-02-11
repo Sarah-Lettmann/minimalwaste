@@ -8,7 +8,7 @@ categories: [Minimalismus]
 description: "Minimalismus ist schön und gut, aber der Knackpunkt ist die Veränderung des Kaufverhaltens und damit weniger Konsum an sich."
 keywords: [weniger Konsum, Kaufverhalten]
 author: sarah-lettmann
-related-posts: ["", "", "", "", "", "", "", "", ""]
+related-posts: ["0043", "0049", "0051", "0045", "0034", "0030", "0031", "0021", "0017"]
 ---
 Ich bin ein riesiger Fan von Minimalismus. Aber ich bin auch eine Verfechterin von Nachhaltigkeit. Deshalb stellen sich bei mir immer alle Nackenhaare auf, wenn ich sehe, wie sich nur halbherzig damit auseinander gesetzt wird. Das heißt, es wird immer Neues gekauft und dann immer wieder im gleichen Maße entsorgt. Dabei liegt der Schlüssel, um die Vorteiles eines reduzierten Lebensstils genießen zu können, in weniger Konsum an sich. Ich zeige dir heute, wie du dein Kaufverhalten nachhaltig veränderst und so wirklich aus dem Teufelskreis ausbrichst.
 
@@ -93,14 +93,6 @@ Außerdem kann es hilfreich sein, dir zu merken, was du alles kaufen würdest (z
 Minimalismus ist befreiend und kann einem wirklich helfen sein Leben besser zu ordnen. Doch er muss auch richtig gelebt werden. Wenn er das aber wird, dann kann er nicht nur viel für uns, sondern auch für unseren Planeten tun.
 
 Ich hoffe dieser Beitrag konnte dir weiterhelfen in Zukunft mehr über deinen Konsum nachzudenken und ihn etwas zurück zu schrauben. Denn nur weniger Konsum ist wirklich nachhaltig und wirkt zudem auch noch befreiend. Was hast du bis jetzt alles ausprobiert und wie hat sich dein Konsumverhalten verändert? Lass mir gerne einen Kommentar da.
-
-Wenn du mehr zu Thema Minimalismus und Ausmisten wissen willst, dann schau mal hier:
-
-[Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/)
-
-[Minimalistische Finanzplanung für mehr Freiheit](/blog/minimalistische-finanzplanung-fuer-mehr-freiheit/)
-
-[Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/)
 
 Bis zum nächsten Mal,
 

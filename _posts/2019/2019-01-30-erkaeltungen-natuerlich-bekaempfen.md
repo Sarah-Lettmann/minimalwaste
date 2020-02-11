@@ -8,12 +8,13 @@ categories: [Zero Waste]
 description: "Erkältungen natürlich bekämpfen geht. Dazu muss man sich einfach wieder auf die Basics besinnen - Medikamente sind meistens nicht nötig."
 keywords: [Erkältungen natürlich bekämpfen]
 author: sarah-lettmann
+related-posts: ["0067", "0035", "0054", "0044", "0063", "0043", "0059", "0022", "0014"]
 ---
 Wie so viele hat es auch mich im neuen Jahr erwischt - Erkältungen können einem echt auf den Keks gehen. Trotzdem greife ich, wenn es nichts ernstes ist, zu natürlichen Mitteln, dann erst zu pflanzlichen Arzneien und erst im Ausnahmefall, wenn es unbedingt notwendig ist, zu starken Mitteln wie Antibiotika oder ähnlichem. Heute möchte ich mit dir meine Tipps und Tricks teilen, wie man den Prozess des “Gesundwerdens” natürlich unterstützen kann.
 
 _Vorneweg: Vieles davon ist eigentlich allgemein bekannt oder basiert auf dem gesunden Menschenverstand. Aber aus eigener Erfahrung weiß ich, dass es auch bei solchen Dingen helfen kann, sie einfach nochmal vor Auge geführt zu bekommen._
 
-_Außerdem bin ich keine medizinisch geschulte Person, sondern einfach jemand, der ein paar Dinge von seinem Arzt weiß und selbst Erfahrungen gemacht hat. Wenn du also ernstlich krank bist, dann geh zum Arzt. In diesem Beitrag soll es ausschließlich um Erkältungen gehen, also nichts wofür man irgendwas stärkeres an Heilmittel brauchen könnte. Das aber hängt ganz von der Situation ab und wenn es dir richtig schlecht geht, solltest du dich zumindest mal untersuchen lassen. Sicher ist sicher._
+_Außerdem bin ich nicht medizinisch geschult, sondern einfach jemand, der ein paar Dinge von seinem Arzt weiß und selbst Erfahrungen gemacht hat. Wenn du also ernstlich krank bist, dann geh zum Arzt. In diesem Beitrag soll es ausschließlich um Erkältungen gehen, also nichts wofür man irgendwas stärkeres an Heilmittel brauchen könnte. Das aber hängt ganz von der Situation ab und wenn es dir richtig schlecht geht, solltest du dich zumindest mal untersuchen lassen. Sicher ist sicher._
 
 ## Ruh dich aus
 Ja, das ist leider **das einzige das dem Körper wirklich aktiv dabei hilft**, die Krankheit zu besiegen. Denn wenn wir krank sind, dann kostet es unser Immunsystem viel Kraft. Schließlich muss es die Krankheit abwehren und je stärker der Kampf, desto mehr spüren wir das. Wenn wir also Husten, uns die Nase läuft, wir vielleicht sogar Fieber haben, dann sind das die Anzeichen, dass unser Körper gegen die Erreger kämpft.
@@ -69,13 +70,7 @@ Das waren meine Tipps, wie du deinen Körper hilfst, die Erkältung schnell wied
 - alles andere wirkt nur unterstützend
 - man kann statt zu Medikamenten auch einfach zu einem heißen Bad oder Tee greifen
 
-Natürlich gibt es auch noch viele andere Sachen, die man machen kann, wie eine goldenen Milch trinken (mit Kurkuma) oder solche Sperenzchen. Aber das muss man eben nicht. Ein Pfefferminztee tut es auch. Falls du doch noch Interesse an dem einen oder anderen Helferli hast, kann ich dir den [Bereich Hausmittel im Waschbär Onlineshop](https://www.waschbaer.de/shop/beauty-und-wellness/wellness/hausmittel) empfehlen. Weiters zum Thema natürlich und müllfrei Leben, findest du hier:
-
-[Wie du durch Zero Waste gesünder lebst](/blog/wie-du-durch-zero-waste-gesuender-lebst)
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste)
-
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
+Natürlich gibt es auch noch viele andere Sachen, die man machen kann, wie eine goldenen Milch trinken (mit Kurkuma) oder solche Sperenzchen. Aber das muss man eben nicht. Ein Pfefferminztee tut es auch. Falls du doch noch Interesse an dem einen oder anderen Helferli hast, kann ich dir den [Bereich Hausmittel im Waschbär Onlineshop](https://www.waschbaer.de/shop/beauty-und-wellness/wellness/hausmittel) empfehlen.
 
 Hoffentlich helfen dir diese Tipps durch die Erkältungszeit. Bis nächste Woche und bleib gesund.
 

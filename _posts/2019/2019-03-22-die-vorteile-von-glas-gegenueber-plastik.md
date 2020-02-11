@@ -8,6 +8,7 @@ categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Glasrecyling ist nachhaltig und effizient. Warum das so ist und wie Altglas recycelt wird erkläre ich dir in diesem Beitrag."
 keywords: [Glasrecycling, Vorteile von Glas]
 author: sarah-lettmann
+related-posts: ["0018", "0025", "0036", "0067", "0054", "0053", "0032", "0044", "0023"]
 ---
 Glas wird immer als nachhaltige Alternative zu Plastik promotet, ähnlich wie Papier. Jährlich werden alleine in Deutschland circa zwei Millionen Tonnen Altglas eingesammlt und recycelt. Aber aus welchen Gründen sind Verpackungen aus Glas soviel nachhaltiger? Wie sieht der Recyclingprozess aus? Wie steht es mit Transportwegen und den damit verbundenen Emissionen? Und welche Rolle in der Rechnung spielen eigentlich Pfandgläser? Auf diese Fragen wollen wir heute Antworten finden.
 
@@ -72,13 +73,7 @@ Zu den Emissionen, die bei Lieferungen von ferig verpackten Produkten entstehen,
 
 <mark>Wenn du also Glass Verpackungen kaufst - egal ob Mehrweg oder Einweg - dann ist das quasi aktiver Umweltschutz.</mark> Ich finde, da kann man sich schonmal auf die Schulter klopfen.
 
-Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders macht und wie du durch den Kauf und das Wiederverwerten von Glasverpackungen der Umwelt etwas Gutes tust. Also ich fand das alles sehr spannend und fühle mich in der Nutzung von Glas bestärkt. Hier findest du noch weitere Infos zu Recycling und anderen Rohstoffen:
-
-[Was ist Plastik eigentlich genau? – Plastik unter der Lupe (1)](/blog/was-ist-plastik/)
-
-[Wie nachhaltig ist Bio-Baumwolle?](/blog/wie-nachhaltig-ist-bio-baumwolle/)
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste/)
+Ich hoffe ich konnte dir einen Eindruck davon verschaffen, was Glas so besonders macht und wie du durch den Kauf und das Wiederverwerten von Glasverpackungen der Umwelt etwas Gutes tust. Also ich fand das alles sehr spannend und fühle mich in der Nutzung von Glas bestärkt.
 
 Mach es gut und bis zum nächsten Mal,
 

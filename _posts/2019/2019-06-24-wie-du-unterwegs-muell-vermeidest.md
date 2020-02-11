@@ -94,13 +94,7 @@ Ich bin, was das vermeiden von Müll unterwegs angeht, gefühlt erst am Anfang. 
 
 Es geht bei Zero Waste eigentlich nicht primär darum, dass man als Individuum Müll vermeidet, sondern dass man so oft es geht mit seinem Verhalten auffällt und anderen Menschen und der Indutrie zeigt, dass man eine Veränderung will. Und diese Veränderung, die auch gerade schon statt findet, dass ist das wirklich wichtig an diesem Lebensstil.
 
-Also sollten wir eigentlich viel mehr danach Leben und uns danach richten wie oft unser geändertes Kaufverhalten auffällt und nicht danach wie viel Müll wir am Ende vermeiden. <mark>Es ist super wichtig wie oft wir mit Menschen ins Gespräch kommen und unsere Beweggründe darlegen, wie oft wir mit den Verkäufern reden, weil wir etwas in eine eigene Dose haben oder keine Tüte wollen. Diese Kommunikation ist der eigentlich Schlüssel und das sollten wir im Hinterkopf behalten.</mark> Hier gibt es noch ein bisschen was zum Weiterlesen:
-
-[Zero Waste Lifestyle: Die 9 besten Tipps für Anfänger](/blog/zero-waste-lifestyle-tipps-fuer-anfaenger/)
-
-[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell/)
-
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt/)
+Also sollten wir eigentlich viel mehr danach Leben und uns danach richten wie oft unser geändertes Kaufverhalten auffällt und nicht danach wie viel Müll wir am Ende vermeiden. <mark>Es ist super wichtig wie oft wir mit Menschen ins Gespräch kommen und unsere Beweggründe darlegen, wie oft wir mit den Verkäufern reden, weil wir etwas in eine eigene Dose haben oder keine Tüte wollen. Diese Kommunikation ist der eigentlich Schlüssel und das sollten wir im Hinterkopf behalten.</mark>
 
 Bis zum nächsten Mal,
 
