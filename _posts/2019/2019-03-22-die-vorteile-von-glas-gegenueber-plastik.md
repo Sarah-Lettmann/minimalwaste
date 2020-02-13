@@ -45,7 +45,7 @@ Außerdem gibt es dann noch die Mehrweggläser und -flaschen, wie sie für Getr�
 
 {% include figure.html src="/assets/inpost-images/2019/2019-03-22-der-doppelte-mehrwegkreislauf.jpg" alt="Der doppelte Mehrwegkreislauf" title="Quelle: Aktionsforum Glas-Verpackung: Der doppelte Mehrwegkreislauf" caption="Quelle: Aktionsforum Glas-Verpackung: Der doppelte Mehrwegkreislauf" %}
 
-Normale Verpackungen aus Plastik haben im Vergleich dazu nur eine Recyclingquote von rund 46.7%. Und auch die Einweg PET Flaschen haben keinen großen Vorteil, denn sie werden nicht neu befüllt, sondern geschreddert und dann eingeschmolzen (bei etwa 600 - 800°C). Durch Verfärbungen können daraus oft aber keine durchsichtigen Flaschen mehr produziert werden und so müssen sie für andere Güter herhalten.
+Normale Verpackungen aus Plastik haben im Vergleich dazu nur eine Recyclingquote von rund 46.7%. Und auch die Einweg PET Flaschen haben keinen großen Vorteil, denn sie werden nicht neu befüllt, sondern geschreddert und dann eingeschmolzen (bei etwa 250°C). Durch Verfärbungen können daraus oft aber keine durchsichtigen Flaschen mehr produziert werden und so müssen sie für andere Güter herhalten.
 
 ## Transportwege
 Ein Punkt, der mich persönlich schon immer interessiert hat, war die Auswirkung des Gewichts auf die Emissionen, die Glas beim Transport erzeugt. Viele genaue Zahlen habe ich hier nicht gefunden, dafür aber einige Aussagen, die die Tendenz deutlich machen.

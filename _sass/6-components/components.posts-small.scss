@@ -1,0 +1,34 @@
+$cover-height-desktop: 190px;
+$cover-height-mobile: 280px;
+
+.post--small {
+  align-items: center;
+  display: flex;
+  @include breakpoint(mobile) {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .post__text {
+    order: 2;
+    padding-left: 1.125rem;
+    @include breakpoint(mobile) {
+      padding-left: 0;
+    }
+  }
+
+  .post__title {
+    margin: 0 0 .75rem;
+    @include breakpoint(mobile) {
+      margin: .75rem 0 0;
+    }
+  }
+
+  .cover {
+    flex: 0 0 $cover-height-desktop;
+    height: $cover-height-desktop;
+    @include breakpoint(mobile) {
+      height: $cover-height-mobile;
+    }
+  }
+}

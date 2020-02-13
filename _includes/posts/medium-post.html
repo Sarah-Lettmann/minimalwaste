@@ -1,0 +1,16 @@
+{% comment %}
+  Einbinden mit {% include posts/medium-post.html page="category" %}
+{% endcomment %}
+<article class="post post--medium">
+  <div class="post__text">
+    <h3 class="post__title post__title--h2">
+      <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
+        {{ post.title }}
+      </a>
+    </h3>
+    <p class="post__subtitle">{{ post.subtitle }}</p>
+  </div>
+  <div class="cover">
+    <img class="cover__image lazy" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+  </div>
+</article>

@@ -4,35 +4,12 @@
   <ul class="featured-posts__list">
     {% assign latest-post = site.categories[page.category] | first %}
     <li class="featured-posts__list-item">
-      <article class="post post--newest">
-        <div class="post__text">
-          <h3 class="post__title">
-            <a class="post__link" href="{{ latest-post.url }}" title="Zum Post '{{ latest-post.title }}'">
-              {{ latest-post.title }}
-            </a>
-          </h3>
-          <p class="post__subtitle">{{ latest-post.subtitle }}</p>
-          <span class="post__label">Neuster Beitrag</span>
-        </div>
-        <div class="cover">
-          <img class="cover__image lazy" data-src="/assets/title-images/{{ latest-post.date | split: '-' | first }}/{{ latest-post.date | split: ' ' | first }}-{{ latest-post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
-        </div>
-      </article>
+      {% include posts/large-post.html page="category" %}
     </li>
     {% for uid in category.featured %}
       {% assign post = site.posts | where: "uid", uid | first %}
       <li class="featured-posts__list-item">
-        <article class="post">
-          <div class="post__text">
-            <h3 class="post__title">
-              <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
-            </h3>
-            <p class="post__subtitle">{{ post.subtitle }}</p>
-          </div>
-          <div class="cover">
-            <img class="cover__image lazy" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
-          </div>
-        </article>
+        {% include posts/small-post.html page="category" %}
       </li>
     {% endfor %}
   </ul>
