@@ -1,7 +1,9 @@
 ---
 layout: wrapper
-container: none
-align: left
-width: wide
 title: "Startseite"
 ---
+<div class="home">
+  {% include home/header.html %}
+  {% include home/featured.html %}
+  {% include home/postslist.html %}
+</div>

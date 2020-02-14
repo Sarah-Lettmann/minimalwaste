@@ -1,0 +1,10 @@
+<div class="all-posts container">
+  <h2 class="all-posts__title">Alle Beiträge</h2>
+  <ul class="all-posts__list">
+  {% for post in site.posts %}
+    <li class="all-posts__list-item">
+      {% include posts/medium-post.html page="home" %}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
