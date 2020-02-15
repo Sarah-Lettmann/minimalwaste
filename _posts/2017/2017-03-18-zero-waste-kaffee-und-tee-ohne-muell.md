@@ -52,7 +52,7 @@ Jetzt zu meinem Lieblingsgetränk. Für dieses solltest du nicht zu Teebeuteln g
 
 Für den Tee verwenden wir **Tee-Eier**. Zwei Stück haben wir davon. Was man bei uns immer im Regal findet sind Schwarzer und Grüner Tee. Seit wir in Irland waren, trinke ich meinen Schwarzen Tee auch mit Milch. Auch Hafermilch und Mandelmilch schmecken super im Tee.
 
-_Über Nuss- und Pflanzenmilch werde ich dir nach gesammelten Erfahrungen in separaten Artikeln berichten._
+[Über Nuss- und Pflanzenmilch erfährst du mehr in diesem Beitrag](/blog/milchalternativen-selber-machen/).
 
 ![Tee im Teeei](/assets/inpost-images/2017/2017-03-18-tee-im-teeei.jpg "© {{ site.title }}")
 
