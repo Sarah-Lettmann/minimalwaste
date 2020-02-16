@@ -8,12 +8,16 @@
     right: 0;
     top: 0;
     z-index: -1;
+
+    .cover__image {
+      opacity: .2;
+    }
   }
 
   &__image {
     height: 100%;
     margin: 0;
     object-fit: cover;
-    opacity: .4;
+    opacity: .6;
   }
 }

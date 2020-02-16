@@ -3,12 +3,21 @@
 {% endcomment %}
 <article class="post post--medium">
   <div class="post__text">
-    <h3 class="post__title post__title--h2">
+    <h3 class="post__title">
       <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">
         {{ post.title }}
       </a>
     </h3>
     <p class="post__subtitle">{{ post.subtitle }}</p>
+    {% if include.page == "home" %}
+      <div class="post__categories">
+        {% assign cat = site.data.categories[post.categories.first] %}
+        <a class="post__categories-link" href="{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+          <span class="visually-hidden">In der Kategorie </span>
+          {{ cat.name }}
+        </a>
+      </div>
+    {% endif %}
   </div>
   <div class="cover">
     <img class="cover__image lazy" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />

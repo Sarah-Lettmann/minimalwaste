@@ -1,0 +1,11 @@
+<div class="area">
+  <h2 class="area__title container">Starte mit Zero Waste</h2>
+  <ul class="area__list container">
+    {% for uid in site.start-zero-waste %}
+      {% assign post = site.posts | where: "uid", uid | first %}
+      <li class="area__list-item">
+        {% include posts/small-post.html page="home" %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

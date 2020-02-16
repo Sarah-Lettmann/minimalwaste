@@ -9,7 +9,17 @@
       </a>
     </h3>
     <p class="post__subtitle">{{ post.subtitle }}</p>
-    <span class="post__label">Neuster Beitrag</span>
+    {% if include.page == "category" %}
+      <span class="post__label">Neuster Beitrag</span>
+    {% else %}
+      <div class="post__categories">
+        {% assign cat = site.data.categories[post.categories.first] %}
+        <a class="post__categories-link" href="{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+          <span class="visually-hidden">In der Kategorie </span>
+          {{ cat.name }}
+        </a>
+      </div>
+    {% endif %}
   </div>
   <div class="cover">
     <img class="cover__image lazy" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />

@@ -1,0 +1,50 @@
+.home__header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+  justify-content: center;
+  margin-bottom: 7.5rem;
+  position: relative;
+  @include breakpoint(mobile) {
+    height: 360px;
+    margin-bottom: 6rem;
+  }
+
+  .logo,
+  &-text {
+    margin: 0;
+    padding: 0 1.25rem;
+  }
+
+  .logo {
+    height: 110px;
+    width: 652px;
+    @include breakpoint(mobile) {
+      height: 48px;
+      margin-bottom: .5rem;
+      width: 320px;
+    }
+
+    &__text {
+      fill: $neutral-100;
+    }
+
+    &__leaf {
+      stroke: $primary-500;
+    }
+  }
+
+  &-text {
+    color: $neutral-100;
+    font-size: 2rem;
+    text-align: center;
+    @include breakpoint(mobile) {
+      font-size: 1.25rem;
+    }
+  }
+
+  &-cover {
+    background-color: $neutral-500;
+  }
+}

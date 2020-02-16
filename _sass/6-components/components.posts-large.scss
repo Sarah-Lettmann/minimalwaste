@@ -15,7 +15,7 @@
   }
 
   .post__title {
-    margin-top: .75rem;
+    margin: .75rem 0 0;
     order: 2;
     @include breakpoint(desktop) {
       font-size: $font-size-h1;

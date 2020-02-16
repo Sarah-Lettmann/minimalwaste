@@ -3,7 +3,7 @@ uid: "0023"
 title: "Nachhaltig Leben: 10 Tipps für den Alltag"
 subtitle: "Wie du dem inneren Schweinehund ein Schnippchen schlägst"
 date: 2017-05-30
-categories: [Zero Waste]
+categories: [Klima]
 description: "Nachhaltig Leben kann einem viel abverlangen, denn oftmals kommt der inner Schweinehund in die Quere. Hier ein paar Tipps, wie es im Alltag leichter wird."
 keywords: [nachhaltig leben, nachhaltiger leben]
 ---

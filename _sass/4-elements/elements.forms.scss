@@ -50,12 +50,19 @@ input {
 
 button {
   @extend %button;
-  @extend %button-reset;
   @include main-font;
   border: 0;
   font-size: $font-size-paragraph;
   margin-bottom: 1.25rem;
   padding: 1.125rem;
+
+  &[type='submit'] {
+    @extend %button-submit;
+  }
+
+  &[type='reset'] {
+    @extend %button-reset;
+  }
 
   &.primary {
     @extend %button-submit;

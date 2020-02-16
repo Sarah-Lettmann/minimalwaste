@@ -27,6 +27,18 @@
     }
   }
 
+  .post__categories {
+
+    &::after {
+      margin: .75rem 0 0;
+      width: 80px;
+      @include breakpoint(mobile) {
+        margin-top: .25rem;
+        width: 60px;
+      }
+    }
+  }
+
   .cover {
     height: 100%;
     position: absolute;
@@ -40,6 +52,7 @@
     }
 
     &__image {
+      opacity: .4;
       @include breakpoint(mobile) {
         opacity: .2;
       }

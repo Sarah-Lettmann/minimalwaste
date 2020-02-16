@@ -24,6 +24,15 @@ url: "https://minimalwaste.de" # the base hostname & protocol for your site, e.g
 keywords: [minimalismus, zero waste]
 permalink: /blog/:title/
 featured-posts: ["0026", "0064", "0049", "0051", "0042"]
+start-zero-waste: ["0044", "0062", "0038", "0037"]
+aspects-sustainability: ["0059", "0023", "0042", "0067"]
+featured-pages:
+  - title: Alle Unverpack Läden im Überblick
+    href: /blog/unverpackt-einkaufen-alle-laeden/
+    image: /assets/title-images/2016/2016-11-21-unverpackt-einkaufen-alle-laeden.jpg
+  - title: Nachhaltige und Plastikfreie Online Shops
+    href: /blog/plastikfrei-einkaufen-alle-onlineshops/
+    image: /assets/title-images/2017/2017-09-17-plastikfrei-einkaufen-alle-onlineshops.jpg
 
 # Social
 facebook-link: https://www.facebook.com/MinimalWasteBlog/

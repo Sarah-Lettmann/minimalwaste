@@ -1,4 +1,15 @@
 .post__categories {
+  order: -1;
+
+  &::after {
+    background-color: $primary-500;
+    border: 0;
+    content: '';
+    display: block;
+    height: 3px;
+    margin: 0;
+    width: 60px;
+  }
 
   &-link {
     @extend %menu-text;

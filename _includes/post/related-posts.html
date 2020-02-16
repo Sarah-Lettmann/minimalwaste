@@ -14,7 +14,6 @@
             <span class="visually-hidden">In der Kategorie </span>
             {{ cat.name }}
           </a>
-          <hr />
         </div>
         <div class="cover">
           <img class="cover__image lazy" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />

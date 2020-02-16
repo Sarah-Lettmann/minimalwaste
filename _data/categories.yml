@@ -12,23 +12,27 @@ Zero Waste:
   links:
     - title: wastelandrebel.com
       url: https://wastelandrebel.com/de/
-    - title: trashisfortossers.com
-      url: http://trashisfortossers.com/
     - title: Zero Waste Home - Glücklich leben ohne Müll, Bea Johnson
       url: https://www.amazon.de/Zero-Waste-Home-Gl%C3%BCcklich-leben/dp/3869352922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Zero+Waste+Home&qid=1571840593&sr=8-1
-    - title: Plastic Planet
-      url: http://www.plastic-planet.de/
+    - title: Why I live a zero waste life, Lauren Singer
+      url: https://www.youtube.com/watch?v=pF72px2R3Hg
 
 Müllfreies Badezimmer:
   name: Müllfreies Bad
   url: /category/muellfreies-badezimmer.html
   parent: Zero Waste
   featured: ["0026", "0040", "0024", "0041"]
+  links:
+    - title: trashisfortossers.com
+      url: http://trashisfortossers.com/
 
 Zero Waste Kosten:
   name: Kosten Zero Waste
   url: /category/zero-waste-kosten.html
   parent: Zero Waste
+  links:
+    - title: Two adults, two kids, zero waste, Bea Johnson
+      url: https://www.youtube.com/watch?v=CSUmo-40pqA
 
 DIY:
   name: DIY
@@ -43,6 +47,9 @@ Rohstoffe und Recycling:
   name: Rohstoffe & Recycling
   url: /category/rohstoffe-und-recycling.html
   parent: Zero Waste
+  links:
+    - title: Plastic Planet
+      url: http://www.plastic-planet.de/
 
 Minimalismus:
   name: Minimalismus
@@ -73,12 +80,16 @@ Klima:
   url: /category/klima.html
   featured: ["0063", "0067"]
   links:
+    - title: How Bad are Bananas? The Carbon Footprint of Everything, Mike Berners-Lee
+      url: https://www.amazon.de/How-Bad-are-Bananas-Everything/dp/1846688914
+    - title: Barfuss in Manhatten, Colin Beavan
+      url: https://www.amazon.de/Barfu%C3%9F-Manhattan-%C3%B6kologisch-korrektes-Abenteuer/dp/3378011076/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Barfuss+in+Manhatten&qid=1571840284&sr=8-1
+    - title: School strike for climate - save the world by changing the rules, Greta Thunberg
+      url: https://www.youtube.com/watch?v=EAmmUIEsN9A
     - title: enorm Magazin
       url: https://enorm-magazin.de/
     - title: Utopia
       url: https://utopia.de/
-    - title: Barfuss in Manhatten, Colin Beavan
-      url: https://www.amazon.de/Barfu%C3%9F-Manhattan-%C3%B6kologisch-korrektes-Abenteuer/dp/3378011076/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Barfuss+in+Manhatten&qid=1571840284&sr=8-1
 
 Grün Reisen:
   name: Grün Reisen
