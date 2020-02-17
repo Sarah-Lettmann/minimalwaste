@@ -48,6 +48,13 @@ input {
   }
 }
 
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  content: url('/assets/icons/close.svg');
+  height: 19px;
+  width: 19px;
+}
+
 button {
   @extend %button;
   @include main-font;

@@ -1,16 +1,18 @@
 $height-header: 80px;
-$height-mobile-header: 60px;
+$height-header-mobile: 60px;
+$height-border: 4px;
+$height-border-mobile: 2px;
 
 .header {
   background-color: $neutral-100;
-  border-top: 4px solid $primary-300;
+  border-top: $height-border solid $primary-300;
   left: 0;
   position: fixed;
   right: 0;
   top: 0;
   z-index: 10;
   @include breakpoint(mobile) {
-    border-top: 2px solid $primary-300;
+    border-top: $height-border-mobile solid $primary-300;
   }
 
   > .container {
@@ -19,7 +21,7 @@ $height-mobile-header: 60px;
     height: $height-header;
     justify-content: space-between;
     @include breakpoint(mobile) {
-      height: $height-mobile-header;
+      height: $height-header-mobile;
     }
   }
 }

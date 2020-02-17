@@ -1,13 +1,7 @@
 ---
 layout: wrapper
 ---
-
-{% comment %}
-  align: left, center, right
-  width: narrow, wide
-{% endcomment %}
-
-<article class="page page--{{ page.align }} page--{{ page.width }} container container--main">
+<div class="page container">
   <h1 class="page__title">{{ page.title }}</h1>
   {{ content }}
-</article>
+</div>

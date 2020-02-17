@@ -1,22 +1,9 @@
 .page {
 
-  &--narrow {
-    //max-width: $max-width-content;
-  }
-
-  &--wide {
-    width: auto;
-  }
-
-  &--left {
-    text-align: left;
-  }
-
-  &--center {
-    text-align: center;
-  }
-
-  &--right {
-    text-align: right;
+  &__title {
+    margin: calc(6rem + #{$height-header} + #{$height-border}) 0 6rem;
+    @include breakpoint(mobile) {
+      margin-top: calc(6rem + #{$height-header-mobile} + #{$height-border-mobile});
+    }
   }
 }

@@ -8,7 +8,7 @@
     left: 0;
     position: fixed;
     right: 0;
-    top: $height-mobile-header + 2;
+    top: $height-header-mobile + 2;
   }
   @include breakpoint(desktop) {
     height: 100%;

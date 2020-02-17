@@ -9,9 +9,9 @@
   </head>
 
   {% if page.layout == "post" %}
-    {% assign additional-class = " site--post" %}
+    {% assign additional-class = "site--post" %}
   {% endif %}
-  <body class="site{{ additional-class }}">
+  <body class="site {{ additional-class }}">
     {% if page.title != "Impressum & Datenschutz&shy;erklärung" %}
       {% include cookie-consent.html %}
     {% endif %}
