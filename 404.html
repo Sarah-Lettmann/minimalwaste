@@ -1,7 +1,23 @@
 ---
 layout: page
-title: "404"
+title: "Upps, da ist was schief gelaufen."
 ---
-<p><strong>Upps, da ist wohl was schief gelaufen :(</strong></p>
-<p>Die Seite, die du angefragt hast, konnte nicht gefunden werden.</p>
-<p>Versuch's doch mal hiermit:</p>
+<div class="errorpage">
+  <p>Die Seite, die du angefragt hast, konnte nicht gefunden werden. Versuch's doch mal hiermit:</p>
+  <div class="featured-posts">
+    <h2 class="featured-posts__title">Empfohlene Beiträge</h2>
+    <ul class="featured-posts__list">
+      {% assign uid = site.featured-posts | first %}
+      {% assign post = site.posts | where: "uid", uid | first %}
+      <li class="featured-posts__list-item">
+        {% include posts/large-post.html page="home" %}
+      </li>
+      {% for uid in site.featured-posts offset:1 %}
+        {% assign post = site.posts | where: "uid", uid | first %}
+        <li class="featured-posts__list-item">
+          {% include posts/small-post.html page="home" %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

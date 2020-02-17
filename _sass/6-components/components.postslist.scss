@@ -3,10 +3,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-bottom: 8rem;
-  @include breakpoint(mobile) {
-    margin-bottom: 6rem;
-  }
 
   &__title {
     margin-top: 0;
@@ -20,7 +16,6 @@
     margin: 0 -1.25rem;
     padding: 0 1.25rem;
     @include breakpoint(mobile) {
-      margin-bottom: 3rem;
       padding: 0;
     }
   }
