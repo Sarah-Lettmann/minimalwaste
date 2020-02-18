@@ -1,14 +1,13 @@
 ---
-layout: page
-align: left
-width: wide
-title: "FAQ"
-sitemap:
-  priority: 0.7
-  changefreq: yearly
-  lastmod: 2019-03-01
+uid: "0073"
+title: "Zero Waste FAQ"
+subtitle: "Ich beantworte die häufigsten Fragen"
+date: 2020-03-13
+categories: [Zero Waste]
+description: ""
+keywords: [Zero Waste FAQ, Zero Waste Fragen]
+related-posts: []
 ---
-
 Da ich immer wieder die gleichen Fragen hinsichtlich Zero Waste höre, habe ich hier mal ein FAQ
 zusammengestellt. Wenn du trotzdem keine Antwort findest, kannst du dich natürlich immer noch
 auf meinem Blog umsehen oder mir schreiben unter [info@minimalwaste.de](mailto:info@minimalwaste.de "schreibe eine Email and info@minimalwaste.de").

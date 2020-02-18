@@ -2,9 +2,15 @@
   <h2 class="all-posts__title">Alle Beiträge</h2>
   <ul class="all-posts__list">
   {% for post in site.categories[page.category] %}
-    <li class="all-posts__list-item">
-      {% include posts/medium-post.html page="category" %}
-    </li>
+    {% if forloop.index <= 10 %}
+      <li class="all-posts__list-item">
+        {% include posts/medium-post.html page="category" %}
+      </li>
+    {% else %}
+      <li class="all-posts__list-item all-posts__list-item--hidden">
+        {% include posts/medium-post.html page="category" %}
+      </li>
+    {% endif %}
   {% endfor %}
   </ul>
 
@@ -20,3 +26,4 @@
     </ul>
   </aside>
 </div>
+<button class="more-button primary" type="button">Mehr Posts laden</button>

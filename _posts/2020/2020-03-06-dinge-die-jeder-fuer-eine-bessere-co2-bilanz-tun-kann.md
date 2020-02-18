@@ -1,8 +1,8 @@
 ---
 uid: "0073"
-title: ""
+title: "Dinge, die jeder für eine bessere CO2-Bilanz tun kann"
 subtitle: ""
-date: 2020-02-28
+date: 2020-03-06
 categories: [Klima]
 description: ""
 keywords: []

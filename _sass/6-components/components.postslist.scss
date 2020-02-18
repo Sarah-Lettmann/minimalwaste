@@ -26,6 +26,10 @@
       flex: 1 1 449px;
       margin: 0 1.25rem 3rem;
     }
+
+    &--hidden {
+      display: none;
+    }
   }
 
   &__sidebar {
