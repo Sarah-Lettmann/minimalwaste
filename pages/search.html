@@ -5,23 +5,27 @@ title: "Durchsuche MinimalWaste"
 <div class="search">
   <form class="search__form">
     <label class="search__label" for="search-input">Suchbegriff</label>
-    <input class="search__input" id="search-input" type="search" placeholder="Zero Waste Deo ..." results=5 />
+    <input class="search__input" id="search-input" type="search" placeholder="Zero Waste Deo" results="5" />
     <input class="search__button" type="submit" value="Suchen" />
+    <input class="search__trigger" type="hidden" value=""/>
   </form>
-  <h2 class="search__title">Suchergebnisse</h2>
-  <ul class="search__results-list"></ul>
+  <div class="search__results-container">
+    <p class="search__results-hint search__results-hint--start-search">Hier wird noch nichts angezeigt. Bitte gibt einen Suchebrgriff ein.</p>
+    <ul class="search__results-list"></ul>
+  </div>
 </div>
 
 <!-- Script pointing to search-script.js -->
+<script src="/js/search-algorithm.js" type="text/javascript"></script>
 <script src="/js/search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
     SimpleJekyllSearch({
-        searchInput: document.querySelector('.search__input'),
+        searchInput: document.querySelector('.search__trigger'),
         resultsContainer: document.querySelector('.search__results-list'),
         json: '/search.json',
-        noResultsText:"<p class='search__no-results'>Es wurden keine Ergebnisse gefunden.</p>",
+        noResultsText:"<p class='search__results-hint search__results-hint--no-results'>Es wurden leider keine Ergebnisse gefunden.</p>",
         searchResultTemplate:
         '<li class="search__results-list-item">' +
           '<article class="post post--small">' +

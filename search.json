@@ -9,9 +9,7 @@
     "categories"    : "{{ post.categories | join: ', ' }}",
     "category"      : "{{ post.categories.first }}",
     "category-url"  : "/category/{{ post.categories.first | slugify: 'latin' }}.html",
-    "date"          : "{{ post.date | date: '%d.%m.%Y' }}",
-    "image"         : "/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg",
-    "author"        : "{{ site[post.author].name }}"
+    "image"         : "/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg"
 
   } {% unless forloop.last %},{% endunless %}
   {% endfor %}

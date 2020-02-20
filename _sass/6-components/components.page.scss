@@ -3,7 +3,7 @@
   &__title {
     margin: calc(6rem + #{$height-header} + #{$height-border}) 0 6rem;
     @include breakpoint(mobile) {
-      margin-top: calc(6rem + #{$height-header-mobile} + #{$height-border-mobile});
+      margin: calc(3rem + #{$height-header-mobile} + #{$height-border-mobile}) 0 3rem;
     }
   }
 }

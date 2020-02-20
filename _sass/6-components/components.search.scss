@@ -29,6 +29,19 @@
     }
   }
 
+  &__results-hint {
+    color: $neutral-500;
+    text-align: center;
+
+    &--hidden {
+      display: none;
+    }
+
+    &--no-results {
+      margin: 0 1.25rem;
+    }
+  }
+
   &__results-list {
     display: flex;
     flex-wrap: wrap;
