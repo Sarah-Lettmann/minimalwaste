@@ -7,7 +7,7 @@ categories: [Zero Waste, DIY]
 description: "Ich zeige dir 4 müllfreie DIYs damit du deinen Haushalt immer schön sauber halten
               kannst. Die Zutaten sind günstig und die Mittel schnell zusammengemischt."
 keywords: [müllfreie DIYs]
-related-posts: ["0029", "0039", "0002", "0041", "0025", "0009", "0052", "0022", "0028"]
+related-posts: ["0029", "0039", "0002", "0041", "0025", "0009"]
 ---
 
 Langsam werden die Tage wieder länger, die Vögel fangen an zu singen und die Stimmung wird besser. Der Frühling steht vor der Tür. Somit wird es Zeit entwas aufzuräumen und sauber zu machen, um gut in die wärmeren Tage starten zu können. Dafür möchte ich dir ein paar einfache DIYs zeigen, die natürlich ohne Müll auskommen und dir helfen deine Wohnunung oder dein Haus sauber zu halten.

@@ -6,6 +6,7 @@ date: 2018-04-11
 categories: [Minimalismus]
 description: "Unsichtbare Unordnung Teil 2 - Abonnements, Konten und Tarife. Jetzt ist der fiese Kleinkram dran. Diese Dinger sind wirklich nervig, denn meistens kosten sie auch noch Geld."
 keywords: [Unsichtbare Unordnung]
+related-posts: ["0030", "0028", "0029", "0051", "0053", "0042"]
 ---
 Letzte Woche haben wir uns ja schon deiner Dokumente angenommen. Diese Woche ist der fiese Kleinkram dran. Diese Dinger sind wirklich nervig, denn meistens fressen sie auch noch heimlich still und leise ein Loch in deinen Geldbeutel. Wir widmen uns also heute konkret: Bankkonten, E-Mail Adressen, Abonnements, Newslettern, Tarifen, Sim-Karten, Passwörtern sowie Vereins- und Clubmitgliedschaften.
 

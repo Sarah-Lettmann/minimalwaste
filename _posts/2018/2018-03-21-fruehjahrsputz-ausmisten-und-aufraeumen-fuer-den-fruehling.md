@@ -6,6 +6,7 @@ date: 2018-03-21
 categories: [Minimalismus]
 description: "Der jährliche Frühjahrsputz hilft einem jedes Jahr seine Sachen zusammen zu bekommen. Ich zeige dir wie ich das mache."
 keywords: [Frühjahrsputz]
+related-posts: ["0031", "0030", "0029", "0049", "0059", "0051"]
 ---
 Eigentlich sollte die Einleitung zu diesem Post so aussehen: “Es ist soweit. Die grauen und kalten Wintermonate scheinen nun endlich hinter uns zu liegen. Zeit, die eigenen vier Wände fit für die warme Jahreszeit zu machen.”
 Aber dann hat es den Sonntag, Montag UND(!!) Dienstag, bevor der Post online gehen sollte, geschneit… Naja, nicht wirklich frühlingshaft. Also behelfe ich mir jetzt so (und hoffe und bete, dass der Frühling bald wirklich kommt.

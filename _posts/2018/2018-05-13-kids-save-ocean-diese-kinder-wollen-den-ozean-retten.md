@@ -6,6 +6,7 @@ date: 2018-05-13
 categories: [Zero Waste]
 description: "Kids Save Ocean ist ein Schulprojekt, das auf die Verschmutzung der Meere aufmerksam machen soll. Diese Geschichte wollte ich gerne vorstellen."
 keywords: [Kids Save Ocean]
+related-posts: ["0048", "0023", "0018", "0025", "0055", "0065"]
 ---
 Vor ein paar Wochen bekam ich eine Anfrage von einem Projekt namens _[Kids Save Ocean](https://www.kidssaveocean.com/)_ - einem Projekt von Kindern, das auf die Verschmutzung unserer Meere aufmerksam machen will. Ob ich das Projekt nicht über meinen Blog oder Social Media unterstützen wolle. Klar, das mach ich doch gerne bei einer so tollen Idee.
 

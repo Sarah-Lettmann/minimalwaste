@@ -6,7 +6,7 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "Interrail und Backpacking sind tedenziell günstige Reisemethoden. Trotzdem gibt es viele Ecken und Enden an denen man einiges sparen kann."
 keywords: [Interrail, Interrail Reise, Interrail Kosten]
-related-posts: ["0068", "0069", "0070", "0049", "0013", "0064", "0001", "0014", "0024"]
+related-posts: ["0068", "0069", "0070", "0049", "0013", "0064"]
 ---
 Unsere Reise mit Interrail war wirklich spannend und wir haben viel gesehen. Aber ich habe auch eine Kniffe gelernt, wie man auf so einer Reise Geld sparen kann. Denn bei 22 Tagen unterwegs und 12 Städten kann man nicht immer Essen gehen oder jede kostenpflichtige Sehenswürdigkeit benutzen, das wäre einfach viel zu teuer geworden. Meine Tipps wie du auf einer solchen Reise und auch im Allgemeinen im Urlaub Geld sparen kannst, aber trotzdem nichts einbüßt, möchte ich hier mit dir teilen.
 

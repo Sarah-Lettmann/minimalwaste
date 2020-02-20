@@ -6,6 +6,7 @@ date: 2017-12-14
 categories: [Zero Waste, DIY]
 description: "Alternativen für einen normalen Weihnachtsbaum gibt es viele. Unser nachhaltiger Weihnachtsbaum hat fast nichts gekostet und ist komplett selbst gemacht."
 keywords: [Nachhaltiger Weihnachtsbaum]
+related-posts: ["0016", "0015", "0043", "0052", "0042", "0017"]
 ---
 Einen stinknormalen Weihnachtsbaum im Baumarkt zu kaufen ist weder nachhaltig noch günstig. Auch letztes Jahr hatten wir uns schon für eine nachhaltige Alternative entschieden, nämlich einen Weihnachtsstrauch. Einfach und schön. Doch dieses Jahr wollte ich ein kleines Upgrade.
 

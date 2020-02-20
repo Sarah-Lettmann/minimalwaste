@@ -6,7 +6,7 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "So sollte deine Interrail Packliste aussehen, damit du eine enspannte Reise hast. Mit manchem hast du vielleicht nicht gerechnet."
 keywords: [Interrail, Interrail Packliste, Interrail Tipps]
-related-posts: ["0071", "0068", "0069", "0070", "0064", "0013", "0057", "0026", "0041"]
+related-posts: ["0071", "0068", "0069", "0070", "0064", "0013"]
 ---
 Unsere Interrail-Reise war wirklich toll und ich kann jedem nur empfehlen es auch mal auszuprobieren. Ohne eine gute Vorbereitung geht allerdings nichts. Die Grundlagen dazu findest du im Beitrag [Interrail Ticket: So funktioniert die Zugreise durch Europa](/blog/interrail-so-funktioniert-die-zugreise-durch-europa). Hier geht es nun darum, was genau man alles einpacken sollte, um möglichst flexibel zu sein. Am Ende gibt es nochmals eine Packliste zum Download.
 

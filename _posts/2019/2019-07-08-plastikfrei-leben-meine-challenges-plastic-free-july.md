@@ -6,7 +6,7 @@ date: 2019-07-08
 categories: [Zero Waste]
 description: "Plastic Free July steht vor der Tür. Ich habe mir ein paar besondere Challenges rausgesucht, mit denen ich diesen Monat möglichst plastikfrei leben will."
 keywords: [Plastikfrei leben, Plastik Free July]
-related-posts: ["0062", "0064", "0059", "0036", "0023", "0020", "0014", "0001", "0018"]
+related-posts: ["0062", "0064", "0059", "0036", "0023", "0020"]
 ---
 Möglichst plastikfrei leben ist bei mir sowieso schon der Regelfall. Aber seit Anfang des Monats ist Plastic Free July und somit habe ich mir ein paar Challenges rausgesucht, mit denen ich noch weiteres Plastik und Müll vermeiden will. Außerdem gibt es auch noch ein paar spannende Produkte, die ich in letzter Zeit entdeckt habe, und die ich gerne mit dir teilen möchte. Am Ende des Monats werden ich dann nochmal ein Fazit ziehen.
 

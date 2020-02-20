@@ -6,6 +6,7 @@ date: 2018-11-07
 categories: [Minimalismus]
 description: "Wir leben in einer Konsumgesellschaft. Doch was sind die Gründe hinter dem ständigen Konsum? Und wie werden wir von Marken und Werbung manipuliert?"
 keywords: [Konsumgesellschaft]
+related-posts: ["0049", "0053", "0061", "0021", "0017", "0051"]
 ---
 Warum ist Minimalismus so ein großer Trend? Weil es eine krasse Gegenbewegung zu unserem aktuell normalen Lebensstil ist: Wir kaufen, kaufen, kaufen, kaufen. Wir leben in einer Konsumgesellschaft, getrieben vom Kapitalismus müssen wir die Wirtschaft ankurbeln, damit es allen weiterhin gut geht. Denn wenn die Wirtschaft wächst, dann ist alles super, richtig? Fraglich. Nach welchen Regeln leben wir eigentlich tagtäglich und wieso sind wir so darauf gepolt immer weiter zu konsumieren? Ich habe mir das mal ein bisschen genauer angeschaut.
 

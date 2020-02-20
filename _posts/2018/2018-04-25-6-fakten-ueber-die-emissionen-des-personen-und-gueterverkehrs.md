@@ -6,6 +6,7 @@ date: 2018-04-25
 categories: [Klima]
 description: "Inzwischen weiß jeder, dass Fliegen nicht gut für die Umwelt ist. Aber wie sieht es mit den Emissionen des Personen- und Güterverkehrs im Allgemeinen aus?"
 keywords: [Emissionen des Personen- und Güterverkehrs]
+related-posts: ["0032", "0063", "0067", "0057", "0056", "0054"]
 ---
 Inzwischen weiß so gut wie jeder, dass Fliegen nicht gut für die Umwelt ist. Die Emissionen, die bei einem einzigen Flug freigesetzt werden, sind immens. Aber wie sieht es mit anderen Verkehrs- und Transportmitteln aus? Ich habe dir hier 6 Fakten zu den Emissionen des Personen- und zum Güterverkehr zusammengestellt, die dich vielleicht überraschen werden. Über die meisten bin ich gestolpert, als ich in einem Papier des Umweltbundesamtes gestöbert habe. Andere wiederum habe ich schon vor einiger Zeit aufgeschnappt.
 

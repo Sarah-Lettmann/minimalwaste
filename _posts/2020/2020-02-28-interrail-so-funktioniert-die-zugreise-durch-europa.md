@@ -6,7 +6,7 @@ date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "Ein Interrail Ticket schenkt dir Freiheit. Trotzdem solltest du einges beachten bevor du losfährst. Tipps für die Reise mit Interrail Pass."
 keywords: [Interrail, Interrail Ticket, Interrail Pass]
-related-posts: ["0069", "0070", "0071", "0049", "0013", "0064", "0026", "0030", "0031"]
+related-posts: ["0069", "0070", "0071", "0049", "0013", "0064"]
 ---
 Im September vergangenen Jahres waren mein Freund und ich auf einer Rundreise durch Europa. Das ganze haben wir klassisch im Backpacker Stil gemacht: mit Rucksäcken auf dem Rücken und im Zug. Möglich war das dank Interrail, das es wie du vielleicht nicht weißt heute immer noch gibt. Ich möchte dir erklären wie du so eine Reise planst und vorbereitest und auf welche Tiefen und Höhen du gespannt sein kannst.
 
