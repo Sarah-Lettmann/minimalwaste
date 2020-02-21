@@ -6,6 +6,7 @@ date: 2016-11-21
 categories: [Zero Waste]
 description: "Diese Woche ist Europäische Woche der Abfallvermeidung und es dreht sich alles um Müllreduzierung, Wiederverwendung und Recycling."
 keywords: [Europäische Woche der Abfallvermeidung]
+related-posts: ["0046", "0014", "0023", "0035", "0065", "0034"]
 ---
 Heute gibt es mal einen kleinen Extra-Post. Diese Woche ist nämlich [Europäische Woche der Abfallvermeidung (EWAV)](http://www.letscleanupeurope.de/), die ganz im Zeichen von Müllvermeidung, Wiederverwendung und Recycling steht. Also hab ich mir mal ein paar Ideen für dich ausgedacht, wie du dich mit der ganzen Thematik mal ein bisschen vertraut machen kannst. Auch solche kleinen Veränderungen können schon wirklich viel bewirken!
 

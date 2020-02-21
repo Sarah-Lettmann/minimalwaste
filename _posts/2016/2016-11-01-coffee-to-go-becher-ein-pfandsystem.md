@@ -6,6 +6,7 @@ date: 2016-11-01
 categories: [Zero Waste]
 description: "Coffee-to-go Becher belasten die Umwelt, werden aber sehr häufig verwendet. Was ist also die Lösung? Richtig, ein Pfandsystem!"
 keywords: [Coffee-to-go Becher, Coffe to go Becher]
+related-posts: ["0022", "0064", "0072", "0065", "0037", "0025"]
 ---
 Seit ich versuche Zero Waste zu leben und meinen Müll immer weiter zu reduzieren, kommt mir oft der Gedanke, dass in vielen Bereichen ein Pfandsystem eine einfache und ökologische Lösung wäre. Damit meine ich natürlich Mehrweg, denn Einwegpfand ist eine zwar nicht sinnfreie Erfindung gewesen, aber auch nicht des Rätsels Lösung.
 
