@@ -1,4 +1,5 @@
 .post__sidebar {
+  align-self: stretch;
   text-align: center;
   width: 300px;
   @include breakpoint(mobile) {
