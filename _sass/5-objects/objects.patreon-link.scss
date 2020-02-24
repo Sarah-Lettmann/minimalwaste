@@ -1,0 +1,15 @@
+.patreon {
+  background: linear-gradient(#e75946, #e75946) 50% 1.1em / 100% 1px no-repeat;
+  color: $patreon-100;
+  display: inline;
+  font-weight: 600;
+
+  &::after {
+    background: url('/assets/icons/patreon.png') left top / contain no-repeat;
+    content: '';
+    display: inline-block;
+    height: 16px;
+    margin-left: 7px;
+    width: 18px;
+  }
+}

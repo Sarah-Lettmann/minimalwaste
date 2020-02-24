@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Schön, dass du mit dabei bist."
+title: "Willkommen an Board =)"
 ---
 <p>
-  <strong>Ab jetzt bekommst du immer alle Infos zu neue Beiträgen.</strong>
+  <strong>Ab jetzt kommen immer alle Infos zu neue Beiträgen und regelmäßige Newsletter in dein Postfach geflattert.</strong>
 </p>
 <p>
   Außerdem gibt es Tipps, DIYs und Erfahrungsberichte rund um die Themen<br />
@@ -13,12 +13,6 @@ title: "Schön, dass du mit dabei bist."
   <span class="fas fa-recycle"></span>
 </p>
 
-<p>Außerdem hast du Zugriff auf alle Downloads:</p>
-<div class="bonus">
-  {% for bonus in site.data.bonus %}
-    <a id="{{ bonus.id }}" class="bonus__link" href="{{ bonus.url }}" target="blank" title="runterladen vom PDF '{{ bonus.name }}'" aria-labelledby="bonus-title">
-      <img class="bonus__image" src="{{ bonus.image }}" alt="PDF {{ bonus.name }}" title="© {{ site.title }}" />
-      <h2 class="bonus__title" id="bonus-title">{{ bonus.name }}</h2>
-    </a>
-  {% endfor %}
-</div>
+<p>Außerdem hast du Zugriff auf
+  <a class="patreon" href="https://www.patreon.com/minimalwaste?filters[tag]=Bonus" target="_blank">Bonus-Content via Patreon</a>
+.</p>

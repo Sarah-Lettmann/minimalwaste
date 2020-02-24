@@ -307,6 +307,8 @@ Die genauen Daten, etwas ausführlicher gerechnet, kannst du dir im Folgenden au
 
 {% include download.html name="Die Bilanz von Stofftaschentüchern" path="/assets/downloads/2019-04-19-bilanz-taschentuecher-mehrer-jahre.xlsx" size="9 kb" %}
 
+[Diesen und weitere Donwloads findest du außerdem noch auf meiner Patreon Seite.](https://www.patreon.com/minimalwaste?filters[tag]=Download){: .patreon}
+
 ## Zusammenfassung
 Zusammenfassend kann man sagen, dass es durchaus sinnvoll ist Mehrwegprodukte zu kaufen. Wenn es um Textilien geht, sollte aber unbedingt zur Bio-Baumwolle gegriffen werden und das vor allem wegen dem niederigeren Wasserverbrauch. Aber auch hier spielen die kürzeren Transportwege, der Verzicht auf Pestizide und andere Chemikalien, der bessere Arbeiterschutz und die Erhaltung der Flora und Fauna, der Böden und Gewässer zusätzlich mit rein. Das sind alles Faktoren, die man beachten sollte.
 

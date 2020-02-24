@@ -9,7 +9,7 @@ $post-content-width-mobile: 700px;
     max-width: $post-content-width-mobile;
   }
 
-  a {
+  a:not(.patreon):not(.download) {
     @extend %link;
 
     &[href^='http']::after {
