@@ -1,7 +1,7 @@
 {% assign category = site.data.menu | where: "title", page.category | first %}
 {% if category.subcategories %}
-<div class="subcategories container">
-  <h2 class="subcategories__title">Unterkategorien</h2>
+<section class="subcategories container" aria-labelledby="subcategories-title">
+  <h2 class="subcategories__title" id="subcategories-title">Unterkategorien</h2>
   <nav class="subcategories__navigation">
     <ul class="subcategories__list">
       {% for subcategory in category.subcategories %}
@@ -16,5 +16,5 @@
       {% endfor %}
     </ul>
   </nav>
-</div>
+</section>
 {% endif %}

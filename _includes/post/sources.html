@@ -1,13 +1,13 @@
 {% assign source-file = site.data.sources[page.uid] %}
 {% if source-file %}
-  <div class="sources">
-    <h2 class="sources__title">Mehr zum Thema</h2>
-    <ul class="sources__list">
-      {% for source in source-file %}
-        <li class="sources__list-item">
-          <a class="sources__link" href="{{ source.url }}" title="{{ source.title }} (externer Link)" target="_blank">{{ source.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+<section class="sources" aria-labelledby="sources-title">
+  <h2 class="sources__title" id="sources-title">Mehr zum Thema</h2>
+  <ul class="sources__list">
+    {% for source in source-file %}
+      <li class="sources__list-item">
+        <a class="sources__link" href="{{ source.url }}" title="{{ source.title }} (externer Link)" target="_blank">{{ source.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 {% endif %}

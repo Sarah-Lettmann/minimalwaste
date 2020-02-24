@@ -1,5 +1,5 @@
-<div class="area">
-  <h2 class="area__title container">Aspekte der Nachhaltigkeit</h2>
+<section class="area" aria-labelledby="area-title">
+  <h2 class="area__title container" id="area-title">Aspekte der Nachhaltigkeit</h2>
   <ul class="area__list container">
     {% for uid in site.aspects-sustainability %}
       {% assign post = site.posts | where: "uid", uid | first %}
@@ -8,4 +8,4 @@
       </li>
     {% endfor %}
   </ul>
-</div>
+</section>

@@ -1,6 +1,6 @@
 {% assign category = site.data.categories[page.category] %}
-<div class="featured-posts container">
-  <h2 class="featured-posts__title">Empfohlene Beiträge</h2>
+<section class="featured-posts container" aria-labelledby="featured-posts-title">
+  <h2 class="featured-posts__title" id="featured-posts-title">Empfohlene Beiträge</h2>
   <ul class="featured-posts__list">
     {% assign post = site.categories[page.category] | first %}
     <li class="featured-posts__list-item">
@@ -13,4 +13,4 @@
       </li>
     {% endfor %}
   </ul>
-</div>
+</section>

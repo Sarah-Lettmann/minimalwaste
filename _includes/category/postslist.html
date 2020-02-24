@@ -1,5 +1,5 @@
-<div class="all-posts container">
-  <h2 class="all-posts__title">Alle Beiträge</h2>
+<section class="all-posts container" aria-labelledby="all-posts-title">
+  <h2 class="all-posts__title" id="all-posts-title">Alle Beiträge</h2>
   <ul class="all-posts__list">
   {% for post in site.categories[page.category] %}
     {% if forloop.index <= 10 %}
@@ -25,5 +25,5 @@
     {% endfor %}
     </ul>
   </aside>
-</div>
+</section>
 <button class="more-button primary" type="button">Mehr Posts laden</button>

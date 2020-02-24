@@ -1,7 +1,12 @@
-<div class="comments" aria-labelledby="comments-title">
+<section class="comments" aria-labelledby="comments-title">
   <h2 class="comments__title" id="comments-title">Kommentare</h2>
+  <p class="comments__external-notice external-notice">
+    Die Kommentare werden über den externen Dienst Disqus bereitgestellt.
+    Dieser setzt eventuell Cookies.
+    <a class="comments__external-notice-link external-notice__link" href="https://help.disqus.com/en/articles/1717103-disqus-privacy-policy">Hier gibt es Infos wie Disqus deine Daten verarbeitet.</a>
+  </p>
   <button class="comments__button primary" type="button" data-disqus-url="{{ site.url }}{{ page.url }}">
     Kommentare anzeigen
   </button>
   <div id="disqus_thread" class="comments__disqus"></div>
-</div>
+</section>

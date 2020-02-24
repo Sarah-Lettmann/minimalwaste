@@ -17,6 +17,10 @@
     display: block;
   }
 
+  &__external-notice a {
+    background: linear-gradient($neutral-100, $neutral-100) 50% 1.1em / 100% 1px no-repeat;
+  }
+
   &--loaded {
     padding-top: 56.25%;
 

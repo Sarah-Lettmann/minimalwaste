@@ -1,7 +1,8 @@
 {% assign category = site.data.categories[page.category] %}
 {% if category.pages %}
-  <div class="teasers container">
-  {% for page in category.pages %}
+  <section class="teasers container" aria-labelledby="teasers-title">
+    <h2 class="teasers__title visually-hidden" id="teasers-title">Diesen Post teilen</h2>
+    {% for page in category.pages %}
     <div class="teaser">
       <a class="teaser__link" href="{{ page.href }}">
         <h2 class="teaser__title">
@@ -15,6 +16,6 @@
         </div>
       </a>
     </div>
-  {% endfor %}
-  </div>
+    {% endfor %}
+  </section>
 {% endif %}
