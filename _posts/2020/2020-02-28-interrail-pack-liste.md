@@ -8,7 +8,9 @@ description: "So sollte deine Interrail Packliste aussehen, damit du eine enspan
 keywords: [Interrail, Interrail Packliste, Interrail Tipps]
 related-posts: ["0071", "0068", "0069", "0070", "0064", "0013"]
 ---
-Unsere Interrail-Reise war wirklich toll und ich kann jedem nur empfehlen es auch mal auszuprobieren. Ohne eine gute Vorbereitung geht allerdings nichts. Die Grundlagen dazu findest du im Beitrag [Interrail Ticket: So funktioniert die Zugreise durch Europa](/blog/interrail-so-funktioniert-die-zugreise-durch-europa). Hier geht es nun darum, was genau man alles einpacken sollte, um möglichst flexibel zu sein. Am Ende gibt es nochmals eine Packliste zum Download.
+Unsere Interrail-Reise war wirklich toll und ich kann jedem nur empfehlen es auch mal auszuprobieren. Ohne eine gute Vorbereitung geht allerdings nichts. Die Grundlagen dazu findest du im Beitrag [Interrail Ticket: So funktioniert die Zugreise durch Europa](/blog/interrail-so-funktioniert-die-zugreise-durch-europa). Hier geht es nun darum, was genau man alles einpacken sollte, um möglichst flexibel zu sein.
+
+[Du kannst die Packliste außerdem auf meiner Patreon Seite runterladen](https://www.patreon.com/minimalwaste){: .patreon}. Dort gibt es auch noch Bonus-Content zum Thema.
 
 _Diese Liste ist übrigens nicht vollständig. Sie enthält nicht alles, was du einpacken solltest, aber dafür nützliche Hinweise, an was du vielleicht nicht gedacht hast._
 
@@ -92,7 +94,7 @@ Zusammenfassung:
 - Powerbank
 - Adapter
 - Kugelschreiber / Stift
-- SD-Karten
+- zusätzliche SD-Karten
 
 ## Kleidung
 Zu guter Letzt musst du dir noch Gedanken machen, was für Klamotten du einpackst und wie viele. Für uns war vorher klar, dass wir nur **wenig mitnehmen** und dafür ein bis zwei Mal **unterwegs waschen** werden. Das war auch überhaupt kein Problem. Viele Hostels haben Waschmöglichkeiten und in vielen großen Städten gibt es Waschsalons.
@@ -104,7 +106,7 @@ Es hängt natürlich sehr stark von dir ab, was du an Klamotten einpackst. Mach 
 ![Packwürfel, Turnschuhe, Leggings, T-Shirt und Sweatshirt](/assets/inpost-images/2020/2020-02-28-reiseoutfit.jpg)
 
 Hier gibt es noch die Packliste zum Download:
-{% include download.html name="Interrail Pack Liste" path="/assets/downloads/" size="" %}
+{% include download.html name="Interrail Pack Liste" path="/assets/downloads/2020-02-28-interrail-pack-liste.jpg" size="156KB" %}
 
 Guck dir auch gerne meine anderen Beiträge zum Thema [Grün Reisen](/category/gruen-reisen.html) an. Ich wünsche dir schon mal eine gute Reise. Bis zum nächsten Mal,
 
