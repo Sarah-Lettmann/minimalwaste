@@ -2,7 +2,7 @@
 layout: post
 title: "So geht gebraucht kaufen: Second hand 101"
 subtitle: ""
-date: 2019-08-26
+date: 2020-04-03
 categories: [Klima]
 description: ""
 keywords: [gebraucht kaufen, second hand, second hand kleidung, second hand möbel]

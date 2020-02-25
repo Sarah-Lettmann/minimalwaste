@@ -38,3 +38,13 @@ Ja, Bügel verbraucht natürlich Ressourcen, kostet zudem aber auch noch Zeit un
 Aber das sind natürlich nur T-Shirts und wenn man viel bügelt kann schnell viel mehr zusammen kommen. Mein Rat an dieser Stelle lautet: Lass es sein. Ordentlich auf einen Wäscheständer aufgehängt, hängen sich die meisten Kleidungsstücke von selbst glatt.
 
 Und wenn etwas wirklich ordentlich sein muss, wie ein Hemd, kannst du es aus der Reihe immer noch bügeln. Oder du hängst es gleich nass aus der Waschmaschine auf einen Kleidungbügel und an die Duschstange. Ebenfalls ein guter Tipp gegen zerknitterte Kleidung: Hänge das Kleeidungsstück während du duschst ins Badezimmer. Die Wärme und der Wasserdampf erledigen dann den Rest.
+
+
+
+kürzer duschen
+
+mal zu Fuß gehen oder das Rad nehmen
+
+nur so viel Wasser kochen, wie du brauchst
+
+Mischbaterie für Wasserhähne
