@@ -2,18 +2,20 @@
   Einbinden mit {% include iframe.html image-link="" id="" %}
 {% endcomment %}
 <div class="iframe">
-  <button class="iframe__load-button" type="button">
-    <span class="visually-hidden">Video zu '{{ page.title }}' starten.</span>
-    <div class="iframe__cover cover">
-      <img class="iframe__cover-image cover__image" src="{{ include.image-link }}" alt="Video Cover zu {{ page.title }}" title="Video zu '{{ page.title }}' starten" width="712" height="400" />
-    </div>
-  </button>
-  <iframe class="iframe__video video" width="700" height="394" allow="autoplay"
-    data-src="https://www.youtube-nocookie.com/embed/{{ include.id }}?autoplay=1" frameborder="0" allowfullscreen="">
-  </iframe>
+  <div class="iframe__inner">
+    <button class="iframe__load-button" type="button">
+      <span class="visually-hidden">Video zu '{{ page.title }}' starten.</span>
+      <div class="iframe__cover cover">
+        <img class="iframe__cover-image cover__image lazyload" src="{{ include.image-link }}" alt="Video Cover zu {{ page.title }}" title="Video zu '{{ page.title }}' starten" width="712" height="400" />
+      </div>
+    </button>
+    <iframe class="iframe__video video" width="700" height="394" allow="autoplay"
+      data-src="https://www.youtube-nocookie.com/embed/{{ include.id }}?autoplay=1" frameborder="0" allowfullscreen="">
+    </iframe>
+  </div>
   <p class="iframe__external-notice external-notice">
     Dieses Video wird über den externen Dienst Youtube bereit bereitgestellt.
     Dieser setzt beim Abspielen eventuell Cookies.
-    <a class="iframe__external-notice-link external-notice__link" href="https://policies.google.com/privacy?hl=de&gl=de">Hier gibt es Infos wie Google deine Daten verarbeitet.</a>
+    <a class="iframe__external-notice-link external-notice__link" href="https://policies.google.com/privacy?hl=de&gl=de" rel="noreferrer">Hier gibt es Infos wie Google deine Daten verarbeitet.</a>
   </p>
 </div>

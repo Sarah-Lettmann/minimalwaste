@@ -54,6 +54,8 @@ Bei Interrail solltest du, wenn das Geld knapp ist, nach Zügen gucken, **in den
 
 Um dir Übernachtungen zu sparen kann es auch sinnvoll sein **Nachtzüge** zu nehmen. Einen Liegeplatz musst du zwar auch extra bezahlen, das kann aber mit Interrail Ticket eventuell günstiger sein als eine Nacht im Hostel. Außerdem bist du am nächsten Tag an deinen nächsten Reiseziel angekommen.
 
+Noch ein kleiner Tipp am Rande: Wenn du dein Gepäck nach dem Auschecken irgendwo verwahren willst, dann lass es lieber im Hotel oder Hostel. Oft geht das kostenlos, manchmal wird auch eine geringe Gebühr dafür genommen. In jeden Fall ist es aber günstiger als SChließfächer am Bahnhof zu nutzen, besonders, wenn ihr mehrer Leute seid.
+
 ## Übrblick
 Hier nochmal alle Tipps im Überblickt:
 - Nutze Apps wie _Tripadvisor_ oder _Guides by Lonely Planet_ statt herkömmliche Reiseführer.
@@ -72,6 +74,7 @@ Hier nochmal alle Tipps im Überblickt:
 - Prüfe ob ein Hostel in der Innenstadt oder der Nahverkehr günstiger ist.
 - Nutze Züge ohne Sitzplatzreservierung.
 - Suche nach günstigen Nachtzügen.
+- Nutze Aufbewahrungsmöglichkeiten im Hotel oder Hostel
 
 Ich hoffe diese Tipps helfen dir bei deiner nächsten Reise nicht so tief in die Tasche greifen zu müssen. Wenn dich Interrail oder Backpacking Reisen interessieren, dann guck dich gerne in der Kategorie [Grün Reise](/category/gruen-reisen) um. Bis zum nächsten Mal,
 

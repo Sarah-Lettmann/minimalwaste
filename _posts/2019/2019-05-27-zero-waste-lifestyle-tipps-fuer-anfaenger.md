@@ -15,24 +15,24 @@ Ich liebe den Zero Waste Lifestyle und würde nie wieder zurück gehen wollen. D
 ## 1. Analysiere deinen Müll
 Das wichtigste zu erst. **Guck dir deinen Müll** an und ich sag dir was du vermeiden solltest. Das funktioniert wirklich so, denn daraus was du wegschmeißt kannst du ganz einfach ableiten, welche Dinge du reduzieren oder für was du eine Alternative brauchst. Mein Tipp: **Such dir ein oder zwei Dinge raus**, die du am häufigsten in deinem Mülleimer findest und ersetze sie. Das können sein: Nudel- oder Chipstüten, Tetrapacks, Eierkartons, Tüten vom Bäcker oder Ähnliches.
 
-![Alte Gummies und Korken](/assets/inpost-images/2019/2019-05-27-analysiere-deinen-muell.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-analysiere-deinen-muell.jpg" alt="Alte Haushaltsgummies und Korken" title="" caption="Haushaltsgummies finden häufig den Weg in unseren Haushalt. Gemüse wird damit oft zusammengehalten." %}
 
 <mark>Obwohl mein Freund und ich das schon eine ganze Weile machen, gehe auch ich zwischendurch hin und schau mir unseren verbliebenen Müll genauer an. Es ist ja schließlich immer Platz nach oben.</mark> Bei uns habe ich vor geraumer Zeit festgestellt, dass wir unheimlich viele Papiertüten von Obst und Gemüse hatten. Damit meine ich diese braunen in denen Sprossen oder auch Tomaten verpackt werden, damit sie nicht beschädigt werden. Also habe ich mich für eine Alternative enschieden: Gemüsenetze aus Stoff. Und wenn sich eine Tüte nicht gut vermeiden lässt, so wie bei Erdbeeren, dann nehme ich einfach die **schon benutzten Papiertüten** wieder mit und **verwende sie nochmal**.
 
-![Obsttüten vom Markt](/assets/inpost-images/2019/2019-05-27-obst-tueten.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-obst-tueten.jpg" alt="Ein paar braune Papier-Obsttüten vom Markt" title="" caption="" %}
 
 Dadurch, dass du auf deinen Müll achtest, kannst du ganz schnell sehr viel davon einsparen. Und du kannst Stück für Stück vorgehen und musst dich nicht allem gleichzeitig widmen.
 
 ## 2. Trinke Leitungswasser
 Ja, ich weiß. Das ist der wohl häufigste Tipp, den man im Internet findet. Das liegt daran, dass es ein sehr guter Tipp ist. Das **Leitungswasser in Deutschland hat eine sehr gute Qualität** und wird streng kontrolliert. Dabei wird diese Qualität sogar durch eine Verordnung geschütz, die **Trinkwasserverordnung** (die wir übrigens dank der EU haben). Dort ist festgehalten, _"dass das Trinkwasser nicht nur an der Übergabestelle ins Haus, sondern auch in der Trinkwasserinstallation bis zum Wasserhahn einwandfrei sein muss. Entsprechend müssen auch Hauswasserleitungen durch die Vermieter saniert werden."_, (Wikipedia: Leitungswasser).
 
-![Wasser aus dem Hahn](/assets/inpost-images/2019/2019-05-27-trinke-leitungswasser.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-trinke-leitungswasser.jpg" alt="Wasser aus dem Hahn" title="" caption="Wir trinken fast nur Leitungswasser. Für Sprudelwasser haben wir einen Sodastream." %}
 
 Das Trinken von Leitungswasser ist also in neueren Häusern kein Problem. Wenn du in einem älteren Gebäude wohnst, dann informiere dich vorher zur Sicherheit bei der Hausverwaltung, man weiß ja nie und better save than sorry. Auf der [Seite des Bundesministeriums für Gesundheit](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/t/trinkwasser.html) kannst du dich noch weiter zum Thema Trinkwasser informieren. Dort findest du auch die vollständige _Trinkwasserverordnung_.
 
 Ein weiterer Vorteil von Leitungswasser ist: Du kannst immer deine **eigenen Flasche dabei** haben und sie unterwegs auf Toiletten oder Gaststätten auffüllen. Das ist sehr praktisch und spart auch den ein oder anderen Euro. In [Was kostet Zero Waste im Haushalt?](/blog/was-kostet-zero-waste-im-haushalt/) habe ich das mal ausgerechnet. Über ein ganzes Jahr hinweg kommen da gut und gerne **360€** zusammen, die man sich sparen kann. Leitungswasser ist nämlich sau günstig. Für einen **Liter aus dem Hahn** bezahlst du um die **0,002€**, wohingegen **Flaschenwasser von Discounter** bereits **0,33€ pro Liter** kostet.
 
-![Eigene Flasche mitnehmen](/assets/inpost-images/2019/2019-05-27-eigene-wasserflasche.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-eigene-wasserflasche.jpg" alt="Meine Edelstahlflasche von KleanKanteen" title="" caption="Meine Edelstahlflasche nehme ich überall mit hin. Sie ist sehr stabil, leichter als eine Glasflasche und einfach sauber zu halten." %}
 
 Und falls du jetzt meinst: "Das ist ja alles schön und gut, aber ich mag stilles Wasser nicht wirklich, ich trinke lieber **Sprudelwasser**". Tja, auch dann kann ich dir Leitungswasser empfehlen, denn das kannst du einfach mit einem **SodaStream** sprudeln. Und falls du auch mal etwas anderes trinken willst, als nur Wasser, gibt es inzwischen viele **verschiedene Sirups** von unterschiedlichen Marken, auch **im Glas**, die du zusammen mit dem aufgesprudelten Wasser und leckeren Schorlen oder sogar Cola mischen kannst.
 
@@ -43,7 +43,7 @@ Niemand braucht diese ganzen Zewas und Einmal-Tücher zum Putzen. Für praktisch
 
 Auch um Oberflächen feucht abzuwischen, können Spültücher genutzt werden, ebenso wie für das Spülen an sich. Ich habe sogar schon **nachhaltige Spülschwämme im Unverpackt Laden** gesehen. Also auch da gibt es Alternativen. Und das ganze ist nicht nur gut um Ressourcen zu schonen, sondern auch um Geld zu sparen. Denn die Waschgänge  sind günstiger als immer alles nch zu kaufen. Glaub mir, ich habe es ausgerechnet, was du in meinem Beitrag [Was kostet Zero Waste im Haushalt?](/blog/was-kostet-zero-waste-im-haushalt/) nachlesen kannst.
 
-![Waschbare Spül-, Putz und Staubtücher](/assets/inpost-images/2019/2019-05-27-waschbare-tuecher.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-waschbare-tuecher.jpg" alt="Waschbare Spül-, Putz und Staubtücher in verschiedenen Farben" title="" caption="" %}
 
 Alleine die Deutschen verbrauchen **pro Jahr 248kg Papier** (Stand 2010), wobei **Hygienepapiere** 10% daran ausmachen. Das sind **25kg pro Jahr und Kopf** an zu großem Teil sinnlos verwendeten Rohstoffen. Und gerade der Verbrauch von Hygienepapieren steigt immer weiter. Das muss nun wirklich nicht sein.
 
@@ -57,11 +57,11 @@ Nur so als kleine Anekdote: Das einzige, was wir noch an Einweg-Papier kaufen is
 ## 4. Nimm Taschen mit zum Einkauf
 Ja, ich weiß, auch das ist ein alter Hut mitlerweile. Aber lass mich noch eins klarstellen: Nicht nur Stofftaschen kanns du zum Einkaufen verwenden. Wie wäre es zum Beispiel mit dem guten alten **Rucksack, einem Korb oder Fahrradtaschen**? Wenn du richtig Hardcore bist, dann kannst du auch einen **Einkaufstrolley** nehmen, auch genannt _Hackenporsche_. Habe ich früher auch immer verwenden und die Dinger sind einfach echt praktisch, besonders für einen großen Wocheneinkauf.
 
-![Stofftasche](/assets/inpost-images/2019/2019-05-27-stofftasche-fuer-den-einkauf.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-stofftasche-fuer-den-einkauf.jpg" alt="Eine Stofftasche mit dem Darmstadt-Motiv" title="" caption="" %}
 
 Warum ist es so wichtig keine Plastiktüten zu verwenden? Naja, weil wir Deutschen im Durchschnitt **71 Stück** davon **pro Kopf pro Jahr** verwenden. Das **gesamte Land** kommt auf eine erschreckende Bilanz von unglaublichen **68.000 Tonnen Kunststoff**, die **allein für Plastiktüten** drauf gehen (Stand 2011). Das kannst du auch beim [Umweltbundesamt](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/4453.pdf) nochmal nachlesen.
 
-![Zero Waste Notfall-Kit](/assets/inpost-images/2019/2019-05-27-zero-waste-notfall-kit.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-zero-waste-notfall-kit.jpg" alt="Mein Zero Waste Notfall-Kit bestehend aus einer kleiner Taschen in der sich ein paar Gemüsenetze und ein Brotbeutel befinden." title="" caption="Enthalten sind in dem Kit ein paar Gemüsenetze und ein Brotbeutel." %}
 
 <mark>Für den Wocheneinkauf bin ich natürlich immer vorbereitet. Aber auch für Notfälle findet sich immer eine Stofftüte in meiner Handtasche oder meinem Rucksack. Zusätzlich habe ich auch noch mein Notfall-Kit.</mark> Das ist eine **kleine Tasche, die Gemüsenetze und Beutel beinhaltet**. Falls ich also mal was vom Bäcker brauche oder sich ein spontaner Einkauf anbahnt, bin ich ausgerüstet.
 
@@ -70,7 +70,7 @@ Vielleicht ist es dir nicht klar, aber im durchschnittlichen Supermarkt und soga
 
 "Aber ich kann doch nicht die ganzen Kartoffeln lose auf's Band legen!" Ehm, doch. Die Kassierer müssen damit klar kommen. Außerdem ist das eine kleine Form des _Zivilen Ungehorsams_, durch die die Supermärkte eventuell anfangen umzudenken. By the way, damit fangen sie auch schon an. Es gibt inzwischen **Mehrweg-Gemüsenetze bei** Läden wie **Rewe** zu kaufen, die man dann für solche Fälle verwenden kann. Alternativ kannst du natürlich auch immer noch auf den **Wochenmarkt** gehen.
 
-![Konserven im Glas](/assets/inpost-images/2019/2019-05-27-konserven-im-glas.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-konserven-im-glas.jpg" alt="Mais, Passata und Kidney-Bohnen im Glas statt in der Dose" title="" caption="" %}
 
 Wie sieht es jetzt aber bei anderen Dingen aus? Oft hast du die Möglichkeit auf **Pfandflaschen oder Gläser** umzusteigen. Die gibt es natürlich bei Getränken, aber auch für **Milch, Sahne, Buttermilch, Joghurt und Quark**. Auch bei **Saucen und Konserven** gibt es oft auch eine **Variante im Glas**, dass du dann wiederverwenden kannst oder das zumindest effizienter recycelt werden kann. Das ist der Fall bei **Mais, Bohnen, Thunfisch, Kichererbsen, Bohnen, Passierten Tomaten, Mayo, Ketchup**, und vielem mehr. Ich finde, dass man besonders bei _teegut_ und _Alnatura_ eine sehr große Auswahl geboten bekommt.
 
@@ -84,7 +84,7 @@ Etwas neues für das _teegut_ jetzt Werbung macht ist, dass du deine **[Eigene T
 ## 6. Verwende keine Frischhaltefolie
 Frischhaltefolie ist nun echt nicht mehr am Puls der Zeit und kann sehr, sehr, sehr einfach ersetzt werden, und das sogar auf viele verschiedene Arten. Du kannst klassisch eine **Tupperdose** zur Aufbewahrung verwenden oder aber **Einmachgläser** oder du verwendest die **aufgehobenen Gläser von Mais und Co**. Wenn du etwas nur für eine Nacht in den Kühlschrank stellst, kannst du auch **einfach einen Teller auf das Gefäß legen**.
 
-![Zitrone im Weckglas](/assets/inpost-images/2019/2019-05-27-weckglas-zur-aufbewahrung.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-weckglas-zur-aufbewahrung.jpg" alt="Eine halbe Zitrone in einem Weckglas." title="" caption="So kann Aufbewahrung im Kühlschrank auch aussehen." %}
 
 Die Hippster-Variante des ganzen sind übrigens _Bee's Wraps_. Das sind **kleine Stoffe**, die **mit Bienenwachs versiegelt** sind und genau wie Frischhaltefolie verwendet werden können. Aber im Unterschied zu dieser, können die _Bee's Wraps_ danach unter kalten Wasser abgespült und wieder verwendet werden. Geile Erfindung, wie ich finde. [Bee's Wrap](https://www.beeswrap.com/) kannst du inzwischen bei Alnatura kaufen, hier im Unverpackt Laden gibt es eine sehr ähnliche Variante von einem anderen Hersteller, oder du bestellst sie online.
 
@@ -104,7 +104,7 @@ Bei Kassenzetteln finde ich es jedes mal schade, dass es noch keine bessere Lös
 
 Aber warum sind diese kleinen Zettel, denn eigentlich die Inkarnation des bösen? Naja, weil sie hinterhältige kleine Biester sind und vorgeben etwas anderes zu sein. Die meisten Menschen denken nämlich, dass es sich dabei bloß um ein Stück Papier handelt, aber weit gefehlt. Kassenbons sind in der Regel **mit einer dünnen Schicht aus Plastik beschichtet** und diese enhält meist auch noch das giftige **Bisphenol A**.
 
-![Alte Kassenzettel](/assets/inpost-images/2019/2019-05-27-alte-kassenzettel.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-27-alte-kassenzettel.jpg" alt="4 zerknüllte Kassenzettel." title="" caption="Kassenzettel solltest du vermeiden. Aber wenn du sie doch mal entsorgen musst, dann im Restmüll." %}
 
 Dieses wirkt sich negativ auf unseren Hormonhaushalt aus. Weibliche Sexualhormone werden verstärkt ausgeschüttet und männliche weniger. Außerdem wurde gezeigt, dass "_fast alle Studien, die menschliches Blut untersuchten, [...] relevante Konzentrationen von freiem Bisphenol A [fanden]._" ([Umweltbundesamt: BISPHENOL A - Massenchemikalie mit unerwünschten Nebenwirkungen](https://www.umweltbundesamt.de/sites/default/files/medien/publikation/long/3782.pdf)). Jeder von uns kommt schon damit in Berührung, das muss man nicht auch noch überstrapazieren.
 

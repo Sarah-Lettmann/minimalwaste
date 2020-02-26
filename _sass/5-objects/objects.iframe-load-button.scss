@@ -1,4 +1,5 @@
 .iframe__load-button {
+  margin-bottom: 0;
   @include attention {
     .iframe__cover {
       background-color: $primary-400;

@@ -5,7 +5,7 @@ subtitle: "Was wir alles gesehen und welche Erfahrungen wir gemacht haben"
 date: 2020-02-28
 categories: [Klima, Grün Reisen]
 description: "2019 habe ich mit meinem Freund eine Interrail Reise durch Europa gemacht. Wir waren 22 Tage unterwegs und haben 12 Städte gesehen. Ein Reisebericht."
-keywords: [Interrail, Interrail Reise, ]
+keywords: [Interrail, Interrail Reise]
 related-posts: ["0068", "0069", "0071", "0061", "0067", "0010"]
 ---
 Ich wollte schon immer eine richtige Backpacking Reise machen. In Hostels schlafen, nur den Rucksack dabei haben und die Dinge nehmen wie sie kommen. 2019 war es dann soweit. Wir habe unsere Reise geplant. 22 Tage sollten es werden und 12 Städte wollten wir sehen. Von allen Seiten wurde uns gesagt, dass das bestimmt sehr anstrengend sei, aber wir fanden die Idee super. Das hier ist der Reisebericht.
@@ -18,6 +18,8 @@ Ganz gemütlich fuhren wir mit dem ICE von Frankfurt die paar Stunden nach Brüs
 In Brüssel hatten wir nur einen halben Tag und am nächsten Morgen sollte es schon weiter gehen. Also schauten wir uns die Innenstadt an, den [Grote Markt](https://de.wikipedia.org/wiki/Grand-Place/Grote_Markt) und auch das [Manneken Pis](https://de.wikipedia.org/wiki/Manneken_Pis), nachdem wir zwei Mal dran vorbeigelaufen waren (Wir hatten es uns größer vorgestellt). Wir fanden einen kleinen Sandwichladen, der Belegte Brote mit Käse und Früchten anbot und genossen unser Mittagessen in der warmen Septembersonne.
 
 Nachmittags machten wir uns dann auf einen etwas weiteren Fußmarsch Richtung [Parlamentarium](https://www.europarl.europa.eu/visiting/de/visitor-offer/brussels/parlamentarium). Am Europäischen Parlament gelegen, ist das Parlamentarium ein kostenloses Museum, dass die Geschichte der EU zeigt. Sehr empfehlenswert!
+
+![Ich am Frankurter Hauptbahnhof am Tag der Abreise, bepackt mit zwei Rucksäcken](/assets/inpost-images/2020/2020-02-28-abreisetag.jpg)
 
 ## Edinburgh
 Am nächsten Tag ging es dann weiter Richtung Edinburgh. Dazu mussten wir durch den Eurotunnel. Nachdem wir einige Schweierigkeiten hatten das Gate zu finden, ging es sehr schnell durch die Sicherheitskontrolle (Wir durften die Premium-Schlange benutzen, keine Ahnung warum). Die Fahrt durch den Tunnel war leider sehr unspektakulär, aber wir waren nach 2 Stunden in London. Dort einmal schnell über die Straße, um den Bahnhof zu wechseln und ab in den Zug nach Schottland. Dieser Streckenabschnitt war etwas zermürbend, denn er dauerte knapp 5 Stunden.

@@ -1,7 +1,5 @@
 .iframe {
   margin: 3rem 0;
-  overflow: hidden;
-  position: relative;
 
   .video,
   .map {
@@ -17,12 +15,20 @@
     display: block;
   }
 
+  &__inner {
+    overflow: hidden;
+    position: relative;
+  }
+
   &__external-notice a {
     background: linear-gradient($neutral-100, $neutral-100) 50% 1.1em / 100% 1px no-repeat;
   }
 
   &--loaded {
-    padding-top: 56.25%;
+
+    .iframe__inner {
+      padding-top: 56.25%;
+    }
 
     .iframe__load-button,
     .iframe__cover {
