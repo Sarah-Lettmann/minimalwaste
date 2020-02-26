@@ -1,34 +1,9 @@
-$breakpoint-xsmall: 400px;
-$breakpoint-small: 540px;
-$breakpoint-medium: 800px;
 $breakpoint-desktop: 1236px; //1196px + 40px padding
 
 // breakpoint mixin
 // @include breakpoint(breakpointname) { ... }
 @mixin breakpoint($size) {
-  @if $size == xsmall {
-    @media (max-width: $breakpoint-xsmall) { @content; }
-  }
-  @else if $size == small {
-    @media (max-width: $breakpoint-small) { @content; }
-  }
-  @else if $size == smallAndUp {
-    @media (min-width: $breakpoint-small + 1) { @content; }
-  }
-  @else if $size == medium {
-    @media (min-width: $breakpoint-small + 1) and (max-width: $breakpoint-medium) { @content; }
-  }
-  @else if $size == mediumAndDown {
-    @media (max-width: $breakpoint-medium) { @content; }
-  }
-  @else if $size == mediumAndUp {
-    @media (min-width: $breakpoint-medium + 1) { @content; }
-  }
-  @else if $size == largeAndUp {
-    @media (min-width: $breakpoint-desktop + 1) { @content; }
-  }
-
-  @else if $size == desktop {
+  @if $size == desktop {
     @media (min-width: $breakpoint-desktop) { @content; }
   }
   @else if $size == mobile {

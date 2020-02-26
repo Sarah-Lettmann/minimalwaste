@@ -2,6 +2,6 @@
   Einbinden mit {% include figure.html src="" alt="" title="" caption="" %}
 {% endcomment %}
 <figure>
-  <img src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
+  <img class="lazyload" data-src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
   <figcaption>{{ include.caption }}</figcaption>
 </figure>
