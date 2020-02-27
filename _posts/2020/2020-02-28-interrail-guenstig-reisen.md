@@ -37,7 +37,7 @@ In den Apps _Tripadvisor_ und _Guides by Lonely Planet_ kannst du gezielt nach k
 
 Auch viele **Parks, Denkmäler und öffentliche Gebäude sind kostenlose** und können einfach besichtigt werden. In Großbritannien sind beispielsweise viele der Museen kostenlos. Das Pantheon in Rom ist z.B. auch kostelose zu beisichtigen.
 
-![Die schillerne Glaskuppel der Galeries Lafayette](/assets/inpost-images/2020/2020-02-28-galeries-lafayette.jpg)
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-galeries-lafayette.jpg" alt="Die schillerne Glaskuppel der Galeries Lafayette von innen in ihren vielen bunten Farben" title="" caption="Die schillerne Glaskuppel der Galeries Lafayette" %}
 
 Auch geführte Touren kosten einiges an Geld, sind aber in der Regel eine sehr gute Möglichkeit, um eine Stadt zu entdecken. Manchmal gibt es kostenlose Walking Tours vom Hostel, manchmal gibt es welche von Anbietern wie von [Generation Tours](https://www.generationtours.com/) oder [New Europe](https://www.neweuropetours.eu/). Die **Touren sind erstmal kostenlos**. Am Ende der Führung entscheided man wie gut es einem gefallen und wie viel die Tour einem Wert war. Hier kannst du also nach deinem Eigenen ermessen zahlen. Vergiss dabei aber bitte nicht, dass die Guides auch von etwas leben müssen.
 

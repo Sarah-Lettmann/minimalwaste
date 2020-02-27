@@ -43,7 +43,7 @@ Hier kurz ein paar Infos zusammen gefasst:
 
 10. Für solche Sitzplatzreservierungen in anderen Ländern, kann ich [ACP Rail International](https://shop.acprail.com) empfehlen. Auf dieser Seite kannst du internationale Zugreisen buchen, unabhängig von Interrail. Was aber sehr von Vorteil ist: Du kannst für Verbindungen nur die Sitzplatzreservierung kaufen. Also perfekt für eine Kombination mit einem Interrail Ticket.
 
-![Mein Interrail Ticket mit allen eingetragenen Reisezielen](/assets/inpost-images/2020/2020-02-28-interrail-ticket.jpg)
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-interrail-ticket.jpg" alt="Mein Interrail Ticket mit allen eingetragenen Reisezielen" title="" caption="Mein Interrail Pass" %}
 
 ## Reiseplanung
 Ich empfehle dir deine Reise vorher zu planen und das meiste auch vorher zu buchen, das ist am günstigsten. So solltest du dir voher überlegen, welche Strecke du nehmen willst, damit du Hostels buchen kannst. Dabei kann dir die [RailPlanner App](https://www.interrail.eu/de/reise-planen/bahnreisenplanerapp) helfen. Oder die guckst direkt auf der [Seite von Interrail unter Interrail-Zugfahrplan](https://www.interrail.eu/en/plan-your-trip/interrail-timetable). Dort findest du die Zeiten und Abfahrtsorte und ob du eine Reservierung brauchst oder nicht. Ich habe mir damals einen Reiseplan in Excel erstellt. In der App kannst du aber auch Verbindungen auswählen und in einem Reiseplan abspeichern.
@@ -54,7 +54,7 @@ In jedem Fall solltest du für den Eurotunnel im Voraus reservieren, da du dort 
 
 Bei Nachtzügen würde ich dir ebenfalls raten vorher zu reservieren. Denn schließlich willst du die Zeit zum Schlafen nutzen und wenn du zu spät buchst und dann kein Liegeplatz mehr bekommst, wäre das schon ziemlich doof.
 
-![Sitzplatzreservierungen über ACP Rail International](/assets/inpost-images/2020/2020-02-28-apc-rail.jpg)
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-apc-rail.jpg" alt="Die Reservierungsmaske auf ACP Rail, die es ermöglicht nur Sitzplätze zu reservieren" title="" caption="Sitzplatzreservierungen über ACP Rail International" %}
 
 ## Sich unterwegs zurecht finden
 Für die Navigation von Bahnhof zu Hostel und zurück (und natürlich auch sonst), haben wir einfach Google Maps verwendet. Im Vorfeld ein wenig Recherche reicht meist schon aus, um zu wissen, an welchem Bahnhof man ankommt und ob das Hostel fußläufig ist. Wenn du noch ein Stück mit dem ÖPNV fahren musst, dann ist eine kurze Recherche vorher auch empfehlenswert. In der Regel kommt man mit Englisch aber überall weiter und die Servicemitarbeiter sind sehr freundlich.

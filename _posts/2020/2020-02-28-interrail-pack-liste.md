@@ -25,6 +25,8 @@ Wir hatten also jeder einen "großen" Rucksack für unsere Klamotten usw. dabei.
 
 Da wir sehr viel unterwegs waren, hatte ich mich für ein gemütliches Reiseoutfit entschieden, dass ich fast ausschließlich trug: **Turnschuhe, eine Leggins, ein T-Shirt und einen Sweatshirt**. Zusätzlich hatten wir windfeste **Regenjacken** dabei. Diese hat zusammen mit dem Pulli und der Jeans geholfen sogar mich gegen das kalte schottische Regenwetter zu wappnen.
 
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-ausstattung-tagesausfluege.jpg" alt="Kleiner Rucksack, Turnschuhe, Leggings, T-Shirt und Sweatshirt sowie Multitool, Powerbank, Einkausbeutel und Besteck" title="" caption="Kleiner Rucksack, Turnschuhe, Leggings, T-Shirt und Sweatshirt sowie Multitool, Powerbank, Einkausbeutel und Besteck" %}
+
 Zusammenfassung:
 - großer Wanderrucksack
 - kleiner Rucksack für Tagesausflüge
@@ -35,8 +37,6 @@ Zusammenfassung:
 - eine bequeme Hose, z.B. eine Leggings oder Trainingshose
 - 1 - 2 einfache T-Shirts
 
-![Kleiner Rucksack, Turnschuhe, Leggings, T-Shirt und Sweatshirt sowie Multitool, Powerbank, Einkausbeutel und Besteck](/assets/inpost-images/2020/2020-02-28-ausstattung-tagesausfluege.jpg)
-
 ## Essen und Trinken
 Es ist ratsam einige Utensilien mit zunehmen, nicht nur um Müll zu vermeiden, sondern auch um möglichst flexibel zu sein. So hatten wir jeder eine **wiederbefüllbare Wasserflasche** dabei. Diese haben wir in Hostels immer wieder aufgefüllt. Dazu musst du dich natürlich vorher erkundigen (oder googlen), ob das Leitungswasser Trinkwasser Qualität hat. Bei uns war das so gut wie überall der Fall.
 
@@ -46,13 +46,13 @@ Um das Essen auch unterwegs zu transportieren, hatten wir eine **Dose** mit. Die
 
 Für das Einkaufen bietet es sich zudem an, ein paar **Stofftaschen und Gemüsenetze** mitzunehmen. Dadurch kannst du günstig und müllreduziert auf lokalen Märkten einkaufen oder einfach nur im Supermarkt. So oder so sparst du viel Geld durch selber kochen.
 
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-ausstattung-essen-und-einkaufen.jpg" alt="Meine Wasserflasche und Besteck für unterwegs sowie eine Dose und Einkaufsbeutel" title="" caption="Meine Wasserflasche und Besteck für unterwegs sowie eine Dose und Einkaufsbeutel" %}
+
 Zusammenfassung:
 - Wiederbefüllbare Wasserflasche
 - Eigenes Besteck (Messer, Gabel, Löffel, Trinkhalm, Serviette)
 - Eine Dose für Brote unterwegs oder Reste vom Kochen
 - 1 - 2 Stofftaschen fürs einkaufen + leichte Gemüsenetze
-
-![Meine Wasserflasche und Besteck für unterwegs sowie eine Dose und Einkaufsbeutel](/assets/inpost-images/2020/2020-02-28-ausstattung-essen-und-einkaufen.jpg)
 
 ## Ausstattung für Hostels
 In Hostels übernachtet es sich etwas anders als in Hotels, vielleicht hast du diese Erfahrung auch schon gemacht. Es gibt oft Gemeinschaftsbäder und eine Küche, in der man Kochen kann. Oft muss man sein Bett selbst beziehen und wieder abziehen, es gibt oft keine Handtücher und natürlich gibt es auch Dorms (Gemeinschatsschlafsäle). Für all das sollte man vorbereitet sein.
@@ -63,6 +63,8 @@ Ratsam ist es auch einen **Fön** einzupacken, da es zwar in manchen Hostels sow
 
 Für die Nachtruhe ist es unbedingt empfehlenswert **Ohstöpsel** dabei zu haben. In Hostels kann es nämlich doch mal etwas lauter sein, besonders wenn man in einem Gemeinschaftssaal liegt. In Kombination damit rate ich dir auch zu einer **Schlafmaske**. Beides hängt natürlich davon ab, wie empfindlich du bist.
 
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-mitnehmen-hostels.jpg" alt="Reisehandtuch, Kosmetikbeutel mit Haken, Badeschlappen, eine Tüte für Klamotten, Schlafmaske und Ohrstöpsel" title="" caption="Reisehandtuch, Kosmetikbeutel mit Haken, Badeschlappen, eine Tüte für Klamotten, Schlafmaske und Ohrstöpsel" %}
+
 Zusammenfassung:
 - Badeschlappen
 - Reisehandtuch
@@ -71,8 +73,6 @@ Zusammenfassung:
 - Fön
 - Schlafmaske
 - Ohrstöpsel
-
-![Reisehandtuch, Kosmetikbeutel mit Haken, Badeschlappen, eine Tüte für Klamotten, Schlafmaske und Ohrstöpsel](/assets/inpost-images/2020/2020-02-28-mitnehmen-hostels.jpg)
 
 Bei Kosmetik kann es sich auch lohnen Zero Waste Alternativen auszuprobieren. Festes Shampoo, Zahnpastatabletten, eine Menstruationstasse und festes Deo eigenen sich sehr gut für Reisen.
 {: .tipp}
@@ -103,7 +103,7 @@ Es hängt natürlich sehr stark von dir ab, was du an Klamotten einpackst. Mach 
 
 Überlegt dir vorher wie deine Reise aussehen soll und was dir wichtig ist. Versuche auch Klamotten einzupacken, die **multifunktional** sind und **wenig Platz wegnehmen**. Ganze fünf Paar Schuhe einpacken ist beispielsweise keine gute Idee.
 
-![Packwürfel, Turnschuhe, Leggings, T-Shirt und Sweatshirt](/assets/inpost-images/2020/2020-02-28-reiseoutfit.jpg)
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-reiseoutfit.jpg" alt="Packwürfel, Turnschuhe, Leggings, T-Shirt und Sweatshirt" title="" caption="Packwürfel, Turnschuhe, Leggings, T-Shirt und Sweatshirt" %}
 
 Hier gibt es noch die Packliste zum Download:
 {% include download.html name="Interrail Pack Liste" path="/assets/downloads/2020-02-28-interrail-pack-liste.jpg" size="156KB" %}

@@ -36,9 +36,9 @@ Die Menge von 0.75 Litern passt ziemlich genau in eine Upcycelte Glasflasche von
 - 1 großzügige Prise Salz
 - 1/2 Teelöffel Zucker
 
-![Ein Flasche Hafermilch auf einem Brett, im Hintergund Bananen und eine rote Stoffserviette](/assets/inpost-images/2020/2020-02-28-milchalternative-hafermilch.jpg)
-
 Besonders wichtig wichtig ist es, die Haferflocken nicht einzuweichen vorher. Stattdessen solltest du lieber feine Haferflocken und keine ganzen nehmen, wenn dein Mixer kein High-End-Gerät ist. Außerdem solltest du immer kaltes Wasser zum mixen nehmen. Das verhindert, dass die Milch nachher zu schleimig wird.
+
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-milchalternative-hafermilch.jpg" alt="Ein Flasche Hafermilch auf einem Brett, im Hintergund Bananen und eine rote Stoffserviette" title="" caption="" %}
 
 Für besonders schaumige Milch zum Aufschlagen kannst du auch noch 1 EL Rapsöl hinzugeben (für die 1 Liter Variante).
 
@@ -98,7 +98,7 @@ Bei Nüssen ist es eine gute Idee, diese ein paar Stunden vorher einzuweichen. D
 
 Auch diese Milch siebe ich durch einen Nussmilchbeutel (oder wahlweise ein Tuch) in ein großes Gefäß und fülle sie anschließen in eine Flasche.
 
-![Ein Flasche Mandelmilch auf einem Brett, einzelne Mandeln verstreut im Vordergrund, im Hintergund ein paar Äpfel](/assets/inpost-images/2020/2020-02-28-milchalternative-mandelmilch.jpg)
+{% include figure.html src="/assets/inpost-images/2020/2020-02-28-milchalternative-mandelmilch.jpg" alt="Ein Flasche Mandelmilch auf einem Brett, einzelne Mandeln verstreut im Vordergrund, im Hintergund ein paar Äpfel" title="" caption="" %}
 
 Und auch hier wieder die Frage: Was kostet diese Milchalternative? Natürlich variiert das, je nachdem welche Nüsse du verwendest. Mandeln gehören noch zu den vergleichsweise günstigen Varianten. Mandeln kosten beim Discounter 1,00€, im Supermarkt 1,85€ und im Unverpackt Laden 2,60€ pro 100g. In der Folgenden Tabelle sind die Kosten der unterschiedlichen Varianten pro Liter Mandelmilch aufgelistet.
 
