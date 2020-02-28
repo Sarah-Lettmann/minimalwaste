@@ -26,7 +26,6 @@ Für 0,75L Hafermilch brauchst du
 - 80g ganze Haferflochen, nicht eingeweicht
 - 0.75 Liter kaltes Wasser
 - 1 Prise Salz
-- 1/4 Teelöffel Zucker
 
 Das alles gehört zusammen in einen Mixer. Für gute zwei bis drei Minuten schön durchmixen und dann durch einen Nussmilchbeutel oder ein Tuch in ein breites Gefäß sieben. Ich verwende dafür einen breiten Messbecher. Wenn du einen wirklich guten Mixer hast, kann es sein, dass du nicht sieben musst, ich mache das aber, da die Milch dadurch feiner wird. Nach dem Sieben kannst du alles in eine Flasche füllen.
 
@@ -34,7 +33,6 @@ Die Menge von 0.75 Litern passt ziemlich genau in eine Upcycelte Glasflasche von
 - 100g Haferflocken, nicht eingeweicht
 - 1 Liter kaltes Wasser
 - 1 großzügige Prise Salz
-- 1/2 Teelöffel Zucker
 
 Besonders wichtig wichtig ist es, die Haferflocken nicht einzuweichen vorher. Stattdessen solltest du lieber feine Haferflocken und keine ganzen nehmen, wenn dein Mixer kein High-End-Gerät ist. Außerdem solltest du immer kaltes Wasser zum mixen nehmen. Das verhindert, dass die Milch nachher zu schleimig wird.
 
@@ -75,9 +73,9 @@ Und nun eine meiner Lieblingsfragen: Wie viel kostet es Hafermilch selbst zu mac
   </tbody>
 </table>
 
-Ich habe hier nur den Preis für die Haferflocken berechnet und jeweils 3 Cent für Zucker und Salz draufgeschlagen. Damit sparst du also gegenüber der fertigen Hafermilch also mit jeder selbstgemachten Variante Geld.
+Ich habe hier nur den Preis für die Haferflocken berechnet und 3 Cent für Salz draufgeschlagen. Damit sparst du also gegenüber der fertigen Hafermilch mit jeder selbstgemachten Variante Geld.
 
-Wenn du einmal pro Woche 1 Liter Hafermilch herstellst und konsumierst, sparst du also sogar mit der vollständig verpackungsfreien Variante 0,61€ pro Woche, was im Jahr gute 32€ sind. Nicht schlecht.
+Wenn du einmal pro Woche 1 Liter Hafermilch herstellst und konsumierst, sparst du sogar mit der vollständig verpackungsfreien Variante 0,61€ pro Woche, was im Jahr gute 32€ sind. Nicht schlecht.
 
 ## Mandelmilch
 Jetzt zeige ich dir, wie man Mandelmilch selber macht. Nach dem gleichen Prinzip kannst du aber auch viele andere Nussmilchen selbst machen.
@@ -86,13 +84,13 @@ Du brauchst:
 - 80g Mandeln
 - 0.75 Liter Wasser
 - 1 Prise Salz
-- 1/4 Teelöffel Zucker
+- 1/3 Teelöffel Zucker
 
 Oder für einen ganzen Liter:
 - 100g Mandeln
 - 1 Liter kaltes Wasser
 - 1 großzügige Prise Salz
-- 1/2 Teelöffel Zucker
+- 1/4 Teelöffel Zucker
 
 Bei Nüssen ist es eine gute Idee, diese ein paar Stunden vorher einzuweichen. Das kannst du entweder über Nacht machen und dann morgens Milch zubereiten oder über den Vormittag und dann nachmittags alles in den Mixer werfen. Ein paar Stunden reichen hier wirklich schon aus, helfen aber, dass der Mixer eine cremigere Milch produziert.
 
