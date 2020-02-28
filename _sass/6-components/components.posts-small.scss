@@ -6,6 +6,7 @@ $cover-height-mobile: 280px;
   display: flex;
   @include breakpoint(mobile) {
     align-items: flex-start;
+    flex-basis: 100%;
     flex-direction: column;
   }
 

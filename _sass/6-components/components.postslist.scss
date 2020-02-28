@@ -22,6 +22,9 @@
 
   &__list-item {
     margin: 0 0 2rem;
+    @include breakpoint(desktop) {
+      flex-basis: 100%;
+    }
     @include breakpoint(mobile) {
       flex: 1 1 449px;
       margin: 0 1.25rem 3rem;

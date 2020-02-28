@@ -1,5 +1,7 @@
 .post__text {
   display: flex;
-  flex-basis: 100%;
   flex-direction: column;
+  @include breakpoint(desktop) {
+    flex-basis: 100%;
+  }
 }
