@@ -4,11 +4,14 @@
   .video,
   .map {
     display: none;
+    width: 100%;
+  }
+
+  .video {
     height: 100%;
     left: 0;
     position: absolute;
     top: 0;
-    width: 100%;
   }
 
   .map {
