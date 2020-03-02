@@ -16,11 +16,9 @@
   }
 
   .post__title {
-    margin: .75rem 0 0;
     order: 2;
     @include breakpoint(desktop) {
       font-size: $font-size-h1;
-      margin: 0;
     }
   }
 

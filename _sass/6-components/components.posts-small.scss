@@ -19,9 +19,8 @@ $cover-height-mobile: 280px;
   }
 
   .post__title {
-    margin: 0 0 .75rem;
-    @include breakpoint(mobile) {
-      margin: .75rem 0 0;
+    @include breakpoint(desktop) {
+      margin: 0 0 .75rem;
     }
   }
 
