@@ -23,7 +23,7 @@ Dabei lasse ich die Kosten für Wasser und Strom außern vor, da ich aus vergang
 
 ## Hafermilch
 Für 0,75L Hafermilch brauchst du
-- 80g ganze Haferflochen, nicht eingeweicht
+- 80g ganze Haferflocken, nicht eingeweicht
 - 0.75 Liter kaltes Wasser
 - 1 Prise Salz
 
