@@ -29,8 +29,8 @@
   <meta property="og:title" content="{{ page.title | remove: '&shy;' }} | {{ site.title }}" />
   <meta property="og:description" content="{{ page.description | escape }}" />
   <meta property="og:url" content="{{site.url}}{{ page.url }}" />
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-  <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}" />
+  <meta property="og:image" content="{{ site.url }}/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" />
+  <meta property="og:image:secure_url" content="{{ site.url }}/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" />
   <meta property="og:image:width" content="1260" />
   <meta property="og:image:height" content="840" />
   <meta property="og:updated_time" content="{{ page.date }}" />
