@@ -1,6 +1,7 @@
 Zero Waste:
   name: Zero Waste
   url: /category/zero-waste.html
+  parent: none
   featured: ["0064", "0062", "0044", "0038"]
   pages:
     - title: Alle Unverpack Läden im Überblick
@@ -54,6 +55,7 @@ Rohstoffe und Recycling:
 Minimalismus:
   name: Minimalismus
   url: /category/minimalismus.html
+  parent: none
   featured: ["0051", "0059", "0003", "0021"]
   links:
     - title: The Minimalists
@@ -66,6 +68,7 @@ Minimalismus:
 Sustainable Fashion:
   name: Fair Fashion
   url: /category/sustainable-fashion.html
+  parent: none
   featured: ["0042", "0011"]
   pages:
     - title: Nachhaltige Mode Online finden
@@ -78,6 +81,7 @@ Sustainable Fashion:
 Klima:
   name: Klima
   url: /category/klima.html
+  parent: none
   featured: ["0063", "0067"]
   links:
     - title: How Bad are Bananas? The Carbon Footprint of Everything, Mike Berners-Lee
