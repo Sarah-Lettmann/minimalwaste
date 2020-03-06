@@ -1,0 +1,26 @@
+.toc {
+  border: 1px solid $primary-500;
+  margin: 0;
+  max-width: 500px;
+  padding: 1rem;
+
+  li {
+    font-size: 1rem;
+
+    &::before {
+      background-color: $primary-500;
+      content: '';
+      height: 3px;
+      top: 14px;
+      width: 15px;
+    }
+  }
+
+  a {
+    background-size: 0% 1px !important;
+    @include transition-custom(background-size, .2s, ease-in, 0s);
+    @include attention {
+      background-size: 100% 1px !important;
+    }
+  }
+}
