@@ -1,10 +1,11 @@
 .plug {
-  text-align: center;
+  margin: 5rem auto;
 
   &--mobile {
     display: none;
     @include breakpoint(mobile) {
       display: block;
+      max-width: 300px;
     }
   }
 
