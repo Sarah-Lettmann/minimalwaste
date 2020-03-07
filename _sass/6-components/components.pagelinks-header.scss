@@ -1,0 +1,50 @@
+$author-image-size: 80px;
+
+.pagelinks__header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  padding-top: 1.25rem;
+  text-align: center;
+
+  &-author {
+    position: relative;
+
+    &::before,
+    &::after {
+      content: '';
+      height: $author-image-size - 4px;
+      position: absolute;
+      width: $author-image-size - 4px;
+    }
+
+    &::before {
+      background: url('/assets/icons/ellipse-top-left.svg') top left no-repeat;
+      background-size: 42px;
+      left: -3px;
+      top: -2px;
+    }
+
+    &::after {
+      background: url('/assets/icons/ellipse-down-right.svg') right bottom no-repeat;
+      background-size: 42px;
+      left: 6px;
+      top: 6px;
+    }
+  }
+
+  &-author-image {
+    border-radius: 50%;
+    height: $author-image-size;
+    margin: 0;
+    padding: 2px;
+    width: $author-image-size;
+  }
+
+  .logo {
+    height: 19px;
+    margin-top: .5rem;
+    width: 114px;
+  }
+}

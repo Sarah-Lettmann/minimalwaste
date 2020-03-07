@@ -1,8 +1,18 @@
 .site {
 
-  &--post {
+  &--post,
+  &--pagelinks {
     @include breakpoint(mobile) {
       margin-bottom: $height-header-mobile;
+    }
+  }
+
+  &--pagelinks {
+    margin: 0 auto;
+    max-width: 400px;
+
+    .main {
+      margin-top: 0;
     }
   }
 }

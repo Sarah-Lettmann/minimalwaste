@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    {% include meta.html %}
+    <title>{{ page.title | remove: '&shy;' }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description | escape }}" />
+    <meta name="keywords" content="{{ site.keywords | join: ', ' | escape }}"/>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#c1e6c1" />
+    <link rel="icon" type="image/x-icon" href="/assets/logos/favicon.ico" />
+    <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png" />
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+
+  {% if page.layout == "pagelinks" %}
+    {% assign additional-class = "site--pagelinks" %}
+  {% endif %}
+  <body class="site {{ additional-class }}">
+    <main id="main" class="main">
+      <div class="pagelinks container">
+        {% include pagelinks/header.html %}
+        {% include pagelinks/categories.html %}
+        {% include pagelinks/posts.html %}
+        {% include pagelinks/footer.html %}
+      </div>
+    </main>
+    <footer class="footer-scripts">
+      <script type="text/javascript" src="/js/lazysizes.min.js"></script>
+    </footer>
+  </body>
+
+</html>

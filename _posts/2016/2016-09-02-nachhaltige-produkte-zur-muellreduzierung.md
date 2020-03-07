@@ -13,6 +13,9 @@ Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispi
 
 Außerdem möchte ich anmerken, dass ich nicht alle Produkte selbst benutze und/oder noch nicht ausprobiert habe. Nur weil ein Produkt für jemanden funktioniert, muss es noch lange nicht für dich funktionieren. Diese Liste soll lediglich als Denkanstoß und zur Unterstützung deiner Recherche dienen. Das Ausprobieren bleibt immer noch dir überlassen. Trau dich!
 
+* TOC
+{:toc .toc}
+
 ## Abschminken
 Ich habe früher zum Abschminken immer Wattepads und Creme verwendet. Das fand ich nie ganz optimal, da die Schminke meist trotzdem nicht so gut abging und ich danach überall Überbleibsel der Wattepads im Gesicht hatte. Sehr gut zum Abschminken eigenen sich hingegen kleine Mikrofasertücher oder Pads aus Molton. Durch die feine Struktur reicht Wasser aus, um die Schminke zu lösen. Einfach super :D. Die Tücher können nach Gebrauch ganz einfach in der Waschmaschine gewaschen werden.  
 -> [Monomeer](http://www.monomeer.de/index.php?page=product_search),

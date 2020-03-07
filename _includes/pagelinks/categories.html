@@ -1,0 +1,27 @@
+<section class="pagelinks__categories" aria-labelledby="pagelinks-categories-title">
+  <h2 class="pagelinks__categories-title visually-hidden" id="pagelinks-categories-title">Unterkategorien</h2>
+  <ul class="pagelinks__categories-list">
+    {% for category in site.data.menu %}
+    <li class="pagelinks__categories-list-item">
+      <a class="pagelinks__categories-link" href="{{ category.href }}">
+        <h3 class="pagelinks__categories-title">{{ category.title }}</h3>
+        <div class="pagelinks__categories-cover cover cover--background">
+          <img class="pagelinks__categories-image cover__image lazyload" data-src="/assets/category-images/{{ category.title | slugify: 'latin' }}.jpg" alt="" />
+        </div>
+      </a>
+    </li>
+    {% if category.subcategories %}
+      {% for subcategory in category.subcategories %}
+      <li class="pagelinks__categories-list-item">
+        <a class="pagelinks__categories-link" href="{{ subcategory.href }}">
+          <h3 class="pagelinks__categories-title">{{ subcategory.title }}</h3>
+          <div class="pagelinks__categories-cover cover cover--background">
+            <img class="pagelinks__categories-image cover__image lazyload" data-src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </ul>
+</section>

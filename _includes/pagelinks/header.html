@@ -1,0 +1,9 @@
+<section class="pagelinks__header" aria-labelledby="page-links-title">
+  <div class="pagelinks__header-author">
+    <img class="pagelinks__header-author-image" src="{{ site.sarah-lettmann.picture }}" alt="Autor von MinimalWaste ist {{ site.sarah-lettmann.name }}" width="80" height="80" />
+  </div>
+  {% include header/logo.html %}
+  {% if page.title == 'Page Links' %}
+    <h1 id="page-links-title" class="page-title visually-hidden">{{ site.title }} - Page Links</h1>
+  {% endif %}
+</section>
