@@ -1,16 +1,16 @@
-.ad {
+.plug {
   text-align: center;
 
   &--mobile {
     display: none;
-    @include breakpoint(mediumAndDown) {
+    @include breakpoint(mobile) {
       display: block;
     }
   }
 
   &--desktop {
     display: block;
-    @include breakpoint(mediumAndDown) {
+    @include breakpoint(mobile) {
       display: none;
     }
   }

@@ -2,5 +2,6 @@
   <p class="post__subtitle"><span class="visually-hidden">Untertitel: </span>{{ page.subtitle }}</p>
   {{ page.excerpt }}
   {% include post/lead-magnet.html %}
+  {% include ads/inpost-fromAtoB.html %}
   {{ content | remove_first: page.excerpt }}
 </div>
