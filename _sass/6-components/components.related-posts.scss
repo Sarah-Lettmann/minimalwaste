@@ -4,6 +4,10 @@
   position: sticky;
   top: 84px;
 
+  &__title {
+    margin-top: 0;
+  }
+
   &__posts {
     display: flex;
     flex-wrap: wrap;
