@@ -12,7 +12,7 @@ Das neue Jahr hat gerade erst begonnen. Jetzt ist die beste Zeit gleich an den N
 
 _Ich war ja schon immer ein Sparbrötchen, aber seit ich “Minimalistin” bin, kann ich das noch viel extremer ausleben. Und seitdem ich so lebe, gebe ich auch viel weniger Geld aus als zuvor. Außerdem ist eine gute Planung auch nützlich, wenn man auf Zero Waste umsteigen will. Das Geld, das ich noch ausgeben ist außerdem anders verteilt, weil ich andere Prioritäten setze. Ganz oben auf meiner Liste stehen qualitativ hochwertige Lebensmittel._
 
-Für diesen Beitrag habe ich ein paar Downloads vorbereitet. Diese kannst du dir unter anderem [auf meiner Patreon Seite im Bereich Downloads runterladen](https://www.patreon.com/posts/bonus-zu-fur-34304328){: .patreon}.
+Für diesen Beitrag habe ich ein paar Downloads vorbereitet. Diese kannst du dir unter anderem [auf meiner Patreon Seite im Bereich Downloads runterladen](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}.
 
 ## Die Strukturierung deiner Finanzen
 Zuerst ein paar Worte wie du dein Geld aufbewahren und managen solltest. Dabei haben Konten natürlich eine wichtige Rolle inne. Aber auch Kreditkarten und Paypal sind heutzutage wichtig, um beispielsweise Hotels buchen oder im Ausland bezahlen zu können.

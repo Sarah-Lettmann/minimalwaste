@@ -19,7 +19,7 @@ Bei der Ernährung, die die _EAT-Lancet Commission_ empfiehl werden solchen Fakt
 
 _Es wird in dem Report ein umfassender Bericht vorgestellt wie eine Transformation des Lebensmittel-Sektors vollzogen werden kann. Auf diese ganzen Punkte möchte ich jetzt aber nicht im Detail eingehen, dass würde den Rahmen sprengen. Bei inteteresse kannst du dir das Papier aber gerne mal ansehen, ich habe es unten verlinkt._
 
-[Zusätzliche Downloads findest du auch auf meiner Patreon Seite.](https://www.patreon.com/posts/bonus-zu-health-34302097){: .patreon}
+[Zusätzliche Downloads findest du auch auf meiner Patreon Seite.](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}
 
 ## Welche Auswirkungen hat unsere Ernährung auf das Klima?
 Die Agrarindustrie ist für 30% der globalen Treibhausgas-Emissionen verantwortlich und für 70% der Nutzung von Süßwasser. Das ist eine Menge und somit ist auch klar, dass wir Mensch und Natur unter einen Hut bekommen müssen. <mark>Ziel des Reports ist deshalb nicht nur eine Richtlinie für eine gesunde Ernährung zu schaffen, sondern auch die Produktion der dafür benötigten Lebensmittel zu betrachten.</mark> Konkret werden sechs Schlüssel-Faktoren für die Umwelt erörtert. Bei diesen müssen wir uns verbesser und sie genau im Auge behalten, da sie momentan negative Auswirkungen auf und und den Planeten haben.

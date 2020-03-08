@@ -2,6 +2,7 @@
 <html lang="de">
 
   <head>
+    <script type="text/javascript" src="/js/google-tagmanager.js"></script>
     {% include meta.html %}
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png" />
@@ -12,6 +13,7 @@
     {% assign additional-class = "site--post" %}
   {% endif %}
   <body class="site {{ additional-class }}">
+    <script type="text/javascript" src="/js/google-tagmanager-no-script.js"></script>
     {% if page.title != "Impressum & Datenschutz&shy;erklärung" %}
       {% include cookie-consent.html %}
     {% endif %}
@@ -25,12 +27,8 @@
       <script type="text/javascript" src="/js/header-menu.js"></script>
       <script type="text/javascript" src="/js/lazysizes.min.js"></script>
       <script type="text/javascript" src="/js/more-button.js"></script>
-      <script type="text/javascript" src="/js/cookie-consent.js"></script>
       <script type="text/javascript" src="/js/iframe.js"></script>
       <script type="text/javascript" src="/js/disqus.js"></script>
-      {% if jekyll.environment == "production" %}
-        <script type="text/javascript" src="/js/include-scripts.js"></script>
-      {% endif %}
     </footer>
   </body>
 
