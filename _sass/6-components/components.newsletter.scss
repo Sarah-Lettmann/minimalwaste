@@ -37,6 +37,10 @@
       }
     }
 
+    &-hidden {
+      display: none;
+    }
+
     &-text {
       @include breakpoint(desktop) {
         order: 3;
