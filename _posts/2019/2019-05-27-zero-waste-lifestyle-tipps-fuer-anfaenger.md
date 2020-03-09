@@ -6,7 +6,7 @@ date: 2019-05-27
 categories: [Zero Waste]
 description: "Wenn man gerade erst mit dem Zero Waste Lifestyle anfängt, kann das schnell überwältigend sein. Darum sind hier meine 9 besten Zero Waste Tipps für Anfänger."
 keywords: [Zero Waste Lifestyle, Zero Waste Tipps, Zero Waste Anfänger]
-related-posts: ["0057", "0058", "0026", "0001", "0054", "0008"]
+related-posts: ["0057", "0058", "0026", "0001", "0054", "0073"]
 ---
 Ich liebe den Zero Waste Lifestyle und würde nie wieder zurück gehen wollen. Doch wenn man gerade erst anfängt, kann das alles sehr überwältigend sein. Es gibt inzwischen massig Informationen da draußen, was man alles machen kann und wozu es Alternativen gibt. Ich will dir heute ein paar Tipps für den Anfang geben, damit du gleich viel Plastik und unnötigen Verpackungsmüll sparst. Hier sind meine 9 besten Tipps für Anfänger.
 
