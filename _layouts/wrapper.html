@@ -18,9 +18,6 @@
     {% if jekyll.environment == "production" %}
       <script type="text/javascript" src="/js/google-tagmanager-no-script.js"></script>
     {% endif %}
-    {% if page.title != "Impressum & Datenschutz&shy;erklärung" %}
-      {% include cookie-consent.html %}
-    {% endif %}
     {% include header/header.html %}
     <main id="main" class="main">
       {{ content }}

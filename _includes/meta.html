@@ -19,7 +19,17 @@
   <meta property="og:title" content="{{ site.title }} - {{ site.subtitle }}" />
   <meta property="og:description" content="{{ site.description | escape }}" />
   <meta property="og:url" content="{{ site.url }}" />
-  <meta property="og:image" content="{{ site.url }}/assets/logos/logo.png" />
+  <meta property="og:image" content="{{ site.url }}/assets/content/homepage-image.jpg" />
+{% elsif page.category %}
+  <title>{{ page.title | remove: '&shy;' }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | escape }}" />
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}"/>
+  <link rel="canonical" href="{{site.url}}{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title | remove: '&shy;' }} | {{ site.title }}" />
+  <meta property="og:description" content="{{ page.description | escape }}" />
+  <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+  <meta property="og:image" content="{{ site.url }}/assets/category-images/{{ page.category | slugify: 'latin' }}.jpg" />
 {% else %}
   <title>{{ page.title | remove: '&shy;' }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description | escape }}" />
