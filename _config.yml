@@ -60,6 +60,12 @@ defaults:
     values:
       layout: "post"
       author: "sarah-lettmann"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "newsletter" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "newsletter"
 
 # Build settings
 future: true
@@ -68,6 +74,11 @@ theme: jekyll-theme-minimal
 plugins:
   #- jekyll-feed
   - jekyll-target-blank
+
+collections:
+  newsletter:
+    output: true
+    permalink: /newsletter/:title/
 
 # Sass
 sass:
