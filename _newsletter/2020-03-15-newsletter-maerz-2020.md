@@ -5,7 +5,7 @@ date: 2020-03-15
 ---
 Hallo und herzlich Willkommen zum ersten Newsletter!
 
-Einmal im Monat gibt es hier Infos zu interessanten Projekte, Podcasts, Video aber auch Kickstarter Projekte und neue nachhaltige Produkte. Eben alles, dass mir auf manigfaltigen Plattformen im Internet über den Weg läuft.
+Einmal im Monat gibt es hier Infos zu interessanten Projekte, Podcasts, Videos aber auch Kickstarter Projekte und neuen nachhaltigen Produkten. Eben alles, dass mir auf manigfaltigen Plattformen im Internet über den Weg läuft.
 
 ---
 
