@@ -50,11 +50,3 @@
     }
   }
 }
-
-.post__sidebar {
-  .lead-magnet {
-    @include breakpoint(mobile) {
-      display: none;
-    }
-  }
-}

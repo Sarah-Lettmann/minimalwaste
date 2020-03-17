@@ -1,0 +1,34 @@
+.patreon-banner {
+  margin-bottom: 5rem;
+  padding: 1.25rem 0;
+
+  &__title {
+    margin-top: 0;
+  }
+
+  &__content {
+    background-color: $patreon-200;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1.25rem;
+    padding-top: 1.25rem;
+
+    &.container {
+      max-width: $max-width-without-padding;
+    }
+  }
+
+  .patreon-link {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+.post__content {
+  .patreon-banner {
+    margin: 5rem 0;
+    padding: 0;
+  }
+}

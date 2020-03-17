@@ -1,7 +1,7 @@
 <div class="post__content">
   <p class="post__subtitle"><span class="visually-hidden">Untertitel: </span>{{ page.subtitle }}</p>
   {{ page.excerpt }}
-  {% include post/lead-magnet.html %}
+  {% include patreon-banner.html %}
   {% include ads/inpost-fromAtoB.html %}
   {{ content | remove_first: page.excerpt }}
   {% include ads/inpost-ubup.html %}
