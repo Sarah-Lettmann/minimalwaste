@@ -56,7 +56,7 @@ Hinzu kommt außerdem, dass Altglas gegenüber den Rohstoffen für neues Glas g�
 
 Zu den Emissionen, die bei Lieferungen von ferig verpackten Produkten entstehen, habe ich leider nicht viel gefunden. Aber bei Plastikflaschen mit Pfand ist der Transportweg oft weiter, da sie meist in einer zentralen Anlage abgefüllt werden. Wasser in Glasflaschen stammt oft aus der Region. <mark>Normale Kunststoffverpackungen ohne Pfand, werden zum Aufarbeiten außerdem oft nach China verschifft</mark>. Über die Ökobilanz von diesem Transportweg müssen wir glaube ich nicht weiter sprechen.
 
-![Glascontainer](/assets/inpost-images/2019/2019-03-22-altglascontainer.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-03-22-altglascontainer.jpg" alt="Glascontainer" title="" caption="" %}
 
 ## Zusammenfassung
 - Es werden zwei Millionen Tonnen Altlgas pro Jahr in Deutschland gesammelt

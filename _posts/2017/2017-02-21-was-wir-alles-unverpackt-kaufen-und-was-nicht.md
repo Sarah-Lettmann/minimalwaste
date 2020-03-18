@@ -72,13 +72,7 @@ In dem wirklich winzigen Geschäft arbeitet eine nette Frau, die uns den Lachs 
 
 Am Anfang war das ganze etwas unangenehm, man fällt ja schließlich auf. Aber mit der Zeit kennt man sich einfach besser aus, hat schon mehr zum Thema gelesen und kann so mit vielen Infos auffahren. Und es ist auch einfach eine Sache der Gewohnheit. Wenn die Verkäufer dich schon kennen, nett mit dir quatschen und du gar nichts mehr sagen musst, nur deine Dose hinstellen, dann ist das sehr angenehm.
 
-Erzähl mir gerne, was du schon alles verpackungsfrei oder plastikrediziert kaufst und wo du es bekommst. Ich bin neugierig. Hier kannst du dich noch weiter in das Thema Zero Waste und unverpackt einkaufen einlesen:
-
-[8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen/)
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste/)
-
-[4 müllfreie DIYs für einen sauberen Haushalt](/blog/4-muellfreie-diys-fuer-einen-sauberen-haushalt/)
+Erzähl mir gerne, was du schon alles verpackungsfrei oder plastikrediziert kaufst und wo du es bekommst. Ich bin neugierig.
 
 Bis zum nächsten Mal.
 

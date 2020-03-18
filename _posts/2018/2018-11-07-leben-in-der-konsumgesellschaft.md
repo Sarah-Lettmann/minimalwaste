@@ -21,7 +21,7 @@ Von **Grundbedürfnisse** hingegen hängt nicht zwangsläufig unsere Existenz ab
 
 Nun kommen wir zu den **Luxusbedürfnissen**. Ich denke du kannst dir vorstellen, was hierunter fällt. Güter, die wir nicht wirklich brauchen, aber die wir trotzdem haben wollen. Klassische Luxusgüter sind z.B. ein Auto, Schmuck oder auch Markenklamotten oder teures Essen wie Kaviar oder Champagner.
 
-![Die Bedürfnis Pyramide](/assets/inpost-images/2018/2018-11-07-beduerfnis-pyramide.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-11-07-beduerfnis-pyramide.jpg" alt="Die Bedürfnis Pyramide" title="" caption="" %}
 
 Wir haben also ein Bedürfnis, wenn wir in einer dieser Kategorien einen Mangel empfinden. Dabei ist es ganz egal, ob dieser Mangel real ist oder nur eingebildet. Wenn wir uns nun entschließen, dass wir aus diesem Mangel heraus, etwas kaufen wollen, um unsere Bedürfnisse (wenn auch sehr subjektiv) sicher zu stellen, dann entsteht ein **Bedarf**.
 
@@ -55,7 +55,7 @@ Interessant ist auch der **imaginative Wert**. Dieser Wert kommt indirekt mit de
 
 Werbung und Marketing spielen mit dieser Wertvorstellung. Wir denken wir kaufen ein Shampoo, weil wir eben was brauchen, was unsere Haare sauber macht (funktionaler Wert), aber in Wirklichkeit kaufen wir das Shampoo, weil wir es in der Werbung gesehen haben. Diese Werbung hat erst eine unglückliche Frau mit krausen Haaren gezeigt. Nachdem sie aber dieses Shampoo benutzt hat, waren ihre Haare nicht nur sauber und glänzend, nein, sie war auch glücklich und hatte Freunde um sich herum (positionaler Wert). Wenn dann noch ein Sticker auf der Flasche klebt, auf dem steht: “Fair Trade”, “Nur natürliche Inhaltsstoffe”, “Vegan” oder “Unterstütze mit dem Kauf Projekt xxx”, dann ist es um uns geschehen (imaginative Wert).
 
-![Supermakr-Regale](/assets/inpost-images/2018/2018-11-07-supermarkt-regale.jpg "Foto von Fancycrave auf Unsplash")
+{% include figure.html src="/assets/inpost-images/2018/2018-11-07-supermarkt-regale.jpg" alt="Supermarkt-Regale" title="" caption="" %}
 
 Werbung und geschickt designte Verpackungen sorgen dafür, dass wir inzwischen mehrere Shampoos zu Hause stehen haben (wtf?), ständig neue Klamotten wollen, immer unzufrieden mit unserer Figur sind und immer glauben wir könnten glücklicher sein, wenn wir nur dieses eine Top oder diese neue Creme hätten. **Hinzu kommt, dass Werbung heutzutage überall ist: im Fernsehn, im Radio, auf YouTube, auf vielen Websites, auf Bussen und Straßenbahnen, auf Plakaten und Litfaßsäulen.**
 
@@ -72,16 +72,6 @@ Da kommt auch wieder Starbucks ins Spiel. Mir ist aufgefallen, dass Mischgeträn
 
 Achja, noch was am Rande: Starbucks stattet seinen Kaffee übrigens auch mit einem imaginativen Wert aus: dem Fair Trade-Versprechen. Der Kunde glaubt, er kauft guten, ehrlich produzierten Kaffee und wird dabei nur hinters Licht geführt. Dazu empfehle ich auch die [Doku “Starbucks ungefiltert” von Arte](https://www.arte.tv/de/videos/073442-000-A/starbucks-ungefiltert/) (leider momentan nicht verfügbar).
 
-Die ganze Werbung und das Produktdesign sind so schlimm, weil sie uns ständig verführen. Ständig hetzen wir einem neuen Ding hinterher und jagen eine Vorstellung von uns, die so nicht existiert. Darin soll kein Vorwurf stecken, nein. Man muss anerkennen, dass das Marketing vieler Unternehmen tief in unsere Psyche schaut und uns versteht. Aber diesen Umstand muss man sich eben bewusst machen und nicht fälschlicherweise glaube, man würde selbstständig entscheiden was man kauft. Denn das tut man ganz sicher nur in den seltensten Fällen.
-
-Wenn dich das Thema interessiert und vielleicht auch, was man dagegen tun kann, dann empfehle ich dir folgende Beiträge:
-
-[Die Tragödien hinter Fast Fashion](/blog/die-tragoedien-hinter-fast-fashion)
-
-[Minimalistisch leben: Warum du anfangen solltest!](/blog/minimalistisch-leben)
-
-[Der Lebensstil Minimalismus](/blog/der-lebensstil-minimalismus)
-
-Bis nächste Woche.
+Die ganze Werbung und das Produktdesign sind so schlimm, weil sie uns ständig verführen. Ständig hetzen wir einem neuen Ding hinterher und jagen eine Vorstellung von uns, die so nicht existiert. Darin soll kein Vorwurf stecken, nein. Man muss anerkennen, dass das Marketing vieler Unternehmen tief in unsere Psyche schaut und uns versteht. Aber diesen Umstand muss man sich eben bewusst machen und nicht fälschlicherweise glaube, man würde selbstständig entscheiden was man kauft. Denn das tut man ganz sicher nur in den seltensten Fällen. Bis nächste Woche.
 
 \- Sarah

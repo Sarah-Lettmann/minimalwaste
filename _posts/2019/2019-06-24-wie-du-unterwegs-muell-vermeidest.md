@@ -27,13 +27,13 @@ Die **Trinkflasche** ist immer nützlich als Begleiter, falls du Durst bekommst,
 
 Außerdem braucht man sie sowieso eigenetlich immer, wenn man unterwegs ist: auf dem Weg zur Arbeit oder Uni, auf Ausflügen, bei einem Stadtbummel oder Stadtfest, im Zug oder bei einer Fahrradtour. Mit einer Trinkflasche bist du generell gut beraten.
 
-![Trinkflasche aus Edelstahl](/assets/inpost-images/2019/2019-06-24-trinkflasche.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-06-24-trinkflasche.jpg" alt="Trinkflasche aus Edelstahl" title="" caption="" %}
 
 Die **Stofftasche**, die **Gemüsenetze** und der **Beutel** sind natürlich für's Einkaufen gedacht. Wenn du auf dem Heimweg bist und dir spontan einfällt, dass du noch was zum Abendessen brauchst, besteht keine Notwendigkeit zum Plastikbeutel zu greifen. Ein paar Beutel passen außerdem in jede Handtasche, hier gibt es also keine Ausreden. Ein Stoffbeutel ist auch dann praktisch, wenn du eben nur eine Handtasche dabei hast und **etwas transportieren** musst, was nicht mehr hinein passt - zum Beispiel wenn man sich mal was in der Bücherrei ausgeliehen hat.
 
 Den Stoffbeutel habe ich deshalb separat aufgelistet, weil er eine separate Funktion hat. Du kannst ihn als Brotbeutel verwenden oder auch wenn du dir ein belegtes Brötchen oder etwas ähnliches holen willst. Das kannst du dir einfach in den Beutel geben lassen und muss keine extra Tüte oder anderen Müll dafür in Kauf nehmen. <mark>Ich habe dafür mein "Zero Waste Kit". Das ist eine kleine Tasche in der sich vier Gemüsenetze und ein Brotbeutel befinden. Ich habe auch noch einen normalen Stoffbeutel mit rein gepackt. Vorteil ist, dass dieses Kit so klein ist, dass es fast überall rein passt.</mark> Falls du an sowas Interesse hast, kannst du so ein [Zero Waste Kit bei BagMe Frankfurt](https://www.etsy.com/shop/bagmefrankfurt) erstehen.
 
-![Mein Zero Waste Einkaufs-Kit](/assets/inpost-images/2019/2019-06-24-zero-waste-einkaufs-kit.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-06-24-zero-waste-einkaufs-kit.jpg" alt="Mein Zero Waste Einkaufs-Kit" title="" caption="" %}
 
 Mit diesen paar Dingen, bist du also schon mal für drei bis viert Alltagssituationen vorbereitet und musst dich nicht darüber ärgern, dass du Müll hinterlassen hast. Ich finde auch, dass man diese Basics einfach und schnell umsetzen kann, denn sie erfordern nicht besonders viel Umstellung. Das meiste davon kannst du einfach in deinen Rucksack packen und bist dann immer vorbereitet.
 
@@ -49,19 +49,19 @@ Eigenes Besteck dabei zu haben, ist immer gut, denn man weiß nie ob man nicht v
 3. ein Strohhalm
 4. eine Serviette
 
-![Besteck-Set](/assets/inpost-images/2019/2019-06-24-besteckset.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-06-24-besteckset.jpg" alt="Besteck-Set" title="" caption="" %}
 
 Ich rolle mein Besteck immer in die **Serviette** ein und befestige alles mit einem alten Haushaltsgummi. Die Servietten kannst du dann auch übrigens für solche Dinge wie Crepes benutzen - also zum Drauflegen von Crepes - aber natürlich auch zum Mundabwischen. Mit dem **Strohhalm** kannst du ohne schlechtes Gewissen Cocktails, Milchshakes und Smoothies genießen. Die Essstäbchen sind hier optional, aber für asiatisches Essen finde ich es besser auch **Stäbchen** dabei zu haben. Außerdem nehmen die nicht wirklich Platz weg.
 
 Für das Mitnehmen von Kaffee oder anderen Getränken eignet sich ein eigener **Coffee-to-go Becher**. Die Dinger gibt es inzwischen überall. Falls du dir sowas aber nicht zulegen willst - hey, finde ich gut, ist auch nachhaltiger - dann kannst du auch ein entsprechend großes Schraubglas verwenden. Als Hitzeschutz kannst du eine gute Menge an alten Haushaltsgummis rum machen und fertig ist der eigene **upcycelte Coffee-to-go Becher**! Das ist so unglaublich Hipster, das es schon nicht mehr wahr ist...
 
-![Upcycelter Coffee-to-go Becher](/assets/inpost-images/2019/2019-06-24-upcycelter-coffee-to-go-becher.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-06-24-upcycelter-coffee-to-go-becher.jpg" alt="Upcycelter Coffee-to-go Becher" title="" caption="" %}
 
 Kommen wir nun zur Dose. Diese lässt sich auch für die gleichen Dinge verwenden wie ein kleiner Stoffbeutel, sprich für Snacks vom Bäcker oher Ähnliches. Du kannst sie aber auch wunderbar für Stadtfeste oder Essensstände verwenden. Ich habe eine Metalldose, deren Deckel man super als Teller missbrauchen kann. Und natürlich kann man sich auch was in die Dose geben lassen. Von Currywurst bis Crepe ist alles möglich. <mark>Außerdem kannst du die Dose auch für Essensreste verwenden, die du nicht unterwegs entsorgen willst.</mark> Wenn du also einen Apfel dabei hast und diesen gegessen hast, dann kannst du den Rest problemlos mit nach Hause nehmen.
 
 Wichtig bei all diesen Dinge ist, dass du dem Kellner oder der Person, die dich bedient, vorher verständlich klar machen musst, dass du keinen Strohhalm, keine Serviette oder dergleichen haben willst. Dabei am besten freundlich sein und auch gerne erklären warum du das so haben willst. Ich habe festgestellt, dass das Bewusstsein für Menschen, die nachhaltig leben wollen inzwischen stark gewachsen ist. In der Regel sollte es also möglich sein und nicht zu großen Diskussionen führen.
 
-![Metalldose](/assets/inpost-images/2019/2019-06-24-metalldose.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-06-24-metalldose.jpg" alt="Metalldose" title="" caption="" %}
 
 ## Wie du außerdem noch unterwegs Müll vermeiden kannst
 Neben all diesen Vorbereitungen kann Müll aber trotzdem überall lauern. Es ist einfach Wahnsinn wie oft man damit konfrontiert wird. Damit du am Ende des Tages ohne Müll nach Hause gehst, hier noch ein paar weitere Tipps:

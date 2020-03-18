@@ -24,7 +24,7 @@ Für den geneigten ZeroWaster stellt sich irgendwann immer die Frage, ob man nic
 
 Weckgläser können für alles mögliche verwendet werden, das mit der Lagerung von Lebensmittel zu tun hat. Wir schneiden beispielsweise immer das Obst für das allmorgendliche Müsli vor. Zu Anfang habe ich probiert alles in einer großen Schale unterzubringen. Allerdings war das Obst dann schnell matschig und hat nicht mehr so gut geschmeckt. In Weckgläsern im Kühlschrank hält es sich hingegen mindestens fünf Tage, da jedes Glas für einen Tag herhält und an das restliche Obst so nicht immer wieder Luft kommt. Und sollte ich morgens mal schwer aus dem Bett kommen (was durchaus mal passieren kann) nehme ich auch mal das gesamte Müsli in so einem Glas mit auf die Arbeit.
 
-![Ein Akkuladegerät](/assets/inpost-images/2016/2016-09-15-weckglas-aufbewahrung.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-09-15-weckglas-aufbewahrung.jpg" alt="Ein Akkuladegerät" title="" caption="" %}
 
 Natürlich kann man auch Speisereste jeglicher Art wunderbar in einem Weckglas im Kühlschrank lagern. Da wir welche mit 580ml Fassungsvermögen haben, entspricht das immer ziemlich genau einer Portion. Das Essen kann man dann wirklich schnell warm machen indem man es in einem Topf gibt, in den Backofen oder die Mikrowelle stellt. Oder du machst es wie wir und kochst vor und gibst dann gleich alles zur Lagerung in die Weckgläser.
 
@@ -33,7 +33,7 @@ Neulich habe ich übrigens Auflauf direkt in den Weckgläsern gemacht. Das hat w
 ## Ein Weckglas zum Dekorieren
 Neben der Benutzung in der Küche können Weckgläser auch hervorragend für Kerzen verwendet werden. Das sieht wirklich sehr schick aus und wir haben immer beliebig viele Gläser zur Hand (na ja, bis auf die, die gerade in der Spülmaschine sind).
 
-![Ein Akkuladegerät](/assets/inpost-images/2016/2016-09-15-weckglas-kerze.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-09-15-weckglas-kerze.jpg" alt="Ein Akkuladegerät" title="" caption="" %}
 
 Außerdem kannst du damit auch noch viele andere Dinge machen. Beim Dekorieren sind der Kreativität ja prinzipiell keine Grenzen gesetzt. Du kannst das Innere beispielsweise mit Blumen und Ästen ausstaffieren. Für den Sommer oder den Frühling wählst du am besten helle und bunte Farben und für den Herbst kann man Beeren, Kastanien und bunte Blätter hinein tun. Sicherlich gibt es gerade in diesem Bereich noch eine ganze Menge mehr Nutzungsmöglichkeiten.
 

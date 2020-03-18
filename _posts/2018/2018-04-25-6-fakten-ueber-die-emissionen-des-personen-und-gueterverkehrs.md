@@ -52,14 +52,6 @@ Im Vergleich der Lärmquellen Nachbarn, Straßenverkehr, Schienenverkehr, Flugve
 
 Alles in allem war doch einiges dabei, dass mich wirklich überrascht hat. Deutlich ist auf jeden Fall, dass der Zugverkehr am umweltfreundlichsten und am angenehmsten für die Bevölkerung ist. Und der Straßenverkehr hingegen sich in vielen verschiedenen Aspekten negativ auf uns auswirkt.
 
-Ich hoffe du nimmst diese Infos mit und nutzt demnächst mehr den Zug oder bestellst nicht mehr so häufig im Internet. Mehr zum Thema Umwelt und Emissionen, findest du hier:
-
-[Ist der Diesel wirklich so schlecht wie alle immer sagen?](/blog/ist-der-diesel-wirklich-so-schlecht-wie-alle-immer-sagen/)
-
-[Mein ökologischer Fußabdruck in Punkten](/blog/mein-oekologischer-fussabdruck-in-punkten/)
-
-[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik/)
-
-Bis dahin,
+Ich hoffe du nimmst diese Infos mit und nutzt demnächst mehr den Zug oder bestellst nicht mehr so häufig im Internet. Bis dahin,
 
 \- Sarah

@@ -17,7 +17,7 @@ Wie kann man also einen Kaffeefilter ersetzen? Momentmal! Wieso sollten man den 
 
 Es gibt **Kaffeefilter aus Plastik, Edelstahl oder Baumwolle**, die wie normale Filter in die Kaffeemaschine eingesetzt werden können. Der Kaffeesatz kann später einfach in den Biomüll wandern und der Filter mit Wasser gut ausgespült werden, fertig.
 
-![Wiederverwendbarer Kaffeefilter](/assets/inpost-images/2018/2018-09-24-kaffeefilter-wiederverwendbar.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-09-24-kaffeefilter-wiederverwendbar.jpg" alt="Wiederverwendbarer Kaffeefilter" title="" caption="" %}
 
 1. Plastik (so einen verwenden wir zu Hause): [Kaffee-Dauerfilter - waschbär](https://www.waschbaer.de/shop/kaffee-dauerfilter-21904)
 2. Baumwolle: [Kaffeefilter aus Baumwolle - avocadostore](https://www.avocadostore.de/products/123809-kaffeefilter-in-2-groessen-aus-baumwolle-tante-olga)
@@ -30,7 +30,7 @@ Strohhalme sind ein leidiges Thema. Sie sind wirklich schlecht für die Umwelt u
 
 Trotzdem kann man zu Hause leicht auf nachhaltige Alternativen umsteigen. Denn **Strohhalme** gibt es inzwischen auch **aus Glas, Edelstahl oder Bambus**. Diese kommen meist mit einer kleinen Bürste für die Reinigung oder können in der Spülmaschine mitgespült werden.
 
-![Edelstahl Strohhalme](/assets/inpost-images/2018/2018-09-24-edelstahl-strohhalme.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-09-24-edelstahl-strohhalme.jpg" alt="Edelstahl Strohhalme" title="" caption="" %}
 
 Hier gibt es die Alternativen:
 1. [Trinkhalme aus Glas - waschbär](https://www.waschbaer.de/shop/trinkhalme-aus-glas-4er-set-31593)
@@ -50,7 +50,7 @@ Ja, als Frau ist man ziemlich auf Tampons angewiesen (es sei denn man verwendet 
 
 <mark>Menstruationstassen sind kleine Silikonbecher, die man sich einführen kann, bis zu 12 Stunden keinen Gedanken daran verschwenden muss, dann auf dem Klo entleeren und ausspülen und wieder einführen kann.</mark> Für mehr Informationen, schau mal hier: [Menstruationstasse vs Tampon](/blog/menstruationstasse-vs-tampon)
 
-![Menstruationstasse](/assets/inpost-images/2017/2017-08-13-menstruationstasse-mit-seife.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstasse-mit-seife.jpg" alt="Menstruationstasse" title="" caption="" %}
 
 Menstruationstasse: [Menstruationstassen von Me Luna](https://www.me-luna.eu/)
 
@@ -80,14 +80,6 @@ Wer aber nicht auf das Umwickeln verzichten will, dem seien Bienenwachstücher a
 
 Bienenwachstücher: [Bienenwachstücher - waschbär](https://www.waschbaer.de/shop/bees-wrap-medium-42403)
 
-Für weitere Infos kannst du dich auch mal in Shops umsehen, die sich Nachhaltigkeit auf die Fahne geschrieben haben. Dazu habe ich bereits eine Liste und noch weiter Infos: 
-
-[Plastikfrei einkaufen – Alle Onlineshops die du kennen solltest](/blog/plastikfrei-einkaufen-alle-onlineshops)
-
-[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell)
-
-[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer)
-
-Ansonsten wünsche ich viel Spaß beim Ausprobieren. Und falls du Fragen oder Probleme hast, dann schreib mir gerne.
+Für weitere Infos kannst du dich auch mal in Shops umsehen, die sich Nachhaltigkeit auf die Fahne geschrieben haben. Ansonsten wünsche ich viel Spaß beim Ausprobieren. Und falls du Fragen oder Probleme hast, dann schreib mir gerne.
 
 \- Sarah

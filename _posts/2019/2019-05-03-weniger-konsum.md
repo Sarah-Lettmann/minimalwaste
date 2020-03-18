@@ -13,7 +13,7 @@ Ich bin ein riesiger Fan von Minimalismus. Aber ich bin auch eine Verfechterin v
 In der heutigen Zeit ist das gar nicht so einfach. Warum wir kaufen habe ich mir schon in [Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/) angeguckt. <mark>Marketing und Werbung haben durchaus ihren Platz und auch einen Sinn, aber man sollte sich dessen eben auch bewusst sein und nicht so blauäugig damit umgehen.</mark> Aber zuerst einmal will ich dir im Allgemeinen das Prinzip von nachhaltigem Konsum näher bringen.
 
 ## Die Konsum-Pyramide
-![Die Konsum-Pyramide](/assets/inpost-images/2019/2019-05-03-konsum-pyramide.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-03-konsum-pyramide.jpg" alt="Die Konsum-Pyramide" title="" caption="" %}
 
 Die Konsum-Pyramide gibt dir vor, wie du am besten konsumieren solltest. Dabei funktioniert sie ähnlich wie die Ernährungspyramide: von unten nach oben geht man von positiv zu negativ.
 
@@ -68,7 +68,7 @@ Hilfreich können auch folgende Fragen sein:
 
 Wenn du diese Fragen nicht mit Sicherheit positiv beantworten kannst, dann solltest du dir dein Geld sparen.
 
-![Weniger Schnick-Schnack](/assets/inpost-images/2019/2019-05-03-weniger-schnick-schnack.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-03-weniger-schnick-schnack.jpg" alt="Weniger Schnick-Schnack" title="" caption="" %}
 
 ### 3. Mache einen No-Spend Monat
 Im letzten Schritt kannst du dich noch mehr fordern und einen **No-Spend Monat** einlegen. Das heißt einen ganzen Monat lang keine privaten Ausgaben tätigen. Alle andernen Alternativen wie tauschen, leihen und selber machen sind natürlich erlaubt.

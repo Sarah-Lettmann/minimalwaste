@@ -50,13 +50,7 @@ Aber es gibt eben auch Sachen, die man immer wegschneidet. Dazu gehören **Strü
 
 Einziger Punkt, der kritisch werden könnte: Der Platz im Gefrierschrank. Aber wo ein Wille ist, ist auch ein Weg, nicht wahr?!
 
-Das sind also meine Nachhaltigkeits-Vorsätze für das neue Jahr. Ich finde, dass sind ein paar gute Wege noch eine ganze Menge Müll zu vermeiden und gleichzeitig ist es nicht zu viel. Das heißt mir stehen keine so riesigen und vielen Veränderungen ins Haus, dass ich es nicht schaffe, den Überblick verliere oder einfach irgendwann keinen Bock mehr habe. Falls du neu beim Thema Zero Waste bist, dann kannst du dich hier informieren:
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste)
-
-[8 Fragen zum Unverpackt Einkaufen](/blog/8-fragen-zum-unverpackt-einkaufen)
-
-[8 alltägliche Dinge für die es Zero Waste Alternativen gibt](/blog/8-alltaegliche-dinge-fuer-die-es-zero-waste-alternativen-gibt)
+Das sind also meine Nachhaltigkeits-Vorsätze für das neue Jahr. Ich finde, dass sind ein paar gute Wege noch eine ganze Menge Müll zu vermeiden und gleichzeitig ist es nicht zu viel. Das heißt mir stehen keine so riesigen und vielen Veränderungen ins Haus, dass ich es nicht schaffe, den Überblick verliere oder einfach irgendwann keinen Bock mehr habe. 
 
 Schreib mir gerne, welche Vorsätze du für das neue Jahr hast und was du noch verändern möchtest. Wie sehen uns dann 2019 und ich wünsche dir eine erholsame Weihnachtszeit und einen guten Rutsch.
 

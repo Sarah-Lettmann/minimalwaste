@@ -28,7 +28,6 @@ Weniger luxuriös, dafür aber genauso wohnlich und gut ausgestattet ist dieses 
 Eine Tolle Idee für ein festes Tiny House ist diese hier. Gebaut aus drei alten Schiffscontainern bietet es sehr viel Platz und ist eher für eine kleine Familie geeignet. Es zeigt aber auch sehr gut, dass man nicht immer ein großes Haus mit mehreren Stockwerken braucht, um sesshaft zu werden. Man kann auch mit wenig Raum auskommen und so mehr Gartenfläche nutzen.
 
 ### Das Modern Home Tiny House
-
 [Tiny House Concept Adapted Into Amazing Modern Home](https://www.youtube.com/watch?v=jPBDPcqfCwA)
 
 Ähnlich verhält es sich mit diesem Tiny House, das ebenfalls gar nicht so klein ist, sondern viel Platz bietet. Es zeigt wunderbar, dass es eben nicht immer ein großes Haus sein muss, sondern man auch mit 33m² gut leben kann und alles hat, was man braucht - genug Platz, eine Terrasse, einen Garten. Ich persönlich finde diese etwas größeren Tiny Houses oft richtig gelungen und könnte mir gut vorstellen, darin zu leben.

@@ -14,7 +14,7 @@ Oder eben nicht. Bis vor gut 3 Wochen hatte ich das ganze dann zugegebener Maße
 
 Wir waren also vorletztes Wochenende Kastanien sammeln. Ich hatte zum Glück schon ein paar Orte bei uns in der Stadt entdeckt, wo Kastanienbäume stehen (da achtet man vorher ja nicht unbedingt drauf). Wir mussten auch nur zu einem Baum und hatten nach ein paar Minuten schon gut 2,7 Kg gesammelt. Es ging so unglaublich schnell, weil die Kastanien dort dicht beieinander lagen und es nicht unbedingt der Ort war (an einer der Hauptverkehrsstraßen) an denen Mütter mit ihren kleinen sammeln gehen - also gut für uns. Nächstes Wochenende wollen wir dann nochmal los gehen, damit wir auch genug haben, um damit lange auszukommen.
 
-![Sammeln der Kastanien](/assets/inpost-images/2016/2016-10-25-kastanien-sammeln.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-10-25-kastanien-sammeln.jpg" alt="Sammeln der Kastanien" title="" caption="" %}
 
 ## Warum kann man Waschmittel aus Kastanien herstellen?
 Das Geheimnis dahinter ist eigentlich keins, denn die Kastanien enthalten bestimmte Stoffe, die reinigende Wirkungen haben: die Saponine. Punkt. Diese werden beispielsweise auch zur Gewinnung von Seifenpulver verwendet, was eigentlich nur Waschmittel sind. Die Saponine kann man also aus den Kastanien herauskitzeln und dann zum Waschen verwenden. Ähnlich funktionieren übrigens auch Waschnüsse, die auch zur Familie der Seifenbaumgewächse zählen und vor allem in Asien und dem mittleren Osten verbreitet sind. Waschnüsse werden besonders oft in Indien zum Waschen verwendet.
@@ -25,11 +25,11 @@ Da die Waschnuss auch hierzulande populär wurde, kam es allerdings zu einer Pre
 ## Wir verarbeitet man die Kastanien nun?
 Die Kastanien müssen entweder mit einem Messer halbiert bzw. bei sehr großen geviertelt werden oder mit dem Hammer zerschlagen werden. Alternativ dazu kannst du es auch einmal mit einem Nussknacker probieren. Für die Variante mit dem Messer brauchst du ein wirklich sehr gutes Messer, denn Kastanien sind verdammt hartnäckig. Wenn du also lieber die Variante mit dem Hammer ausprobieren willst, dann steck eine Hand voll Kastanien in einen Stoffbeutel, leg diesen auf eine stabile Oberfläche, die am besten auch nicht rutschig sein sollte, und los geht's! Das ist auch super zur Stressbewältigung. Ich selbst habe mein Kastanien mit dem Messer geschnitten.
 
-![Kastanien zerteilen](/assets/inpost-images/2016/2016-10-25-kastanien-zerteilen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-10-25-kastanien-zerteilen.jpg" alt="Kastanien zerteilen" title="" caption="" %}
 
 Wenn du die Kastanien etwas zerkleinert hast, kannst du endlich flüssiges Waschmittel daraus herstellen. Dazu nimmst du pro Waschgang 6 - 10 Kastanien (je nach Wäschemenge und Härtegrad des Wassers) und übergießt sie mit ca. 300 - 400 ml kochendem Wasser. Das ganze muss jetzt noch ein paar Stunden durchziehen. Du kannst das am Abend vorher vorbereiten oder einfach morgens, wenn du nachmittags waschen willst. Bei uns reinigt das Waschmittel auch schon nach 2 Stunden durchziehen lassen, aber besser wäre wahrscheinlich über Nacht.
 
-![Kastanien einweichen](/assets/inpost-images/2016/2016-10-25-kastanien-einweichen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-10-25-kastanien-einweichen.jpg" alt="Kastanien einweichen" title="" caption="" %}
 
 ## Wie viele Kastanien brauche ich denn für ein ganzes Jahr und wie mache ich sie haltbar?
 Um die Kastanien haltbar zu machen, sollte man sie trocknen (ich habe gelesen, dass sie sonst schimmeln). Ich habe mich dazu entschieden alle Kastanien zu vierteln/halbieren und zum Trocknen auf die Fensterbank zu legen. Bis jetzt sieht alles super aus, aber ich gebe dir nochmal ein Update, wenn ich sie mal zwei Monate getestet habe. Wir haben ca. 52 Waschgänge im Jahr. Bei 8 Kastanien pro Waschgang wären das also 416 Kastanien und somit ungefähr 6 Kg. Das hatte ich auch schon gelesen und da eine Kastanie zwischen 12 g und 16 g wiegt, kommt das ganz gut hin.

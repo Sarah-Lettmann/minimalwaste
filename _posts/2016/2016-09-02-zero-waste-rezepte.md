@@ -55,15 +55,7 @@ Einfach die Stelle anfeuchten, Natron drauf geben und mit einem Lappen drüber g
 
 Dieses Waschmittel verwenden wir jetzt schon einige Zeit. Die **Kernseife** muss zuerst mit einer Küchenreibe gerieben werden. Danach kannst du Soda abwiegen und die Seife sowie zwei Tütchen Natron dazu geben. Alles gut durchmengen. Fertig! Das Waschmittel kommt sogar **gegen starke Verschmutzungen** wie eingetrocknete Essensreste an. Für einen **Waschgang** benötigt man lediglich **einen Esslöffel der Mischung**. Um die Maschine gegen Kalkablagerungen zu schützen, kann man bei jedem Waschgang noch einen kleinen Schuss Essigessenz oder Citro-essenz ins Weichspülerfach geben. [Hier habe ich übrigens ein Waschmittel aus Kastanien ausprobiert](/blog/zero-waste-superlativ-waschmittel-aus-kastanien).
 
-![Selbst gemachtes Waschmittel](/assets/inpost-images/2016/2016-09-02-selbst-gemachtes-waschmittel.jpg "© {{ site.title }}")
-
-Falls du dich weiter über Zero Waste Alternativen informieren will, guck mal hier:
-
-[Zero Waste Superlativ: Waschmittel aus Kastanien](/blog/zero-waste-superlativ-waschmittel-aus-kastanien)
-
-[25+ Nachhaltige Produkte für weniger Müll](/blog/nachhaltige-produkte-zur-muellreduzierung)
-
-[Menstruationstasse vs Tampon](/blog/menstruationstasse-vs-tampon)
+{% include figure.html src="/assets/inpost-images/2016/2016-09-02-selbst-gemachtes-waschmittel.jpg" alt="Selbst gemachtes Waschmittel" title="" caption="" %}
 
 Vielleicht findest du ja was, das du noch nicht kanntest und in Zukunft verwenden willst. Lass es mich gerne wissen. Bis dahin,
 

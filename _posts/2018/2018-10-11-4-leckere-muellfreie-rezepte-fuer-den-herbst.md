@@ -19,11 +19,11 @@ Was du brauchst:
 
 Die Gewürze hast du vielleicht sogar schon zu Hause. Falls nicht, bekommst du sie wahrscheinlich in einem Unverpackt Laden oder kannst dir größere Mengen davon zulegen, was die Müllmenge im Verhältnis reduziert.
 
-![Lose Gewürze](/assets/inpost-images/2018/2018-10-11-gewuerze.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-10-11-gewuerze.jpg" alt="Lose Gewürze" title="" caption="" %}
 
 <mark>Ausgehend von dieser Gewürzmischung kannst du viele leckere Speisen und Gebäcke mit Kürbis zubereiten.</mark>
 
-![Fertige Gewürzmischung](/assets/inpost-images/2018/2018-10-11-fertige-gewuerzmischung.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-10-11-fertige-gewuerzmischung.jpg" alt="Fertige Gewürzmischung" title="" caption="" %}
 
 ## Kürbispüree
 Was du brauchst:  
@@ -67,16 +67,8 @@ Für die **Füllung** ebenfalls alle Zutaten zusammengeben und vermengen. Falls 
 
 Danach den Kuchen bei **180°C Umluft ca. 45 Minuten** backen.
 
-![Kürbis Kuchen oder auch Pumpkin Pie](/assets/inpost-images/2018/2018-10-11-kuerbis-kuchen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-10-11-kuerbis-kuchen.jpg" alt="Kürbis Kuchen oder auch Pumpkin Pie" title="" caption="" %}
 
-Ich hoffe du findest diese Rezepte genauso toll wie ich. Ich fand es wirklich erstaunlich wie leicht sowas wie Kürbispüree selbst zu machen ist. Das könnte dich außerdem noch interessieren:
-
-[7 Tipps für weniger Lebensmittelabfälle](/blog/7-tipps-fuer-weniger-lebensmittelabfaelle)
-
-[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell)
-
-[Unverpackt einkaufen: Alle Läden](/blog/unverpackt-einkaufen-alle-laeden)
-
-Also, lass es dir schmecken, genieße den Herbst und bis nächste Woche.
+Ich hoffe du findest diese Rezepte genauso toll wie ich. Ich fand es wirklich erstaunlich wie leicht sowas wie Kürbispüree selbst zu machen ist. Also, lass es dir schmecken, genieße den Herbst und bis nächste Woche.
 
 \- Sarah

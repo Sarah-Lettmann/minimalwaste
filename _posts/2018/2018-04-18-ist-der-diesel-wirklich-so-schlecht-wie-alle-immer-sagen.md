@@ -86,12 +86,6 @@ Für mich ist klar: <mark>Eine nachhaltige Alternative stellt nur eine Kombinati
 
 Also, mal mehr Bus/Zug fahren, mal aufs Rad steigen oder vielleicht sogar mal laufen (für die ganz wild entschlossenen). Wie müssen aufhören uns zurückzulehnen und zu denken: “Die anderen werden’s schon richten.”, denn das stimmt einfach nicht. Wir müssen aktiv werden. Kleine Veränderungen im Alltag können eine große Wirkung haben und das nicht nur für die Umwelt, sondern auch für unsere Gesundheit.
 
-Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit den ganzen Zahlen. Aber hey, da müssen wir halt durch (ich musste das schließlich schreiben, stell dir das mal vor). Schreib mir gerne deine Meinung und Vorschläge wie man was verändern könnte. Ich bin gespannt! Ich empfehle dir außerdem diese Posts, wenn du dich noch weiter mit dem Thema beschäftigen willst:
-
-[6 Fakten zu Emissionen des Personen- und Güterverkehrs](/blog/6-fakten-ueber-die-emissionen-des-personen-und-gueterverkehrs/)
-
-[Die Bilanz von Stofftaschen­tüchern im Vergleich](/blog/die-bilanz-von-stofftaschentuechern/)
-
-[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik/)
+Ich hoffe der Beitrag hat dir gefallen und war nicht zu stressig zu lesen mit den ganzen Zahlen. Aber hey, da müssen wir halt durch (ich musste das schließlich schreiben, stell dir das mal vor). Schreib mir gerne deine Meinung und Vorschläge wie man was verändern könnte. Ich bin gespannt!
 
 \- Sarah

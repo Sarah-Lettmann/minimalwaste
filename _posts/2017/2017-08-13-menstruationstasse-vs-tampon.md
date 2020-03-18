@@ -14,7 +14,7 @@ Vorweg noch: Alles was ich hier schildere sind **meine eigenen Erfahrungen** und
 
 Also: Warum ich eine verwende? Zuerst bin ich durch Zero Waste darauf gestoßen. Die Vorstellung, dass man sogar bei so etwas die Möglichkeit hat, Müll vollständig zu vermeiden, fand ich einfach super.
 
-![Menstruationstasse mit Beutelchen](/assets/inpost-images/2017/2017-08-13-menstruationstasse-auf-beutel.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstasse-auf-beutel.jpg" alt="Menstruationstasse mit Beutelchen" title="" caption="" %}
 
 Also bestellte ich mir eine und probierte sie aus. Und was soll ich sagen? Ich bin ein riesen Fan! Sehr schnell habe ich festgestellt, dass sie viel bequemer ist als ein Tampon. Ich habe etwas gebraucht, bis ich raus hatte wie sie richtig eingeführt wird - das muss man einfach üben. Aber dann habe ich sie noch seltener gespürt als die Tampons, die ich früher immer getragen habe.
 
@@ -22,7 +22,7 @@ Also bestellte ich mir eine und probierte sie aus. Und was soll ich sagen? Ich b
 
 Außerdem muss eine Menstruationstasse **nur alle 8 - 12 Stunden entleert** werden. Ich weiß ja nicht wie es dir geht, aber Tampons schaffen das bei weitem nicht. Die Menstruationstasse hingegen leere ich morgens und abends und gut is!
 
-![Menstruationstasse mit Seife](/assets/inpost-images/2017/2017-08-13-menstruationstasse-mit-seife.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstasse-mit-seife.jpg" alt="Menstruationstasse mit Seife" title="" caption="" %}
 
 Komischerweise war die Menstruationstasse auch eines der ersten Dinge auf die ich umgestiegen bin. Ich hatte und habe da einfach keine Berührungsängste, weshalb mir das sehr leicht fiel.
 
@@ -92,7 +92,7 @@ Es gibt sehr sehr viele unterschiedliche Hersteller. Und jeder hat unterschiedli
 **Wie transportiere ich meine Menstruationstasse?**
 Meistens wird ein kleines Beutelchen mitgesendet (meist sehr schick wie ich finde) in dem du sie unterwegs verstauen und sicher in der Handtasche transportieren kannst.
 
-![Menstruationstasse im Beutel](/assets/inpost-images/2017/2017-08-13-menstruationstasse-in-beutel.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstasse-in-beutel.jpg" alt="Menstruationstasse im Beutel" title="" caption="" %}
 
 **Wie reinige ich die Tasse unterwegs?**
 Wenn du die Menstruationstasse ausleerst, dann wasche sie am besten mit kaltem Wasser aus. Was sich darin absetzt ist geronnenes Blut, also größtenteils Eiweißbestandteile. Wenn du die Möglichkeit hast, dann kannst du sie auch noch zusätzlich mit Seife reinigen und dann wieder einsetzen. Da sie nicht so oft gewechselt werden muss, ist das also durchaus zu timen.
@@ -119,14 +119,8 @@ Damit du dich auch gleich umgucken kannst, was es alles auf dem Markt gibt, hier
 6. [DivaCup](http://divacup.com/de/)
 7. [Yuuki](http://www.menstruationstasse.de/)
 
-![Menstruationstasse](/assets/inpost-images/2017/2017-08-13-menstruationstass.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstass.jpg" alt="Menstruationstasse" title="" caption="" %}
 
-Ich hoffe du konntest aus diesem Artikel ein bisschen was für dich mitnehmen, bis zum nächsten Mal. AChja, und falls du noch weiters zum Thema lesen willst, empfehle ich dir folgende Beiträge:
-
-[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer/)
-
-[Was kostet Zero Waste im Badezimmer?](/blog/was-kostet-zero-waste-im-badezimmer/)
-
-[Festes Shampoo: Was du alles wissen solltest!](/blog/festes-shampoo-was-du-alles-wissen-solltest/)
+Ich hoffe du konntest aus diesem Artikel ein bisschen was für dich mitnehmen, bis zum nächsten Mal.
 
 \- Sarah

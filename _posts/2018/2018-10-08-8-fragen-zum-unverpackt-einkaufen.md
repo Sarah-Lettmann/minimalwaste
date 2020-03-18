@@ -86,14 +86,6 @@ Im Urlaub solltest du dich vorher informieren, ob es in der Näher Unverpackt L�
 
 Aber auch hier ist Planung alles und du kannst dir vorher Alternativen überlegen und Wege finden, nicht ganz so viel Müll zu hinterlassen.
 
-Ich hoffe ich konnte dir gute Anhaltspunkte liefern und hoffe du bist motiviert anzufangen und fühlst dich besser vorbereitet. Außerdem könnte dich vielleicht interessieren: 
-
-[Wie du durch Zero Waste gesünder lebst](/blog/wie-du-durch-zero-waste-gesuender-lebst)
-
-[4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen)
-
-[Plastikfrei einkaufen – Alle Onlineshops die du kennen solltest](/blog/plastikfrei-einkaufen-alle-onlineshops)
-
-Wie immer gilt: Schreib mit gerne bei weiteren Ideen oder wenn du Hilfe brauchst. Bis zum nächsten Mal
+Ich hoffe ich konnte dir gute Anhaltspunkte liefern und hoffe du bist motiviert anzufangen und fühlst dich besser vorbereitet. Wie immer gilt: Schreib mit gerne bei weiteren Ideen oder wenn du Hilfe brauchst. Bis zum nächsten Mal
 
 \- Sarah

@@ -15,7 +15,7 @@ Der Rasierhobel war mit eines der ersten Dinge, die ich bei mir zu Hause ausgeta
 ## Der Rasierhobel
 Der Name hört sich brutal an, es handelt sich aber trotzdem nur um einen einfachen Rasierer. Meistens besteht er aus rostfreiem Edelstahl. Das ist gut, denn du musst dir keine Gedanken machen, dass er rostet. Meiner hat das in all den Jahren auch nicht getan.
 
-![Der Rasierhobel](/assets/inpost-images/2019/2019-04-26-rasierhobel.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-04-26-rasierhobel.jpg" alt="Der Rasierhobel" title="" caption="" %}
 
 ### Der Verschluss
 Damit man damit rasieren kann, **setzt** man **Rasierklingen ein**. Also diese richtigen Rasierklingen, die man in meiner Generation wahrscheinlich kaum noch kennt. Diese Klinge wird je nach Model anders eingesetzt. Dabei gibt es eigentlich nur zwei Varianten, also zwei Bauweisen von Rasierhobeln, die unterschieden werden.
@@ -31,7 +31,7 @@ Rasierhobel mit **offenem Kamm** haben vertikale Rillen im Kamm. Daher auch der 
 
 Dahingegen bieten Rasierhobel mit **geschlossenem Kamm** mehr Sicherheit, da sie besser gleiten. Das kommt daher, dass der Kamm eben keine vertikalen Rillen hat. <mark>Damit sind sie auch schonender für die Haut, rasieren aber auch etwas weniger gründlich.</mark> Diese Variante solltest du verwenden, wenn du dir damit auch die Beine, die Achselhöhlen oder den Intimbereich rasieren willst.
 
-![Der Kamm des Rasierhobels](/assets/inpost-images/2019/2019-04-26-rasierhobel-von-vorne-markierung-kamm.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-04-26-rasierhobel-von-vorne-markierung-kamm.jpg" alt="Der Kamm des Rasierhobels" title="" caption="" %}
 
 Ich habe übrigens einen Rasierhobel mit geschlossenem Kamm. Darauf habe ich beim Kauf allerdings nicht wirklich geachtet. Jetzt ist mir aber klar, warum ich mich damit nicht schneide, während ich von anderen schon gehört habe, dass sie sehr vorsichtig mit ihrem Rasierhobel sein müssen.
 
@@ -92,7 +92,7 @@ Beim Einsetzen musst du eigentlich auf nichts besonderes achten. Die **Rasierkli
 
 Wenn du einen Butterfly-Verschluss hast, dann kannst du die Klinge ganz einfach einsetzen und den Kopf wieder schließen. Wenn du einen Schraub-Verschluss hast, dann besteht der Kopf in der Regel aus zwei Teilen.
 
-![Der Rasierhobel in Einzelteilen](/assets/inpost-images/2019/2019-04-26-rasierhobel-einzelteile.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-04-26-rasierhobel-einzelteile.jpg" alt="Der Rasierhobel in Einzelteilen" title="" caption="" %}
 
 Achte darauf, dass bei einem offenen Kamm die Zacken nach unten zeigen, also Richtung Griff, wenn du den Rasierhobel wieder zusammen baust. Wenn du einen mit geschlossenem Kamm hast, dann achte darauf, dass die Rillen auf der Oberseite sind. Alles in allem sollte der Kopf eine ebenmäßige Form haben.
 
@@ -128,7 +128,7 @@ Meiner Erfahrung nach nicht anders als nach einer normalen Rasur. Ich selbst hab
 
 <mark>Aber wenn du empfindliche Haut hast, dann kannst du dich ganz normal nach der Rasur eincremen oder deine Haut anderweitig pflegen.</mark>
 
-![Der Rasierhobel von der Seite](/assets/inpost-images/2019/2019-04-26-rasierhobel-von-der-seite.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-04-26-rasierhobel-von-der-seite.jpg" alt="Der Rasierhobel von der Seite" title="" caption="" %}
 
 ## Zusammen&shy;fassung
 - Rasierhobel sind nicht anders zu verwenden als normale Rasierer

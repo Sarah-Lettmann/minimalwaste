@@ -34,7 +34,7 @@ Als Sprühflasche kannst du zum Beispiel eine alte aus Glas von einem Deo verwen
 
 Fülle also die passende Menge Natron in deine Flasche und koche dann etwas Wasser auf. Gieße dann das heiße Wasser in die Flasche (das hilft das Natron aufzulösen). Zum Schluss kannst du noch ein paaar Tropfen Teebaumöl dazu geben, Menge ist dir persönlich überlassen. Fertig!
 
-![Das fertige Sprüh-Deo in der Glasflasche](/assets/inpost-images/2019/2019-07-15-deo-zum-spruehen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-07-15-deo-zum-spruehen.jpg" alt="Das fertige Sprüh-Deo in der Glasflasche" title="" caption="" %}
 
 Wenn das Natron sich mal etwas absetzen sollte, dann einfach vor Gebrauch etwas schütteln.
 
@@ -65,7 +65,7 @@ Nochmal alles verrühren und dann in ein Behältnis deiner Wahl füllen. Ich neh
 
 Diese Variante des Deodorants lässt sich in kleiner Menge mit einem Finger in der Achsel aufbringen.
 
-![Die feste Variante des Müllfreien Deos](/assets/inpost-images/2019/2019-07-15-festes-deodorant.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-07-15-festes-deodorant.jpg" alt="Die feste Variante des Müllfreien Deos" title="" caption="" %}
 
 ## Die Kosten der müllfreien Deodorants
 Wenn du meinen Blog öffter liest, dann weißt du, dass ich wo es nur geht die Kosten berechne. <mark>Es heißt ja Zero Waste ist immer so teuer, aber es gibt eben viele Dinge, die um Längen günstiger sind, als das günstigste, was man in der Drogerie so bekommt. Dazu gehören auch diese Deos.</mark>

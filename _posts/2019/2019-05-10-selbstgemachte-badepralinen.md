@@ -27,7 +27,7 @@ Für ca. 10 bis 12 Badepralinen brauchst du:
 
 **Natron** neutralisiert Gerüche und reinigt. Die **Zitronensäure** reagiert bei Kontakt mit Wasser mit dem Natron und so entsteht ein Sprudeln. Diese Kombination sorgt also mehr oder weniger dafür, dass sich die Badepraline besser auflöst. Diese beiden werden übrigens auch gemeinsam als Brausepulver eingesetzt.
 
-![Zutaten der Badepralinen](/assets/inpost-images/2019/2019-05-10-badepralinen-zutaten.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-10-badepralinen-zutaten.jpg" alt="Zutaten der Badepralinen" title="" caption="" %}
 
 Diese vier Zutaten kannst du natürlich mit beliebigen Düften zusammenmischen. Ich habe mich diesmal für Lavendel entschieden, also einige Tropfen Lavendelöl und einige Blüten.
 
@@ -58,7 +58,7 @@ Badewasser aufdrehen, Badepraline ins Wasser geben und fertig. Du solltest nur d
 
 Außerdem handelt es sich hierbei eher um ein Ölbad. Das ist super gut für die Haut, aber deine Badewanne solltest du deshalb nach dem Baden nochmal mit heißem Wasser ausspülen.
 
-![Die fertigen Badepralinen](/assets/inpost-images/2019/2019-05-10-fertige-badepralinen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-10-fertige-badepralinen.jpg" alt="Die fertigen Badepralinen" title="" caption="" %}
 
 ## Kosten
 Ich interessiere mich ja immer sehr für die Kosten und mein primärer Beweggrund für dieses DIY waren ja auch selbige. Deshalb habe ich hier für dich (und für mich) mal ausgerechnet, wie es mit den Kosten für die Badepralinen aussieht.

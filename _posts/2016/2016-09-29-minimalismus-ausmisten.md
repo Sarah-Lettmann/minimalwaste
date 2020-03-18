@@ -21,7 +21,7 @@ Außerdem finde ich, dass keine aufwendigen Ordnungssysteme notwendig sein sollt
 
 Der zweite Punkt bezieht sich auf die Frage, was du alles behalten kannst. Wenn jeder nur Dinge hätte, die er wirklich liebt, dann hätten wir alle keine Klobürsten :P. Wenn du dich also fragst, ob du etwas behalten oder weggeben solltest, dann kannst du dieses Diagramm als Hilfestellung nutzen:
 
-![Diagramm Vorgehen beim Ausmisten](/assets/inpost-images/2016/2016-09-29-diagramm-ausmisten.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-09-29-diagramm-ausmisten.jpg" alt="Diagramm Vorgehen beim Ausmisten" title="" caption="" %}
 
 Es ist daran angelehnt, wie ich beim Ausmisten vorgegangen bin. Da ich neben dem Minimalismus auch versuche Zero Waste zu leben, will ich natürlich so wenig wie möglich einfach wegschmeißen. Also habe ich immer überlegt, ob bestimmte Gegenstände in die Klasse Vorräte zählen und ich sie irgendwann aufbrauchen kann. Hinzu kam dabei, dass mein Freund und ich dieses Jahr zusammen gezogen sind und zwei Haushalte zusammen gelegt haben. Das heißt, wir hatten sehr viele Lebensmittel, Putzmittel und auch Bürokram doppel. Vieles davon brauchen wir nach und nach auf.
 
@@ -50,7 +50,7 @@ Medien kannst du wie bereits gesagt in die Bücherei bringen oder auf Plattforme
 ## Digitalisieren heißt das Zauberwort!
 Nun kommen wir zu einem weiteren sehr wichtigen Punkt, der glaube ich oft vergessen wird, nämlich das Ausmisten deiner digitalen Besitztümer. Gerade weil es sich hierbei um nur ein physisches Gerät handelt (Computer bzw Notebook) wird es oft nicht als so wichtig angesehen. Allerdings solltest du dir vor Augen führen, dass du dir viel Arbeit und Zeit ersparst, wenn deine Daten alle zentral gespeichert, aufgeräumt und übersichtlich sortiert sind.
 
-![Reduzieren durch Digitalisieren](/assets/inpost-images/2016/2016-09-29-ausmisten-durch-digitalisieren.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2016/2016-09-29-ausmisten-durch-digitalisieren.jpg" alt="Reduzieren durch Digitalisieren" title="" caption="" %}
 
 Außerdem kannst du viele Dinge, über die du beim Aussortieren stolperst, digitalisieren. Dazu gehören beispielsweise CDs auf denen Daten oder Fotos gespeichert sind, Fotos, Bedienungsanleitungen und viele weitere Dinge.
 

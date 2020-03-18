@@ -70,20 +70,12 @@ Schaff dir ein paar Zimmerpflanzen an, oder falls du schon welche hast, bring si
 
 Auch immer gut machen sich ein paar **selbstgepflückte Zweige** in einem umfunktionierten Schraubglas oder einer alten Weinflasche.
 
-![Selbst gepflückte Zweige](/assets/inpost-images/2017/2017-03-11-blumen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-03-11-blumen.jpg" alt="Selbst gepflückte Zweige" title="" caption="" %}
 
 Für die Abende kannst du ein paar Teelichter oder Laternen auf der Terrasse oder vor der Haustür arrangieren.
 
 Hier hast du alle Möglichkeiten der Welt. Hol dir doch einfach ein paar Ideen auf Pinterest.
 
-<mark>Mich persönlich motiviert so eine gut geputzte Umgebung immer. Außerdem hat man bei einem Frühjahrsputz ganz schön was geleistet und kann es sich danach ohne schlechtes Gewissen draußen in den ersten Sonnenstrahlen bequem machen.</mark> Für weiteres zum Thema, kannst du dich mal hier umschauen:
-
-[Zero Waste Rezepte](/blog/zero_waste_rezepte)
-
-[Minimalistisch leben: Warum du anfangen solltest!](/blog/minimalistisch-leben)
-
-[Minimalismus - Es beginnt mit Ausmisten](/blog/minimalismus-ausmisten)
-
-Ich wünsche Dir einen wunderschönen Frühling,
+<mark>Mich persönlich motiviert so eine gut geputzte Umgebung immer. Außerdem hat man bei einem Frühjahrsputz ganz schön was geleistet und kann es sich danach ohne schlechtes Gewissen draußen in den ersten Sonnenstrahlen bequem machen.</mark> Ich wünsche Dir einen wunderschönen Frühling,
 
 \- Sarah

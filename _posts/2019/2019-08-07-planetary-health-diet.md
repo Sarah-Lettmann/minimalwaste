@@ -67,7 +67,7 @@ Hier wird sofort eins deutlich: <mark>Der Schwerpunkt sollte auf vegetarischer o
 
 Die Folgende Grafik soll verdeutlichen, wie eine solche Ernährung aussehen kann:
 
-![Der Leitfaden der Planetary Health Diet](/assets/inpost-images/2019/2019-08-07-planetary-health-diet-template.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-08-07-planetary-health-diet-template.jpg" alt="Der Leitfaden der Planetary Health Diet" title="" caption="Der Leitfaden der Planetary Health Diet" %}
 
 Dieser Leitfaden basiert auf einem **täglichen Kalorienverbrauch von 2500 kcal** und kann je nach Kultur, Vorlieben oder Statur noch angepasst werden. Die EAT-Lancet Commission hat zusätzlich auch noch Empfehlungen für Gramm pro Tag für die einzelnen Kategorien ausgesprochen.
 

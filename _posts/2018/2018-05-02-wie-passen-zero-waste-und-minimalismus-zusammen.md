@@ -17,7 +17,7 @@ _Das hier ist allein meine persönliche Meinung und die Punkte beruhen auf meine
 ### Vorratshaltung  
 Bei der Vorratshaltung geht es bei der Müllvermeidung um eins: Vorbereitung. Man sollte die Gefäße da haben, sie mit zum Einkaufen nehmen und sie dann schön gefüllt wieder zu Hause ins Regal stellen. Ich denke als richtig krasser Minimalist würde man auf diese Gefäße verzichten und stattdessen die geöffneten Packungen einfach so aufbewahren. So muss man keine zusätzlichen Besitztümer anschaffen.
 
-![Vorratshaltung](/assets/inpost-images/2018/2018-05-02-vorratshaltung.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-05-02-vorratshaltung.jpg" alt="Vorratshaltung" title="" caption="" %}
 
 ### Ausmisten
 Bei vielen, die Ausmisten gilt es nur, das Zeug irgendwie los zu werden. Und ein bisschen kann ich das auch verstehen, denn es können schließlich Berge sein, mit denen man sich rumschlagen muss. Da für jedes Teil die passende Methode zu finden, einzeln zu verkaufen oder zu verschenken kann anstrengend sein. Auch ich habe am Anfang viele Dinge gedankenlos weggeworfen. Wenn ich heute allerdings ausmiste, mache ich das nicht mehr, sondern spende 99% der Dinge oder verkaufe sie - es sei denn sie sind wirklich kaputt und nicht zu reparieren.
@@ -44,7 +44,7 @@ Da ist nichts dran zu rütteln: Sowohl Minimalismus als auch Zero Waste tun was 
 ### Ästhetik
 Ich persönlich finde Zero Waste sieht einfach wahnsinnig schön aus. Die natürlichen Materialien und frischen Lebensmittel machen wirklich einiges her. Und da ist es dem Minimalismus nicht ganz unähnlich. Viele Minimalisten (ich schließe mich da nicht aus) lieben leere Oberflächen, weiße Möbel und eine schlichte Ästhetik. Zero Waste passt dazu wirklich gut.
 
-![Ästhetik](/assets/inpost-images/2018/2018-05-02-aesthetik.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-05-02-aesthetik.jpg" alt="Ästhetik" title="" caption="" %}
 
 ### Geld
 Auch wenn sich das Gerücht hartnäckig hält: Zero Waste spart Geld. Genauso wie beim Minimalismus ist dafür in erster Linie das veränderte Konsumverhalten verantwortlich. Weniger kaufen spart Geld. Außerdem verlagern sich die Ausgaben in mancher Hinsicht. <mark>Es wird nicht mehr so oft so viel billiges Zeug gekauft, sondern selten, dafür weniger und von höherer Qualität.</mark> Das gilt auch für die Lebensmittel. Junk-Food ist teuer und wenn man ein ähnliches Gericht selbst in größerer Menge kocht, kommt man in der Regel günstiger dabei weg. Da fällt es auch nicht so sehr ins Gewicht, dass man für die Bio-unverpackten Zutaten etwas mehr bezahlt.
@@ -53,14 +53,6 @@ Außerdem könnte man auch die gesündere Ernährung mit den gesparten medizinis
 
 Diese beiden Lebensstile unterscheiden sich in vielen Dingen stark und in anderen Aspekten reichen sie sich perfekt die Hand. Ich finde das der richtige Weg wie bei so vielem irgendwo in der Mitte liegt. Und es kommt auch darauf an, was du aus diesen Lebensstilen machst. Sie sollten einen Anreiz bieten, Dinge besser zu machen und dazu anregen unsere Verhaltensweise zu überdenken.
 
-Aber letzten Endes liegt es an dir. Was davon kann ich in meinem Alltag umsetzen? Welche Möglichkeiten habe ich? Womit fühle ich mich wohl? Lass dir nichts aufzwingen. Mach es so, wie es sich für dich richtig anfühlt! Weiters zum Thema:
-
-[Wie du durch Zero Waste gesünder lebst](/blog/wie-du-durch-zero-waste-gesuender-lebst/)
-
-[Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/)
-
-[4 müllfreie DIYs für einen sauberen Haushalt](/blog/4-muellfreie-diys-fuer-einen-sauberen-haushalt/)
-
-Bis zum nächsten Mal
+Aber letzten Endes liegt es an dir. Was davon kann ich in meinem Alltag umsetzen? Welche Möglichkeiten habe ich? Womit fühle ich mich wohl? Lass dir nichts aufzwingen. Mach es so, wie es sich für dich richtig anfühlt! Bis zum nächsten Mal
 
 \- Sarah

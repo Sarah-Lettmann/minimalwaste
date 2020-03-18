@@ -70,7 +70,7 @@ Jetzt gucken wir uns mal die Recyclingquote etwas genauer an. Generell untersche
 
 Wenn der Kunststoff an sich aus zu vielen unterschiedlichen Polymeren besteht, führt das schon zu einem Qualitätsverlust. Müssen unterschiedliche Kunststoffe getrennt werden, verbraucht das Unmengen an Energie und Wasser. (Deshalb ist es auch sinnvoll bei Verpackungen unterschiedliche Materialien zu trennen, wie den Deckel vom Joghurtbecher zu lösen.) <mark>Und so wird die werkstoffliche Verwertung daher zurzeit fast ausschließlich dort eingesetzt, wo große Mengen eines sortenreinen Materials zur Verfügung stehen, wie beim Recycling von PET-Flaschen.</mark> Kann der Kunststoff auch so nicht mehr verwertet werden, kommt er in die Verbrennung, um daraus Energie zu gewinnen, genannt Energetische Verwertung.
 
-![Recyclingquote von Plastik](/assets/inpost-images/2017/2017-02-04-plastik-recyclingquote.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-02-04-plastik-recyclingquote.jpg" alt="Recyclingquote von Plastik" title="" caption="" %}
 
 Laut dem Papier "Plastics - the Facts 2016" von [plasticseurope.org](http://www.plasticseurope.org) wurden 2014 weltweit ganze 7,7 Millionen Tonnen Plastik recycelt (29,7% aller Kunststoffe, die in der Abfallverwertung gelandet sind). Das hört sich erstmal gut an. Allerdings schreibt das gleiche Papier auch, dass weltweit im selben Jahr 311 Millionen Tonnen Plastik hergestellt wurden. Lass mich das mal kurz durchrechnen:  
 311 Mio. t = 100% ~> 1 Mio. t = 0,32% ~> 7,7 Mio. t = 2,47%.
@@ -81,11 +81,11 @@ Laut dem Papier "Plastics - the Facts 2016" von [plasticseurope.org](http://www.
 Die Quote für den recycelten Anteil allerdings nur um 0,17% (Da 2012 6,6 Millionen Tonnen der weltweit produzierten 287 Millionen Tonnen recycelt wurde [[11]](#quellen)):  
 287 Mio. t = 100% ~> 1 Mio. t = 0,35% ~> 6,6 Mio. t = 2,3%  
 
-![Plastik Verwertung](/assets/inpost-images/2017/2017-02-04-plastik-verwertung.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-02-04-plastik-verwertung.jpg" alt="Plastik Verwertung" title="" caption="" %}
 
 Aus dem Papier gehen aber noch andere interessante Fakten hervor. Beispielsweise, dass Deutschland das Europäische Land mit der größten Nachfrage nach Plastik ist und das die beiden größten Sektoren in Europa, die Plastik zur Herstellung von Gütern benötigen, der Verpackungs-Sektor mit 39,9% und der Weitere-Sektor mit 22,4% sind, worunter Sportutensilien, Möbel und Haushaltsgegenstände fallen.
 
-> Wenn ihr euch das Papier mal durchlest, achtet besonders auf Folie 24. Diese ist nämlich ein sehr gutes Beispiel wie man die Zahlen verdrehen kann, sodass es hübsch aussieht. Die 39,5% Recyclingquote beziehen sich nämlich lediglich auf die 25,8 Millionen Tonnen, die in der Abfallverwertung landen. Ich frage mich was mit dem Rest geschieht...
+Wenn ihr euch das Papier mal durchlest, achtet besonders auf Folie 24. Diese ist nämlich ein sehr gutes Beispiel wie man die Zahlen verdrehen kann, sodass es hübsch aussieht. Die 39,5% Recyclingquote beziehen sich nämlich lediglich auf die 25,8 Millionen Tonnen, die in der Abfallverwertung landen. Ich frage mich was mit dem Rest geschieht...
 
 Was lernen wir daraus?
 

@@ -17,7 +17,7 @@ Ich mische beides nach Gefühl **in einer kleinen Sprühflasche**. Die benutze i
 
 Der Reiniger riecht dabei allein durch das Spüli schon gut und ist sehr schonend zu allen möglichen Oberflächen. Ich hab ihn schon auf Holz, Stoff - Schokolade auf dem Sofa \*hust\* - sowie auf Glas, Fliesen und Monitoren verwendet.
 
-![Allzweckreiniger](/assets/inpost-images/2018/2018-03-28-allzweireiniger.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-03-28-allzweireiniger.jpg" alt="Allzweckreiniger" title="" caption="" %}
 
 Falls du kein Spüli zur Hand hast, kannst du aber auch Flüssigseife nehmen. Das funktioniert genau so gut.
 
@@ -27,7 +27,7 @@ Für Glas brauchst du keinen extra Reiniger und musst auch kein Zeitungspapier v
 ## Der Badreiniger: Zitronensäure
 Das ist der echte Alleskönner fürs Bad. Dazu mische ich ca. einen Teelöffel Zitronensäure auf 200 ml Wasser und gebe noch etwas Spüli mit rein. In der kleinen Sprühflasche kann ich den **Reiniger** dann **fürs Bad** oder eben auch in der Küche verwenden.
 
-![Badreiniger mit Zitronensäure](/assets/inpost-images/2018/2018-03-28-badreiniger.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-03-28-badreiniger.jpg" alt="Badreiniger mit Zitronensäure" title="" caption="" %}
 
 Die Zitronensäure löst Kalk wirklich gut und sorgt für strahlende Armaturen. Wenn du wirklich hartnäckige Verschmutzungen zu Leibe rücken willst, kannst du den Anteil der Zitronensäure im Reiniger noch erhöhen oder ihn länger einwirken lassen.
 
@@ -40,7 +40,7 @@ Ab und zu ein bisschen Essig mit Wasser verdünnt in den **Wasserkocher**, zack,
 
 Bei den Perlatoren kann es sein, dass du sie eine ganze Weile in den Essig legen musst. Wir hatte unsere ein ganzes Jahr ignoriert - wir habe hier in Darmstadt wirklich sehr kalkhaltiges Wasser - und naja, es hat mehrere Tage gebraucht. Aber es hat funktioniert!
 
-![Essig](/assets/inpost-images/2018/2018-03-28-essig.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-03-28-essig.jpg" alt="Essig" title="" caption="" %}
 
 ## Die Unterstützung: Natron
 Natron ist vor allem **in der Kombination mit Essig** ein starker Reiniger für beispielsweise den Backofen.
@@ -49,13 +49,7 @@ Den Backofen oder das Blech mit Natron bestreuen, dann Essig drauf sprühen und 
 
 Natron eignet sich auch gut als **Rohrreiniger**. Etwas Natron in den Abfluss geben und etwas Essig (verdünnt oder pur) nachgeben. Zusehen wie es blubbert und arbeitet und einwirken lassen. Danach mit kochendem Wasser nachgießen und evtl. etwas mit dem Pömpel nachhelfen. Je nach Stärke der Verschmutzung kann diese Prozedur mehrfach wiederholt werden.
 
-Ich hoffe diese Reiniger helfen dir deinen Frühjahrsputz ohne Chemiekeule und schnell über die Bühne zu bringen. Ich bin davon jedenfalls begeistert. Viel Spaß damit! Für weiter DIYs und Zero Waste Tipps, kann ich dir diese Beiträge empfehlen:
-
-[Zero Waste Rezepte](/blog/zero_waste_rezepte)
-
-[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell)
-
-[Mein Zero Waste Badezimmer](/blog/mein-zero-waste-badezimmer)
+Ich hoffe diese Reiniger helfen dir deinen Frühjahrsputz ohne Chemiekeule und schnell über die Bühne zu bringen. Ich bin davon jedenfalls begeistert. Viel Spaß damit!
 
 \- Sarah
 

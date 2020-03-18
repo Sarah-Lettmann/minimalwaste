@@ -17,7 +17,7 @@ _Außerdem bin ich nicht medizinisch geschult, sondern einfach jemand, der ein p
 ## Ruh dich aus
 Ja, das ist leider **das einzige das dem Körper wirklich aktiv dabei hilft**, die Krankheit zu besiegen. Denn wenn wir krank sind, dann kostet es unser Immunsystem viel Kraft. Schließlich muss es die Krankheit abwehren und je stärker der Kampf, desto mehr spüren wir das. Wenn wir also Husten, uns die Nase läuft, wir vielleicht sogar Fieber haben, dann sind das die Anzeichen, dass unser Körper gegen die Erreger kämpft.
 
-![Viel ausruhen](/assets/inpost-images/2019/2019-01-30-ausruhen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-30-ausruhen.jpg" alt="Viel ausruhen" title="" caption="" %}
 
 Dafür braucht er viel Kraft und die kannst du ihm am besten geben, wenn du dich ausruhst. Das heißt: **kein Sport, kein zur Arbeit gehen, keine “ich muss trotzdem die ganze Wohnung putzen”-Aktionen**, nein! <mark>Am besten ist: Viel Schlaf! Und damit meine ich auch wirklich Schlaf.</mark> Das wirkt meiner Erfahrung nach am besten. Zwar ist den ganzen Tag auf der Couch rumliegen und sich vom Partner Suppe bringen lassen auch schon ganz gut, aber schlafen ist noch besser. Und von hinten bis vorne bedienen lassen, kann man sich ja trotzdem noch.
 
@@ -31,13 +31,13 @@ Heiße Getränke sind immer angenehm, wenn man erkältet ist. Oft ist einem näm
 
 Ich greife oft einfach zu **Pfefferminztee**. Ich weiß nicht was es ist, aber wenn ich eine Tasse heißen Pfefferminztee getrunken habe, dann fühle ich mich einfach rundum besser. Aber natürlich kannst du jeden Tee trinken, der dir schmeckt.
 
-![Tee trinken](/assets/inpost-images/2019/2019-01-30-tee-trinken.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-30-tee-trinken.jpg" alt="Tee trinken" title="" caption="" %}
 
 Du kannst dir auch ein **Gemisch aus heißer Zitrone, Ingwer und Honig** zusammenstellen. Dazu musst du nur eine Zitrone auspressen, mit heißem Wasser aufgießen, ein - zwei Scheiben Ingwer und etwas Honig hinzugeben- Voila!
 
 Wenn du durch das viele Husten einen gereizten Hals hast, dann hilft oft eine **warme Milch mit Honig** - oder wahlweise **Pflanzenmilch mit Ahornsirup**. Wenn du Milch nicht magst oder sie zu sehr im Hals schleimt, kannst du auch einfach nur Honig löffeln. Gibt es was besseres am krank sein?
 
-![Heiße Zitrone](/assets/inpost-images/2019/2019-01-30-heisse-zitrone.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-30-heisse-zitrone.jpg" alt="Heiße Zitrone" title="" caption="" %}
 
 ### Japanisches Heilpflanzenöl
 Japanisches Heilpflanzenöl (ätherisches Minzöl) ist für mich die Geheimwaffe, wenn es um verschleimte Nebenhöhlen geht. Das kannst du dir, wenn du Kopfschmerzen von verschlossenen Nebenhöhlen hast, einfach vor dem Schlafen unter die Nase schmieren. Du kannst es aber auch zum **Baden oder Inhalieren** benutzen. Und wenn ich mich nicht irre kann man sogar bei Magenbeschwerden einnehmen.
@@ -47,7 +47,7 @@ Das Zeug kenne ich übrigens von meinem Vater, wollte es jahrelang nicht benutze
 ## Inhalieren
 Wie schon erwähnt, eine gute Anwendung für das Japanische Heilpflanzenöl - Du kannst es zum Inhalieren verwenden. Einfach **kochendes Wasser** in eine Schüssel geben, vier Tropfen **Heilpflanzenöl** hinzugeben, mit einem Handtuch abdecken und ein paar Minuten warten bis das ganze ein wenig abgekühlt und der starke Minzduft annehmbar ist. Dann den Kopf unters Handtuch stecken und **tief einatmen**. Das kannst du so lange machen bis deine Nase entweder frei ist oder sie dir so sehr läuft, dass du nicht mehr vernünftig atmen kannst. Ach ja, erwähnte ich, dass du Taschentücher bereit legen solltest?!
 
-![Japanisches Heilpflanzenöl](/assets/inpost-images/2019/2019-01-30-minzoel.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-30-minzoel.jpg" alt="Japanisches Heilpflanzenöl" title="" caption="" %}
 
 Wenn du es etwas schonender willst, dann kannst du auch **mit Salzwasser inhalieren**. Dazu gibst du vor dem heißen Wasser einen großen Esslöffel Salz in die Schüssel und gießt das dann auf.
 

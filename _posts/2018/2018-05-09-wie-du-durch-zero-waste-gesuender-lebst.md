@@ -36,7 +36,7 @@ Schon lange, bevor ich mit Müll vermeiden und weniger Besitz etwas zu tun hatte
 
 Ich versuche immer mal wieder ein paar Dinge, die ich selbst mache, Vegan zu machen. Das macht Spaß und in vielen Fälle schmeckt man keinen Unterschied oder es schmeckt vielleicht sogar besser.
 
-![Veganes Müsli mit selbst gemachter Mandelmilch](/assets/inpost-images/2018/2018-05-09-veganes-muesli-mit-mandelmilch.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2018/2018-05-09-veganes-muesli-mit-mandelmilch.jpg" alt="Veganes Müsli mit selbst gemachter Mandelmilch" title="" caption="" %}
 
 In den letzten Monaten habe ich **Tofu** für mich entdeckt. Vor solchen Sachen haben viele Leute Angst, weil sie keine Ahnung haben, wie man ihn zubereiten soll. Richtig zubereitet ist Tofu aber wirklich, wirklich geil! Vor Allem in asiatischen Gerichten ist er gut aufgehoben. Probier es einfach mal aus. Heutzutage ist das Internet voll von veganen Rezepten, also trau dich und **experimentier** ein bisschen!
 
@@ -47,7 +47,7 @@ Das ist ein wirklich großer Punkt für mich. Ich habe die Erfahrung gemacht, da
 
 Das ganze fing so an: Irgendwann hörte ich vermehrt davon, dass sich Haare bei zu vielem Waschen, daran gewöhnen und somit schneller fetten. Ich hatte zu dem Zeitpunkt sehr schnell fettende Haare und stellte daraufhin mein Waschverhalten um. Meine Haare gewöhnten sich langsam daran und heute wasche ich mir nur noch alle drei Tage die Haare und nicht mehr täglich. Meine Haare sind außerdem gesünder und gepflegter als je zuvor. Ich war vor ein paar Wochen beim Friseur und als ich der Dame erzählte, dass ich meine Haare das letzte Mal vor 1 ½ Jahren habe schneiden lassen, fiel sie fast vom Glauben ab - denn sie waren immer noch in einem sehr guten Zustand.
 
-![Shampoobar](/assets/inpost-images/2017/2017-10-22-haarwaschseife.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2017/2017-10-22-haarwaschseife.jpg" alt="Shampoobar" title="" caption="" %}
 
 Und da das so gut funktionierte, dachte ich mir: <mark>Vielleicht ist das bei meiner Haut so ähnlich. Wenn ich sie täglich von außen mit Feuchtigkeit versorgen, hat sie keinen Grund mehr, selbst für sich zu sorgen</mark> (Bei manchen Leuten kann das ja auch anders herum sein, also dass die Haut dann sehr fettig wird. Ich glaube das liegt daran, wohin man tendiert. Meine Haut tendiert offensichtlich dazu eher trocken zu sein, meine Haare dazu eher fettig zu sein).
 
@@ -60,14 +60,6 @@ Wenn du mehr darüber wissen willst, wie du dein Badezimmer Zero Waste gestalten
 ## Weniger Chemie im Haus
 Nicht nur **weniger Zusatzstoffe** im Essen und Pflegeprodukten, sondern auch in **Reinigern** und anderen **Haushaltsprodukten**, darauf achtet man auf einmal, wenn Müllvermeidung und Nachhaltigkeit zum Thema werden. Entweder man kauft unverpackte und umweltverträgliche Produkte oder man macht sie gleich selbst, wenn eventuell das Angebot fehlt. Für viele Sachen, kann man einfache Hausmittel verwenden. Wenn du dich dafür interessiert, dann guck doch mal hier: [4 nachhaltige Reiniger, die alles sauber bekommen](/blog/4-nachhaltige-reiniger-die-alles-sauber-bekommen).
 
-Du siehst also Zero Waste stellt das ganze Leben auf den Kopf, wenn auch auf eine sehr positive Art und Weise. Allgemein könnte man sagen, dass die wichtigen Dinge wieder in den Vordergrund rücken: Gesundheit, Genuss, Zufriedenheit. Ich hoffe die Infos sind ein Ansporn, dich weiter mit dem Thema auseinander zu setzen. Hier kannst du dich noch weiter informieren:
-
-[Kaffee und Tee ohne Müll](/blog/zero-waste-kaffee-und-tee-ohne-muell/)
-
-[Die Philosophie hinter Zero Waste](/blog/die-philosophie-hinter-zero-waste/)
-
-[Die Vorteile von Glas gegenüber Plastik](/blog/die-vorteile-von-glas-gegenueber-plastik/)
-
-Bis nächste Woche,
+Du siehst also Zero Waste stellt das ganze Leben auf den Kopf, wenn auch auf eine sehr positive Art und Weise. Allgemein könnte man sagen, dass die wichtigen Dinge wieder in den Vordergrund rücken: Gesundheit, Genuss, Zufriedenheit. Ich hoffe die Infos sind ein Ansporn, dich weiter mit dem Thema auseinander zu setzen. Bis nächste Woche,
 
 \- Sarah

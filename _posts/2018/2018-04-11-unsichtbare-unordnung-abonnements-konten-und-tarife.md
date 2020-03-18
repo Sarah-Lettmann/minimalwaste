@@ -54,7 +54,7 @@ Sowas sammelt sich schneller an, als man glaubt. Auch hier kann es sein, dass du
 
 Die Google Adresse benutze ich nicht, um mich bei Diensten oder Apps anzumelden. Sie existiert einfach nur. Die persönliche Mail Adresse sollte die sein, die du in der Regel für Anmeldungen auf Websites oder Apps verwendest.
 
-> Falls du nach dem Ausmisten trotzdem noch mehrer E-Mail Adressen übrig hast, dann rate ich dir, sie in Thunderbird/Outlook einzubinden, damit du alle an einem Platz hast. Für Android gibt es dafür die App namens TypeApp.
+_Falls du nach dem Ausmisten trotzdem noch mehrer E-Mail Adressen übrig hast, dann rate ich dir, sie in Thunderbird/Outlook einzubinden, damit du alle an einem Platz hast. Für Android gibt es dafür die App namens TypeApp._
 
 ### Newsletter
 Wirklich nervig können Newsletter werden. Sieh zu, dass du dich direkt, wenn etwas ungeliebtes reinkommt, abmeldest oder es in den Spam-Ordner verschiebst. Mit der Zeit wird sich die Anzahl der E-Mails verringern, die du jeden Tag bekommst und nur das wichtige wird übrig bleiben.
@@ -92,14 +92,6 @@ Du kannst natürlich noch weiter damit rumspielen, aber das ist zumindest die Gr
 
 Dafür empfehle ich dir das Programm _KeePass_. Das gibt es für PC und Android und ist eine Datenbank für Passwörter. Nach Kategorien sortiert, kann man alle seine wichtigen Daten anlegen und mit Doppelklick auf Passwort oder Nutzername diese gleich kopieren und einfügen. Ich nutze das neuerdings und besonders für Kundennummern und solche Sachen, die man sich nicht gut merken kann, finde ich es ziemlich gut.
 
-Damit wäre ich am Ende diese wirklich überhaupt nicht, viel zu lang gewordenen Beitrags. Puhh… Ich hoffe du konntest daraus einiges mitnehmen und es spart dir in Zukunft Geld, Zeit und Nerven. Hier gibt es noch weiteres zum Thema Minimalismus:
-
-[Unsichtbare Unordnung: Dokumente Strukturieren](/blog/unsichtbare-unordnung-dokumente-strukturieren)
-
-[Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/)
-
-[Frühjahrsputz - Ausmisten und Aufräumen für den Frühling](/blog/fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling/)
-
-Bis nächste Woche
+Damit wäre ich am Ende diese wirklich überhaupt nicht, viel zu lang gewordenen Beitrags. Puhh… Ich hoffe du konntest daraus einiges mitnehmen und es spart dir in Zukunft Geld, Zeit und Nerven. Bis nächste Woche
 
 \- Sarah

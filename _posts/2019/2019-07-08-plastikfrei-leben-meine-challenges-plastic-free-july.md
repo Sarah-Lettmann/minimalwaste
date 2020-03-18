@@ -39,7 +39,7 @@ Ich denke bei solchen Snacks zum Beispiel an **vegane Energy Balls und Müslirie
 ### Brotaufstriche, Saucen und Dips
 Auch ein großes Thema sind Brotaufstriche, Saucen und Dips. Diese kaufen wir zwar konsequent im Glas, aber sie sind manchmal recht teuer. Hier würde ich gerne auch mehr selbst machen und einen Teil dann einfrieren. Außerdem bekommt man so veganes in hoher Qualität für wenig Geld. Und man spart sich das Schhraubglas.
 
-![Selbst gemachter Hummus](/assets/inpost-images/2019/2019-07-08-selbst-gemachter-hummus.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-07-08-selbst-gemachter-hummus.jpg" alt="Selbst gemachter Hummus" title="" caption="" %}
 
 Beispiele dafür sind **Hummus**, **Tomatenaufstriche**, **Kräuter- und Käsesaucen** (vielleicht auch vegan, mal gucken) und **Salsa**. Aber auch Saucen für Mahlzeiten wie **Pesto** oder **cremige Saucen** könnte ich jetzt besser selbst machen. Ein Dip, den ich immer schon selbst mache ist übrigens Guacamole, denn dafür braucht man nur eine Gabel zum Zerkleinern der Avocado.
 
@@ -48,7 +48,7 @@ Wenn du übrigens mal Lust hättest, ein paar vegane und müllfreie Rezepte zu e
 ### Vegane Milchalternativen
 Seit einigen Wochen machen wir unsere Hafermilch selbst und sind durch sie komplett von Milch weggekommen. Den Anstoß dafür gab uns ein Kumpel, der nur Hafermilch von Oatly trinkt. Daraufhin haben wir diese auch ausprobiert und gerade die Bariste Edition fanden wir einfach sagenhaft. Da diese aber wie alle andere Pflanzenmilch im Tetrapack kommt, habe ich versucht sie zu Hause nachzumachen. Das ist mir auch ganz gut gelungen und das Rezept dafür werde ich diesen Monat auch noch auf dem Blog teilen.
 
-![Hafermilch](/assets/inpost-images/2019/2019-07-08-hafermilch.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-07-08-hafermilch.jpg" alt="Hafermilch" title="" caption="" %}
 
 ### Veganer Joghurt
 Ich bin vor einiger Zeit darauf umgestiegen veganen Joghurt statt herkömmlichen zu essen. Leider kommt dieser nicht im Pfandglas, sondern in einem Plastikbecher. Gut finde ich an dem Becher zwar, dass man alle Teile sauber von einander trennen und somit auch getrennt und richtig entsorgen kann, aber trotzdem nervt mich das.
@@ -61,7 +61,7 @@ Sehr selten, aber trotzdem in regelmäßigen Abständen flattern immer noch mal 
 ### Unterwegs Müll vermeiden
 Zum unterwegs Müll vermeiden habe ich ja letztens schon ein Video gemacht ([Wie du unterwegs Müll vermeidest](/blog/wie-du-unterwegs-muell-vermeidest/)). Das ist etwas, das ich mir für dieses Jahr im Allgemeinen vorgenommen habe. Darin möchte ich einfach besser werden. Diesen Monat möchte ich nochmal einen besonderen Fokus darauf legen. Damit hoffe ich, dass ich mich nach dem Monat so daran gewöhnt habe, dass ich nichts mehr zu Hause vergesse und einfach besser an bestimmte Dinge denke. Die Hauptaufgabe besteht hier also in Konsequenz in der Sache und Gewohnheit.
 
-![Selbst gemachter Hummus](/assets/inpost-images/2019/2019-07-08-edelstahlstrohhalm.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-07-08-edelstahlstrohhalm.jpg" alt="Selbst gemachter Hummus" title="" caption="" %}
 
 ### Menschen ansprechen
 Was ich bisher leider auch viel zu selten mache ist, Leute anzusprechen und Hinweise zu geben, wenn ich irgendwo Verbesserungsbedarf sehe. Das gilt natürlich erstmal für so Orte wie den Supermarkt, <mark>aber auch in Restaurant will ich in Zukunft die Kellner ansprechen und sie beispielsweise darauf hinweisen, dass es Alternativen zu Strohhalmen aus Plastik gibt.</mark> Dabei will ich auf gar keinen Fall total belehrend rüber kommen, sondern eher freundlich das Gespräch suchen. Ich hoffe ich bekomme das hin, wir werden sehen.
@@ -71,7 +71,7 @@ Zu guter Letzt möchte ich gerne mit meinen eigenen Dosen an der Frischetheke be
 
 Bisher stört es mich nämlich, dass **mit der eigenen Dose einkaufen** in vielen Supermärkten immer noch **kompliziert** ist oder einfach nicht geht. Das liegt manchmal daran, weil das Personal einfach zu engstirnig ist und manchmal auch daran, dass beispielsweise die Dose an der Kasse nochmal gewogen werden muss.
 
-![Selbst gemachter Hummus](/assets/inpost-images/2019/2019-07-08-dosen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-07-08-dosen.jpg" alt="Selbst gemachter Hummus" title="" caption="" %}
 
 ## Wichtige Erwähnungen
 Zum Schluss möchte ich noch ein paar Produkte in die Runde werfen, die ich in letzter Zeit entdeckt habe. Die Produkte nutze ich bis jetzt selbst nicht, einige sind bis heute auch noch nicht auf dem Markt, aber immerhin gecrowdfundet und ich habe schon ein Auge auf sie geworfen, damit ich an einigen Stellen noch ein bisschen was an Müll einsparen kann. Und da _Plastic Free July_ ist, dachte ich, das ist genau der richtige Zeitraum um so was zu teilen. Und nein, für nichts davon bekomme ich Geld, ich finde die Ideen einfach nur toll.

@@ -106,14 +106,6 @@ Ich hoffe dieser Post war hilfreich für dich. Hier findest du noch die versproc
 
 {% include download.html name="Dokumente strukturieren: So wird's richtig gemacht!" path="/assets/downloads/2018-04-04-unsichtbare-unordnung-dokumente-strukturieren.pdf" size="34 kb" %}
 
-Nächste Woche geht es dann mit Bankkonten, E-Mail Adressen und Abos weiter, also dem richtig, wirklich nervigen Kleinkram. Aber ich verspreche dir, danach wirst du dich gut fühlen und viel mehr Überblick über deine Finanzen und Daten haben. Weitere Posts zum Thema:
-
-[Unsichtbare Unordnung: Abonnements, Konten und Tarife](/blog/unsichtbare-unordnung-abonnements-konten-und-tarife/)
-
-[Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/)
-
-[15 Ideen für günstige Freizeit­gestaltung für zu Hause](/blog/15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause/)
-
-Bis dahin,
+Nächste Woche geht es dann mit Bankkonten, E-Mail Adressen und Abos weiter, also dem richtig, wirklich nervigen Kleinkram. Aber ich verspreche dir, danach wirst du dich gut fühlen und viel mehr Überblick über deine Finanzen und Daten haben. Bis dahin,
 
 \- Sarah

@@ -22,7 +22,7 @@ Dadurch hast du die Möglichkeit **beim ersten Ausmisten schon eine ganze Menge 
 
 Ich persönlich gehen am liebsten nach Räumen vor und unterteile diese dann noch weiter nach Möbelstücken. Das heißt **man nimmt sich einen Raum vor**. Wenn dieser nicht besonders groß ist, dann kann man sich auch um alle Stauräume gleichzeitig kümmern. Allerdings neigt man doch immer eher dazu zuerst den Kleiderschrank, dann die Kommode und dann den Bettkasten durch zugucken. Und das ist auch die beste Methode, wenn man viele Stauräume im Raum hat.
 
-![Klamotten](/assets/inpost-images/2019/2019-01-23-klamotten-aussortieren.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-23-klamotten-aussortieren.jpg" alt="Klamotten aussortieren" title="" caption="" %}
 
 Wenn man nicht in einem totalen Chaos lebt, sollte das auch kein Problem sein. Falls man allerdings viele Dinge von etwas an unterschiedlichen Orten hat, wie beispielsweise Bücher, und man sein Bücherregal ausmistet, dann ist es eventuell auch keine schlechte Idee, **alle anderen Bücher aus anderen Räumen dazu zu holen**.
 
@@ -44,9 +44,9 @@ Selbst wenn du regelmäßig ausmistest, kann es sein, dass du zwischendurch das 
 
 Das funktioniert folgendermaßen: **Du nimmst dir eine große Kiste**, wie z.B. eine alte Umzugskiste, eine Lagerbox, ein Wäschekorb, einen Schuhkarton (wenn du nicht viel Platz brauchst) oder was dir auch beliebt oder zur Verfügung steht. Dann gehst du durch dein Haus/deine Wohnung und nimmst alles mit, dass dir in den Sinn kommt. Gehe grob durch Schränke, Schubladen und über Regale und **packe alles ein, dass dir auffällt**.
 
-![Bücher, Spiele und Kleinkram](/assets/inpost-images/2019/2019-01-23-spiele-und-buecher-entruempeln.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-23-spiele-und-buecher-entruempeln.jpg" alt="Bücher, Spiele und Kleinkram" title="" caption="" %}
 
-> Hintergrund ist der, dass jeder nach einer gewissen Zeit ein paar Dinge im Hinterkopf hat, bei denen er sich sicher ist, dass sie weg können. Diese Dinge kannst du mit der 5-Minuten Methode ganz einfach und schnell einpacken.
+_Hintergrund ist, dass jeder nach einer gewissen Zeit ein paar Dinge im Hinterkopf hat, bei denen er sich sicher ist, dass sie weg können. Diese Dinge kannst du mit der 5-Minuten Methode ganz einfach und schnell einpacken._
 
 Zugegeben, das ist **eher was für geübte Ausmister**, die nicht mehr bei jedem Teil überlegen müssen, ob sie das noch haben wollen.
 
@@ -61,13 +61,13 @@ Das alles frisst unsere Aufmerksamkeit, unsere Konzentration, unsere Hirnkapazit
 
 Ich spreche da aus Erfahrung. <mark>Selbst in meiner kleinen Studentenbude mit 25m² hatte ich schon so viel Zeug zusammengekauft, dass es mich erdrückt hat.</mark> Ich habe mir ständig Gedanken gemacht, was ich noch kaufen könnte, welches Buch ich im Regal stehen haben will, welche Dinge noch für die Küche brauche, usw. Jeden Monat habe ich, mit dem wenigen Geld das ich hatte, auf Amazon bestellt.
 
-![Gitarre](/assets/inpost-images/2019/2019-01-23-gitarre.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-01-23-gitarre.jpg" alt="Gitarre" title="" caption="" %}
 
 Im Nachhinein macht mich das traurig, weil ich soviel unnütze Sachen gekauft habe, die ich zu einem großen Teil gar nicht mehr besitze, weil ich sie eben nicht gebraucht habe. Aber auch der Gedanke an das viele Geld, das den Bach runtergegangen ist, ist schwer zu ertragen.
 
 <mark>Sinn des Ausmistens ist es auch, von dem Konsumwahn wegzukommen und sein Kaufverhalten zu ändern. Mal zu hinterfragen, ob man das wirklich braucht, statt gleich zuzuschlagen.</mark> Einfach mal eine Nacht drüber schlafen. Einfach mal nicht auf die Angebote aus den Prospekten eingehen. Auch mal zufrieden sein mit dem was man hat.
 
-> Natürlich führt man sich verführt, dass ist ja der Sinn von Marketingstrategien, die täglich an allen Ecken und Enden auf uns einprasseln. Je länger man sich in Minimalismus übt, desto leichter fällt es einem dabei Ruhe zu bewahren.
+_Natürlich führt man sich verführt, dass ist ja der Sinn von Marketingstrategien, die täglich an allen Ecken und Enden auf uns einprasseln. Je länger man sich in Minimalismus übt, desto leichter fällt es einem dabei Ruhe zu bewahren._
 
 Ich habe das geschafft und kaufe heute nur noch wenige Dinge. Und es geht mir damit besser denn je.
 

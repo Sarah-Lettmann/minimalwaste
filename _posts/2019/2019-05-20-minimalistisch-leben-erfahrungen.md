@@ -27,7 +27,7 @@ Aber zum Glück hat sich das alles geändert.
 ## Mein Umgang mit Besitz
 Ich habe es über die Jahre geschafft viel lockerer mit Konsum umzugehen. Vielleicht kennst du das ja auch noch, aber früher war das für mich ein regelrechter Zwang. Ständig war ich auf der Suche nach etwas, habe nach Angeboten Ausschau gehalten, habe dann auch nur das billigste gekauft. Und immer war der Gedanke dabei: Ich brauche noch das und das und dann ist alles perfekt.
 
-![Umgang mit Besitz](/assets/inpost-images/2019/2019-05-20-umgang-mit-besitz.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-20-umgang-mit-besitz.jpg" alt="Ranken einer Zimmerpflanze, die sich am Schrank enlang wachsen." title="" caption="" %}
 
 Lustigerweise kam es aber nie so. Es war nie perfekt. Immer kam noch etwas neues, was ich dann auch wieder haben wollte. Immer wieder entstanden bei mir Bedürfnisse nach Dingen, die mein Leben nur dadurch bereichert haben, dass sie einfach da waren. Und sonst war da eben nichts.
 
@@ -42,7 +42,7 @@ Selbst das Portmonee würde ich nur mitnehmen, weil ich keinen Bock hätte nachh
 ## Menschliche Beziehungen
 Aber nicht nur was physisch vorhandene Dinge angeht, haben sich meine Ansichten verändert. Ich bin auch wählerischer geworden, was die Menschen in meinem Umfeld angehen. Ich habe einfach keine Lust meine Energie für jemanden zu verschewenden, der nichts zurück gibt. Solche Menschen brauche ich in meinem Leben nicht.
 
-![Menschliche Beziehungen](/assets/inpost-images/2019/2019-05-20-menschliche-beziehungen.jpg "© {{ site.title }}")
+{% include figure.html src="/assets/inpost-images/2019/2019-05-20-menschliche-beziehungen.jpg" alt="Verdorrte Blumen in einer geupcycelten Bierflasche als Vase" title="" caption="" %}
 
 Auch das mag jetzt hart klingen, aber es ist besser eine handvoll Menschen zu haben, auf die man sich wirklich verlassen kann, als unzähliche, die einem nicht zur Seite stehen. Was soll ich mit solchen Menschen? <mark>Beziehungen sind ein Geben und Nehmen und sollten im Idealfall ausgeglichen sein, sodass beide Menschen davon profitieren. Wenn man sich nur runterzieht und auch nicht gewillt ist, etwas in eine Beziehung zu investieren, dann sollte man sich fragen, ob diese Beziehung sinnvoll ist.</mark>
 
