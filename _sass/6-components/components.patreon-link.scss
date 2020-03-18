@@ -28,3 +28,17 @@
     }
   }
 }
+
+.pagelinks .patreon-link {
+  border-width: 7px;
+  padding: 1rem;
+
+  &__image {
+    max-width: 100px;
+  }
+
+  &__text {
+    font-size: .75rem;
+    line-height: 1.4;
+  }
+}

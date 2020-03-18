@@ -33,5 +33,27 @@
     @include breakpoint(mobile) {
       margin: 0 1.5rem;
     }
+
+    &--newsletter {
+      border: 1px solid $neutral-500;
+      border-radius: 5px;
+      color: $neutral-500;
+      font-size: .875rem;
+      line-height: 1;
+      padding: .375rem;
+      @include attention {
+        background-color: $primary-400;
+        border-color: $neutral-800;
+        color: $neutral-800;
+      }
+      @include transition-custom(all, .1s, linear, 0s);
+      @include breakpoint(desktop) {
+        display: none;
+      }
+
+      &::before {
+        margin-right: .25rem;
+      }
+    }
   }
 }
