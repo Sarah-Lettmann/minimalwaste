@@ -1,0 +1,13 @@
+{% assign post-category = page.categories.first %}
+{% case post-category %}
+  {% when "Zero Waste" %}
+    {% include ads/inpost-avocadostore.html %}
+  {% when "Minimalismus" %}
+    {% include ads/inpost-momox.html %}
+  {% when "Sustainable Fashion" %}
+    {% include ads/inpost-ubup.html %}
+  {% when "Klima" %}
+    {% include ads/inpost-fromAtoB.html %}
+  {% else %}
+    {% include ads/inpost-avocadostore.html %}
+{% endcase %}
