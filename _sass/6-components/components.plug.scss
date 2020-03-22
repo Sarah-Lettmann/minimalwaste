@@ -15,4 +15,12 @@
       display: none;
     }
   }
+
+  &__link {
+
+    &--small {
+      display: inline-block;
+      width: 160px;
+    }
+  }
 }
