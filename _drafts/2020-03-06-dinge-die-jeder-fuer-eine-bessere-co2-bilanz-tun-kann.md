@@ -1,5 +1,5 @@
 ---
-uid: "0073"
+uid: "0075"
 title: "Dinge, die jeder für eine bessere CO2-Bilanz tun kann"
 subtitle: ""
 date: 2020-03-06
@@ -52,7 +52,5 @@ Bei **verpackten Wasser** liegen die Emissionen **1000-fach höher**. Das Wasser
 nur so viel Wasser kochen, wie du brauchst
 
 Mischbatterie für Wasserhähne
-
-Das Obst und Gemüse mit Stellen kaufen
 
 https://www.umweltbundesamt.de/themen/verkehr-laerm/verkehrsplanung/tempolimit
