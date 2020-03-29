@@ -6,7 +6,7 @@ date: 2017-10-22
 categories: [Zero Waste, Müllfreies Badezimmer]
 description: "Zero Waste im Badezimmer lässt sich gut umsetzen. Für vieles gibt es einen einfachen Ersatz, der Geld spart und das Leben sogar leichter macht."
 keywords: [Zero Waste Badezimmer]
-related-posts: ["0066", "0060", "0041", "0058", "0024", "0052"]
+related-posts: ["0066", "0060", "0041", "0058", "0024", "0076"]
 ---
 Zero Waste im Badezimmer einziehen zu lassen, ist nicht so schwer wie du vielleicht denken magst. Diese Badezimmer Utensilien sind super easy umzusetzen und reduzieren dadurch nicht nur deinen Müll, sondern sparen auch noch Geld. Also wirf einen Blick darauf, was du ganz einfach in deinen Badezimmer verändern kannst, um es Zero Waste zu machen.
 
@@ -29,12 +29,12 @@ Wenn du einfach nur einen Luffaschwamm haben willst, dann gibt es diesen auch in
 ### Shampoo Bars
 Das Stück kannst du direkt auf dem Kopf oder in deinen Händen reiben, um Schaum zu erzeugen. Dann nutze es als normales Shampoo. Lege die Shampoo Bar am besten in eine Seifenschale oder an einen Ort an dem sie abtropfen kann. So hält sie sich am besten.
 
-{% include figure.html src="/assets/inpost-images/2017/2017-10-22-haarwaschseife.jpg" alt="Haarwaschseife" title="" caption="" %}
+{% include figure.html src="/assets/inpost-images/2017/2017-10-22-haarwaschseife.jpg" alt="Zero Waste Haarwaschseife" title="" caption="" %}
 
 ### Bath Bombs
-Einfach ins Badewasser fallen lassen. Fertig. Kann auch als wunderbares Dekor verwendet werden und verbreiten dabei tolle Düfte in deinem Bad.
+Einfach ins Badewasser fallen lassen. Fertig. Kann auch als wunderbares Dekor verwendet werden und verbreiten dabei tolle Düfte in deinem Bad. Wie du diese selbst macht, erfährst du in [Selbstgemachte Badepralinen ohne Verpackung](/blog/selbstgemachte-badepralinen/).
 
-{% include figure.html src="/assets/inpost-images/2017/2017-10-22-badebomben.jpg" alt="Badebomben" title="" caption="" %}
+{% include figure.html src="/assets/inpost-images/2017/2017-10-22-badebomben.jpg" alt="Selbst gemachte Zero Waste Badebomben" title="" caption="" %}
 
 ### Holzbürsten
 Um in der Badewanne richtig sauber zu werden, bietet sich eine Bürste aus Holz an.
@@ -42,15 +42,15 @@ Um in der Badewanne richtig sauber zu werden, bietet sich eine Bürste aus Holz 
 ### Rasierhobel  
 Nutzt eine Metallklinge, die recycelt werden kann. Mehr zu diesen Teil, kannst du in dem Beitrag [Das 1x1 zum Rasierhobel](/blog/das-1-mal-1-zum-rasierhobel/) nachlesen.
 
-{% include figure.html src="/assets/inpost-images/2017/2017-10-22-rasierhobel.jpg" alt="Rasierhobel" title="" caption="" %}
+{% include figure.html src="/assets/inpost-images/2017/2017-10-22-rasierhobel.jpg" alt="Rasierhobel, zum müllfreien Rasieren" title="" caption="" %}
 
 ## Körper
 Dinge, die du zur Körperpflege benutzen kannst.
 
-### Body Butter
-Du kannst eine Massagebutter nutzen wie Lush sie verkauft. Es gibt tatsächlich aber auch Zero Waste Bodybutter zu kaufen. Oder du machst einfach deine eigene.
+### Körperutter
+Du kannst eine Massagebutter nutzen wie Lush sie verkauft. Es gibt tatsächlich aber auch Zero Waste Bodybutter zu kaufen. Oder du machst einfach deine eigene. Wie das geht zeige ich in [So machst du Zero Waste Körperbutter selbst](/blog/zero-waste-koerperbutter-selbst-machen/).
 
-{% include figure.html src="/assets/inpost-images/2017/2017-10-22-bodybutter.jpg" alt="Body Butter" title="" caption="" %}
+{% include figure.html src="/assets/inpost-images/2017/2017-10-22-bodybutter.jpg" alt="Zero Waste Körperbutter" title="" caption="" %}
 
 ### Deodorant
 Selbstgemacht und in kleiner Glassprühflasche. Enthält nichts außer Natron und Wasser. Gibt es auch in einer festen Variante zum selbst machen -> [Zero Waste Deodorant: Deo einfach selber machen](/blog/zero-waste-deodorant-deo-selber-machen/). Sowas bekommt man inzwischen aber auch online.
@@ -71,7 +71,7 @@ Kann ebenfalls anstelle von herkömmlicher Zahnpasta verwendet werden. Es wird a
 ### Bambus Zahnbürste  
 Eine einfache Zahnbürste nur eben aus Bambus. Auch die Borsten sind aus Bambus gefertigt, also ist sie komplett kompostierbar. Es gibt aber auch welche mit Schweineborsten.
 
-{% include figure.html src="/assets/inpost-images/2017/2017-10-22-bambuszahnbuerste.jpg" alt="Bambus Zahnbürste" title="" caption="" %}
+{% include figure.html src="/assets/inpost-images/2017/2017-10-22-bambuszahnbuerste.jpg" alt="Bambus Zahnbürste, vollständig kompostierbar sodass kein Müll entsteht" title="" caption="" %}
 
 ### Kompostierbare Zahnseide im Glas
 Wunderschön in einem kleinen Glas verpackt. Die Zahnseide selbst kann ohne Glas im Nachfüllpack nachgekauft werden. Früher gab es nur welche aus echter Seide, inzwischen gibt es auch vegane Varianten aus Bambus.

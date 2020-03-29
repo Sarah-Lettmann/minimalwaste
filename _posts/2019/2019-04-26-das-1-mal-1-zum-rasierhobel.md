@@ -6,7 +6,7 @@ date: 2019-04-26
 categories: [Zero Waste, Müllfreies Badezimmer]
 description: "Rasierhobel sind eine guter Alternative zu Einwegrasierern. Doch wie benutzt man sie? Und worauf muss man achten?"
 keywords: [Rasierhobel]
-related-posts: ["0026", "0024", "0041", "0060", "0066", "0040"]
+related-posts: ["0026", "0076", "0041", "0060", "0066", "0040"]
 ---
 Das eigene Badezimmer müllfrei zu bekommen, ist finde ich nicht schwer. Denn es gibt sehr viele gute Alternativen, die man inzwischen auch in vielen Läden bekommt. Eine davon ist der Rasierhobel. Ich habe meinen schon seit über 3 Jahren und bin sehr zufrieden. Trotzdem merke ich immer wieder, dass viele Bedenken habe, sowas zu benutzen. Darum will ich dir in diesem Post Fragen beantworten und dich über die Vor- und Nachteile aufklären.
 
