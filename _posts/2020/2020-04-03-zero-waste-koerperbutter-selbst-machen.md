@@ -40,7 +40,7 @@ Statt den oben aufgeführten Ölen können auch andere verwendet werden. Wichtig
 Wahlweise kannst du auch noch ein paar Tropfen eines Aromaöls deiner Wahl hinzugeben. Ich lasse das an der Stelle weg, da die Körperbutter ohnehin schon wunderbar intensiv nach Kakao riecht. Und was gibt es bitte besseres?!
 
 ## Haltbarkeit
-Die Körperbutter ist im Prinzp beliebig lang haltbar. Ich habe letzten erst die Portion von vor 2 Jahren aufgebraucht. Nach einer gewissen Zeit ist sie aber nicht mehr so cremig, wie direkt nach dem Aufschlagen. Dann kannst du sie einfach nochmal mit dem Handrührer durmixen. Und mach' einfach nicht zu große Portionen, die Körperbutter hält sich sowieso ewig, weil sie schön ergiebig ist.
+Die Körperbutter ist im Prinzp beliebig lang haltbar. Ich habe letztens erst die Portion von vor 2 Jahren aufgebraucht. Nach einer gewissen Zeit ist sie aber nicht mehr so cremig, wie direkt nach dem Aufschlagen. Dann kannst du sie einfach nochmal mit dem Handrührer durmixen. Und mach' einfach nicht zu große Portionen, die Körperbutter hält sich sowieso ewig, weil sie schön ergiebig ist.
 
 {% include figure.html src="/assets/inpost-images/2020/2020-04-03-zero-waste-koerperbutter-im-glas.jpg" alt="Die fertige Zero Waste Körperbutter, abgefüllt in einem alten Marmeladenglas" title="" caption="Die fertige Körperbutter (die Hälfte der gemachten Menge), abgefüllt im Marmeladenglas" %}
 
