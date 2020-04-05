@@ -44,18 +44,29 @@ Nutzt eine Metallklinge, die recycelt werden kann. Mehr zu diesen Teil, kannst d
 
 {% include figure.html src="/assets/inpost-images/2017/2017-10-22-rasierhobel.jpg" alt="Rasierhobel, zum müllfreien Rasieren" title="" caption="" %}
 
+### Rasierseife
+Besonders gut schäumende Seifen können einfach statt Rasierschaum verwendet werden.
+
 ## Körper
 Dinge, die du zur Körperpflege benutzen kannst.
 
-### Körperutter
+### Körperbutter
 Du kannst eine Massagebutter nutzen wie Lush sie verkauft. Es gibt tatsächlich aber auch Zero Waste Bodybutter zu kaufen. Oder du machst einfach deine eigene. Wie das geht zeige ich in [So machst du Zero Waste Körperbutter selbst](/blog/zero-waste-koerperbutter-selbst-machen/).
 
 {% include figure.html src="/assets/inpost-images/2017/2017-10-22-bodybutter.jpg" alt="Zero Waste Körperbutter" title="" caption="" %}
+
+### Peeling
 
 ### Deodorant
 Selbstgemacht und in kleiner Glassprühflasche. Enthält nichts außer Natron und Wasser. Gibt es auch in einer festen Variante zum selbst machen -> [Zero Waste Deodorant: Deo einfach selber machen](/blog/zero-waste-deodorant-deo-selber-machen/). Sowas bekommt man inzwischen aber auch online.
 
 {% include figure.html src="/assets/inpost-images/2017/2017-10-22-deodorant.jpg" alt="Deodorant" title="" caption="" %}
+
+### Nagelfeile aus Glas oder Edelstahl
+Die klassischen Varianten aus Edelstahl und auch die neueren aus Glas sind viel nachhaltiger und langlebiger als das Pendant aus Papier.
+
+### Haarspray
+Kann ganz einfach selbst aus Wasser und Zucker hergestellt werden.
 
 ## Zähne
 So kannst du deine Zähne müllfrei reinigen.
@@ -78,6 +89,8 @@ Wunderschön in einem kleinen Glas verpackt. Die Zahnseide selbst kann ohne Glas
 
 {% include figure.html src="/assets/inpost-images/2017/2017-10-22-zahnseide.jpg" alt="Zahnseide" title="" caption="" %}
 
+### Mundspülung
+
 ## Makeup
 Auch Abschminken geht öhne Müll.
 
@@ -88,6 +101,10 @@ Entfernt Makeup super easy nur mit Wasser. Wenn du wasserfeste Schminke verwende
 
 ### Pinsel
 Pinsel sind eine gute Methode, um Makeup aufzutragen. Und sie können einfach mit Wasser und Seife gereinigt werden.
+
+### Selbst gemachter Mascara
+
+### Wiederbefüllbare Makeup-Paletten
 
 ## Hygiene
 Weitere Hygieneprodukte.
@@ -101,6 +118,10 @@ Wenn es um Q-Tipps geht, kannst du einfach die plastikfreien kaufen. Ganz einfac
 Ich benutze diese statt Tampons. Die Anfangskosten sind natürlich höher, aber sie hält auch für gute 20 Jahre. Sie fühlt sich angenehmer an als Tampons und muss weniger oft gewechselt werden als diese. Für weitere Info: [Menstruationstasse vs Tampon](menstruationstasse-vs-tampon)
 
 {% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstass.jpg" alt="Menstruationstasse" title="" caption="" %}
+
+### Periodenunterwäsche
+
+### Waschbare Slipeinlagen
 
 ### Recyceltes oder unverpacktes Toilettenpapier
 Vielleicht das einfachste. Kaufe einfach recycelt. Oder wenn du dazu die Möglichkeit hast, kaufe plastikfreies oder sogar unverpacktes Toilettenpapier.

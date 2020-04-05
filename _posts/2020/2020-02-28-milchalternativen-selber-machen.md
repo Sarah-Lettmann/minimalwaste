@@ -6,7 +6,7 @@ date: 2020-02-28
 categories: [Klima, Veganismus]
 description: "Milchalternativen gibt es viele, teuer sind sie meist auch. Dabei lässt sich pflanzliche Milch einfach und günstig selber machen."
 keywords: [Pflanzliche Milch, Milchalternativen]
-related-posts: ["0065", "0067", "0022", "0039", "0059", "0071"]
+related-posts: ["0065", "0067", "0077", "0022", "0039", "0059"]
 ---
 Wenn man was für die Umwelt tun will, ist es keine schlechte Idee ein bisschen weniger tierische Produkte zu konsumieren und stattdessen auf vegane Alternativen umzusteigen. Ein guter erster Ansatzpunkt sind Milchalternativen. Meine liebsten sind Hafermilch und Mandelmilch. Diese will ich dir in diesem Post zeigen.
 

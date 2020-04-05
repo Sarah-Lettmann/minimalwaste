@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "50 Tipps gegen Lebensmittelverschwendung"
 date: 2019-03-15
 categories: cat
 description: ""
@@ -8,19 +8,27 @@ keywords: [1, 2]
 image: "/assets/title-images/"
 author: sarah-lettmann
 ---
+Es gibt so viele Ideen wie du Lebensmittelverschwendung vermeiden oder reduzieren kannst. Ich bin mal in mich gegangen und habe diese riesige Liste zusammen gestellt, die wirklich alle Tipps enthält, die ich über die Jahre selbst ausprobiert habe oder über die ich jemals gestolpert bin.
 
-Brot und Brötchen einfrieren und im Toaster oder Backofen aufbacken
+In den Statistiken zur Lebensmittelverschwendung finden sich zumeist auch die "nicht vermeidbaren" Abfälle. Dazu zählen Gemüseschalen, Teebeutel, Kaffeesatz, Obstschalen und Kerngehäuse. Ich finde aber, dass man auch an diesen Stellen durchaus noch mehr rausholen kann. Du findest in dieser Liste also nicht nur Tipps wie du aktiv verhinderst unnötig Lebensmittel wegzuwerfen, sondern auch Tricks, um passiv etwas zu tun.
 
-Bewusst hässliches Gemüse und Obst oder Lebensmittel mit Stellen kaufen
+## Brot und Brötchen einfrieren
+Das kannst du prinzipiell machen, oder nach ein paar Tagen, wenn du merkst, dass du den Rest nicht mehr aufbrauchst. Brötchen können gut im gefrorenen Zustand in den Backofen gegeben und bei 100°C für 20 Minuten aufgebacken werden. Brot lässt sich gut in Scheiben einfrieren. Diese können einzeln im Toaster aufgetoastet werden.
 
-Bewusst Lebensmittel mit niedrigerem MHD kaufen
+## Hässliches Gemüse und Obst kaufen
+Du kannst bewusst Obst und Gemüse mit Stellen oder in komischen Formen kaufen. Somit rettest du es relativ sicher vor der Tonne, denn viele Leute wollen nur das makelose.
 
-Kartoffelschalen zu Chips verarbeiten, auch mit anderen Schalen möglich
-trocknen lassen und oder abtupfen, dann mit etwas Öl und Salz und Paprikapulver bei 200°C Umluft für 25 Minuten in den Ofen. Können auch noch mit Käse überbacken werden.
+## Lebensmittel mit niedrigerem MHD kaufen
+Ähnliche Situation wie beim letzten Punkt. Viele kaufen die Lebensmittel mit einm möglichst weit in der Zukunft liegenden MHD. Doch wenn du weißt, dass du es sowieso demnächst aufbrauchst, kannst du auch Lebensmittel mit niedrigerem MHD nehmen.
 
-Große Bünde Kräuter einkaufen, Rest davon ebenfalls kleinhacken und in einem Glas einfrieren, können auch in einem Eiswürfelmacher mit Öl oder Wasser zu Portionen eingefroren werden. Dies können dann wenn fest geworden ebenfalls in ein Glas umgefüllt werden.
+## Gemüseschalen zu Chips verarbeiten
+Kartoffelschalen können ganz einfach zu leckeren Chips verarbeitet werden. Dazu solltest du sie zuerst trocken tupfen. Danach kannst du sie mit etwas Öl, Salz und Paprikapulver bei 200°C Umluft für 25 Minuten in den Ofen geben. Wenn du es fancy willst, kannst du sie auch mit Käse überbacken. Das ganz geht überigens auch mit Zucchinischalen.
 
-Kaffesatz als Pflanzendünger oder Peeling verwenden
+## Kräuter Einfrieren
+Du kannst Kräuter in großen Bünden kaufen, kleinhacken und dann einfrieren. In kleinen Gläschen ist es auch sehr einfach ein bisschen was davon zu entnehmen und an das Essen zu tun. Wahlweise kannst du sie auch mit etwas Wasser oder Öl in kleinen Portionen in einem Eiswürfelbehälter einfrieren und danach in Container im Gefrierfach aufbewahren.
+
+## Kaffesatz als Peeling verwenden
+Kaffesatz kann zusammen mit Öl zu einem einfachen Peeling vermischt werden. So kannst du ihn nochmal wieder verwenden bevor er im Kompost landet. Ein Rezept dazu findest du unter []().
 
 Reste Einfrieren, im Glas, Stasher Bag oder Tupperdose
 
@@ -99,3 +107,11 @@ Reste von Nussmilch / Hafermilch / Kokosmilch aufheben und zum backen verwenden 
 ---------- 40 Tipps ----------
 
 Tee mehrfach aufbrühen
+
+Zitrusfrüche Schalen zu Reiniger verarbeiten
+
+Knochen und Greten von Fleisch und Fisch mitgeben lassen und Brühe daraus kochen
+
+Mehr essen
+
+Kaffesatz als Pflanzendünger

@@ -3,9 +3,11 @@
   <ul class="pagelinks__posts-list">
     {% for uid in site.pagelinks-posts %}
       {% assign post = site.posts | where: "uid", uid | first %}
-      <li class="pagelinks__posts-list-item">
-        {% include posts/small-post.html page="home" %}
-      </li>
+      {% if post %}
+        <li class="pagelinks__posts-list-item">
+          {% include posts/small-post.html page="home" %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </section>
