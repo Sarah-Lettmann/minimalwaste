@@ -6,7 +6,7 @@ date: 2017-01-12
 categories: [Minimalismus]
 description: "Minimalistisch leben. Warum solltest du das versuchen? Ganz einfach: Es hat unendlich viele Vorteile, denen ich diesen Artikel gewidmet habe."
 keywords: [minimalistisch leben]
-related-posts: ["0049", "0034", "0021", "0006", "0005", "0003"]
+related-posts: ["0049", "0034", "0021", "0078", "0005", "0003"]
 ---
 Minimalistisch leben hat so viele Vorteile, dass ich gar nicht recht weiß wo ich anfangen soll. Minimalismus wirkt sich auf so viele Aspekte des Lebens aus. Dabei geht es nicht nur um Einfachheit, sondern vor allem auch um Zufriedenheit und klare Vorstellungen.
 

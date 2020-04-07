@@ -56,6 +56,7 @@ Du kannst eine Massagebutter nutzen wie Lush sie verkauft. Es gibt tatsächlich 
 {% include figure.html src="/assets/inpost-images/2017/2017-10-22-bodybutter.jpg" alt="Zero Waste Körperbutter" title="" caption="" %}
 
 ### Peeling
+Peelings lassen sich ebenfalls einfach selbst machen. Dazu geht demnächst auch noch ein Post online.
 
 ### Deodorant
 Selbstgemacht und in kleiner Glassprühflasche. Enthält nichts außer Natron und Wasser. Gibt es auch in einer festen Variante zum selbst machen -> [Zero Waste Deodorant: Deo einfach selber machen](/blog/zero-waste-deodorant-deo-selber-machen/). Sowas bekommt man inzwischen aber auch online.
@@ -90,6 +91,7 @@ Wunderschön in einem kleinen Glas verpackt. Die Zahnseide selbst kann ohne Glas
 {% include figure.html src="/assets/inpost-images/2017/2017-10-22-zahnseide.jpg" alt="Zahnseide" title="" caption="" %}
 
 ### Mundspülung
+Ein weiteres einfaches DIY, über das ich noch schreiben werden.
 
 ## Makeup
 Auch Abschminken geht öhne Müll.
@@ -103,8 +105,12 @@ Entfernt Makeup super easy nur mit Wasser. Wenn du wasserfeste Schminke verwende
 Pinsel sind eine gute Methode, um Makeup aufzutragen. Und sie können einfach mit Wasser und Seife gereinigt werden.
 
 ### Selbst gemachter Mascara
+Dafür gibt es schon einige Rezepte online. Auch ich habe damit schon rumprobiert, bin aber bis jetzt nicht glücklich geworden. Sobald ich ein gutes Rezept habe, werde ich es hier online stellen.
+
+Mascara kannst du aber auch in kleinen Metalldose online kaufen. Den gibt es z.B. bei [CleanFacedCosmetics](https://www.etsy.com/shop/CleanFacedCosmetics)
 
 ### Wiederbefüllbare Makeup-Paletten
+Ja, sowas gibt es, z.B. von der Marke [elate Cosmetics](https://elatebeauty.com/).
 
 ## Hygiene
 Weitere Hygieneprodukte.
