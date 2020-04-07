@@ -1,0 +1,12 @@
+name: Netlify Hourly Deploy Job
+
+on:
+  schedule:
+  - cron: "0 4 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Trigger Netlify Hourly Deploy Hook
+      run: curl -X POST ${{ secrets.netlify_hourly_build_job_url }}
