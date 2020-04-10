@@ -16,7 +16,7 @@ Das ist der Grundgedanke von Minimalismus, nicht wahr?! Aber warum zum Henker so
 
 Ich gebe dir mal ein einfaches Beispiel: das Auto. Ma sagt ja so schön, dass Auto mit 'Ahh' anfängt und 'Ohh' aufhört. Meiner Erfahrung nach ist da viel dran, vor allem wenn man einen Gebrauchtwagen hat. Dieser braucht zunächst regelmäßigen Wartungen und Pflege wie Ölwechsel, Reinigungen, neuen Reifen, neues Scheibenwischwasser, was eben so anfällt. Und das alles kostet nicht nur Zeit, sondern auch Geld. Außerdem kommen egal ob gebraucht oder neu pro Jahr mal gut 1000€ an Werkstattkosten auf einen zu. Einen Neuwagen sollten man regelmäßig zur Inspektion bringen und bei einem Gebrauchten geht in der Regel einmal im Jahr etwas kaputt, was dann teuer wird.
 
-## 2. Minimalisten kaufen wenige
+## 2. Minimalisten kaufen weniger
 Erfolgreiche Minimalisten haben dauerhaft weniger, weil sie nach dem Ausmisten auch weniger kaufen. Das spart natürlich ganz einfach Geld. Das ist am Anfang gar nicht so einfach, aber wenn man einmal keine wirklichen Ausgaben mehr hat, weil man keine neuen Klamotten mehr braucht und auch keine neue Technik oder ständig neue Bücher oder Filme, dann enspannt das unglaublich.
 
 Und gerade diese vielen kleine Ausgaben häufen sich schnell an. Wenn du's nicht glaubst, dann leg doch mal einen Kaufstopp für eine Woche oder einen ganzen Monat ein und versuch genau zu tracken, was du normalerweise alles ausgegeben hättest und diesmal aber gespart hast.

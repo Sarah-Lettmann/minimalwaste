@@ -2,9 +2,6 @@
 <html lang="de">
 
   <head>
-    {% if jekyll.environment == "production" %}
-      <script type="text/javascript" src="/js/google-tagmanager.js"></script>
-    {% endif %}
     {% include meta.html %}
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png" />
@@ -15,9 +12,6 @@
     {% assign additional-class = "site--post" %}
   {% endif %}
   <body class="site {{ additional-class }}">
-    {% if jekyll.environment == "production" %}
-      <script type="text/javascript" src="/js/google-tagmanager-no-script.js"></script>
-    {% endif %}
     {% include header/header.html %}
     <main id="main" class="main">
       {{ content }}
