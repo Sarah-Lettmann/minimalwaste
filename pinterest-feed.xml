@@ -17,7 +17,7 @@ layout: null
         <description>{{ post.description | strip_html }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <enclosure url="{{ site.url }}/assets/pinterest-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg/" length="150000" type="image/jpeg" />
+        <enclosure url="http://minimalwaste.de/assets/pinterest-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" length="150000" type="image/jpeg" />
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         <category>{{ post.categories.first | xml_escape }}</category>
       </item>
