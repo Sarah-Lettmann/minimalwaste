@@ -12,23 +12,23 @@ Es gibt so viele Ideen wie du Lebensmittelverschwendung vermeiden oder reduziere
 
 In den Statistiken zur Lebensmittelverschwendung finden sich zumeist auch die "nicht vermeidbaren" Abfälle. Dazu zählen Gemüseschalen, Teebeutel, Kaffeesatz, Obstschalen und Kerngehäuse. Ich finde aber, dass man auch an diesen Stellen durchaus noch mehr rausholen kann. Du findest in dieser Liste also nicht nur Tipps wie du aktiv verhinderst unnötig Lebensmittel wegzuwerfen, sondern auch Tricks, um passiv etwas zu tun.
 
-## Brot und Brötchen einfrieren
+## 1. Brot und Brötchen einfrieren
 Das kannst du prinzipiell machen, oder nach ein paar Tagen, wenn du merkst, dass du den Rest nicht mehr aufbrauchst. Brötchen können gut im gefrorenen Zustand in den Backofen gegeben und bei 100°C für 20 Minuten aufgebacken werden. Brot lässt sich gut in Scheiben einfrieren. Diese können einzeln im Toaster aufgetoastet werden.
 
-## Hässliches Gemüse und Obst kaufen
+## 2. Hässliches Gemüse und Obst kaufen
 Du kannst bewusst Obst und Gemüse mit Stellen oder in komischen Formen kaufen. Somit rettest du es relativ sicher vor der Tonne, denn viele Leute wollen nur das makelose.
 
-## Lebensmittel mit niedrigerem MHD kaufen
+## 3. Lebensmittel mit niedrigerem MHD kaufen
 Ähnliche Situation wie beim letzten Punkt. Viele kaufen die Lebensmittel mit einm möglichst weit in der Zukunft liegenden MHD. Doch wenn du weißt, dass du es sowieso demnächst aufbrauchst, kannst du auch Lebensmittel mit niedrigerem MHD nehmen.
 
-## Gemüseschalen zu Chips verarbeiten
+## 4. Gemüseschalen zu Chips verarbeiten
 Kartoffelschalen können ganz einfach zu leckeren Chips verarbeitet werden. Dazu solltest du sie zuerst trocken tupfen. Danach kannst du sie mit etwas Öl, Salz und Paprikapulver bei 200°C Umluft für 25 Minuten in den Ofen geben. Wenn du es fancy willst, kannst du sie auch mit Käse überbacken. Das ganz geht überigens auch mit Zucchinischalen.
 
-## Kräuter Einfrieren
+## 5. Kräuter Einfrieren
 Du kannst Kräuter in großen Bünden kaufen, kleinhacken und dann einfrieren. In kleinen Gläschen ist es auch sehr einfach ein bisschen was davon zu entnehmen und an das Essen zu tun. Wahlweise kannst du sie auch mit etwas Wasser oder Öl in kleinen Portionen in einem Eiswürfelbehälter einfrieren und danach in Container im Gefrierfach aufbewahren.
 
-## Kaffesatz als Peeling verwenden
-Kaffesatz kann zusammen mit Öl zu einem einfachen Peeling vermischt werden. So kannst du ihn nochmal wieder verwenden bevor er im Kompost landet. Ein Rezept dazu findest du unter []().
+## 6. Kaffesatz als Peeling verwenden
+Kaffesatz kann zusammen mit Öl zu einem einfachen Peeling vermischt werden. So kannst du ihn nochmal wieder verwenden bevor er im Kompost landet. Ein Rezept dazu findest du unter [3 Ideen für Zero Waste Peeling](/blog/zero-waste-peeling-selbst-machen).
 
 Reste Einfrieren, im Glas, Stasher Bag oder Tupperdose
 
@@ -84,7 +84,7 @@ Koche Gerichte, in die du alles reinpacken kannst: Eintöpfe, Suppen, Aufläufe,
 
 ---------- 30 ----------
 
-altes Brot -> Frenchtoas, Croutons, Semmelbrösel
+altes Brot -> Frenchtoast, Croutons, Semmelbrösel
 
 Eigene Pesto-Kreation aus Gemüseresten
 
