@@ -13,12 +13,12 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:1000 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{{ post.title | remove: '&shy;' }}</title>
         <description>{{ post.description | strip_html }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        <enclosure url="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" type="image/jpeg" />
+        <enclosure url="http://minimalwaste.de/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" length="150000" type="image/jpeg" />
         {% for cat in post.categories %}
           <category>{{ cat | xml_escape }}</category>
         {% endfor %}
