@@ -1,7 +1,7 @@
 ---
 uid: "0011"
-title: "Onlineshops für faire und nachhaltige Mode"
-subtitle: "Wo man nachhaltige und fair hergestellte Mode bekommt"
+title: "Alle Onlineshops für faire und nachhaltige Mode"
+subtitle: "Fair, nachhaltig, vegan"
 date: 2016-11-14
 categories: [Sustainable Fashion]
 description: "Faire und nachhaltige Mode gibt es immer häufiger zu kaufen. Hier findest du eine Liste von Shops, bei denen du unbedingt mal vorbei schauen solltest."
@@ -32,8 +32,10 @@ Dieses Siegel gibt es allerdings erst seit dem 1.1.2016 und somit kann es noch d
 
 Fairtrade setzt sich nicht nur für faire Arbeitsbedingungen, gerechtere Löhne und die Stärkung der Rechte der Arbeitnehmer ein, sondern unterstützt auch Unternehmen in der Umsetzung dieses Standards.
 
-## Shops für faire und nachhaltige Mode:
-Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen wenigen habe ich auch schon etwas gekauft. Ich denke ich werde in Zukunft auch noch ein paar Shops davon einzeln vorstellen, weil es einige gibt, die mir wirklich sehr sehr gut gefallen :). Ach ja, und natürlich haben alle diese Onlineshops ganz unterschiedliche Zertifizierungen für ihre Textilien. Das könnt ihr auf den Websites aber immer nachlesen. Falls du nach Boutiquen in deiner Nähe suchst, die ebenfalls auf faire und nachhaltig produzierte Mode setzen, guck dir mal [getchanged.net](https://www.getchanged.net/) an. Oder informiere dich unter [vero-selvie.de](https://www.vero-selvie.de/).
+## Shops für faire und nachhaltige Mode
+Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen wenigen habe ich auch schon etwas gekauft. Ich denke ich werde in Zukunft auch noch ein paar Shops davon einzeln vorstellen, weil es einige gibt, die mir wirklich sehr sehr gut gefallen. Ach ja, und natürlich haben alle diese Onlineshops ganz unterschiedliche Zertifizierungen für ihre Textilien. Das könnt ihr auf den Websites aber immer nachlesen. Falls du nach Boutiquen in deiner Nähe suchst, die ebenfalls auf faire und nachhaltig produzierte Mode setzen, guck dir mal [getchanged.net](https://www.getchanged.net/) an. Oder informiere dich unter [vero-selvie.de](https://www.vero-selvie.de/).
+
+Letzten habe ich außerdem eine App gefunden, die über nachhaltige Mode informiert und Labels und Shops listet, die nachhaltig produzieren - [Good On You – Ethical Fashion App](https://play.google.com/store/apps/details?id=au.org.goodonyou.goodonyou).
 
 **Kennst du Onlineshops die sich besonders durch nachhaltig, vegan und/oder fair produzierte Kleidung auszeichnen? Schreib mit einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.**
 
