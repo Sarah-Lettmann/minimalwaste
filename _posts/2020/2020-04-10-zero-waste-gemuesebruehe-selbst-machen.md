@@ -19,7 +19,7 @@ Wir haben also immer ein paar Dosen rumstehen und wenn wir kochen, packen wir di
 
 Abschnitte, die sich für Brühe eignen:
 * Zwiebelenden
-* Blätter von Möhren, Kohl, Raddieschen
+* Blätter von Möhren, Kohl, Radieschen
 * Strünke von Blumenkohl oder Brokkoli
 * Kerngehäuse von Äpfeln
 * Enden von Zucchini, Möhren, Gurken, Paprika
