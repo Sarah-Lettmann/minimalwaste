@@ -131,6 +131,13 @@
   fair: "ja"
   located: "Deutschland"
 
+- name: "Holzkern"
+  url: https://www.holzkern.com/de/
+  products: "Uhren aus Holz"
+  vegan: ""
+  fair: "ja"
+  located: "Deutschland"
+
 - name: "hessnatur"
   url: http://www.hessnatur.com/de/
   products: "Kleidung"
@@ -158,6 +165,20 @@
   vegan: "ja"
   fair: "ja"
   located: "Kanada"
+
+- name: "jyoti"
+  url: https://jyoti-fairworks.org/
+  products: "Kleidung und Schmuck"
+  vegan: ""
+  fair: "ja"
+  located: "Deutschland"
+
+- name: "Kerbholz"
+  url: https://kerbholz.com/
+  products: "Uhren aus Holz"
+  vegan: ""
+  fair: "ja"
+  located: "Deutschland"
 
 - name: "KleiderKreisel"
   url: https://www.kleiderkreisel.de/
@@ -214,6 +235,13 @@
   vegan: ""
   fair: ""
   located: "Deutschland"
+
+- name: "Makaro"
+  url: https://www.makarojewelry.com/
+  products: "Schmuck"
+  vegan: ""
+  fair: "ja"
+  located: "Österreich"
 
 - name: "MATT & NAT"
   url: https://mattandnat.com/
@@ -354,6 +382,13 @@
   vegan: "teilweise"
   fair: ""
   located: "Deutschland"
+
+- name: "wild fawn"
+  url: https://www.wildfawnjewellery.com/
+  products: "Schmuck"
+  vegan: ""
+  fair: "ja"
+  located: "UK"
 
 - name: "Wildling"
   url: https://wildling.shoes/webshop/
