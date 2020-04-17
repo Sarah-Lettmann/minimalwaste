@@ -6,7 +6,7 @@ date: 2016-11-29
 categories: [Zero Waste]
 description: "Auch auf Lebensmittelabfälle sollte man achten, denn auch sie sind im Übermaß schlecht für die Umwelt. Wie du sie verringerst zeige ich dir hier."
 keywords: [Lebensmittelabfälle, Lebensmittel wegwerfen]
-related-posts: ["0077", "0072", "0075", "0064", "0067", "0046"]
+related-posts: ["0079", "0077", "0072", "0075", "0064", "0067"]
 ---
 Ich kenne das von mir selbst, auch wenn ich es ungern zugebe. Ich habe mir am Anfang auch keine Gedanken um Lebensmittelabfälle gemacht. Aber Lebensmittelabfälle zu vermeiden ist ebenso wichtig wie Verpackungsmüll zu vermeiden. Denn in die Produktion von Lebensmitteln gehen Unmengen an Ressourcen, Wasser, Energie, Arbeitskraft und Zeit, die dann in die Tonne wandern. Hier zeige ich dir wie du durch sieben einfache Schritte deinen Lebensmittelmüll auf ein Minimum reduzierst.
 
