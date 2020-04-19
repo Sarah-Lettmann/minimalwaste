@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minimalwaste.de" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
 permalink: /blog/:title/
-pagelinks-posts: ["0079", "0078", "0077", "0076", "0075", "0074", "0022", "0061", "0011", "0050"]
+pagelinks-posts: ["0080", "0079", "0078", "0077", "0076", "0075", "0074", "0022", "0061", "0011", "0050"]
 featured-posts: ["0026", "0064", "0049", "0051", "0042"]
 start-zero-waste: ["0044", "0062", "0073", "0037"]
 aspects-sustainability: ["0059", "0075", "0042", "0067", "0077", "0068"]
