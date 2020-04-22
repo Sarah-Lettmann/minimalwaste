@@ -13,7 +13,7 @@ zusammengestellt. Ich hoffe es hilft dir, das Konzept besser zu verstehen und mo
 
 Zur Übersicht hier ein Inhaltsverzeichnis:
 * TOC
-{:toc .toc}
+{:toc .toc aria-label="Inhaltsverzeichnis"}
 
 ## Was bedeutet Zero Waste?
 Zero Waste ist genau das, was es suggeriert, nämlich möglichst keinen Müll zu hinterlassen. Dabei ist es wirklich einfach seinen Müll, um große Mengen zu reduzieren, aber sehr schwer gar keinen Müll mehr zu produzieren. Schließlich kann man einfach nicht alles kontrollieren und sollte auch nicht zu hart mit sich sein. Gib einfach dein Bestes und gehe mit gutem Beispiel voran.

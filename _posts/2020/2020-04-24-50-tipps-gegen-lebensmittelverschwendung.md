@@ -12,6 +12,9 @@ Es gibt so viele Ideen wie du Lebensmittelverschwendung vermeiden oder reduziere
 
 In den Statistiken zur Lebensmittelverschwendung finden sich zumeist auch die "nicht vermeidbaren" Abfälle. Dazu zählen Gemüseschalen, Teebeutel, Kaffeesatz, Obstschalen und Kerngehäuse. Ich finde aber, dass man auch an diesen Stellen durchaus noch mehr rausholen kann. Du findest in dieser Liste also nicht nur Tipps wie du aktiv verhinderst unnötig Lebensmittel wegzuwerfen, sondern auch Tricks, um passiv etwas zu tun.
 
+* TOC
+{:toc .toc aria-label="Inhaltsverzeichnis"}
+
 ## 1. Brot und Brötchen einfrieren
 Das kannst du prinzipiell machen, oder nach ein paar Tagen, wenn du merkst, dass du den Rest nicht mehr aufbrauchst. Brötchen können gut im gefrorenen Zustand in den Backofen gegeben und bei 100°C für 20 Minuten aufgebacken werden. Brot lässt sich gut in Scheiben einfrieren. Diese können einzeln im Toaster aufgetoastet werden.
 
@@ -159,7 +162,7 @@ Aus alten Bananen lässt sich viel machen. Meine liebste Variation ist aber das 
 ## 49. Nudel- und Reispfannen
 Reste von gekochten Nudeln oder Reis kannst du in Pfannen wieder verwenden. Bei sowas hast du auch viele Freiheiten. Du kannst eigentlich alles nehmen was du da hast und es kommt etwas leckeres dabei raus.
 
-## 50.Spargelcreme&shy;suppe
+## 50. Spargelcreme&shy;suppe
 Spargel ist jedes Jahr wieder ein Highlight. Und es lohnt sich die Schalen aufzubewahren (einzufrieren) oder gleich weiter zu verarbeiten. Denn aus ihnen kannst du leckere Spargelcremesuppe machen. Die Zubereitung ist recht einfach und Rezepte gibt es viele online.
 
 &nbsp;

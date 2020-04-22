@@ -23,18 +23,18 @@ h4,
 h5,
 h6 {
   @include headline-font;
+  color: $neutral-800;
   font-weight: 400;
   line-height: $line-height-headings;
   margin: $margin-headings;
-  color: $neutral-800;
   @include breakpoint(mobile) {
     margin: $margin-headings-mobile;
   }
 
   a {
-    font-size: inherit;
     color: inherit;
-    @include attention() {
+    font-size: inherit;
+    @include attention {
       color: $neutral-800;
     }
   }
