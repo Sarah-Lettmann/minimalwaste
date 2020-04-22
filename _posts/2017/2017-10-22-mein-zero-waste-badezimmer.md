@@ -10,7 +10,10 @@ related-posts: ["0066", "0060", "0041", "0058", "0024", "0076"]
 ---
 Zero Waste im Badezimmer einziehen zu lassen, ist nicht so schwer wie du vielleicht denken magst. Diese Badezimmer Utensilien sind super easy umzusetzen und reduzieren dadurch nicht nur deinen Müll, sondern sparen auch noch Geld. Also wirf einen Blick darauf, was du ganz einfach in deinen Badezimmer verändern kannst, um es Zero Waste zu machen.
 
-Wenn du etwas von diesen Dingen kaufen möchtest, dann wirft doch mal einen Blick in meine [Listen von nachhaltigen Onlineshops](/blog/plastikfrei-einkaufen-alle-onlineshops).
+Wenn du etwas von diesen Dingen kaufen möchtest, dann wirft doch mal einen Blick in meine [Listen von nachhaltigen Onlineshops](/blog/plastikfrei-einkaufen-alle-onlineshops). Außerdem erweitere ich diese Liste immer weiter, wenn ich neue Alternativen entdecke.
+
+* TOC
+{:toc .toc aria-label="Inhaltsverzeichnis"}
 
 ## Duschen und Baden
 Alles was du brauchst, um richtig sauber zu werden.
@@ -65,6 +68,9 @@ Selbstgemacht und in kleiner Glassprühflasche. Enthält nichts außer Natron un
 
 ### Nagelfeile aus Glas oder Edelstahl
 Die klassischen Varianten aus Edelstahl und auch die neueren aus Glas sind viel nachhaltiger und langlebiger als das Pendant aus Papier.
+
+### Hornhautpfeile aus Bimsstein
+Hornhaut kannst du einfach mit natürliche Mitteln entfernen. Dazu solltest du vorher ein Fußbad nehmen. Danach kannst du die Hornhaut mit einem Bimsstein entfernen.
 
 ### Haarspray
 Kann ganz einfach selbst aus Wasser und Zucker hergestellt werden.
@@ -126,8 +132,10 @@ Ich benutze diese statt Tampons. Die Anfangskosten sind natürlich höher, aber 
 {% include figure.html src="/assets/inpost-images/2017/2017-08-13-menstruationstass.jpg" alt="Menstruationstasse" title="" caption="" %}
 
 ### Periodenunterwäsche
+Neben Menstruationstassen gibt es auch Unterwäsche, die einen eingebauten Schutz hat. Diese kann dann einfach immer wieder gewaschen werden. Du kannst sie aber auch zusätzlich zur Menstruationstasse tragen, wenn deine Tage sehr stark sind oder du einfach auf Nummer sicher gehen willst.
 
 ### Waschbare Slipeinlagen
+Wenn du normalerweise Slipeinlagen verwendest, dann kannst du das auch Zero Waste tun. Es gibt nämlich waschbare Slipeinlagen aus Stoff in den verschiedensten Formen und Farben.
 
 ### Recyceltes oder unverpacktes Toilettenpapier
 Vielleicht das einfachste. Kaufe einfach recycelt. Oder wenn du dazu die Möglichkeit hast, kaufe plastikfreies oder sogar unverpacktes Toilettenpapier.

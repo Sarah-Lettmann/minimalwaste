@@ -9,25 +9,25 @@ keywords: [Zero Waste Alternativen]
 related-posts: ["", "", "", "", "", ""]
 ---
 
-Seifenstück
+## Bath Bombs
 
-Sisalsäckchen
+## Deodorant
 
-Luffaschwamm
+## Holzbürsten
 
-Shampoo Bars
+## Körperbutter
 
-Bath Bombs
+## Luffaschwamm
 
-Holzbürsten
+## Rasierhobel
 
-Rasierhobel
+## Seifenstück
 
-Körperbutter
+## Shampoo Bars
 
-Deodorant
+## Sisalsäckchen
 
-Zahnputztabletten
+## Zahnputztabletten
 
 ---------- 10 ----------
 
@@ -210,3 +210,12 @@ Wiederverwendbare Luftfilter
 SodaStream
 
 Lichtbogen Feuerzeug
+
+Hornhautfeile aus Bimsstein
+
+App für Prospekte
+
+Putzhandschuhe
+
+## Einweggeschirr und -besteck
+http://biotrem.pl/de/
