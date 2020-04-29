@@ -1,5 +1,5 @@
 ---
-uid: ""
+uid: "0083"
 title: ""
 subtitle: ""
 date: 2017-10-22
@@ -9,50 +9,57 @@ keywords: [Zero Waste Alternativen]
 related-posts: ["", "", "", "", "", ""]
 ---
 
-## Bath Bombs
+## Badezimmer
 
-## Deodorant
+### Abschminktücher
 
-## Holzbürsten
+### Bambuszahnbürste
 
-## Körperbutter
+### Bath Bombs
 
-## Luffaschwamm
+### Bidet
 
-## Rasierhobel
+### Deodorant
 
-## Seifenstück
+### Holzbürsten
 
-## Shampoo Bars
+### Kompostierbare Zahnseide im Glas
 
-## Sisalsäckchen
+### Körperbutter
 
-## Zahnputztabletten
+### Luffaschwamm
 
----------- 10 ----------
+### Menstruationstasse
 
-Zahnputzpulver
+### Öl zur Hautpflege
 
-Bambus Zahnbürste
+### Pinsel
 
-Kompostierbare Zahnseide im Glas
+### Podusche
 
-Abschminktücher
+### Q-Tipps
 
-Öl (als Hautpflege)
+### Rasierhobel
 
-Pinsel
+### Recyclingklonpapier
 
-Q-Tipps
+### Seifenstück
 
-Menstruationstasse
+### Shampoo Bars
 
-Recyceltes oder unverpacktes Toilettenpapier
+### Sisalsäckchen
 
-Podusche oder Bidet
+### Unverpacktes Toilettenpapier
 
----------- 20 ----------
+### Zahnputzpulver
 
+### Zahnputztabletten
+
+---------- 22 ----------
+
+## Küche
+
+## Haushalt
 Stofftaschentücher
 
 Edelstahlstrohalme
@@ -219,3 +226,7 @@ Putzhandschuhe
 
 ## Einweggeschirr und -besteck
 http://biotrem.pl/de/
+
+Digitaler Einkaufszettel
+
+Alte Putzflaschen wiederbefüllen (WC Ente)

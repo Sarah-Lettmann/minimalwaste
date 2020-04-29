@@ -1,6 +1,13 @@
 <section class="pagelinks__posts" aria-labelledby="pagelinks-posts-title">
   <h2 class="pagelinks__posts-title visually-hidden" id="pagelinks-posts-title">Posts</h2>
   <ul class="pagelinks__posts-list">
+    {% for post in site.posts limit: 6 %}
+      {% if post %}
+        <li class="pagelinks__posts-list-item">
+          {% include posts/small-post.html page="home" %}
+        </li>
+      {% endif %}
+    {% endfor %}
     {% for uid in site.pagelinks-posts %}
       {% assign post = site.posts | where: "uid", uid | first %}
       {% if post %}

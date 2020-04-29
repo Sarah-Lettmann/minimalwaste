@@ -1,10 +1,10 @@
 ---
 uid: "0024"
-title: "Menstrua&shy;tionstasse vs. Tampon"
+title: "Warum du eine Menstrua&shy;tionstasse benutzen solltest"
 subtitle: "Was die Vorteile sind und wie man sie verwendet"
 date: 2017-08-13
 categories: [Zero Waste, Müllfreies Badezimmer]
-description: "Ich greife zur Menstruationstasse anstelle eines Tampon. Sie ist ökologischer, spart Geld, ist genauso bequem und muss seltener gewechselt werden."
+description: "Ich greife zur Menstruationstasse anstelle eines Tampon. Sie ist ökologischer, spart Geld, ist bequemer und muss seltener gewechselt werden."
 keywords: [Menstruationstasse, Menstruationsbecher]
 related-posts: ["0066", "0041", "0058", "0026", "0078", "0060"]
 ---
