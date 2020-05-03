@@ -10,14 +10,16 @@ related-posts: ["0062", "0057", "0043", "0044", "0059", "0042"]
 ---
 Möchtest du auch gerne mehr zu den Themen Nachhaltigkeit, Zero Waste und Minimalismus erfahren? Mir ist es zu Beginn schwer gefallen Informationen zu finden. Deshalb hier einige Inspiration für dich, damit du zukünftig gut informiert bist und Freunden und Familie Rede und Antwort stehen kannst.
 
+Diese Liste aktualisiere ich momentan nicht mehr.[Dafür führe ich aber eine aktuellere Liste auf meiner Patreon-Seite](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}.
+
 ## Bücher
-  * [Barfuss in Manhatten, Colin Beavan](https://www.amazon.de/Barfuß-Manhattan-ökologisch-korrektes-Abenteuer/dp/3378011076/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&keywords=Barfuss+in+Manhatten&qid=1571840284&sr=8-1)
-  * [Zero Waste Home - Glücklich leben ohne Müll, Bea Johnson](https://www.amazon.de/Zero-Waste-Home-Gl%C3%BCcklich-leben/dp/3869352922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Zero+Waste+Home&qid=1571840593&sr=8-1)
-  * [Magic Cleaning: Wie richtiges Aufräumen Ihr Leben verändert, Marie Kondo](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Magic+Cleaning&qid=1571840642&sr=8-1)
-  * [The Story of Stuff, Annie Leonard](https://www.amazon.de/Story-Stuff-Obsession-Trashing-Communities/dp/1849010382/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=The+Story+of+Stuff&qid=1571840741&sr=8-1)
+  * [Barfuss in Manhatten](https://www.goodreads.com/book/show/8480729-barfu-in-manhattan)
+  * [Zero Waste Home - Glücklich leben ohne Müll](https://www.goodreads.com/book/show/15802945-zero-waste-home)
+  * [Magic Cleaning: Wie richtiges Aufräumen Ihr Leben verändert](https://www.goodreads.com/book/show/22823462-the-life-changing-magic-of-tidying-up)
+  * [The Story of Stuff](https://www.goodreads.com/book/show/6936019-the-story-of-stuff)
   * Zero Waster's Travel Companion, Inge von [Grünish](http://www.gruenish.com/) & Susanne von [Free of Waste](http://freeofwaste.de/en/)
-  * [Zero Waste: Weniger Müll ist das neue Grün, Shia Su](https://www.amazon.de/Zero-Waste-Weniger-M%C3%BCll-neue/dp/3990252739/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Zero+Waste&qid=1571840800&sr=8-4)
-  * [FAIRreisen: Das Handbuch für alle, die umweltbewusst unterwegs sein wollen, Frank Herrmann](https://www.amazon.de/FAIRreisen-Handbuch-umweltbewusst-unterwegs-wollen/dp/3865818080/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=FAIRreisen&qid=1571840834&sr=8-1)
+  * [Zero Waste: Weniger Müll ist das neue Grün](https://www.goodreads.com/book/show/30474369-zero-waste)
+  * [FAIRreisen: Das Handbuch für alle, die umweltbewusst unterwegs sein wollen]https://www.goodreads.com/book/show/39708673-fairreisen)
 
 ## Filme
   * [Cowspiracy](http://www.cowspiracy.com/)
