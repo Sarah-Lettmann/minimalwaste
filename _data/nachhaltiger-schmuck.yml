@@ -1,0 +1,194 @@
+- name: "Ara the altar"
+  url: https://www.etsy.com/de/shop/Arathealtar
+  located: "UK"
+  special: ""
+
+- name: "A Beautiful Story"
+  url: https://www.abeautifulstory.de/
+  located: "Deutschland"
+  special: ""
+
+- name: "BRACENET"
+  url: https://bracenet.net/
+  located: "Deutschland"
+  special: "Armschmuck aus alten Fischernetzen"
+
+- name: "Callia"
+  url: https://www.etsy.com/de/shop/CalliaJewelry
+  located: "Elfenbeinküste"
+  special: "Schmuck inspiriert von Afrika"
+
+- name: "Concrete Jungle"
+  url: https://concrete-jungle.de/
+  located: "Deutschland"
+  special: "Schmuck aus Beton gefertigt"
+
+- name: "Edge of Ember"
+  url: https://edgeofember.com/
+  located: "UK"
+  special: "Recyclingprogramm für alten Schmuck"
+
+- name: "Ethical Jewelry"
+  url: https://www.etsy.com/de/shop/EthicaljewelryEB
+  located: "Spanien"
+  special: ""
+
+- name: "Fejn"
+  url: https://www.fejnjewelry.com/
+  located: "Deutschland"
+  special: ""
+
+- name: "Folkdays"
+  url: https://folkdays.de/collections/jewellery
+  located: "Deutschland"
+  special: "Sitz in Berlin, Produktion weltweit in kleinen Manufakturen"
+
+- name: "Fremdformat"
+  url: https://webshop.fremdformat.de/
+  located: "Deutschland"
+  special: ""
+
+- name: "Hiitu"
+  url: https://www.hiitu.com/
+  located: "Deutschland"
+  special: "Nach indianischer Tradition"
+
+- name: "Holzkern"
+  url: https://www.holzkern.com/de/
+  located: "Deutschland"
+  special: "Uhren aus Holz"
+
+- name: "HummingbirdHawkmoth"
+  url: https://www.etsy.com/de/shop/HummingbirdHawkmoth
+  located: "UK"
+  special: ""
+
+- name: "JewelConscious"
+  url: https://www.etsy.com/de/shop/EthicallyEnchanted
+  located: "USA"
+  special: ""
+
+- name: "Julia Otilia"
+  url: https://www.juliaotilia.com/
+  located: "Niederlande"
+  special: ""
+
+- name: "Jyoti Fairworks"
+  url: https://jyoti-fairworks.org/en/product-category/jewelry/
+  located: "Deutschland"
+  special: "dezente Designs mit indischer Seele"
+
+- name: "Kaligarh"
+  url: https://shop.kaligarh.com/
+  located: "Nepal"
+  special: "inspiriert durch den Himalaya"
+
+- name: "KERBHOLZ"
+  url: https://kerbholz.com/
+  located: "Deutschland"
+  special: "Uhren und Schmuck aus Holz"
+
+- name: "lille mus"
+  url: https://lille-mus.de/schmuck/
+  located: "Deutschland"
+  special: "Schmuck aus Porzellan"
+
+- name: "Loving Sun"
+  url: https://www.etsy.com/de/shop/LovingSunJewellery
+  located: "Slowenien"
+  special: ""
+
+- name: "Luxaa"
+  url: https://www.luxaa.de/de/schmuck/
+  located: "Deutschland"
+  special: ""
+
+- name: "MAKARO"
+  url: https://www.makarojewelry.com/
+  located: "Österreich"
+  special: ""
+
+- name: "Ninini"
+  url: https://www.nanini.nl/
+  located: "Niederlande"
+  special: ""
+
+- name: "Ninalu"
+  url: https://www.etsy.com/de/shop/HandmadeNinalu
+  located: "Deutschland"
+  special: "gefertigt aus recyceltem Silber"
+
+- name: "nouare"
+  url: https://www.nouarejewelry.com/
+  located: "Frankreich"
+  special: ""
+
+- name: "Ombre Claire"
+  url: https://ombreclaire.com/en/
+  located: "Frankreich"
+  special: ""
+
+- name: "pakilia"
+  url: https://www.pakilia.com/
+  located: "Mexiko"
+  special: ""
+
+- name: "Peopletree"
+  url: https://www.peopletree.co.uk/women/jewellery
+  located: "UK"
+  special: ""
+
+- name: "Pikfine"
+  url: https://pikfine.com/
+  located: "Deutschland"
+  special: "in vielen Shops erhältlich"
+
+- name: "Sacet"
+  url: https://www.sacet.com/
+  located: "UK"
+  special: "Designerschmuck, nachhaltig und fair hergestellt"
+
+- name: "SeeMe"
+  url: https://seeme.org/
+  located: "Niederlande"
+  special: "herzförmige Schmuckstücke gefertigt von Frauen die Gewalttaten überlebt haben"
+
+- name: "SOKO"
+  url: https://shopsoko.com/
+  located: "USA"
+  special: "fair und nachhaltig in Kenia produziert"
+
+- name: "Studio Jux"
+  url: https://studiojux.com/collections/womens-jewellery
+  located: "Niederlande"
+  special: "sozial und fair produziert"
+
+- name: "Taj Amsterdam"
+  url: https://www.taj.nl/de/webshop/
+  located: "Niederlande"
+  special: "handgefertigt auf Bali aus recyceltem Silber und Gold"
+
+- name: "THEA"
+  url: https://www.etsy.com/de/shop/TheodoreSloane
+  located: "USA"
+  special: ""
+
+- name: "Tribe Alive"
+  url: https://tribealive.com/jewelry/
+  located: "USA"
+  special: "unterstützt Frauen durch faire und sichere Arbeitsbedingungen"
+
+- name: "Tiny Sparkle Studio"
+  url: https://www.etsy.com/de/shop/tinysparklestudio
+  located: "USA"
+  special: ""
+
+- name: "UMIWI"
+  url: https://umiwi.info/
+  located: "Deutschland"
+  special: ""
+
+- name: "Wild Fawn Jewellery"
+  url: https://www.wildfawnjewellery.com/
+  located: "UK"
+  special: ""
