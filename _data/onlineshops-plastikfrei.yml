@@ -18,6 +18,11 @@
   products: "Haushalt, Kosmetik"
   located: "Österreich"
 
+- name: "Birkenspanner"
+  url: https://birkenspanner.com/
+  products: "Haushalt, biologisch abbaubarer Glitzer"
+  located: "Deutschland"
+
 - name: "Brush with Bamboo"
   url: https://www.brushwithbamboo.com/shop/
   products: "Zahnbürsten, Strohhalme"

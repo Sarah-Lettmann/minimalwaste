@@ -369,6 +369,13 @@
   fair: ""
   located: ""
 
+- name: "unown"
+  url: https://unown-fashion.com/
+  products: "Nachhaltige Mode zum Ausleihen"
+  vegan: ""
+  fair: ""
+  located: "Deutschland"
+
 - name: "Veja"
   url: http://www.veja-store.com/
   products: "Schuhe"
