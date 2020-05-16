@@ -33,6 +33,11 @@
   fair: "teilweise"
   located: "Deutschland"
 
+- name: "BELEAF"
+  url: https://beleaf.shop/
+  products: "Geldbörsen und Taschen aus veganem Blatt-Leder"
+  located: "Deutschland"
+
 - name: "bleed"
   url: https://www.bleed-clothing.com/deutsch/
   products: "Outdoor-Kleidung"

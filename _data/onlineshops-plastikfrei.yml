@@ -18,6 +18,11 @@
   products: "Haushalt, Kosmetik"
   located: "Österreich"
 
+- name: "BELEAF"
+  url: https://beleaf.shop/
+  products: "Geldbörsen und Taschen aus veganem Blatt-Leder"
+  located: "Deutschland"
+
 - name: "Birkenspanner"
   url: https://birkenspanner.com/
   products: "Haushalt, biologisch abbaubarer Glitzer"

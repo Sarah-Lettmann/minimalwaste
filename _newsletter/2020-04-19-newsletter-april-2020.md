@@ -82,7 +82,9 @@ Der Clou: Je nachdem wie weit die Person von dir entfernt ist, braucht die Nachr
 
 Danke für's Lesen.
 
-Um den Newsletter zu teilen, kopiere und teile diesen Link: [https://minimalwaste.de/newsletter/newsletter-april-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing](?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing)
+Um den Newsletter zu teilen, kopiere und teile diesen Link: [https://minimalwaste.de/newsletter/newsletter-april-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing](https://minimalwaste.de/newsletter/newsletter-april-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing)
+
+Wenn du MinimalWaste weiter unterstützen willst und Lust auf noch mehr Beiträge hast, dann schau doch mal auf der [Patreon-Seite](https://www.patreon.com/minimalwaste?fan_landing=true) vorbei.
 
 Ideen, Kritik, Feedback? Schreibe mir gerne an [info@minimalwaste.de](mailto:info@minimalwaste.de)
 
