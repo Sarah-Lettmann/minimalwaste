@@ -6,7 +6,7 @@ date: 2020-04-24
 categories: [Zero Waste]
 description: "Lebensmittelverschwendung ist ein großes Problem. Hier zeige ich dir 50 kreative Ideen, wie du Reste weiterverwenden oder vermeiden kannst."
 keywords: [Lebensmittelverschwendung]
-related-posts: ["0014", "0077", "0078", "0064", "0044", "0072"]
+related-posts: ["0083", "0077", "0078", "0064", "0044", "0072"]
 ---
 Es gibt so viele Ideen wie du Lebensmittelverschwendung vermeiden oder reduzieren kannst. Ich bin mal in mich gegangen und habe diese riesige Liste zusammen gestellt, die wirklich alle Tipps enthält, die ich über die Jahre selbst ausprobiert habe oder über die ich jemals gestolpert bin.
 
@@ -60,7 +60,7 @@ Wenn Obst nicht mehr ganz so frisch ist, kann es immer noch in einen köstlichen
 ## 15. Fruchteis aus alten Früchten
 Ebenso wie Smoothies, kann man aus altem Obst auch sehr gut Fruchteis selbt machen.
 
-## 16. App für Resterepte
+## 16. App für Resterezepte
 Da fallen mir zwei Apps ein: [Foodoholic](https://play.google.com/store/apps/details?id=com.app3null.foodoholic&hl=de) und [Zu gut für die Tonne!](https://www.zugutfuerdietonne.de/). Sie geben dir Hilfestellung aus den Lebensmitteln, die du noch zu Hause hast, etwas leckeres zu kochen.
 
 ## 17. Eine Einkaufsliste machen

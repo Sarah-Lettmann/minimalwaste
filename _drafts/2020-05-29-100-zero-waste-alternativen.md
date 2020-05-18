@@ -10,10 +10,13 @@ related-posts: ["", "", "", "", "", ""]
 ---
 
 ## Badezimmer
+Alle Alternativen für eine nachhaltigere und müllfreie Hygiene-Routine.
 
 ### Abschminktücher
+Es müssen nicht immer Wattepads sein. Du kannst ebenso gut kleine Tücher aus Baumwolle verwenden. Für Wasserfestes Makeup solltest du statt Wasser Öl verwenden.
 
 ### Bambuszahnbürste
+Bambuszahnbürsten kannst du als Alternative zu herkömmlichen Zahnbürsten aus Plastik verwenden. Im Gegensatz zu diesen sind sie nämlich kompostierbar. Achte aber darauf, dass auch die Borsten kompostierbar sind. Andernfalls musst du den Kopf abbrechen und separat entsorgen.
 
 ### Bath Bombs
 
@@ -22,6 +25,8 @@ related-posts: ["", "", "", "", "", ""]
 ### Deodorant
 
 ### Holzbürsten
+
+### Hornhautfeile aus Bimsstein
 
 ### Kompostierbare Zahnseide im Glas
 
@@ -33,11 +38,13 @@ related-posts: ["", "", "", "", "", ""]
 
 ### Öl zur Hautpflege
 
+### Peeling (selbst gemacht)
+
 ### Pinsel
 
 ### Podusche
 
-### Q-Tipps
+### Q-Tipps (biologisch abbaubar)
 
 ### Rasierhobel
 
@@ -51,22 +58,28 @@ related-posts: ["", "", "", "", "", ""]
 
 ### Unverpacktes Toilettenpapier
 
+### Waschbare Q-Tips
+
+### Waschlappen
+Falls du viel Makeup trägst, kannst du Waschlappen statt kleineren Abschminktüchern verwenden. Du kannst sie auch benutzen, wenn du dein Gesicht waschen willst.
+
 ### Zahnputzpulver
 
 ### Zahnputztabletten
 
----------- 22 ----------
+--------------------
 
 ## Küche
 
+### Edelstahlstrohalme
+
+### Kaffefilter aus Edelstahl oder Plastik
+
+### Teesiebe oder Tee-Eier
+
 ## Haushalt
-Stofftaschentücher
 
-Edelstahlstrohalme
-
-Kaffefilter aus Edelstahl oder Plastik
-
-Teesiebe oder Tee-Eier
+### Stofftaschentücher
 
 Akkus
 
@@ -180,8 +193,6 @@ Mundspülung
 
 Eiswürfelmacher
 
-Selbst gemachtes Peeling
-
 Textmarker aus Holz
 
 Papierhefter
@@ -218,13 +229,11 @@ SodaStream
 
 Lichtbogen Feuerzeug
 
-Hornhautfeile aus Bimsstein
-
 App für Prospekte
 
 Putzhandschuhe
 
-## Einweggeschirr und -besteck
+### Einweggeschirr und -besteck
 http://biotrem.pl/de/
 
 Digitaler Einkaufszettel
