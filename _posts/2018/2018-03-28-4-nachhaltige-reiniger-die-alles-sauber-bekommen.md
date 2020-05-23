@@ -10,6 +10,8 @@ related-posts: ["0031", "0030", "0028", "0049", "0059", "0051"]
 ---
 Heute gibt es es ergänzend zum [Post von letzter Woche](/blog/fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling) meine go-to Reiniger, die ich im Haushalt nutze. Irgendwie sind es keine DIY Reiniger, denn man muss eigentlich nicht viel machen, um sie herzustellen. Aber sie sind super günstig, man bekommt damit so gut wie alles im Haushalt sauber und muss dabei nicht zu einem Chemie-Cocktail greifen.
 
+Also, los geht's.
+
 ## Der Allzweck-Reiniger: Spüli und Wasser
 Das ist wohl der simpelste Allzweck-Reiniger, den es gibt. Und die einzigen beiden Zutaten sollte eigentlich jeder immer im Haus haben: **Spüli und Wasser**.
 
