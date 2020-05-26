@@ -281,58 +281,89 @@ Konserven kommen üblicherweise in Dosen. Diese lassen sich zwar ganz gut recyce
 ### Einweggeschirr und -besteck
 Wie soll das denn Zero Waste sein? Das passt doch vom Grundsatz gar nicht zusammen! Ja, irgendwie hast du da recht, aber irgendwie geht es dann halt doch. Es gibt vielleicht Gelegenheiten bei denen man einfach Einweggeschirr braucht, warum auch immer. Und statt zu den umweltschäflichen Dingern aus Plastik zu greifen, empfehle ich dir [The Good Plate](https://www.thegoodplate.de/), die Einweggeschirr und -besteck aus Weizenkleie verkaufen (Hersteller ist [Biotrem](http://biotrem.pl/de/)). Genauso verkauft Palmblatt im Avocadostore [Einweggeschirr und -besteck aus Palmblättern](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fbrands%2Fpalmenwald)\*
 
-### Eiswürfelmacher
+### Eiswürfelform
+Etwas das super vielseitig eingesetzt werden kann sind Eiswürfelformen. Du kannst darin nicht nur Eiswürfel machen, sondern auch Rest von Saucen, Dips, Teig, Smoothies, Sahne oder Kaffee einfrieren. Am besten ist natürlich eine Form ohne Plastik. [Eiswürfelform aus Edelstahl kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F138734-neu-eco-ice-cuber-eco-brotbox)\*
 
 ### Essstäbchen
+Statt der Einweg-Essstäbchen aus billigem Holz gibt es auch genügend Mehrweg-Varianten. Wir haben ein paar aus festerem Holz und auch welche aus einem sehr stabilen Plastik, die man sogar in die Spülmaschine packen kann. Solche Esstäbchen sind auch gut für unterwegs, um Müll zu vermeiden. [Esstäbchen kaufen](https://amzn.to/3d5EZyk)\*
 
-### Flaschen mit Ploppverschluss
+### Flaschen mit Bügelverschluss
+Das ist ein eher kleiner Tipp, aber trotzdem etwas, auf das man achten kann. Statt Bier- oder Saftflaschen mit Kronkorken odere Schraubverschluss zu kaufen, kannst du welche mit Bügelverschluss wählen. Der Bügelverschluss wird nämlich nicht entsorgt, sondern zusammen mit der Flasche gereinigt. Das sorgt für weniger Müll im Vergleich zu Kornkorken und Co.
 
 ### Gemüsenetze
+Mehrweggemüsenetze dürften inzwischen jedem bekannt sein. Inzwischen ist Zero Waste ja eine recht bekannte Bewegung. Es gibt viele unterschiedliche Varianten von Gemüsenetzen. Am besten finde ich welche aus Baumwolle, da diese kein Mikroplastik beim Waschen abgeben. [Gemüsenetze aus Baumwolle](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F190161-5-obst-und-gemuesenetze-bio-baumwolle-verschiedene-groessen-samebutgreen)\*
 
 ### Holzbretter
 Super einfach und auch total einleuchtend. Plastikbretter geben leider immer kleine Partikel ab, besonders, wenn auf ihnen geschnitten wird. Glasbretter sind nicht gut für die Messer, da diese so schnell abstumpfen. Holz ist ein natürliches Material und die Bretter halten lange. Ich glaube ich brauche dir nicht verlinken wo man Holzbretter bekommen kann ;)
 
 ### Holzspülbürste
+Holzspülbürsten können genau so gehandhabt werden wie herkömmliche Spülbürsten. Besonders clever ist, dass es solche mit Wechselkopf gibt. Den Griff kann man immer wieder verweden und den Kopf bei Bedarf austauschen und kompostieren. Die Köpfe kann man aber tatsächlich relativ lange verwenden, wenn man sie gut pflegt. Ab und zu ein Essigbad hat eine desinfizierende Wirkung und hilft, dass du den Bürstenkopf länger benutzen kannst. Solche Bürsten und die Köpfe gibt es übrigens auch bei DM und Karstadt. [Holzbürste kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F130308-spuelbuerste-fibre-redecker-buerstenhaus)\*, [Passende Bürstenköpfe kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F130310-spuelbuerstenkopf-fibre-redecker-buerstenhaus)\*
 
 ### Kaffeebecher
+Bitte keine Styropor- oder Plastikbecher für unterwegs nehmen. Lieber zu einem Mehrwegbecher greifen. Gibt es überall zu kaufen.
 
 ### Kaffefilter aus Edelstahl oder Plastik oder Stoff
+Kaffefilter sind eines von den Dingen, die weggeschmissen und immer wieder nachgekauft werden müssen. Eine Alternative sind Kaffefilter aus Edelstahl, Plastik (so einen haben wir) oder auch aus Stoff (waschbar).Funktioniert genauso gut wie ein normaler Kaffefilter, nur wird nach dem Brühen nicht alles weggeworfen, sondern lediglich der Kaffee ausgelehrt. Ich persönlich stelle mir den aus Stoff etwas umständlich vor, da er nicht so bequem gereinigt werden kann - Edelstahl und Plastik können einfach kurz durchgespült werden. [Kaffeefilter aus Stoff kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F198564-kaffee-filter-aus-bio-leinen-terrible-twins)\*, [Kaffefilter aus Edelstahl kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F145308-nachhaltiger-zero-waste-kaffee-filter-der-wiederverwendbare-edelstahl-filter-avoid-waste)\*, [Kaffeefilter aus Plastik kaufen](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fkaffee-dauerfilter-21904%3Femcs0%3DDazu%2Bpasst%26emcs1%3DProduktdetailseite%26emcs2%3D28995%26emcs3%3D21904)\*
 
-### Kaffecups oder Kaffeepads
+### Kaffekapseln oder Kaffeepads
+Wenn du eine Kaffemaschine hast, die mit Kapseln oder Pads funktioniert, dann hast du sogar hier die Möglichkeit auf eine nachhaltigere Alternative umzusteigen. Es gibt inzwischen nämlich für viele bekannte Modelle wiederbefüllbare Kapseln und Pads. Welche du brauchst hängt natürlich von deiner Maschine ab, ich habe trotzdem mal ein paar Beispiele verlinkt. [Wiederbafüllbare Pads für Senseo kaufen](https://amzn.to/3emsluU)\*, [wiederbefüllbare Kapseln für Nescafe Dolce Gusto kaufen](https://amzn.to/2yA7tBb)\*
 
 ### Kohlesticks zum Wasser filtern
+Wenn dein Leitungswasser sehr hart ist, dann kannst du es einfach mit etwas Aktivkohle filtern. Man kann diese in Stücken kaufen, die man dann einfach in die Karaffe legt. [Aktivkohlestab kaufen](https://amzn.to/2X4wEW8)\*
 
-### Kompostieren statt Restmüll
+### Kompostieren
+Kompostieren ist eine tolle Möglichkeit, um Müll zu vermeiden. Denn alles was in den Restmüll wandert, wird am Ende energetisch verwertet (verbrannt). Wenn du deine Essensabfälle kompostierst kann daraus aber wieder wertvolle Biomasse werden. Und kompostieren kann jeder. Wenn du eine Haus mit Garten hast, kannst du einen Kompost selbst anlegen. Für eine Wohnung kannst du etwas wie einen [Bokashi Eimer](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fkuechenkomposter-set-bokashi-2-eimer-plus-bokashi-ferment-24019)\* verwenden. Oder du benutzt einfach einen [Mülleimer](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fbiomuell-behaelter-edelstahl-31165)\* und bringst alles zur Biotonne, wenn du eine hast.
 
-### Kräuter - selbst anbauen, in bünden kaufen und einfrieren
+Wir bewahren unseren Biomüll in einer Schale im Gefrierfach auf, damit er keinen Geruch entfaltet. Wenn du richtig Hardcore bist, dann kannst du auch eine Wurmkiste ausprobieren. Das ist quasi ein kleiner Kompost direkt in der Wohnung. Dazu empfehle ich den Beitrag von WastelandRebel [KOMPOSTIEREN IN DER STADTWOHNUNG MIT EINER WURMKISTE](https://wastelandrebel.com/de/kompostieren-in-der-stadtwohnung-mit-einer-wurmkiste/).
+
+### Kräuter
+Bei Kräutern gibt es einige Möglichkeiten wie man sie nachhaltiger nutzen kann, als sie tiefgefroren in Plastikbehältern zu kaufen. Du kannst sie zum Beispiel in großen Bünden kaufen, kleinhacken und dann selbt in Gläsern, Dosen oder mit Wasser oder Öl in einer Eiswürfelform einfrieren. Oder du baust sie gleich selbst an. Für mehr Tipps bezüglich Lebensmittelabfällen empfehle ich dir den Beitrag [50 Tipps gegen Lebensmittel­verschwendung](/blog/50-tipps-gegen-lebensmittelverschwendung/).
 
 ### Küchenrolle
+Wir haben lange Zeit gar keine Küchenrolle mehr gekauft, sondern haben einfach für alles Haushaltstücher verwendet. Das ist eine Möglichkeit. Es gibt online aber auch tolle Idee, wie man sich eine wiederverwendbare Küchenrolle machen kann, zum Beispiel auf Pinterest: [Zero Waste Küchenrolle](https://www.pinterest.de/search/pins/?q=zero%20waste%20k%C3%BCchenrolle&rs=typed&term_meta[]=zero%7Ctyped&term_meta[]=waste%7Ctyped&term_meta[]=k%C3%BCchenrolle%7Ctyped). Inzwischen gibt es aber auch [waschbare Küchenrolle von pandoo](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F97225-wiederverwendbare-kuechenrolle-aus-bambus-viskose-pandoo)\*.
 
 ### Leitungswasser
+Leitungswasser ist immer noch eine der besten Alternativen überhautpt. Allein mit dem Trinken von Leitungswasser kannst du gegenüber dem günstigsten abgepackten Wasser ca. 360€ im Jahr sparen. Da sind dann auch mal ein paar Euro mehr für eine gute Wasserflasche drin.
 
 ### Lunchbox
+Oder auch einfach die klassische Brotdose. Dazu muss ich glaube ich nicht viel sagen. Ich könnte dir jetzt total schöne Dosen aus edelstahl verlinken, aber ganz ehrlich, jeder hat Dosen zuhause, die er für das Mittagsessen oder das Pausenbrot verwenden kann. Isolierboxen und -behälter, um Essen warum zu halten gibt es auch genug auf dem Markt. Sieh dich einfach etwas um.
 
-### Milchalternativen (selbst gemacht)
+### Milchalternativen
+Sojamilch, Nussmilch oder Hafermilch kommen leider immer im Tetrapack. Das ist ärgerlich, aber zumindest die meisten Nussmilchen und auch Hafermilch kann man leicht selbst machen, wie zeige ich dir in [Pflanzliche Milch selber machen: 2 Varianten](/blog/milchalternativen-selber-machen/). Sojamilch ist leider etwas komplizierter.
 
 ### Muffinformen
+Man kennt ja die typischen Papierformen für Muffins. Tja, diese gibt es auch zum wiederverwenden aus Silikon. Bitte, dankeschön. [Wiederverwendbare Muffin-Formen kaufen](https://amzn.to/3giV2e2)\*
 
 ### Nussmilchbeutel
+Um pflanzliche Milchalternativen selbst zu machen, braucht man in der Regel einen Nussmilchbeutel. Die Milch wird dadurch weicher und hat nicht so viele Stücke. Wenn du einen hochleistungsmixer hast, kann es sein, dass du sowas nicht brauchst. Aber ich denke die meisten haben sowas eher nicht. Du kannst auch ein Haushaltstuch nehmen, aber das ist etwas umständlicher, da diese meistens feinmaschiger sind. Das heißt du kannst die Flüssigkeit nicht so schnell durchdrücken. [Nussmilchbeutel kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F159561-nussmilchbeutel-aus-hanf-zur-herstellung-von-veganer-mandelmilch-bio-ecoyou)\*
 
 ### SodaStream
+Wir haben seit einigen Jahren einen Sodastream und wir lieben ihn. Dabei benutzen wir ihn gar nicht häufig. Aber immer mal wieder wenn Gäste kommen oder wir uns ein Getränk mixen wollen, kommt er zum Einsatz. Und wenn du zu den Leuten gehörst, die kein Leitungswasser trinken, weil es kein Sprudel hat, dann ist dieses Gerät genau das richtige für dich. Die Kartuschen halten recht lange und können in vielen Drogerien oder auch bei Rewe umgetauscht werden. Das kostet um die 8 Euro. [Sodastream kaufen](https://amzn.to/2XDqlrI)\*
+
+Mehr Informationen zu dem Gerät, Renigung und Kosten findest du hier: [Sodastream Website](https://www.sodastream.de/)
+
+Die meisten Sirups kommen zwar in Plastik, aber es gibt inzwischen auch einige im Glas. Wir verwenden einige Sirups der Marke _Monin_. Diese ist glaube ich eher für das Mixen von Cocktails gedacht, funktioniert aber auch.
 
 ### Stasher Bags
+Stasher Bag ist eine Marke die wiederverwendbare Lebensmittelbeutel herstellt. Dies funktionieren ähnlich wie Ziplock-Beutel, können aber gereinigt werden (auch in der Spülmaschine). Man kann sie zum Einfrieren oder einfach für Aufbewahrung oder unterwegs benutzen. [Stasher Bags kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fbrands%2Fstasher-bag)\*
 
 ### Stempelkanne
+Stempelkannen sind sehr vielseitig, wenn es um Müllvermeidung geht. Du kannst in ihnen nicht nur Kaffee machen, sondern auch Tee. Oder du benutzt sie anstelle eines Nussmilchbeutels, um deine Pflanzenmilch zu sieben.
 
 ### Stoffservietten
+Ein ebenso gutes Beispiel wie die Stofftaschentücher. Stoffservietten musst du einmal kaufen und kannst sie Jahre und Jahrzehnte lang benutzen. So sparen dir diese Dinger eine Menge Geld, wenn du sonst immer zu normalen Servietten oder übermäßig viel Zewa greifen würdest. Außerdem machen sie viel mehr her als normale Servietten. Wir haben ein paar verschiedenen zu Hause mit unterschiedlichen Mustern. Du kannst sie kaufen oder aus altem Stoff selbst nähen, wenn du diese Fähigkeit besitzt. [Stoffservietten kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F192063-basic-stoffserviette-4er-set-juna%3Fvariant_id%3D1486751)\*
 
-### Teebeutel (aus Stoff)
+### Teebeutel
+Wusstest du, dass es Stoffteebeutel gibt? Ich bis vor Kurzem auch nicht. Man befüllt sie mit losem Tee und leer und säubert sie nach Gebraucht. [Teebeutel aus Stoff kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F197058-teebeutel-wiederverwendbar-gots-zert-bio-baumwolle-the-organic-company%3Fvariant_id%3D1530317)\*
 
 ### Teesiebe oder Tee-Eier
+Das ist eher meine Variante als die Teebeutel aus Stoff. Wir haben Tee-Eier zu Hause und sind damit sehr zufrieden. Sie sind leicht zu befüllen, zu entleeren und sehr schnell ausgespült. Mit Teesieben sieht das ähnlich aus. [Tee-Ei kaufen](https://amzn.to/3eh3OY4)\*, [Teesieb aus Edelstahl kaufen](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fteesieb-inox-gross-o-6-8-5-cm-28995%3FsearchPage%3D1%26searchRow%3D3)\*,
 
 ### Tupperdosen
+Die gute alte Tupperdose mag zwar schon einige Jahre auf dem Buckel haben, aber kann immer noch für vieles verwendet werden: Aufbewahrung, Einfrieren, Essen mitnehmen, usw. Und die nachhaltigste Variante ist immer noch das zu nutzen, was man schon hat.
 
 ### Wachstücher
+Wachstücher sind total im Trend und das nicht ohne Grund. Zwar gibt es auch andere Möglichkeiten die Frischhaltefolie zu ersetzen (mit einem Teller abdecken, in eine Dose packen), aber das Wachstuch ist sicherlich die schönste Variante. Dabei handelt es sich um Baumwolltücher, die mit einer Schicht aus Bienenwachs überzogen sind. Eine vegane Variante habe ich bisher nirgends gesehen (leider). Zum reinigen spült man sie einfach mit Spüli und kaltem Wasser ab. [Bienenwachstücher kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fwohnen%2Fkueche-aufbewahrung-wachstuecher)\*
 
 &nbsp;
 
