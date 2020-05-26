@@ -21,15 +21,7 @@ Die Liste ist ziemlich lang und daher vielleicht etwas unübersichtlich. Deshalb
 4. [Küche (32 Alternativen)](#küche)
 5. [Putzen und Waschen (16 Alternativen)](#putzen-und-waschen)
 
-Ich habe in diesem Beitrag zudem viele Links zu Shops hinterlassen wo du die Dinge kaufen kannst. Viele davon sind Affiliate-Links, das heißt du muss nicht mehr bezahlen, aber ich bekomme einen kleinen Anteil, wenn du etwas kaufst. Und natürlich freue ich mich immer für nachhaltige Unternehmen zu werben und diese so zu unterstützen.
-
-Verlinkte Shops:
-* [Lush Unverpackt](https://de.lush.com/products/nackte-produkte?solrsort=ds_created%20desc#showall)
-* [monomeer](https://www.monomeer.de/)
-* [Kulmine](https://kulmine.de/)
-* [Avocadostore](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2F)\*
-* [Waschbär](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2F)\*
-* Wenn ich etwas anderswo nicht finden konnte, habe ich Amazon verlinkt.
+Ich habe in diesem Beitrag zudem viele Links zu Shops hinterlassen wo du die Dinge kaufen kannst. Viele davon sind Affiliate-Links, das heißt du muss nicht mehr bezahlen, aber ich bekomme einen kleinen Anteil, wenn du etwas kaufst. Und natürlich freue ich mich immer für nachhaltige Unternehmen zu werben und diese so zu unterstützen. Wenn ich etwas anderswo nicht finden konnte, habe ich Amazon verlinkt.
 
 * TOC
 {:toc .toc aria-label="Inhaltsverzeichnis"}
@@ -87,7 +79,7 @@ Ja, auch das gibt es. Besonders bekannt ist die Marke [elate cosmetics](https://
 ### Menstruationstasse
 Anbieter von Menstruationstassen gibt es inzwischen wie Sand am Meer. Um dich besser zu informieren und die passende Marke für dich zu finden, schau dir meinen Beitrag [Warum du eine Menstrua­tionstasse benutzen solltest](/blog/menstruationstasse-vs-tampon/) dazu an.
 
-### Menstruationsschwamm
+### Menstruations&shy;schwamm
 Falls eine Menstruationstasse nichts für dich ist, solltest du mal Menstruationsschwämmchen ausprobieren. Die kleinen Dinger haben eine Saugfähigkeit wie normale Tampons und werden auch so benutzt. Sie trocknen außerdem die Schleimhäute nicht aus, sind komplett natürlich und können wieder verwendet werden. [Menstruationsschwämmchen Größe S (4-5 cm)](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F189562-menstruationsschwaemmchen-groesse-s-4-5-cm-marie-natur)\* oder [Menstruationsschwämmchen Größe M (6-7 cm)](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F189563-menstruationsschwaemmchen-groesse-m-6-7-cm-marie-natur)\* kaufen (Tipps zur Anwendung und Reinigung gibt es auch unter den Produkten).
 
 ### Mundspülung
@@ -96,7 +88,7 @@ Wieder ein guter Kandidat zum Selbermachen. Ich möchte irgendwann gerne noch ei
 ### Nagelfeile
 Viele benutzen heute die Feilen aus Papier. Mit der Zeit gehen diese aber kaputt, weshalb du lieber die klassische Saphir-Feile oder die modernere Variante aus Glas verwenden solltest. Diese beiden Varianten halten ewig. Beides bekommst du in jeder Drogerie.
 
-### Nagellackentferner
+### Nagellack&shy;entferner
 Das ist etwas kniffeliger, aber selbst hierfür gibt es natürliche Varianten zu kaufen: [Natürlicher veganer Nagellackentferner 100ml](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F187976-natuerlicher-veganer-nagellackentferner-100ml-kia-charlotta)\*. Auf smarticular.net habe ich auch gelesen, dass man Zitronensaft verwenden kann, um Nagellack aufzulösen: [https://www.smarticular.net/zitronensaft-fuer-natuerliche-schoenheit-10-einfache-und-wirksame-tricks/](https://www.smarticular.net/zitronensaft-fuer-natuerliche-schoenheit-10-einfache-und-wirksame-tricks/)
 
 ### Öl zur Hautpflege
@@ -105,7 +97,7 @@ Dazu kannst du eigentlich jedes Öl nehmen, das du gerade zur Hand hast, egal ob
 ### Peeling
 Natürliche und müllfreie Peelings lassen sich super einfach selbst machen, sieh dir einfach meinen Beitrag [3 Ideen für Zero Waste Peeling](/blog/zero-waste-peeling-selbst-machen/) dazu an.
 
-### Periodenunterwäsche
+### Perioden&shy;unterwäsche
 Periodenunterwäsche sind im Prinzip ganz normale Slips und Höschen, die allerdings über eine intergrierte Einlage verfügen und dich so schützen. Die Höschen kannst du ganz normal waschen, solltest sie aber vorher gut durchspülen. Sie sind in der Regel aus schwarzem Stoff gefertigt, sodass sie kaum Gefahr laufen dürften, mit der Zeit unansehnlich zu werden. Ich habe bisher noch keine Erfahrung damit gemacht, also liegt es an dir. [Periodenunterwäsche kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2F%23q%253Dmenstruationsunterw%2525C3%2525A4sche%2526t%253Dno)\*
 
 ### Pinsel
@@ -123,7 +115,7 @@ Der Rasierhobel ist eine meiner liebsten Alternativen, weil er so schön Hipster
 ### Rasierseife
 Rasierseife kannst du anstelle von normalem Rasierschaum verwenden. Ich muss aber sagen, dass ich mich meistens sowieso mit normaler Seife rasiere. Es geht ja nur darum, dass der Rasierer gut über die Haut gleiten kann und da tut auch normale Seife den Job. Ansonsten kannst du natürlich auch [Rasierseife kaufen](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F135487-shamiras-natuerliche-rasierseife-shamiras)\*.
 
-### Recyclingklopapier
+### Recycling&shy;klopapier
 Dieses Klopapier ist zwar in der Regel in Plastik verpackt, aber allein der Umstand, dass es aus Altpapier hergestellt ist, sorgt für eine viel bessere CO2-Bilanz (Altpapier spart 70% des Wasserverbrauchs, 60% des Energieverbrauchs und 2,2 Kilo Holz pro Kilo Papier). Eine besonders gute Entschiedung triffst du dann, wenn das Zeichen [Blauer Engel](https://www.blauer-engel.de/de/produktwelt/alltag-wohnen/hygiene-papiere-toilettenpapier-kuechenrollen-taschentuecher/toilettenpapier)\* auf der Verpackung ist.
 
 ### Seifenstück
@@ -141,7 +133,7 @@ Bei Zero Waste Alternativen geht es oft darum etwas in einer wiederverwendbaren 
 ### Sonnencreme
 Auch hierfür gibt es eine Variante, die zumindest in einer nachhaltigeren Verpackung daher kommt. Ich habe diese zugegeben bisher nicht genutzt, da diese Sonnencremes schon sehr teuer sind. Und da ich leider sehr helle Haut habe, würde ich schier Unmengen davon verbrauchen. Deshalb bin ich bis jetzt davor zurück geschreckt. Der Shop [monomeer](https://www.monomeer.de/) hat diese in vielen verschiedenen Varianten.
 
-### Unverpacktes Toilettenpapier
+### Unverpacktes Toiletten&shy;papier
 Statt zu Recyclingtoilettenpapier zu greifen, kannst du auch Zero Waste Toilettenpapier bestellen. Sowas gibt es von verschiedenen Herstellern und kommt oft nur in einem Karton oder mit Papier umwickelt zu dir nach Hause. Bekannt sind Anbieter wie [who gives a crap](https://eu.whogivesacrap.org/) oder [SmoothPanda](https://smoothpanda.de/). Smoothpanda gibt es wohl inzwischen auch bei DM zu kaufen.
 
 ### Waschlappen
@@ -153,13 +145,13 @@ Neben normalen Abschminktüchern oder Waschlappen kannst du auch gehäkelte oder
 ### Wattestäbchen
 Statt den herkömmlichen Q-Tips mit einem Plastikstäbchen gibt es inzwischen auch viele Varianten mit Papier oder Holz. Diese sind zumindest biologisch abbaubar. Zu kaufen gibt es sie bei DM und in jedem nachhaltigen Onlineshops. [Wattestäbchen von Hydrophil kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F63256-wattestaebchen-aus-bambus-und-baumwolle-hydrophil)\*
 
-### Zahnbürstenetui
+### Zahnbürsten&shy;etui
 Statt einem normalen Plastik-Etui für deine Zanbürste kannst du eins aus einem ökologischeren Material verwenden wie zum Beispiel Bambus. [Zahnbürstenetui aus Bambus](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F81854-zahnbuersten-etui-hydrophil)\*
 
 ### Zahnpuder
 Eine Alternative zur normalen Zahnpasta kann Zahnpuder sein. Dafür musst du deinen Zahnbürstekopf nass machen und dann in das Pulver dippen, sodass es an deiner Zahnbürste haftet. Dann kannst du auch schon anfangen zu putzen. Das Mundgefühl ist natürlich ein anderes als bei herkömmlicher Zahnpasta. Reinigen tut Zahnpuder aber genauso gut. Hier mal ein Beispielprodukt: [Zahnpuder mit Aktivkohle](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F174026-zahnpuder-im-glas-black-ben-und-anna)\*
 
-### Zahnputztabletten
+### Zahnputz&shy;tabletten
 Eine Alternative, auf die ich schon vor geraumer Zeit umgestiegen bin, sind Zahnputztabletten. Das ist praktisch nur Zahnpasta in Tablettenform. Diese zerkaut man zuerst etwas im Mund, feuchtet die Zahnbürste an und kann dann anfangen zu putzen. Auch hier ist das Mundgefühl ein anderes und die Tabletten schäumen definitiv nicht so stark wie normale Zahnpasta. [Denttabs Zahnputztabletten kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2F%23q%253Ddenttabs%2526t%253Dno)\*
 
 ### Zahnseide
@@ -177,7 +169,7 @@ Alles was man für das Büro, Schulaufgaben oder zum Basteln brauchen könnte.
 ### Digitaler Lohnbescheid
 Es gibt eine Plattform namens [Arbeitnehmer online](https://www.datev.de/ano/) worüber Arbeitgeber ihren Arbeitnehmern Lohnbescheide und andere wichtige Dokumente zugänglich machen können. Nach einer Registrierung kann man sich die Dokumente einfach als PDF runterladen und abspreichern. Das heißt es gibt keine lästige Post mehr, die nur Müll verursacht und sowieso eingescannt werden muss.
 
-### Druckerpatronen
+### Drucker&shy;patronen
 Wusstest du, dass man Druckerpatronen neu befüllen kann? Manche sind zumindest dafür ausgelegt. Sets dafür und die passenden Patronen bekommst du online. Der Link dient hier nur als Beispiel, denn die Patronen müssen ja zu deinem Drucker passen. [Wiederbefüllbare Druckerpatronen kaufen](https://amzn.to/3bYP1ji)\*
 
 ### Flyer
@@ -197,7 +189,7 @@ Tacker brauchen nicht mehr unbedingt Heftklammern, um Papier zusammen halten zu 
 ### Textmarker
 Normale Textmarker sind nicht besonders umweltfreunlich. Sie bestehen aus Plastik, können eintrocknen und müssen irgendwann entsorgt werden. Besser sind da Textmarker aus Holz. Das sind eigentlich nur Buntstifte in besonders hellen Neonfarben, die man ebenso gut zum highlighten von Text verwenden kann. [Textmarker aus Holz kaufen](https://amzn.to/36scMPD)\*
 
-### Visitenkarten
+### Visiten&shy;karten
 Visitenkarten sind irgendwie ziemlich letztes Jahrhundert. Trotzdem braucht man sie manchmal. Inzwischen gibt es aber eine bessere Lösung anstatt diese immer im Portmonee zu haben oder übertragen zu müssen. Apps wie [
 CamCard Lite](https://play.google.com/store/apps/details?id=com.intsig.BCRLite) oder [DigiCard](https://play.google.com/store/apps/details?id=com.griffinalgorithm.digicard) machen das Scannen und Tauschen von digitalen Visitenkaretn möglich.
 
@@ -218,7 +210,7 @@ Akkus sind eine gute Alternative zu normalen Batterien. Zwar muss beides im Sond
 
 Solche Akkus bekommst du in vielen Geschäften, oft auch in Drogerien. Du kannst sie aber auch online bestellen und das passende Ladegerät gleich mit, denn das brauchst du schließlich. [AA Akkus](https://amzn.to/3d15mFF)\*, [Akkuladegerät für AAA und AA](https://amzn.to/2A3nFv9)\*, [Wiederaufladbare Knopfzelle](https://amzn.to/2ytkVXu)\*, [Knopfzellen-Akku Ladegerät](https://amzn.to/2Xrfa55)\*
 
-### Brillenputztücher
+### Brillenputz&shy;tücher
 Die klassischen kleinen Tücher, mit denen man früher seine Brille sauber gemacht hat, gibt es immer noch. Man kann sie einfach waschen und immer wieder verwenden.
 
 ### Einkaufszettel
@@ -242,13 +234,13 @@ Als ich das letztens entdeckt habe, war ich total fasziniert. Es gibt Feuerzeuge
 ### Prospekte
 Prospekte musst du dir heute nicht mehr jede Woche bringen lassen. Es gibt Apps, wie zum Beispiel die App [kaufDa](https://play.google.com/store/apps/details?id=com.bonial.kaufda), die dir Prospekte in digitaler Form anzeigt. So kannst du immer über Angebote informiert sein, aber musst kein Papier verschwenden.
 
-### Reinigungstücher für Technik
+### Reinigungs&shy;tücher für Technik
 Auch ein Produkt was man eigentlich nur in der Wegwerfform kennt - sie werden ähnlich wie Brillentücher verwendet. Dabei gibt es gute Mikrofasertücher, die nur mit etwas Feuchtigkeit eine gute Reinigungswirkung haben. Theoretisch kannst du dafür auch fast jedes Tuch verwenden, besonders waschbare Brillenputztücher eignen sich auch sehr gut dafür.
 
 ### Stofftaschen
 Der Klassiker, wenn es um Nachhaltigkeit geht: die Stofftasche. Ich glaube dazu muss ich nicht viel sagen. Man bekommt die Taschen in allen Supermärkten.
 
-### Stofftaschentücher
+### Stofftaschen&shy;tücher
 Das ist eine Alternative, die ich wirklich nur jedem ans Herz legen kann. Wir verwenden schon seit Jahren Stofftaschentücher und sind sehr zufrieden damit. Gerade wenn man Heuschnupfen hat oder erkältet ist, sind sie viel angenehmer für die Nase und es braucht länger bis diese wirklich wund ist. Wir haben schon einige davon (die meisten secondhand) und waschen sie in der Kochwäsche. Auf dem Wäscheständer trocknen sie auch wirklich schnell, selbst im Winter. Wenn dich die Ökobilanz von Stofftaschentüchern interessiert, dann schau dir mal [Die Bilanz von Stofftaschen­tüchern im Vergleich](/blog/die-bilanz-von-stofftaschentuechern/) an. [Kulmine Stofftaschentücher kaufen](https://kulmine.de/edeltuecher/stofftaschentuch/stofftaschentuch.html?c=45) oder beim [Avocadostore Stofftaschentücher kaufen](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2F%23q%253Dstofftaschentuch%2526t%253Dno)\*
 
 ### Teelichter
@@ -272,13 +264,13 @@ Unterwegs Müll zu vermeiden gehört sich eher zu den forgeschritteneren Praktik
 ### Brotbeutel
 Brot kannst du dir beim Bäcker in der Regel in einen eigenen Beutel geben lassen. Wir haben dafür besonders große Stofftaschen, wie die [Naturtaschen im Set](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F78526-naturtasche-aus-bio-baumwolle-5er-set-naturtasche)\*. In diesem Beutel können wir das Brot auch gleich einfrieren.
 
-### Edelstahltrinkhalme
+### Edelstahl&shy;trinkhalme
 Es mag zwar noch andere Möglichkeiten geben einen normalen Plastikstrohhalm zu ersetzen, aber ich finde Edelstahl bis jetzt am besten. Für kalte Getränke eignet sich vielleicht Glas besser, weil es nicht so kalt wird. Dafür sind die aus Glas aber vermutlich auch zerbrechlicher. Trinkhalme aus Edelstahl sind praktisch unkaputtbar und lassen sich auch super easy reinigen. [Trinkhalme aus Edelstahl](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F165648-hochwertiges-4-stueck-set-trinkhalme-aus-edelstahl-mit-reinigungsbuerste-ds)\*
 
 ### Eingemachtes im Glas
 Konserven kommen üblicherweise in Dosen. Diese lassen sich zwar ganz gut recyceln, haben aber innen oft eine Plastikbeschichtung, die relativ umstritten ist. Als Alternative kannst du viele Konserven auch im Glas bekommen. Teegut bietet da zum Beispiel eine ganz gute Auswahl an.
 
-### Einweggeschirr und -besteck
+### Einweg&shy;geschirr und -besteck
 Wie soll das denn Zero Waste sein? Das passt doch vom Grundsatz gar nicht zusammen! Ja, irgendwie hast du da recht, aber irgendwie geht es dann halt doch. Es gibt vielleicht Gelegenheiten bei denen man einfach Einweggeschirr braucht, warum auch immer. Und statt zu den umweltschäflichen Dingern aus Plastik zu greifen, empfehle ich dir [The Good Plate](https://www.thegoodplate.de/), die Einweggeschirr und -besteck aus Weizenkleie verkaufen (Hersteller ist [Biotrem](http://biotrem.pl/de/)). Genauso verkauft Palmblatt im Avocadostore [Einweggeschirr und -besteck aus Palmblättern](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fbrands%2Fpalmenwald)\*
 
 ### Eiswürfelform
@@ -302,13 +294,13 @@ Holzspülbürsten können genau so gehandhabt werden wie herkömmliche Spülbür
 ### Kaffeebecher
 Bitte keine Styropor- oder Plastikbecher für unterwegs nehmen. Lieber zu einem Mehrwegbecher greifen. Gibt es überall zu kaufen.
 
-### Kaffefilter aus Edelstahl oder Plastik oder Stoff
+### Kaffefilter
 Kaffefilter sind eines von den Dingen, die weggeschmissen und immer wieder nachgekauft werden müssen. Eine Alternative sind Kaffefilter aus Edelstahl, Plastik (so einen haben wir) oder auch aus Stoff (waschbar).Funktioniert genauso gut wie ein normaler Kaffefilter, nur wird nach dem Brühen nicht alles weggeworfen, sondern lediglich der Kaffee ausgelehrt. Ich persönlich stelle mir den aus Stoff etwas umständlich vor, da er nicht so bequem gereinigt werden kann - Edelstahl und Plastik können einfach kurz durchgespült werden. [Kaffeefilter aus Stoff kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F198564-kaffee-filter-aus-bio-leinen-terrible-twins)\*, [Kaffefilter aus Edelstahl kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F145308-nachhaltiger-zero-waste-kaffee-filter-der-wiederverwendbare-edelstahl-filter-avoid-waste)\*, [Kaffeefilter aus Plastik kaufen](https://www.awin1.com/cread.php?awinmid=15084&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.waschbaer.de%2Fshop%2Fkaffee-dauerfilter-21904%3Femcs0%3DDazu%2Bpasst%26emcs1%3DProduktdetailseite%26emcs2%3D28995%26emcs3%3D21904)\*
 
 ### Kaffekapseln oder Kaffeepads
 Wenn du eine Kaffemaschine hast, die mit Kapseln oder Pads funktioniert, dann hast du sogar hier die Möglichkeit auf eine nachhaltigere Alternative umzusteigen. Es gibt inzwischen nämlich für viele bekannte Modelle wiederbefüllbare Kapseln und Pads. Welche du brauchst hängt natürlich von deiner Maschine ab, ich habe trotzdem mal ein paar Beispiele verlinkt. [Wiederbafüllbare Pads für Senseo kaufen](https://amzn.to/3emsluU)\*, [wiederbefüllbare Kapseln für Nescafe Dolce Gusto kaufen](https://amzn.to/2yA7tBb)\*
 
-### Kohlesticks zum Wasser filtern
+### Kohlesticks
 Wenn dein Leitungswasser sehr hart ist, dann kannst du es einfach mit etwas Aktivkohle filtern. Man kann diese in Stücken kaufen, die man dann einfach in die Karaffe legt. [Aktivkohlestab kaufen](https://amzn.to/2X4wEW8)\*
 
 ### Kompostieren
