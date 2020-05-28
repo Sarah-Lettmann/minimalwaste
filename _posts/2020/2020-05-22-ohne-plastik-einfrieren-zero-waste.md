@@ -6,7 +6,7 @@ date: 2020-05-22
 categories: [Zero Waste]
 description: "Ja, man kann ohne Plastik einfrieren. Es gibt viele Alternativen zum Gefrierbeutel, die ich dir in diesem Post zeigen werden."
 keywords: [ohne Plastik einfrieren, einfrieren Zero Waste]
-related-posts: ["0079", "0077", "0072", "0065", "0054", "0064"]
+related-posts: ["0084", "0079", "0077", "0072", "0065", "0064"]
 ---
 Einfrieren ohne Plastik, das geht? Ja, tatsächlich, und zwar ziemlich gut. Ich schreibe diesen Artikel, weil es scheinbar immer noch viele gibt, die von dieser Idee bisher nichts mitbekommen haben oder schlicht einfach nicht wussten, dass es geht. Darum will ich hier Aufklärung betreiben und dir ein paar Tipps mit an die Hand geben, wie du damit anfangen kannst.
 

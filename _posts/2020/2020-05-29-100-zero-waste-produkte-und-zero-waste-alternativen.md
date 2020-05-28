@@ -1,5 +1,5 @@
 ---
-uid: "0083"
+uid: "0084"
 title: "Über 100 Zero Waste Produkte und Alternativen"
 subtitle: "Zero Waste für Badezimmer, Büro, Haushalt und Küche"
 date: 2020-05-29

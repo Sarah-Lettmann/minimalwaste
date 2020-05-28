@@ -6,7 +6,7 @@ date: 2020-04-10
 categories: [Zero Waste, DIY]
 description: "Gemüsebrühe selber machen ist nicht schwer. Du kannst aus Gemüseresten noch viel rausholen und deine Lebensmittelabfälle so reduzieren."
 keywords: [Zero Waste Gemüsebrühe, Gemüsebrühe selber machen, Gemüsebrühe selbst kochen]
-related-posts: ["0014", "0035", "0072", "0079", "0075", "0067"]
+related-posts: ["0079", "0084", "0035", "0072", "0075", "0067"]
 ---
 Richtig gute Gemüsebrühe kann man sehr einfach selber machen. Es sind nur wenige Schritte und das Ergebnis ist wirklich gut und sehr lecker. In diesem Post will ich dir zeigen, wie du Gemüsebrühe leicht selber machen und so deine Lebensmittelabfälle weiter reduzieren kannst. Wie gesagt geht das relativ einfach und schnell und man kann es leicht mal nebenbei machen.
 
