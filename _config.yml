@@ -24,8 +24,8 @@ url: "https://minimalwaste.de" # the base hostname & protocol for yur site, e.g.
 keywords: [minimalismus, zero waste]
 permalink: /blog/:title/
 pagelinks-posts: ["0022", "0061", "0011", "0050"]
-featured-posts: ["0026", "0064", "0049", "0051", "0042"]
-start-zero-waste: ["0044", "0062", "0073", "0037"]
+featured-posts: ["0084", "0064", "0049", "0051", "0042"]
+start-zero-waste: ["0084", "0083", "0044", "0062", "0073", "0037"]
 aspects-sustainability: ["0059", "0075", "0042", "0067", "0077", "0068"]
 featured-pages:
   - title: Alle Unverpack Läden im Überblick
