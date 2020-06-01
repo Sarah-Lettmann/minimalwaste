@@ -6,7 +6,7 @@ date: 2019-08-07
 categories: [Klima]
 description: "Unsere Ernährung wirkt sich auf uns und den Planeten aus. Die Planetary Health Diet liefert für die Gesundheit von Körper und Umwelt einen Leitfaden."
 keywords: [Planetary Health, Planetary Health Diet]
-related-posts: ["0063", "0054", "0032", "0075", "0030", "0059"]
+related-posts: ["0085", "0063", "0054", "0032", "0075", "0059"]
 ---
 Wenn es um das Klima geht, dann können wir viele Dinge tun, um unseren CO2 Fußabdruck möglichst klein zu halten. Eine Stellschraube ist die Ernährung, vor allem weniger Fleisch lautet die Devise. Aber wie viel weniger muss es wirklich sein und ist vegan die ideale Lösung? Die Antworten darauf liefert und die Planetary Health Diet.
 

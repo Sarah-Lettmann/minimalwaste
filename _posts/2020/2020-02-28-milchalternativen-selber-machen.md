@@ -3,10 +3,10 @@ uid: "0072"
 title: "Pflanzliche Milch selber machen: 2 Varianten"
 subtitle: "Hafer- und Mandelmilch einfach, schnell und günstig selbst herstellen."
 date: 2020-02-28
-categories: [Klima, Veganismus]
+categories: [Zero Waste, Klima, Veganismus]
 description: "Milchalternativen gibt es viele, teuer sind sie meist auch. Dabei lässt sich pflanzliche Milch einfach und günstig selber machen."
 keywords: [Pflanzliche Milch, Milchalternativen]
-related-posts: ["0065", "0079", "0067", "0077", "0022", "0039"]
+related-posts: ["0085", "0079", "0067", "0077", "0022", "0039"]
 ---
 Wenn man was für die Umwelt tun will, ist es keine schlechte Idee ein bisschen weniger tierische Produkte zu konsumieren und stattdessen auf vegane Alternativen umzusteigen. Ein guter erster Ansatzpunkt sind Milchalternativen. Meine liebsten sind Hafermilch und Mandelmilch. Diese will ich dir in diesem Post zeigen.
 

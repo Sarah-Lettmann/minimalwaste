@@ -6,7 +6,7 @@ date: 2020-03-27
 categories: [Klima]
 description: "Jeder kann kleine Dinge tun, um die eigene CO2-Bilanz zu verbessern. Vieles davon ist sogar recht einfach."
 keywords: [CO2-Bilanz, CO2-Fußabdruck]
-related-posts: ["0023", "0037", "0001", "0059", "0067", "0063"]
+related-posts: ["0085", "0037", "0084", "0059", "0067", "0063"]
 ---
 Ganz klar, für die Energiewende müssen wir an den großen Stellschrauben drehen. Trotzdem ist es wichtig wieder bewusster mit Ressourcen umzugehen und sie nicht zu verschwenden, wie wir das alle heute oft tun. Das fängt schon im Haushalt an. Durch die folgenden Tipps will ich dir zeigen, welche kleinen Dinge du verändern kannst und so bewusster mit Ressourcen wie Wasser und Energie umgehst und natürlich deinen Ökologischen Rucksack nach unten korrigierst.
 
