@@ -6,7 +6,7 @@ date: 2020-05-15
 categories: [Sustainable Fashion]
 description: "Nachhaltiger Schmuck ist ein wichtiger Bestandteil von Nachhaltiger Mode. Hier eine Liste mit Shops wo du ihn bekommst."
 keywords: [nachhaltiger Schmuck, fairer Schmuck]
-related-posts: ["0011", "0050", "0042", "0063", "0062", "0051"]
+related-posts: ["0011", "0086", "0050", "0042", "0062", "0051"]
 ---
 Mit fairer Mode habe ich mich ja schon etwas hier auf dem Blog auseinander gesetzt. Neben nachhaltiger Kleidung darf aber auch das Armband oder die Ohrringe nicht fehlen. Diese sollten auch umweltschonend und fair produziert sein. Darum habe ich in diesem Post einige Shops zusammen gesucht, die nachhaltigen und fairen Schmuck verkaufen.
 
