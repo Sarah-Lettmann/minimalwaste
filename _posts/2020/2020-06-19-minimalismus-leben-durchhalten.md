@@ -1,7 +1,7 @@
 ---
 uid: "0087"
 title: "Minimalismus leben: So fängst du an, so hältst du durch"
-subtitle: "Tipps für einen schnellen Start und stetigen Fortschirtt"
+subtitle: "Tipps für einen schnellen Start und stetigen Fortschritt"
 date: 2020-06-19
 categories: [Minimalismus]
 description: "Wie geht Minimalismus leben eigentlich? Ich zeige dir wie du schnell und einfach anfängst und wie du Minimalismus durchhalten kannst."
@@ -27,7 +27,7 @@ Du solltest dich auch nicht an anderen Menschen orientieren und wie viele Dinge 
 
 Aber eines musst du dir besonders gut merken: Es nützt nichts zu entrümpeln, wenn du es nicht schaffst **dein Konsumverhalten umzustellen** und weniger zu kaufen. Sonst sieht dein Zuhause nach einer Weile wieder aus wie vorher. Dazu empfehle ich dir meinen Artikel [Schritt für Schritt zu weniger Konsum](/blog/weniger-konsum/).
 
-Außerdem ist es ganz normal dass du nicht nur einmal entrümpels, sondern mehrmals. Wie gesagt, es ist eben ein Prozess und mit jedem Mal wirst du besser und lernst dazu. Natürlich kann es auch sein, dass sich einfach deine Interesse oder Ansprüche ändern. Wir sind schließlich keine statischen Wesen, sondern entwickeln uns alle weiter. Mein Freund und ich entrümplen zum Beispiel jedes Jahr zum Frühjahrsputz.
+Außerdem ist es ganz normal dass du nicht nur einmal entrümpelst, sondern mehrmals. Wie gesagt, es ist eben ein Prozess und mit jedem Mal wirst du besser und lernst dazu. Natürlich kann es auch sein, dass sich einfach deine Interesse oder Ansprüche ändern. Wir sind schließlich keine statischen Wesen, sondern entwickeln uns alle weiter. Mein Freund und ich entrümpeln zum Beispiel jedes Jahr zum Frühjahrsputz.
 
 Jetzt weißt du also was die Grundprinzipien sind und was auf dich zukommt. Nun zu ein paar konkreten Tipps wie du anfangen kannst Minimalismus zu leben.
 
@@ -40,7 +40,7 @@ Diese Challenge kannst du dafür nutzen, um herauszufinden was du alles schon zu
 
 Wenn du dann parallel zur Challenge beschließt **mit dem Ausmisten anzufangen**, dann empfehle ich dir meinen Guide dafür: [Räum dein Leben auf! Der Guide zum Ausmisten](/blog/raeum-dein-leben-auf-der-guide-zum-ausmisten/).
 
-Aber auch das [Minimalism Game](https://www.theminimalists.com/game/) von _The Minimalists_ ist eine lustige und spielerische Idee für den Anfang. Die Idee ist, dass man 30 Tage hat und jeden Tag die Anzahl an Tagen in Sachen ausmistet. An Tag 15 müssen also 15 Dinge aussortiert werden. So kannst du relativ schnell eine ganze Menge Zeug aussortieren. Am besten spielt man zusammen mit Freunden. Wer am längesten durchhält gewinnt das Spiel.
+Aber auch das [Minimalism Game](https://www.theminimalists.com/game/) von _The Minimalists_ ist eine lustige und spielerische Idee für den Anfang. Die Idee ist, dass man 30 Tage hat und jeden Tag die Anzahl an Tagen in Sachen ausmistet. An Tag 15 müssen also 15 Dinge aussortiert werden. So kannst du relativ schnell eine ganze Menge Zeug aussortieren. Am besten spielt man zusammen mit Freunden. Wer am längsten durchhält gewinnt das Spiel.
 
 Ebenfalls eine nette Methode ist die **"Ich packe alles in Kisten"-Methode**. Dabei packst du all deine Sachen in Kisten (sofern möglich - Möbel stellst du in den Keller oder so) und holst dir nur das wieder raus, was du brauchst, wenn du es brauchst. Das kannst du ebenfalls für einen ganzen Monat machen. Es ist nicht erlaubt einfach im Vorhinein Dinge wieder zu holen. Erst wenn du etwas wirklich benötigst oder vermisst, darfst du es wieder zurück holen. Am Ende hast du dann alle Dinge, die du nicht wirklich brauchst, noch in den Kisten. Diese kannst du dann leichter aussortieren.
 
