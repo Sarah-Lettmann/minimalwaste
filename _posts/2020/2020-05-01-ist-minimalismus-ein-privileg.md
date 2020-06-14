@@ -6,7 +6,7 @@ date: 2020-05-01
 categories: [Minimalismus]
 description: "Es wird oft gesagt, dass Minimalismus ein Privileg ist. Dass man es sich leisten können muss. Ich sehe das teilweise anders und erkläre dir warum."
 keywords: [Minimalismus Privileg]
-related-posts: ["0059", "0053", "0043", "0030", "0031", "0049"]
+related-posts: ["0087", "0059", "0053", "0043", "0031", "0049"]
 ---
 Minimalismus ist inzwischen ein fester Teil meines Lebens und hat es erheblich verbessert. Daher bin ich auch der festen Überzeugung, dass man selbst mit kleinem Einkommen sehr gut leben kann, es ist alles eine Frage von Prioritäten. Letztens bin ich allerdings über einen Artikel gestolpert, der behauptet, dass Minimalismus vor allem etwas für Privilegierte ist.
 

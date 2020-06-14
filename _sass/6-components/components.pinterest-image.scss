@@ -4,19 +4,6 @@
     position: relative;
   }
 
-  &::before {
-    @include breakpoint(mobile) {
-      background-color: $primary-200;
-      bottom: 0;
-      content: '';
-      left: 0;
-      position: absolute;
-      right: 0;
-      top: 10rem;
-      z-index: -1;
-    }
-  }
-
   &__link {
     display: block;
   }

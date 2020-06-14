@@ -6,7 +6,7 @@ date: 2017-03-11
 categories: [Minimalismus]
 description: "Minimalismus und Ästhetik: Das eine ist Grundlage für das andere. Zu viele Dinge versperren den Blick aufs Wesentliche, auf Schönheit und Eleganz."
 keywords: [Minimalismus und Ästhetik]
-related-posts: ["0061", "0049", "0051", "0059", "0030", "0031"]
+related-posts: ["0087", "0061", "0051", "0059", "0030", "0031"]
 ---
 Früher hatte ich Berge an Dekokram. Hier ein Bild, da eine Vase, dann noch eine Decke, damit es auch gemütlich wirkt, und und und. Heute habe ich nicht mehr so viele Dinge. Vor allem habe ich nicht mehr so viel Schnickschnack, der irgendwo rumsteht. Kleine Akzente und klare Linien gefallen mir besser. Minimalistisches Design eben.
 
