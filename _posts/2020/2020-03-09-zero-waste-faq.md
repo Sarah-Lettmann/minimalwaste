@@ -6,7 +6,7 @@ date: 2020-03-09
 categories: [Zero Waste]
 description: "Zero Waste ist zwar inzwischen ein großer Trend, aber oft ist trotzdem nicht alles klar. Ich beantworte die häufigsten Fragen."
 keywords: [Zero Waste FAQ, Zero Waste Fragen]
-related-posts: ["0062", "0044", "0001", "0037", "0038", "0064"]
+related-posts: ["0062", "0044", "0084", "0037", "0038", "0064"]
 ---
 Da ich immer wieder die gleichen Fragen hinsichtlich Zero Waste höre, habe ich hier mal ein FAQ
 zusammengestellt. Ich hoffe es hilft dir, das Konzept besser zu verstehen und motiviert dich vielleicht sogar anzufangen oder neu durchzustarten.

@@ -6,7 +6,7 @@ date: 2017-02-21
 categories: [Zero Waste]
 description: "Was wir bereits alles unverpackt kaufen und wo man das alles bekommt will ich dir in diesem Post zeigen. Eine Abstiche müssen wir aber noch machen."
 keywords: [unverpackt kaufen, unverpackt einkaufen]
-related-posts: ["0038", "0062", "0064", "0041", "0001", "0013"]
+related-posts: ["0038", "0062", "0064", "0041", "0084", "0013"]
 ---
 Was können wir alles unverpackt kaufen? Wo kaufen oder bekommen wir diese ganzen Sachen? Und was haben wir bis jetzt leider noch nicht ohne Verpackung gefunden? Das sind denke ich spannende Fragen, wenn man sich mit Zero Waste beschäftigt. Auch wenn wir das Glück haben, dass es inzwischen einen Unverpackt Laden direkt in Darmstadt gibt, kaufen wir viele Sachen in kleinen Geschäften ein. Und es gibt natürlich auch Dinge, die wir dort eben nicht bekommen. Heute möchte ich dir mal zeigen, was das alles ist.
 

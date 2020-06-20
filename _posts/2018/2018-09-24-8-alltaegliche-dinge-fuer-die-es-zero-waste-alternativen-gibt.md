@@ -6,7 +6,7 @@ date: 2018-09-24
 categories: [Zero Waste]
 description: "Zero Waste kann manchmal so einfach sein. Aber oft muss man sich erst zurecht finden. Ich zeige dir heute 8 Alternativen für ganz alltägliche Dinge."
 keywords: [Alternativen]
-related-posts: ["0001", "0015", "0023", "0026", "0035", "0062"]
+related-posts: ["0084", "0015", "0023", "0026", "0035", "0062"]
 ---
 Zero Waste kann in manchen Dingen sooo einfach sein (Beispiel Mehrwegtrinkflasche + Leitungswasser). Aber in vieler Hinsicht ist es auch echt anstrengend, besonders, wenn man noch seinen Flow finden muss und sich noch nicht mit allem auskennt. Kreativität ist oft gefordert, um Alternativen zu finden. Aber dafür bin ich ja da. In diesem Post zeige ich dir Alternativen für 8 alltägliche Dinge, von denen du nicht denken würdest, dass man sie so einfach ersetzen kann. Also, los geht’s!
 

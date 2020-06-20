@@ -6,7 +6,7 @@ date: 2018-10-08
 categories: [Zero Waste]
 description: "Viele wissen nicht wo sie bei Zero Waste anfangen sollen. Damit du besser vorbereitet bist, habe ich dir 8 Fragen zum Unverpackt Einkaufen zusammengestellt."
 keywords: [fragen zum unverpackt einkaufen, unverpackt einkaufen]
-related-posts: ["0065", "0020", "0001", "0013", "0073", "0044"]
+related-posts: ["0065", "0020", "0084", "0013", "0073", "0044"]
 ---
 Immer wieder bekomme ich aus meinem Bekannten- und Verwandtenkreis den Eindruck, dass Zero Waste als sehr spannend und erstrebenswert empfunden wird, aber viele nicht wissen, wie sie das ganze angehen sollen oder einfach sehr unsicher sind. Hier also ein paar typische Fragen, die man sich stellt (erarbeitet mit meinem Papa) und die Antworten darauf.
 
