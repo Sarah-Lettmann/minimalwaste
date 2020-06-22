@@ -9,7 +9,7 @@ keywords: [Frühjahrsputz]
 related-posts: ["0031", "0030", "0029", "0049", "0059", "0051"]
 ---
 Eigentlich sollte die Einleitung zu diesem Post so aussehen: “Es ist soweit. Die grauen und kalten Wintermonate scheinen nun endlich hinter uns zu liegen. Zeit, die eigenen vier Wände fit für die warme Jahreszeit zu machen.”
-Aber dann hat es den Sonntag, Montag UND(!!) Dienstag, bevor der Post online gehen sollte, geschneit… Naja, nicht wirklich frühlingshaft. Also behelfe ich mir jetzt so (und hoffe und bete, dass der Frühling bald wirklich kommt.
+Aber dann hat es den Sonntag, Montag UND(!!) Dienstag, bevor der Post online gehen sollte, geschneit… Naja, nicht wirklich frühlingshaft. Also behelfe ich mir jetzt so (und hoffe und bete, dass der Frühling bald wirklich kommt).
 
 Immer noch will der Winter sich nicht geschlagen geben und scheint sich mit aller macht gegen die Wärme und Sonnenstrahlen zu wehren, die wir alle so sehr herbeisehnen. Doch nichts desto trotz will man ja vorbereitet sein, wenn das warme Wetter dann plötzlich vor der Tür steht. Deshalb: ran an die Lappen.
 
