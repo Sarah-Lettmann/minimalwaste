@@ -6,7 +6,7 @@
       <a class="pagelinks__categories-link" href="{{ category.href }}">
         <h3 class="pagelinks__categories-title">{{ category.title }}</h3>
         <div class="pagelinks__categories-cover cover cover--background">
-          <img class="pagelinks__categories-image cover__image" data-src="/assets/category-images/{{ category.title | slugify: 'latin' }}.jpg" alt="" />
+          <img class="pagelinks__categories-image cover__image" src="/assets/category-images/{{ category.title | slugify: 'latin' }}.jpg" alt="" />
         </div>
       </a>
     </li>
@@ -16,7 +16,7 @@
         <a class="pagelinks__categories-link" href="{{ subcategory.href }}">
           <h3 class="pagelinks__categories-title">{{ subcategory.title }}</h3>
           <div class="pagelinks__categories-cover cover cover--background">
-            <img class="pagelinks__categories-image cover__image" data-src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
+            <img class="pagelinks__categories-image cover__image" src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
           </div>
         </a>
       </li>

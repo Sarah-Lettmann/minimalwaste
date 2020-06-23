@@ -9,7 +9,7 @@
         <a class="subcategory__link" href="{{ subcategory.href }}">
           <h3 class="subcategory__title">{{ subcategory.title }}</h3>
           <div class="subcategory__cover cover cover--background">
-            <img class="subcategory__image cover__image" data-src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
+            <img class="subcategory__image cover__image" src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
           </div>
         </a>
       </li>

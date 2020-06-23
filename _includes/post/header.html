@@ -20,7 +20,7 @@
     </div>
   </div>
   <div class="cover">
-    <img class="cover__image" data-src="/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" width="1236" height="650" />
+    <img class="cover__image" src="/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" width="1236" height="650" />
   </div>
   <div class="post__meta">
     <img class="post__meta-author-image" src="{{ site[page.author].picture }}" alt="Autor des Posts ist {{ site[page.author].name }}" width="60" height="60" />
