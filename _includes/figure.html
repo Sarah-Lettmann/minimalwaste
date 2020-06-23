@@ -1,17 +1,9 @@
 {% comment %}
   Einbinden mit {% include figure.html src="" alt="" title="" caption="" %}
 {% endcomment %}
-{% if include.caption != "" %}
-  <figure>
-    <img class="lazyload" data-src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
-    <noscript>
-      <img src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
-    </noscript>
+<figure>
+  <img src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
+  {% if include.caption != "" %}
     <figcaption>{{ include.caption }}</figcaption>
-  </figure>
-{% else %}
-  <img class="lazyload" data-src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
-  <noscript>
-    <img src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
-  </noscript>
-{% endif %}
+  {% endif %}
+</figure>

@@ -19,6 +19,6 @@
     {% endif %}
   </div>
   <div class="cover">
-    <img class="cover__image lazyload" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+    <img class="cover__image" data-src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
   </div>
 </article>

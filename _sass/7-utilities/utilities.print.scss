@@ -3,7 +3,12 @@
   body > *:not(main),
   .sharing,
   .post__sidebar > *:not(.sources),
-  .comments {
+  .comments,
+  .lead-magnet,
+  .patreon-banner,
+  .plug,
+  .external-notice,
+  .toc {
     display: none;
   }
 
@@ -28,34 +33,35 @@
 
     img,
     figure {
-      max-width: 500px;
       margin-left: auto;
       margin-right: auto;
+      max-width: 500px;
+    }
+
+    .iframe {
+      &::after {
+        content: ' (' attr(data-url) ' | externer Link)';
+      }
     }
 
     a {
       word-wrap: break-word;
       &::after {
-        content: ' (' attr(href) ')';
+        content: ' (minimalwaste.de' attr(href) ')';
         font-size: 80%;
       }
 
-      &[href^='http']::after {
-        background: none;
-        content: ' (' attr(href) ' | externer Link)' !important;
-        display: inline;
-        overflow: auto;
-        position: static;
-        text-indent: .3em;
-        top: auto;
-        white-space: normal;
-        width: auto;
-      }
-    }
-
-    .download {
-      &::after {
-        content: none;
+      &[href^='http'] {
+        &::after {
+          background: none;
+          content: ' (' attr(href) ' | externer Link)' !important;
+          display: inline;
+          overflow: auto;
+          text-indent: .3em !important;
+          top: 2px !important;
+          white-space: normal;
+          width: auto !important;
+        }
       }
     }
 
