@@ -6,7 +6,7 @@ date: 2016-11-14
 categories: [Sustainable Fashion]
 description: "Faire und nachhaltige Mode gibt es immer häufiger zu kaufen. Hier findest du eine Liste von Shops, bei denen du unbedingt mal vorbei schauen solltest."
 keywords: [nachhaltige Mode, faire Mode]
-related-posts: ["0086", "0082", "0042", "0050", "0043", "0059"]
+related-posts: ["0086", "0082", "0042", "0089", "0043", "0059"]
 ---
 Faire und nachhaltige Mode ist ein wichtiger Aspekt, wenn man nachhaltiger Leben und seinen ökologischen Fußabdruck klein halten möchte. Zudem kannst du damit für faire Arbeitsbedingungen und Lohn für die Arbeiter eintreten und unterstützt die Verwendung von recycelten oder natürlichen und biologisch abbaubaren Rohstoffen.
 
