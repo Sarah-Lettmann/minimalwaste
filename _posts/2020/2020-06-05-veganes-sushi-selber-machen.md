@@ -6,7 +6,7 @@ date: 2020-06-05
 categories: [Klima, Veganismus]
 description: "Veganes Sushi ist eine leckere und gesunde Alternative. Ich zeige dir wie du zwei einfache Varianten selber machen kannst."
 keywords: [Veganes Sushi selber machen, Veganes Sushi]
-related-posts: ["0072", "0039", "0067", "0063", "0079", "0075"]
+related-posts: ["0072", "0090", "0067", "0063", "0079", "0075"]
 ---
 Nachdem ich mal auf Instagram ein paar Fotos von unserem selbst gemachten veganen Sushi rausgehauen hatte, gab es schnell eine Nachfrage nach einem Rezept. Dem komme ich sehr gerne nach.
 
