@@ -3,7 +3,7 @@ uid: "0063"
 title: "Die Ursache des Klima&shy;wandels ist der Mensch"
 subtitle: "Wie der Konsens in der Wissenschaft zustande kommt"
 date: 2019-06-10
-categories: [Klima]
+categories: [Nachhaltigkeit, Klima]
 description: "Die Wissenschaft ist sich einige: Der Klimawandel ist menschengemacht. Aber woher wissen wir, dass sich alle einig sind?"
 keywords: [Klimawandel, Klimawandel Ursachen, menschengemachter Klimawandel]
 related-posts: ["0067", "0075", "0068", "0081", "0032", "0054"]

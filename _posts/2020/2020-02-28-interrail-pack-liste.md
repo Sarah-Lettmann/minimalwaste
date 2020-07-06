@@ -3,7 +3,7 @@ uid: "0069"
 title: "Interrail Packlist: Was du wirklich einpacken solltest"
 subtitle: "Damit der Trip wirklich gut wird"
 date: 2020-02-28
-categories: [Klima, Grün Reisen]
+categories: [Nachhaltigkeit, Grün Reisen]
 description: "So sollte deine Interrail Packliste aussehen, damit du eine enspannte Reise hast. Mit manchem hast du vielleicht nicht gerechnet."
 keywords: [Interrail, Interrail Packliste, Interrail Tipps]
 related-posts: ["0071", "0068", "0069", "0070", "0064", "0013"]

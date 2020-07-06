@@ -3,7 +3,7 @@ uid: "0039"
 title: "4 leckere müllfreie Rezepte für den Herbst"
 subtitle: "Hinweis: Kürbis spielt dabei eine sehr wichtige Rolle"
 date: 2018-10-11
-categories: [Zero Waste, Klima, Veganismus]
+categories: [Zero Waste, Nachhaltigkeit, Veganismus]
 description: "Passend zum Herbstbeginn gibt es heute ein paar lecker müllfreie Rezepte, die sich leicht herstellen lassen. Dabei spielt natürlich Kürbis eine Hauptrolle."
 keywords: [müllfreie Rezepte]
 related-posts: ["0072", "0067", "0085", "0022", "0025", "0004"]

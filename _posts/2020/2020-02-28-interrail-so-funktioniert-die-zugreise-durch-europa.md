@@ -3,7 +3,7 @@ uid: "0068"
 title: "Interrail Ticket: So funktioniert die Zugreise durch Europa"
 subtitle: "Was du über die Reise mit Interrail wissen solltest"
 date: 2020-02-28
-categories: [Klima, Grün Reisen]
+categories: [Nachhaltigkeit, Grün Reisen]
 description: "Ein Interrail Ticket schenkt dir Freiheit. Trotzdem solltest du einges beachten bevor du losfährst. Tipps für die Reise mit Interrail Pass."
 keywords: [Interrail, Interrail Ticket, Interrail Pass]
 related-posts: ["0069", "0070", "0071", "0075", "0013", "0064"]

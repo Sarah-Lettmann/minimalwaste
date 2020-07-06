@@ -78,11 +78,22 @@ Sustainable Fashion:
     - title: The True Cost
       url: https://truecostmovie.com/
 
+Nachhaltigkeit:
+  name: Nachhaltigkeit
+  url: /category/nachhaltigkeit.html
+  parent: none
+  featured: ["0063", "0067", "0068", "0072"]
+  links:
+    - title: enorm Magazin
+      url: https://enorm-magazin.de/
+    - title: Utopia
+      url: https://utopia.de/
+
 Klima:
   name: Klima
   url: /category/klima.html
-  parent: none
-  featured: ["0063", "0067", "0068", "0072"]
+  parent: Nachhaltigkeit
+  featured: ["0063", "0075", "0032", "0054"]
   links:
     - title: How Bad are Bananas? The Carbon Footprint of Everything, Mike Berners-Lee
       url: https://www.amazon.de/How-Bad-are-Bananas-Everything/dp/1846688914
@@ -90,15 +101,11 @@ Klima:
       url: https://www.amazon.de/Barfu%C3%9F-Manhattan-%C3%B6kologisch-korrektes-Abenteuer/dp/3378011076/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Barfuss+in+Manhatten&qid=1571840284&sr=8-1
     - title: School strike for climate - save the world by changing the rules, Greta Thunberg
       url: https://www.youtube.com/watch?v=EAmmUIEsN9A
-    - title: enorm Magazin
-      url: https://enorm-magazin.de/
-    - title: Utopia
-      url: https://utopia.de/
 
 Grün Reisen:
   name: Grün Reisen
   url: /category/gruen-reisen.html
-  parent: Klima
+  parent: Nachhaltigkeit
   links:
     - title: "FAIRreisen: Das Handbuch für alle, die umweltbewusst unterwegs sein wollen, Frank Herrmann"
       url: https://www.amazon.de/FAIRreisen-Handbuch-umweltbewusst-unterwegs-wollen/dp/3865818080/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=FAIRreisen&qid=1571840834&sr=8-1
@@ -106,7 +113,7 @@ Grün Reisen:
 Veganismus:
   name: Veganismus
   url: /category/veganismus.html
-  parent: Klima
+  parent: Nachhaltigkeit
   links:
     - title: Cowspiracy
       url: https://www.cowspiracy.com/

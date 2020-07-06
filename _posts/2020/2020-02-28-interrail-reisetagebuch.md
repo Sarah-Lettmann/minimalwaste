@@ -3,7 +3,7 @@ uid: "0070"
 title: "Mein Interrail Reisebericht: 12 Städte in 22 Tagen"
 subtitle: "Was wir alles gesehen und welche Erfahrungen wir gemacht haben"
 date: 2020-02-28
-categories: [Klima, Grün Reisen]
+categories: [Nachhaltigkeit, Grün Reisen]
 description: "2019 habe ich mit meinem Freund eine Interrail Reise durch Europa gemacht. Wir waren 22 Tage unterwegs und haben 12 Städte gesehen. Ein Reisebericht."
 keywords: [Interrail, Interrail Reise]
 related-posts: ["0068", "0069", "0071", "0061", "0067", "0010"]

@@ -3,7 +3,7 @@ uid: "0072"
 title: "Pflanzliche Milch selber machen: 2 Varianten"
 subtitle: "Hafer- und Mandelmilch einfach, schnell und günstig selbst herstellen."
 date: 2020-02-28
-categories: [Zero Waste, Klima, Veganismus]
+categories: [Zero Waste, Nachhaltigkeit, Veganismus]
 description: "Milchalternativen gibt es viele, teuer sind sie meist auch. Dabei lässt sich pflanzliche Milch einfach und günstig selber machen."
 keywords: [Pflanzliche Milch, Milchalternativen]
 related-posts: ["0090", "0085", "0079", "0067", "0077", "0022"]

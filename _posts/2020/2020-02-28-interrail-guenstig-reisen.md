@@ -3,7 +3,7 @@ uid: "0071"
 title: "Mit Interrail Kosten sparen und günstig durch Europa reisen"
 subtitle: "So sparst du Geld und musst nichts an Erlebnissen einbüßen"
 date: 2020-02-28
-categories: [Klima, Grün Reisen]
+categories: [Nachhaltigkeit, Grün Reisen]
 description: "Interrail und Backpacking sind tedenziell günstige Reisemethoden. Trotzdem gibt es viele Ecken und Enden an denen man einiges sparen kann."
 keywords: [Interrail, Interrail Reise, Interrail Kosten]
 related-posts: ["0068", "0069", "0070", "0049", "0013", "0064"]

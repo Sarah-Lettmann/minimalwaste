@@ -3,7 +3,7 @@ uid: "0032"
 title: "Ist der Diesel wirklich so schlecht wie alle immer sagen?"
 subtitle: "AKA: Ist ein Diesel-Fahrverbot wirklich die Lösung?"
 date: 2018-04-18
-categories: [Klima]
+categories: [Nachhaltigkeit, Klima]
 description: "Der Diesel ist schlecht für die Umwelt und Benziner sind viel besser. Stimmt das? Oder wie sieht es mit den Abgasen von Benzinern und Diesel wirklich aus?"
 keywords: [Diesel]
 related-posts: ["0033", "0057", "0081", "0063", "0067", "0054"]

@@ -3,7 +3,7 @@ uid: "0081"
 title: "Der Wasserstoff&shy;antrieb für's Auto"
 subtitle: "So funktionieren Wasserstoffautos und Vor- und Nachteile des Antriebs"
 date: 2020-05-08
-categories: [Klima]
+categories: [Nachhaltigkeit, Klima]
 description: "Stellen Wasserstoffautos eine gute Alternative zu Elektroautos dar? Ich gucke mir die Funktionsweise sowie Vor- und Nachteile an."
 keywords: [Wasserstoffantrieb, Wasserstoffauto]
 related-posts: ["0032", "0033", "0063", "0067", "0075", "0056"]

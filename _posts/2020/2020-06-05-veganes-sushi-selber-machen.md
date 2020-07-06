@@ -3,7 +3,7 @@ uid: "0085"
 title: "Veganes Sushi selber machen"
 subtitle: "Die leckeren Rollen günstig zu Hause zubereiten"
 date: 2020-06-05
-categories: [Klima, Veganismus]
+categories: [Nachhaltigkeit, Veganismus]
 description: "Veganes Sushi ist eine leckere und gesunde Alternative. Ich zeige dir wie du zwei einfache Varianten selber machen kannst."
 keywords: [Veganes Sushi selber machen, Veganes Sushi]
 related-posts: ["0072", "0090", "0067", "0063", "0079", "0075"]

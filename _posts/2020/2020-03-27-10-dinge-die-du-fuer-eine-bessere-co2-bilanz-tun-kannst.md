@@ -3,7 +3,7 @@ uid: "0075"
 title: "10 Dinge, die du für eine bessere CO2-Bilanz tun kannst"
 subtitle: "Vieles ist einfacher als du denkst"
 date: 2020-03-27
-categories: [Klima]
+categories: [Nachhaltigkeit, Klima]
 description: "Jeder kann kleine Dinge tun, um die eigene CO2-Bilanz zu verbessern. Vieles davon ist sogar recht einfach."
 keywords: [CO2-Bilanz, CO2-Fußabdruck]
 related-posts: ["0085", "0086", "0084", "0059", "0067", "0063"]

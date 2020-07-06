@@ -3,7 +3,7 @@ uid: "0086"
 title: "Second Hand: Tipps um an Gebrauchtes zu kommen"
 subtitle: "Wo gebraucht kaufen geht und wie du am besten vorgehst"
 date: 2020-06-12
-categories: [Klima]
+categories: [Nachhaltigkeit]
 description: "Second Hand kaufen schont den Geldbeutel, Ressourcen und reduziert Abfall. Wo und wie das geht, erkläre ich dir in diesem Beitrag."
 keywords: [Second Hand, second hand, gebraucht kaufen]
 related-posts: ["0082", "0075", "0059", "0051", "0044", "0042"]

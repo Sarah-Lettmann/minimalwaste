@@ -3,8 +3,8 @@ uid: "0090"
 title: "Vegan für Anfänger: 5 Tipps für den Einstieg"
 subtitle: "Was du ausprobieren solltest, Rezeptvorschläge und einfache Ersatzprodukte"
 date: 2020-07-10
-categories: [Klima, Veganismus]
-description: "Vegan ist für Anfänger nicht unbedingt einfach. Um dir Starthilfe zu geben, verrate ich dir ein paar Tipps, wie du am besten loslegst."
+categories: [Nachhaltigkeit, Veganismus]
+description: "Vegan ist für Anfänger nicht unbedingt  einfach. Um dir Starthilfe zu geben, verrate ich dir ein paar Tipps, wie du am besten loslegst."
 keywords: [Vegan für Anfänger, vegan Anfänger]
 related-posts: ["0067", "0072", "0085", "0079", "0054", "0084"]
 ---
