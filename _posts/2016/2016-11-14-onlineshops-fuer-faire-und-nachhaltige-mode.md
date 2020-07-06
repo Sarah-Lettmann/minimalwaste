@@ -3,7 +3,7 @@ uid: "0011"
 title: "Alle Onlineshops für faire und nachhaltige Mode"
 subtitle: "Fair, nachhaltig, vegan"
 date: 2016-11-14
-categories: [Sustainable Fashion]
+categories: [Fair Fashion]
 description: "Faire und nachhaltige Mode gibt es immer häufiger zu kaufen. Hier findest du eine Liste von Shops, bei denen du unbedingt mal vorbei schauen solltest."
 keywords: [nachhaltige Mode, faire Mode]
 related-posts: ["0086", "0082", "0042", "0089", "0043", "0059"]

@@ -3,7 +3,7 @@ uid: "0042"
 title: "Die Tragödien hinter Fast Fashion"
 subtitle: "So viel schlechtes steck in der Billig-Kleidung"
 date: 2018-10-31
-categories: [Sustainable Fashion]
+categories: [Fair Fashion]
 description: "Fast Fashion ist eine ständige Flut and immer neue Trends, schlechte Qualität, billig produziert und billiger Preis. Aber was steckt noch hinter dem System?"
 keywords: [Fast Fashion]
 related-posts: ["0082", "0089", "0011", "0053", "0063", "0057"]

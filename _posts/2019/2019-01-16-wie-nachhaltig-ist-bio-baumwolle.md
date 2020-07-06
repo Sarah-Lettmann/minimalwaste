@@ -3,7 +3,7 @@ uid: "0050"
 title: "Wie nachhaltig ist Bio-Baumwolle?"
 subtitle: "Einfluss auf Mensch und Umwelt im Vergleich zu herkömmlicher Baumwolle"
 date: 2019-01-16
-categories: [Sustainable Fashion]
+categories: [Fair Fashion]
 description: "Bio-Baumwolle ist nachhaltiger als herkömmliche Baumwolle, oder? Wie sieht es mit den Auswirkungen auf die Umwelt/den Menschen aus? Schauen wir es und an!"
 keywords: [Bio-Baumwolle]
 related-posts: ["0089", "0082", "0042", "0011", "0043", "0056"]

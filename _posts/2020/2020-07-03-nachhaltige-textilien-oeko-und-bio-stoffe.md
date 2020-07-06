@@ -3,7 +3,7 @@ uid: "0089"
 title: "Nachhaltige Textilien: Öko- und Bio-Stoffe im Überblick"
 subtitle: "Von Bio-Baumwolle über Leinen bis Tencel"
 date: 2020-07-03
-categories: [Sustainable Fashion]
+categories: [Fair Fashion]
 description: "Was sind nachhaltige Textilien, Öko- und Bio-Stoffe und wie erkenne ich sie. Mit diesem kleinen Nachschlagewerk erkennst du sie."
 keywords: [Nachhaltige Textilien, Bio-Stoffe, Öko-Stoffe]
 related-posts: ["0050", "0082", "0011", "0042", "0086", "0043"]

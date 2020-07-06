@@ -3,7 +3,7 @@ uid: "0082"
 title: "Über 30 Marken für Nachhaltigen Schmuck"
 subtitle: "Fair und aus nachhaltigen Ressourcen"
 date: 2020-05-15
-categories: [Sustainable Fashion]
+categories: [Fair Fashion]
 description: "Nachhaltiger Schmuck ist ein wichtiger Bestandteil von Nachhaltiger Mode. Hier eine Liste mit Shops wo du ihn bekommst."
 keywords: [nachhaltiger Schmuck, fairer Schmuck]
 related-posts: ["0089", "0011", "0086", "0050", "0042", "0062"]
