@@ -41,7 +41,7 @@ Fakten:
 - Das Ergebnis: Gerade bei Frischmilch ist der Getränkekarton erste Wahl. In sieben der acht in der Ökobilanz untersuchten Wirkungskategorien - wie Klimawandel, Versauerung oder Feinstaub - schnitt der Getränkekarton hier besser ab als die Mehrwegflasche. Ein Grund: Jede Mehrwegflasche Frischmilch muss in Deutschland im Schnitt 1231 Kilometer transportiert werden – 779 Kilometer mehr als ein Milch-Karton. Zudem ist bei Kartons das Verpackungsgewicht im Vergleich zum Inhalt geringer.
 
 Nicht ganz so eindeutig ist die Lage bei Fruchtsäften und -nektaren. Hier gibt es im Vergleich der Ökobilanzen von Getränkekartons und Mehrwegflaschen Licht und Schatten auf beiden Seiten. Der 1-Liter-Getränkekarton zeige keine signifikanten Vor- oder Nachteile gegenüber der Mehrwegflasche, der 1,5-Liter-Getränkekarton dagegen «ein insgesamt vorteilhaftes Bild», heißt es in der Studie.
-
+- https://de.wikipedia.org/wiki/Getr%C3%A4nkekarton#Umweltschutz
 
 
 
