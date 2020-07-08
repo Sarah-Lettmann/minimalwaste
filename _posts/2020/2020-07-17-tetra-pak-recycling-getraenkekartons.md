@@ -1,11 +1,11 @@
 ---
 uid: "0091"
-title: ""
-subtitle: ""
+title: "Tetra Pak Recycling: Sind Getränkekartons nachhaltig?"
+subtitle: "Zahlen, Daten und Fakten rund um die Verpackung."
 date: 2020-07-17
 categories: [Zero Waste, Rohstoffe und Recycling]
-description: ""
-keywords: []
+description: "Getränkekartons werden immer als nachhaltig dargestellt. Doch steckt dahinter nur Greenwashing oder funktioniert Tetra Pak Recycling wirklich gut?"
+keywords: [Getränkekarton, Tetra Pak]
 related-posts: ["", "", "", "", "", ""]
 ---
 
@@ -13,6 +13,7 @@ Was ist der Getränkekarton, auch Tetra Pak genannt?
 Was versprichen die Hersteller?
 Was sind die Probleme mit den Getränkekartons?
 Was sind Alternativen zum Getränkekarton?
+- Vergleich mit anderen Verpackungen: Einweg Plastikflasche / Mehrweg Glas
 - Regionales Mehrweg
 - Sobald sie weniger als 200 Kilometer transportiert und mindestens 15 Mal benutzt wird, so der Experte.
 Was kann verbessert werden?
