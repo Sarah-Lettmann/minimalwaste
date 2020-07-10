@@ -6,7 +6,7 @@ date: 2020-07-17
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Getränkekartons werden immer als nachhaltig dargestellt. Doch steckt dahinter nur Greenwashing oder funktioniert Tetra Pak Recycling wirklich gut?"
 keywords: [Getränkekarton, Tetra Pak]
-related-posts: ["", "", "", "", "", ""]
+related-posts: ["0057", "0056", "0018", "0084", "0086", "0063"]
 ---
 Wenn man dieser Tage in den Supermarkt geht, dann findet man vieles in sogenannten Getränkekartons. Das können Säfte oder Milch sein, aber auch Apfelmus oder Tomaten. Sicher ist: Diese Verpackung wird haufig verwendet. Und teilweise wird sie auch gekauft, weil sie als umweltfreundlich beworben wird.
 
@@ -30,7 +30,7 @@ Schon mal ein kleiner Spoiler vorweg: ganz so einfach ist es dann doch nicht.
 Mit dem Tetra Pak wird massives Greenwashing betrieben - unabhängig davon wie es im Vergleich zu anderen Verpackungen dasteht.
 
 ### Die Rohstoffe
-Ein gutes Beispiel für den Aufbau eines Getränkekartons sind sechs Schichten. Davon bestehen 4 aus Kunststoff, eine aus Aluminium und nur eine aus Papier. Hinzu kommt auch noch ver Verschluss, der ebenfalls aus Plastik besteht. Und tatsächlich ist es inzwischen so, dass viele Getränkekartons zu 50% aus Kunststoff bestehen.
+Ein gutes Beispiel für den Aufbau eines Getränkekartons sind sechs Schichten. Davon bestehen 4 aus Kunststoff, eine aus Aluminium und nur eine aus Papier. Dabei können die Schichten natürlich von der Stärke variieren, wodurch man immer noch auf einen hohen Papieranteil kommt. Hinzu kommt aber auch noch der Verschluss, der ebenfalls aus Plastik besteht. Und tatsächlich ist es inzwischen so, dass es Getränkekartons gibt, die zu 50% aus Kunststoff bestehen.
 
 Der Papieranteil ist also eher kleiner und deshalb kann man auch nicht mehr von einem Produkt sprechen, dass zu einem großen Teil aus einem nachwachsenden Rohstoff besteht.
 
@@ -60,10 +60,15 @@ Eine durchaus spannende Frage ist also: Wie schneidet der Getränkekarton im Ver
 
 Dazu gab es ein paar Untersuchungen.
 
-- Vergleich mit anderen Verpackungen: Einweg Plastikflasche / Mehrweg Glas
-- Regionales Mehrweg, Sobald sie weniger als 200 Kilometer transportiert und mindestens 15 Mal benutzt wird, so der Experte.
+Das Heidelberger Institut IFEU hat sich angeguckt wie Getränkekartons im Vergleich zu anderen Verpackungen an. So schneidet der Getränkekarton im Vergleich zur Einweg Plastikflasche deutlich bessser ab. Was erstaunlich ist: Im Vergleich zu Mehrweg-Glas schneidet der Getränkekarton ebenso gut ab.
 
-Damit ist klar: In der Ökobilanz ist der Getränkekarton durchaus manchmal Vorteilhaft. Warum das so ist kann man hinterfragen und ein Auge auf das Thema Lobbyismus werfen. Tatsache ist aber auch, dass viel Plastik verwendet wird, ein endlicher Rohstoff. Damit haben wir auch ein Müllproblem.
+Das hat sich über die Jahre geändert. Noch 1995 lag das Glas-Mehrwegsystem vorne, was die Ökobilanz angeht. Es wird vermutet, dass das mit dem Rückgang von Mehrweg allgemein zu tun hat (siehe [Pressemitteilung UBA: Mehrweganteil bei Getränken 2017 weiter gesunken](https://www.umweltbundesamt.de/presse/pressemitteilungen/mehrweganteil-bei-getraenken-2017-weiter-gesunken-0)), wodurch wieder eingesammelte Glasflaschen oft viele Kilometer transportiert werden müssen, um wieder befüllt zu werden. Die Verwertung von Müll (der Getränkekarton im Gelben sack) findet regionaler statt.
+
+Es wird geschätzt, dass Glas Mehrweg besser ist sobald es nicht mehr als 200 Kilometer transportiert und wenigstens 15 Mal benutzt wird. Was die Benutzungsdauer angeht sollte Glas das locker schaffen, da es in der Regel bis zu 50 Mal wieder verwendet werden kann.
+
+Insofern ist es auch recht klar, dass Einweg PET mit Pfand und Mehrweg Plastikflaschen schlechter abschneiden dürften als der Getränkekarton. Für weitere Infos dazu, empfehle ich [UBA: Prüfung und Aktualisierung der Ökobilanzen für Getränkeverpackungen](https://www.umweltbundesamt.de/publikationen/pruefung-aktualisierung-der-oekobilanzen-fuer). Laut dieser Publikation lassen sich sowohl Glas-Mehrweg und PET-Mehrweg als auch der Getränkekarton als nicht so schlechte Wahl ansehen.
+
+Damit ist klar: In der Ökobilanz ist der Getränkekarton durchaus manchmal vorteilhaft. Warum das so ist kann man hinterfragen und ein Auge auf das Thema Lobbyismus werfen. Tatsache ist aber auch, dass viel Plastik verwendet wird, ein endlicher Rohstoff. Damit haben wir auch ein Müllproblem.
 
 ## Was kann verbessert werden?
 - Pfand für Merhwegkartons, damit mehr von ihnen recycelt werden können
@@ -71,14 +76,11 @@ Damit ist klar: In der Ökobilanz ist der Getränkekarton durchaus manchmal Vort
 
 
 Fakten:
-- https://www.wiwo.de/technologie/green/getraenkekartons-und-die-recyclingluege-streit-um-verpackungen-eskaliert/13551924.html
-- https://www.duh.de/getraenkekartons/
-- https://www.zeit.de/news/2019-07/23/getraenkekartons-teils-umweltfreundlicher-als-flaschen
 - Das Ergebnis: Gerade bei Frischmilch ist der Getränkekarton erste Wahl. In sieben der acht in der Ökobilanz untersuchten Wirkungskategorien - wie Klimawandel, Versauerung oder Feinstaub - schnitt der Getränkekarton hier besser ab als die Mehrwegflasche. Ein Grund: Jede Mehrwegflasche Frischmilch muss in Deutschland im Schnitt 1231 Kilometer transportiert werden – 779 Kilometer mehr als ein Milch-Karton. Zudem ist bei Kartons das Verpackungsgewicht im Vergleich zum Inhalt geringer.
 
 Nicht ganz so eindeutig ist die Lage bei Fruchtsäften und -nektaren. Hier gibt es im Vergleich der Ökobilanzen von Getränkekartons und Mehrwegflaschen Licht und Schatten auf beiden Seiten. Der 1-Liter-Getränkekarton zeige keine signifikanten Vor- oder Nachteile gegenüber der Mehrwegflasche, der 1,5-Liter-Getränkekarton dagegen «ein insgesamt vorteilhaftes Bild», heißt es in der Studie.
-- https://de.wikipedia.org/wiki/Getr%C3%A4nkekarton#Umweltschutz
 - Tetra Pak hat laut eigenen Angaben seit 2018 ein Team was sich mit Kreislaufwirtschaft beschäftigt
 - alte Getränkekartons werden zum bauen von Häuserdächern in thailand eingesetzt
+- werden mit Größe vorteilhafter
 
 Ein Sprecher des Umweltbundesamts (UBA) bestätigte der dpa auf Anfrage, dass die Studie «die durchschnittlichen deutschen Verhältnisse» gut abbilde, weswegen das Ergebnis auch aussagekräftig sei. Bei Milch und Fruchtsäften hätten Getränkekartons hohe Marktanteile. In Mehrwegflaschen würden sie dagegen seltener angeboten, deswegen seien die Transportwege oft weit. «Bei einem größeren und optimierten Mehrwegangebot würden Mehrwegsysteme entsprechend besser abschneiden – wie es bei pfandpflichtigen Getränken auch der Fall ist», sagte der Sprecher.
