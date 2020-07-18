@@ -53,7 +53,7 @@ Und ich wiederum kann wenigstens auch ein paar Menschen erreichen und sie etwas 
 
 &nbsp;
 
-Die Essenz des Ganzen ist am Ende doch: Wir müssen aufhören andere Menschen so schnell zu bewerten und so negativ zu sein. **Das Verbreiten von positiven Ideen bringt mehr als gemeine Kritik.**
+Die Essenz des Ganzen ist am Ende doch: Wir müssen aufhören andere Menschen so schnell zu bewerten und so negativ zu sein. **Das Verbreiten von positiven Ideen bringt mehr als gemeine Kritik!**
 
 ---
 
