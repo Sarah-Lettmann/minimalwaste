@@ -6,7 +6,7 @@ date: 2018-12-12
 categories: [Zero Waste, DIY]
 description: "Kann mann stimmungsvolle Weihnachtsdeko auch ohne Müll haben? Ja klar! Ich gebe dir allgemeine Tipps, woran man sich halten sollte und was funktioniert."
 keywords: [stimmungsvolle Weihnachtsdeko]
-related-posts: ["0016", "0015", "0027", "0052", "0059", "0062"]
+related-posts: ["0016", "0015", "0027", "0052", "0059", "0092"]
 ---
 Auch dieses Jahr soll es wieder was zu nachhaltiger Weihnachtsdeko geben. Denn gerade für Weihnachten finde ich es besonders einfach mit natürlichen Materialien zu dekorieren und das zu nutzen, was man in der draußen so findet. Dieses Jahr möchte ich mal ein paar allgemeine Tipps geben, woher man seine Deko bekommen oder wie man etwas kreativ nutzen kann.
 
