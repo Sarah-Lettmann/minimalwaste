@@ -19,4 +19,9 @@
     margin-right: auto;
     max-width: $post-content-width;
   }
+
+  &__disqus {
+    margin: 0 auto;
+    max-width: $post-content-width;
+  }
 }

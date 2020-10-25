@@ -1,0 +1,24 @@
+.patreon-shout-out__list-item {
+  @extend %menu-text;
+  padding-left: 6rem;
+  text-transform: none;
+  @include breakpoint(mobile) {
+    padding-left: 2.5rem;
+  }
+
+  &:first-of-type {
+    padding-left: 0;
+
+    &::before {
+      content: none;
+    }
+  }
+
+  &::before {
+    content: url('/assets/icons/lines.svg');
+    left: 40px;
+    @include breakpoint(mobile) {
+      left: 9px;
+    }
+  }
+}
