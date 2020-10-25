@@ -1,9 +1,10 @@
 .patreon-shout-out {
   background-color: $patreon-400;
-  margin: 160px 0;
+  margin: 10rem 0;
   padding: 6rem 0;
   text-align: center;
   @include breakpoint(mobile) {
+    margin: 6rem 0;
     padding: 3rem 0;
   }
 
