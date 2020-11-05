@@ -6,7 +6,7 @@ date: 2020-06-19
 categories: [Minimalismus]
 description: "Wie geht Minimalismus leben eigentlich? Ich zeige dir wie du schnell und einfach anfängst und wie du Minimalismus durchhalten kannst."
 keywords: [Minimalismus leben]
-related-posts: ["0061", "0086", "0080", "0059", "0051", "0049"]
+related-posts: ["0094", "0061", "0086", "0080", "0059", "0051"]
 ---
 Auf Minimalismus als Lebensstil bin ich das erste mal vor knapp fünf Jahren gestoßen. Und seitdem habe ich einiges dazu gelernt. Minimalismus zu leben hat mir geholfen, besser auf meinen Konsum zu achten und sehr kritisch mit den Dingen zu sein, die ich in meine Wohnung lasse.
 

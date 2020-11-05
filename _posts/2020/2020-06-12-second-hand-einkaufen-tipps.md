@@ -6,7 +6,7 @@ date: 2020-06-12
 categories: [Nachhaltigkeit]
 description: "Second Hand kaufen schont den Geldbeutel, Ressourcen und reduziert Abfall. Wo und wie das geht, erkläre ich dir in diesem Beitrag."
 keywords: [Second Hand, second hand, gebraucht kaufen]
-related-posts: ["0082", "0075", "0059", "0051", "0044", "0042"]
+related-posts: ["0082", "0075", "0059", "0051", "0094", "0042"]
 ---
 Weniger Konsum ist sehr wichtig, um nachhaltiger zu leben. Trotzdem ist es normal, dass man Sachen kaufen muss oder will. Die beste und nachhaltigste Methode dafür, ist diese Dinge gebraucht zu kaufen, also Second Hand.
 
