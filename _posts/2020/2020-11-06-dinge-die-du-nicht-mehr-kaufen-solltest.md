@@ -13,7 +13,7 @@ Ich zeige dir heute 17 Dinge, die du nicht mehr kaufen solltest. Und ich sage di
 Natürlich geht es hierbei wie so oft auch um Nachhaltigkeit, aber eben nicht nur. Es geht viel mehr darum, was es wert ist, dass du dein hart verdientes Geld dafür ausgibst und was nicht. Natürlich entspricht die Liste nur meiner persönlichen Meinung. Aber vielleicht kann ich dich ja bei dem ein oder anderen Punkt überzeugen.
 
 ## 1. Alles was Mikroplastik enthält
-Mikroplastik ist ein großes Problem, dem viel zu wenig Aufmerksamkeit geschenkt wird. Es befindet sich in vielen Kosmetikprodukten und kann ungehindert in unsere Gewässer gelangen. Denn die Partikel sind so klein, dass sie kaum rausgefiltert werden können. Fische und andere Meerestiere verwechseln diese dann mit Nahrung und am Ende landet das Plastik wieder auf unserem Teller.
+Mikroplastik ist ein großes Problem, dem viel zu wenig Aufmerksamkeit geschenkt wird. Es befindet sich in vielen Kosmetikprodukten und kann ungehindert in unsere Gewässer gelangen. Denn die Partikel sind so klein, dass sie kaum rausgefiltert werden können. Fische und andere Meerestiere nehmen die kleinen Teile dann zusammen mit dem Futter auf und am Ende landet das Plastik wieder auf unserem Teller.
 
 Deshalb solltest du beim Einkauf darauf achten, Produkte mit Mikroplastik zu vermeiden. Helfen können dabei Apps wie [codecheck](https://codecheck-app.com/de/).
 
