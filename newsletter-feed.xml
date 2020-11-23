@@ -2,7 +2,7 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -14,7 +14,7 @@ layout: null
     {% for newsletter in site.newsletter limit:2 %}
       <item>
         <title>{{ newsletter.title | remove: '&shy;' }}</title>
-        <description>{{ newsletter.content }}</description>
+        <content:encoded>{{ newsletter.content }}</content:encoded>
         <pubDate>{{ newsletter.date | date_to_rfc822 }}</pubDate>
         <link>{{ newsletter.url | prepend: site.baseurl | prepend: site.url }}?utm_source=newletter&amp;utm_medium=email&amp;utm_campaign=newsletter</link>
         <guid isPermaLink="true">{{ newsletter.url | prepend: site.baseurl | prepend: site.url }}</guid>
