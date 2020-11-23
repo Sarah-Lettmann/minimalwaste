@@ -2,7 +2,7 @@
 uid: "0091"
 title: "Tetra Pak Recycling: Sind Getränkekartons nachhaltig?"
 subtitle: "Zahlen, Daten und Fakten rund um die Verpackung."
-date: 2020-07-17
+date: 2020-07-17 10:59:00 +0100
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Getränkekartons werden als nachhaltig dargestellt. Doch steckt dahinter nur Greenwashing oder funktioniert Tetra Pak Recycling wirklich gut?"
 keywords: [Getränkekarton, Tetra Pak]
@@ -11,6 +11,7 @@ related-posts: ["0057", "0056", "0018", "0084", "0086", "0063"]
 Wenn man dieser Tage in den Supermarkt geht, dann findet man vieles in sogenannten Getränkekartons. Das können Säfte oder Milch sein, aber auch Apfelmus oder Tomaten. Sicher ist: Diese Verpackung wird häufig verwendet. Und teilweise wird sie auch gekauft, weil sie als umweltfreundlich beworben wird.
 
 In diesem Beitrag gucken ich mir mal den Getränkekarton als Verpackung genauer an. Mich hat interessiert, ob er wirklich so nachhaltig ist wie immer behauptet wird. Außerdem gucken wir uns mal an wie das Recycling von solchen Tetra Paks funktioniert und ob wirklich so viel Recycling dabei ist.
+<!--more-->
 
 ## Was ist der Getränkekarton, auch Tetra Pak genannt?
 Der typische Getränkekarton besteht aus mehrere Schichten, die aus Plastik, Aluminium und Papier bestehen. Dank des Plastiks und des Aluminiums ist der Getränkekarton gut abgedichtet und lässt weder Luft noch Licht rein. Das sorgt dafür, dass Lebensmittel darin lange haltbar sind und gut gelagert werden können.

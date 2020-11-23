@@ -2,7 +2,7 @@
 uid: "0093"
 title: "39 Tipps für Zero Waste und Nachhaltigkeit als Student"
 subtitle: "Und das natürlich besonders kostengünstig und einfach."
-date: 2020-10-23
+date: 2020-10-23 10:59:00 +0100
 categories: [Zero Waste, Zero Waste Kosten]
 description: "Auch als Student kann man Zero Waste und Nachhaltigkeit durchziehen. Hierfür findest du Tricks und Tipps für kleines Budget."
 keywords: [Zero Waste Student, Nachhaltigkeit Student]
@@ -11,6 +11,7 @@ related-posts: ["0088", "0049", "0046", "0086", "0062", "0064"]
 Als Student stehen einem nicht unbedingt unbegrenzte Ressourcen zur Verfügung. Geld ist oft knapp und wenn man etwas für die Umwelt tun will, sollte man dafür - meines Erachtens nach - nicht unbedingt tief in die Tasche greifen müssen. Deshalb gibt es hier für dich Tipps wie du in fast jedem Lebensbereich günstig Zero Waste anwenden und was für die Umwelt tun kannst.
 
 Ich habe es mir ein bisschen zur Mission gemacht günstige Wege und Mittel zusammen zu suchen und bekannter zu machen, damit auch wirklich jeder etwas tun kann, wenn er/sie das möchte. Alle Budget-Tipps findest du in der Kategorie [Zero Waste Kosten](/category/zero-waste-kosten.html) auf dem Blog.
+<!--more-->
 
 Und dann kommen wir auch schon zum ersten Bereich.
 

@@ -2,7 +2,7 @@
 uid: "0090"
 title: "Vegan für Anfänger: 5 Tipps für den Einstieg"
 subtitle: "Was du ausprobieren solltest, Rezeptvorschläge und einfache Ersatzprodukte"
-date: 2020-07-10
+date: 2020-07-10 10:59:00 +0100
 categories: [Nachhaltigkeit, Veganismus]
 description: "Vegan ist für Anfänger nicht unbedingt  einfach. Um dir Starthilfe zu geben, verrate ich dir ein paar Tipps, wie du am besten loslegst."
 keywords: [Vegan für Anfänger, vegan Anfänger]
@@ -11,6 +11,7 @@ related-posts: ["0067", "0072", "0085", "0079", "0054", "0084"]
 Vegan zu leben oder zumindest weniger tierische Produkte zu verzehren ist sehr wichtig für die Umwelt und kann auch dabei helfen, gesünder zu leben. Aber viele trauen sich an vegane Lebensmittel oft nicht ran, weil sie eben nicht vertraut sind. Dabei muss man nicht über Nacht Veganer*in werden, sondern kann auch klein anfangen und sich Stück für Stück vorarbeiten.
 
 Heute möchte ich dir ein paar Ideen mit an die Hand geben, wie du das am besten angehen kannst. Ich selbst bin keine Veganerin, aber ich esse viel vegan und habe schon einige Sachen ausprobiert und viel Neues entdeckt. Und das ist auch das wirklich Tolle an der Sache: Neues ausprobieren und vielleicht sogar bisher unbekannte Lebensmittel und ungewöhnliche Rezepte entdecken.
+<!--more-->
 
 ## 1. Vieles ist schon vegan
 Es gibt viele Lebensmittel, die von Haus aus schon vegan sind. Sicher, es gibt immer das Argument, dass wenn man sich ganz genau den Herstellungsprozess anguckt, auch viele scheinbar vegane Produkte tierische Produkte enthalten oder benötigen. Das lassen wir aber außen vor und halten uns an die Zutatenlisten. Außerdem sollte man die Hinweise, dass Spuren von z.B. Milch enthalten sein können, ignorieren. Das heißt nur, das so etwas vermutlich in der gleichen Halle hergestellt wurden.

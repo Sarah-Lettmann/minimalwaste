@@ -2,7 +2,7 @@
 uid: "0092"
 title: "Die nachhaltige Herbst Bucketliste"
 subtitle: "Nachhaltige Ideen wie du deinen Herbst gestalten kannst."
-date: 2020-10-16
+date: 2020-10-16 10:59:00 +0100
 categories: [Nachhaltigkeit]
 description: "All die Jahre wollte ich schon immer mal meine kleine Bucketliste für den Herbst online stellen. Hier meine Empfehlungen für Aktivitäten, Essen, Bücher und Filme für den Herbst."
 keywords: [Herbst, Herbst Bucketliste]
@@ -11,6 +11,7 @@ related-posts: ["0039", "0079", "0090", "0022", "0074", "0016"]
 All die Jahre wollte ich schon immer mal meine kleine Checkliste für den Herbst online stellen. Meistens ist im Herbst aber so viel zu tun oder ich hatte so viele andere Ideen, dass ich nicht dazu kam. Dieses Jahr aber möchte ich nun endlich mal meine nachhaltige Herbst Bucketliste mit dir teilen.
 
 Der Herbst ist einfach meine absolute Lieblingszeit. Zu dieser Jahreszeit gibt es verregneten Tage an denen man keine Rechtfertigung braucht, um sich zu Hause einzukuscheln. Und es gibt wunderschön sonnige Tage, die nicht mehr zu heiß sind und damit perfekt fürs Wandern geeignet. Und das Essen ... Aber dazu komme ich gleich noch. Kulinarisch hat der Herbst auf jeden Fall sehr viel zu bieten.
+<!--more-->
 
 ## Lesen, lesen, lesen
 Der Herbst ist mit seinen kälteren, kürzeren und oft auch ungemütlichen Tagen perfekt dafür geeignet, um es sich drinnen gemütlich zu machen. Die viele Zeit im Zuhause kann man dann unter anderem mit Lesen verbringen. Gerade die richtig dicken Schmöker oder auch ganze Buchreihen bieten sich da natürlich besonders an.

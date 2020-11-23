@@ -2,7 +2,7 @@
 uid: "0094"
 title: "17 Dinge, die du nicht mehr kaufen solltest"
 subtitle: "Es gibt viel bessere Alternativen."
-date: 2020-11-06
+date: 2020-11-06 10:59:00 +0100
 categories: [Minimalismus]
 description: "Es gibt viele Dinge, die man heute nicht mehr kaufen sollte. Entweder sie sind total überholt oder können durch bessere Alternativen ersetzt werden."
 keywords: [Dinge nicht mehr kaufen, nicht mehr kaufen]
@@ -11,6 +11,7 @@ related-posts: ["0087", "0051", "0080", "0043", "0059", "0003"]
 Ich zeige dir heute 17 Dinge, die du nicht mehr kaufen solltest. Und ich sage dir auch warum nicht. Denn eigentlich ist jedes dieser Produkte längst überholt oder es gibt einfach bessere Alternativen.
 
 Natürlich geht es hierbei wie so oft auch um Nachhaltigkeit, aber eben nicht nur. Es geht viel mehr darum, was es wert ist, dass du dein hart verdientes Geld dafür ausgibst und was nicht. Natürlich entspricht die Liste nur meiner persönlichen Meinung. Aber vielleicht kann ich dich ja bei dem ein oder anderen Punkt überzeugen.
+<!--more-->
 
 ## 1. Alles was Mikroplastik enthält
 Mikroplastik ist ein großes Problem, dem viel zu wenig Aufmerksamkeit geschenkt wird. Es befindet sich in vielen Kosmetikprodukten und kann ungehindert in unsere Gewässer gelangen. Denn die Partikel sind so klein, dass sie kaum rausgefiltert werden können. Fische und andere Meerestiere nehmen die kleinen Teile dann zusammen mit dem Futter auf und am Ende landet das Plastik wieder auf unserem Teller.
