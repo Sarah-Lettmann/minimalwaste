@@ -1,7 +1,7 @@
 ---
 uid: "0005"
 title: "Newsletter #5 - Oktober 2020"
-date: 2020-10-18
+date: 2020-10-18 10:59:00 +0100
 ---
 Hallo zusammen zum monatlichen Newsletter.
 

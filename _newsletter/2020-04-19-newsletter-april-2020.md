@@ -1,7 +1,7 @@
 ---
 uid: "0002"
 title: "Newsletter #2 - April 2020"
-date: 2020-04-19
+date: 2020-04-19 10:59:00 +0100
 ---
 Willkommen zum Newsletter April 2020.
 

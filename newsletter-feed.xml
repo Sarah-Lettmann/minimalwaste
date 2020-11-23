@@ -1,0 +1,24 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/newsletter-feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for newsletter in site.newsletter limit:2 %}
+      <item>
+        <title>{{ newsletter.title | remove: '&shy;' }}</title>
+        <description>{{ newsletter.content }}</description>
+        <pubDate>{{ newsletter.date | date_to_rfc822 }}</pubDate>
+        <link>{{ newsletter.url | prepend: site.baseurl | prepend: site.url }}?utm_source=newletter&amp;utm_medium=email&amp;utm_campaign=newsletter</link>
+        <guid isPermaLink="true">{{ newsletter.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
