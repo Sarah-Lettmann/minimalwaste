@@ -4,7 +4,9 @@
 {% endcomment %}
 <blockquote cite="{{ include.url }}">
   <p>{{ include.content }}</p>
-  <footer>{{ include.author }},
-    <cite>{{ include.source }}</cite>
+  <footer>{{ include.author }}
+    {% if include.source != "" %}
+      <cite>, {{ include.source }}</cite>
+    {% endif %}
   </footer>
 </blockquote>
