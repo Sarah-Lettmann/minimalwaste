@@ -1,7 +1,7 @@
 ---
 uid: "0004"
 title: "Newsletter #4 - Juli 2020"
-date: 2020-07-19 10:59:00 +0100
+date: 2020-07-19 10:30:00 +0100
 ---
 Hallöchen und willkommen zum Newsletter =)
 

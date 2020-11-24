@@ -2,7 +2,7 @@
 uid: "0093"
 title: "39 Tipps für Zero Waste und Nachhaltigkeit als Student"
 subtitle: "Und das natürlich besonders kostengünstig und einfach."
-date: 2020-10-23 10:59:00 +0100
+date: 2020-10-23 10:30:00 +0100
 categories: [Zero Waste, Zero Waste Kosten]
 description: "Auch als Student kann man Zero Waste und Nachhaltigkeit durchziehen. Hierfür findest du Tricks und Tipps für kleines Budget."
 keywords: [Zero Waste Student, Nachhaltigkeit Student]

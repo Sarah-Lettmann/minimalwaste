@@ -1,7 +1,7 @@
 ---
 uid: "0001"
 title: "Newsletter #1 - März 2020"
-date: 2020-03-15 10:59:00 +0100
+date: 2020-03-15 10:30:00 +0100
 ---
 Hallo und herzlich Willkommen zum ersten Newsletter!
 

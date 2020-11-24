@@ -2,7 +2,7 @@
 uid: "0092"
 title: "Die nachhaltige Herbst Bucketliste"
 subtitle: "Nachhaltige Ideen wie du deinen Herbst gestalten kannst."
-date: 2020-10-16 10:59:00 +0100
+date: 2020-10-16 10:30:00 +0100
 categories: [Nachhaltigkeit]
 description: "All die Jahre wollte ich schon immer mal meine kleine Bucketliste für den Herbst online stellen. Hier meine Empfehlungen für Aktivitäten, Essen, Bücher und Filme für den Herbst."
 keywords: [Herbst, Herbst Bucketliste]

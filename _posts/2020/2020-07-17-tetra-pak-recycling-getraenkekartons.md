@@ -2,7 +2,7 @@
 uid: "0091"
 title: "Tetra Pak Recycling: Sind Getränkekartons nachhaltig?"
 subtitle: "Zahlen, Daten und Fakten rund um die Verpackung."
-date: 2020-07-17 10:59:00 +0100
+date: 2020-07-17 10:30:00 +0100
 categories: [Zero Waste, Rohstoffe und Recycling]
 description: "Getränkekartons werden als nachhaltig dargestellt. Doch steckt dahinter nur Greenwashing oder funktioniert Tetra Pak Recycling wirklich gut?"
 keywords: [Getränkekarton, Tetra Pak]

@@ -2,7 +2,7 @@
 uid: "0094"
 title: "17 Dinge, die du nicht mehr kaufen solltest"
 subtitle: "Es gibt viel bessere Alternativen."
-date: 2020-11-06 10:59:00 +0100
+date: 2020-11-06 10:30:00 +0100
 categories: [Minimalismus]
 description: "Es gibt viele Dinge, die man heute nicht mehr kaufen sollte. Entweder sie sind total überholt oder können durch bessere Alternativen ersetzt werden."
 keywords: [Dinge nicht mehr kaufen, nicht mehr kaufen]

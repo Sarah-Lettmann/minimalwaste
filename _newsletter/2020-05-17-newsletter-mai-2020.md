@@ -1,7 +1,7 @@
 ---
 uid: "0003"
 title: "Newsletter #3 - Mai 2020"
-date: 2020-05-17 10:59:00 +0100
+date: 2020-05-17 10:30:00 +0100
 ---
 Hallöchen zusammen zum Newsletter im Mai!
 
