@@ -10,10 +10,23 @@
     }
   }
 
+  &__body {
+
+    .plug {
+      margin-left: 0;
+
+      &--desktop {
+        max-width: $post-content-width;
+        padding-left: 2rem;
+      }
+    }
+  }
+
   &__content {
     max-width: $post-content-width;
     padding-left: 2rem;
     @include breakpoint(mobile) {
+      overflow-wrap: break-word;
       padding-left: 0;
     }
   }
