@@ -14,7 +14,7 @@ layout: null
     {% for newsletter in site.newsletter limit:2 %}
       <item>
         <title>{{ newsletter.title | remove: '&shy;' }}</title>
-        <content:encoded>{{ newsletter.content }}</content:encoded>
+        <content:encoded><![CDATA[ {{ newsletter.content }} ]]> </content:encoded>
         <pubDate>{{ newsletter.date | date_to_rfc822 }}</pubDate>
         <link>{{ newsletter.url | prepend: site.baseurl | prepend: site.url }}?utm_source=newletter&amp;utm_medium=email&amp;utm_campaign=newsletter</link>
         <guid isPermaLink="true">{{ newsletter.url | prepend: site.baseurl | prepend: site.url }}</guid>
