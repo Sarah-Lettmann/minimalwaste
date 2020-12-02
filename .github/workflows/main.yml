@@ -1,8 +1,8 @@
-name: Netlify Hourly Deploy Job
+name: Netlify Deploy Job
 
 on:
   schedule:
-  - cron: "0 11 * * *"
+  - cron: "45 09 * * *"
 
 jobs:
   build:
