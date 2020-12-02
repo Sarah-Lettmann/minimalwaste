@@ -43,7 +43,6 @@ pinterest-link: https://www.pinterest.de/minimalwaste/
 youtube-link: https://www.youtube.com/channel/UCpVAerr1RGJBHBOL_8-TsnQ/
 patreon-link: https://www.patreon.com/bePatron?u=10143948
 email-website: info@minimalwaste.de
-twitter-username: MinimalWaste
 
 # Authors
 sarah-lettmann:
@@ -80,6 +79,8 @@ collections:
   newsletter:
     output: true
     permalink: /newsletter/:title/
+  socialposts:
+    output: false
 
 # Sass
 sass:
