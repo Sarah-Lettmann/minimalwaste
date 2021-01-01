@@ -11,6 +11,7 @@ related-posts: ["0082", "0089", "0011", "0053", "0063", "0057"]
 Da heutzutage immer mehr Diskussionen über Nachhaltigkeit, Bio, Fairtrade und Ähnlichem in unseren Alltag Einzug halten, wundert es nicht, dass wir inzwischen auch darüber nachdenken, wieso zur Hölle es möglich ist, das ein T-Shirt 5€ kostet. Fast Fashion ist das Stichwort - billig produzieren, billig kaufen, kaum tragen, wegschmeißen, neu kaufen. Für die Produzenten ist das ein großer Gewinn. Für die Arbeiter, die Umwelt und letztlich auch uns, die Käufer, ist das ein riesiger Verlust.
 
 Wie funktioniert Fast Fashion und wieso ist es so schlimm bei H&M und Co. einkaufen zu gehen? Ich werde es dir verraten.
+<!--more-->
 
 ## Was ist Fast Fashion und wie funktioniert das System?
 Das System Fast Fashion passt perfekt in unsere konsumorientierte Gesellschaft. Statt den üblichen zwei Seasons, die es einmal für Mode gab - nämlich Frühjahr/Sommer und Herbst/Winter - hat Fast Fashion sogenannte **Micro-Seasons** etabliert. Das heißt, dass wir inzwischen jede Woche mit neuen Trends verlockt werden. **52 Seasons im Jahr**. Ständig neue Klamotten in den Schaufenstern. Und die Werbung, die uns ständig klar macht, dass wir glücklich werden, mehr geliebt werden und erfolgreicher sind, wenn wir DIESES eine Kleidungsstück kaufen.

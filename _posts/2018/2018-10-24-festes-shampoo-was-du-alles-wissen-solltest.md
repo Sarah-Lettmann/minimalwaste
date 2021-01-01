@@ -9,6 +9,7 @@ keywords: [Festes Shampoo]
 related-posts: ["0066", "0040", "0026", "0024", "0058", "0037"]
 ---
 Wenn man Müll im Badezimmer verhindern möchte, stellt sich oft die Frage, wie man wohl Shampoo und Co. ersetzen kann. Festes Shampoo ist meiner Meinung nach eine gute Alternative. Worum es sich dabei genau handelt, wie man es anwendet und was man beachten sollte, will ich dir heute erklären. Denn ganz so kompliziert ist das gar nicht und meine Haare haben es mir gedankt.
+<!--more-->
 
 ## Was ist festes Shampoo?
 Festes Shampoo kann man sich als **ganz normales Shampoo** vorstellen, wie man es auch in der Flasche bekommt. Der Unterschied besteht in dem Wasseranteil, der sich im Shampoo befindet. <mark>Das heißt festes Shampoo enthält einfach viel weniger Flüssigkeit und lässt sich fast genauso anwenden wie herkömmliches Shampoo.</mark> Außerdem enthält es keine Stoffe wie Silikone oder Ähnliches. Meiner Erfahrung nach gibt es aber **keine wirkliche Übergangsphase**. Man kann von einem auf den anderen Tag ohne Probleme auf festes Shampoo umsteigen - zumindest war es bei mir so.

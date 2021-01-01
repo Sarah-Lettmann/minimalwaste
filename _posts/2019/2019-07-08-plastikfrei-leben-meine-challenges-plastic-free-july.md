@@ -11,6 +11,7 @@ related-posts: ["0062", "0064", "0059", "0036", "0023", "0020"]
 Möglichst plastikfrei leben ist bei mir sowieso schon der Regelfall. Aber seit Anfang des Monats ist Plastic Free July und somit habe ich mir ein paar Challenges rausgesucht, mit denen ich noch weiteres Plastik und Müll vermeiden will.
 
 Außerdem gibt es auch noch ein paar spannende Produkte, die ich in letzter Zeit entdeckt habe, und die ich gerne mit dir teilen möchte. Am Ende des Monats werden ich dann nochmal ein Fazit ziehen.
+<!--more-->
 
 {% include iframe.html image-link="/assets/video-images/2019-07-08-plastikfrei-leben-meine-challenges-plastic-free-july.jpg" id="JU8tixsmcNM" %}
 

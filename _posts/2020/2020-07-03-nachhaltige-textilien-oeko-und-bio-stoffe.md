@@ -11,6 +11,7 @@ related-posts: ["0050", "0082", "0011", "0042", "0086", "0043"]
 Wenn man von Fast Fashion weg und hin zu Fair Fashion und nachhaltiger Mode will, dann stellt sich die Frage, welche Stoffe denn überhaupt umweltverträglicher sind und welche nicht. Und auch bei den nachhaltigen Textilien gibt es feine Unterschiede, natürlich auch je nach Anwendungszweck.
 
 Damit du einfach entscheiden kannst, welche Stoffe für dich in Frage kommen, habe ich hier ein paar Öko-Stoffe  zusammen getragen mit denen du auf der sicheren Seite bist. Aufgelistet sind sowohl natürlich als auch synthetische Stoffe, die sich durch ihre Nachhaltigkeit auszeichnen.
+<!--more-->
 
 Außerdem will ich dir einen Kurzen Überblick geben, wie du einen nachhaltig hergestellten Stoff erkennen kannst und auf was du beim Kauf von Kleidung achten kannst.
 

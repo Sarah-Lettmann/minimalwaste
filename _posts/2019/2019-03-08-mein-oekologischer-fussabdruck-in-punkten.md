@@ -14,6 +14,7 @@ Die Idee dahinter: Ein guter Tag hat 100 Punkte. Soll heißen, dass ein vertretb
 an Emissionen equivalent zu bis zu 100 Punkten ist. In dem Rechner kann man alltägliche
 Tätigkeiten und Produkte auswählen und bekommt einen Punktestand dafür.
 Ich habe mir meinen Punktestand für einen normalen Wochentag mal angeschaut.
+<!--more-->
 
 Natürlich war ich besonders gespannt, da ich von mir erwartet habe, dass ich einen
 verträglichen Ausstoß an Emissionen habe. Beim Zusammenrechnen ist mir dann aber

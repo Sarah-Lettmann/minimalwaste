@@ -9,6 +9,7 @@ keywords: [Kids Save Ocean]
 related-posts: ["0048", "0023", "0018", "0025", "0055", "0065"]
 ---
 Vor ein paar Wochen bekam ich eine Anfrage von einem Projekt namens _[Kids Save Ocean](https://www.kidssaveocean.com/)_ - einem Projekt von Kindern, das auf die Verschmutzung unserer Meere aufmerksam machen will. Ob ich das Projekt nicht über meinen Blog oder Social Media unterstützen wolle. Klar, das mach ich doch gerne bei einer so tollen Idee.
+<!--more-->
 
 ## Worum geht es in dem Projekt?
 Die Verschmutzung der Meere durch unser aller Plastikmüll ist heutzutage leider allgegenwärtig, scheint aber dennoch bei vielen noch nicht im Alltag angekommen zu sein. Die Kinder einer Wiener Schule wollten Aufmerksamkeit für diese Thematik schaffen. In einem Projekt zusammen mit ihrem Kunstlehrer Peder haben sie eine fünf Meter lange Buckelwal Statue aus Plastikmüll gebaut.

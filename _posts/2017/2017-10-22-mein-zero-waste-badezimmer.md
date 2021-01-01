@@ -11,6 +11,7 @@ related-posts: ["0066", "0060", "0041", "0058", "0024", "0076"]
 Zero Waste im Badezimmer einziehen zu lassen, ist nicht so schwer wie du vielleicht denken magst. Diese Badezimmer Utensilien sind super easy umzusetzen und reduzieren dadurch nicht nur deinen Müll, sondern sparen auch noch Geld. Also wirf einen Blick darauf, was du ganz einfach in deinen Badezimmer verändern kannst, um es Zero Waste zu machen.
 
 Wenn du etwas von diesen Dingen kaufen möchtest, dann wirft doch mal einen Blick in meine [Listen von nachhaltigen Onlineshops](/blog/plastikfrei-einkaufen-alle-onlineshops). Außerdem erweitere ich diese Liste immer weiter, wenn ich neue Alternativen entdecke.
+<!--more-->
 
 * TOC
 {:toc .toc aria-label="Inhaltsverzeichnis"}

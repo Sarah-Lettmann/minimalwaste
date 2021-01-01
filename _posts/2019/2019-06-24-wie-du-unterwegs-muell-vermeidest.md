@@ -11,6 +11,7 @@ related-posts: ["0071", "0084", "0073", "0066", "0093", "0025"]
 Lange Zeit habe ich mich hauptsächlich auf meine Einkäufe fokussiert und versucht dort möglichst viel Müll zu vermeiden. Inzwischen bin ich darin recht gut geworden, also war es Zeit einen Schritt weiter zu gehen. Ich hatte mir für dieses Jahr vorgenommen auch unterwegs, auf Partys oder im Restaurant Müll zu vermeiden. Wie das geht, will ich mit dir teilen.
 
 Bei den Basics bin ich schon sehr sicher, aber an den fortgeschritteneren Dinge arbeite ich noch. Manchmal gelingt es mir, aber oft vergesse ich Dinge zu Hause oder bin mit Gedanken wo anders und schwupps hat man einen Strohhalm im Getränk. Das ist aber denke ich wie vieles einfach Übung und Routine, also bin ich zuversichtlich. Außerdem ist ja demnächst _Plastic Free July_ und das können wir, also du und ich, gleich mal zu Anlass nehmen uns zu verbessern, richtig? Na, dann lass mich dir doch mal meine Tipps zeigen.
+<!--more-->
 
 {% include iframe.html image-link="/assets/video-images/2019-06-24-wie-du-unterwegs-muell-vermeidest.jpg" id="10eeJJUYrbA" %}
 

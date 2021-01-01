@@ -9,6 +9,7 @@ keywords: [Planetary Health, Planetary Health Diet]
 related-posts: ["0090", "0085", "0063", "0054", "0032", "0075"]
 ---
 Wenn es um das Klima geht, dann können wir viele Dinge tun, um unseren CO2 Fußabdruck möglichst klein zu halten. Eine Stellschraube ist die Ernährung, vor allem weniger Fleisch lautet die Devise. Aber wie viel weniger muss es wirklich sein und ist vegan die ideale Lösung? Die Antworten darauf liefert und die Planetary Health Diet.
+<!--more-->
 
 ## Wofür steht Planetary Health?
 2019 brachte die _EAT-Lancet Commission_ ein Papier heraus, in dem die Bedeutung unserer Ernährung für uns und den Planeten erörtert wird. Und momentan stehen wir nicht all zu gut da. Wir essen **zu viele verarbeitet Lebensmittel** mit **viel Zucker, Salz und Fett** und zu viele tierische Produkte, die sich in großen Mengen nicht nur negativ auf unsere Gesundheit, sondern auch auf die des Planeten auswirken.

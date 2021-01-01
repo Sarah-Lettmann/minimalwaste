@@ -11,6 +11,7 @@ related-posts: ["0083", "0084", "0077", "0064", "0044", "0072"]
 Es gibt so viele Ideen wie du Lebensmittelverschwendung vermeiden oder reduzieren kannst. Ich bin mal in mich gegangen und habe diese riesige Liste zusammen gestellt, die wirklich alle Tipps enthält, die ich über die Jahre selbst ausprobiert habe oder über die ich jemals gestolpert bin.
 
 In den Statistiken zur Lebensmittelverschwendung finden sich zumeist auch die "nicht vermeidbaren" Abfälle. Dazu zählen Gemüseschalen, Teebeutel, Kaffeesatz, Obstschalen und Kerngehäuse. Ich finde aber, dass man auch an diesen Stellen durchaus noch mehr rausholen kann. Du findest in dieser Liste also nicht nur Tipps wie du aktiv verhinderst unnötig Lebensmittel wegzuwerfen, sondern auch Tricks, um passiv etwas zu tun.
+<!--more-->
 
 * TOC
 {:toc .toc aria-label="Inhaltsverzeichnis"}

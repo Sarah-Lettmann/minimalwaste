@@ -9,6 +9,7 @@ keywords: [weniger Konsum, Kaufverhalten]
 related-posts: ["0094", "0049", "0051", "0080", "0034", "0030"]
 ---
 Ich bin ein riesiger Fan von Minimalismus. Aber ich bin auch eine Verfechterin von Nachhaltigkeit. Deshalb stellen sich bei mir immer alle Nackenhaare auf, wenn ich sehe, wie sich nur halbherzig damit auseinander gesetzt wird. Das heißt, es wird immer Neues gekauft und dann immer wieder im gleichen Maße entsorgt. Dabei liegt der Schlüssel, um die Vorteiles eines reduzierten Lebensstils genießen zu können, in weniger Konsum an sich. Ich zeige dir heute, wie du dein Kaufverhalten nachhaltig veränderst und so wirklich aus dem Teufelskreis ausbrichst.
+<!--more-->
 
 In der heutigen Zeit ist das gar nicht so einfach. Warum wir kaufen habe ich mir schon in [Leben in der Konsum­gesellschaft: Warum ist das so?](/blog/leben-in-der-konsumgesellschaft/) angeguckt. <mark>Marketing und Werbung haben durchaus ihren Platz und auch einen Sinn, aber man sollte sich dessen eben auch bewusst sein und nicht so blauäugig damit umgehen.</mark> Aber zuerst einmal will ich dir im Allgemeinen das Prinzip von nachhaltigem Konsum näher bringen.
 

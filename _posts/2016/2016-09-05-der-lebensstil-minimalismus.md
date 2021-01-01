@@ -11,6 +11,7 @@ related-posts: ["0087", "0030", "0017", "0043", "0080", "0049"]
 Minimalismus ist ja in den letzten Jahren ein immer größeres Thema in den Medien geworden. Bei genauerer Betrachtung wundert das kaum. Man gewinnt doch zunehmend den Eindruck, dass Kaufen nicht das Allheilmittel - sowohl für die Wirtschaft als auch für den Menschen - ist, sondern vielmehr ermüdet und auslaugt.
 
 Vielmehr noch scheint jedes neu erworbene Ding wie ein Stein im Rucksack auf unseren Schultern zu lasten. Die Jagt nach den immer neusten Schätzen mündet in einen niemals endenden Kreislauf. Shoppen ist zur Therapie geworden, von der wir leider nicht mehr loskommen, weil sie nicht nachhaltig ist.
+<!--more-->
 
 <mark>Denn kaufen beschert uns nur ein kurzes Hoch. Allzu schnell fallen wir wieder in unseren tristen Alltag zurück.</mark> Hinzu kommt das Bedürfnis sich profilieren zu müssen und zwar über den Besitz. So herrscht ein anhaltender Druck das schnellste Auto, den größten Fernseher und das neuste Smartphone zu besitzen. Wenn du also hier auf meinem Blog gelandet bist, kommen dir diese Gedanken sicherlich bekannt vor oder du hast in deinem Umfeld auch schon diese Gefühle wahrgenommen.
 

@@ -11,6 +11,7 @@ related-posts: ["0059", "0054", "0036", "0023", "0014", "0065"]
 Es gibt immer Raum für Verbesserungen, das ist klar. Ich habe mein Leben vor fast 3 Jahren auf Zero Waste umgestellt und auch schon viel erreicht. Unsere Müllmengen sind radikal gesunken. Einen gelben Sack machen wir zu zweit geschätzt alle zwei bis 3 Monate voll. Restmüll haben wir kaum noch. Aber es gibt eben ein paar Bereiche, in denen ich Verbesserungspotenzial sehe.
 
 Zuerst einmal: Man kann auch nicht alles auf einmal schaffen. Das habe ich irgendwann auch gemerkt. Deshalb hatte ich beschlossen, mich erstmal auf meinen Haushalt zu konzentrieren - sprich vor allem Küche und Bad - und alles “außerhalb” erstmal so zu belassen wie es ist.
+<!--more-->
 
 <mark>Ich habe vor allem meinen wöchentlichen Einkauf und die Dinge, die ich sehr regelmäßig nutze, umgestellt. Inzwischen ist das Alltag geworden - ich muss also nicht mehr wirklich drüber nachdenken.</mark> Dabei sind mir aber immer wieder Dinge aufgefallen, die noch regelmäßig Müll ins Haus bringen oder die sehr teuer sind oder für die ich Verbesserungswünsche habe und auch Ideen wie ich das umsetzen kann.
 

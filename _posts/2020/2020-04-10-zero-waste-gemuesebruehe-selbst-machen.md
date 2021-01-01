@@ -11,6 +11,7 @@ related-posts: ["0079", "0084", "0035", "0072", "0075", "0067"]
 Richtig gute Gemüsebrühe kann man sehr einfach selber machen. Es sind nur wenige Schritte und das Ergebnis ist wirklich gut und sehr lecker. In diesem Post will ich dir zeigen, wie du Gemüsebrühe leicht selber machen und so deine Lebensmittelabfälle weiter reduzieren kannst. Wie gesagt geht das relativ einfach und schnell und man kann es leicht mal nebenbei machen.
 
 Wir machen unsere Gemüsebrühe nicht ausschließlich selbst, dafür verbrauchen wir einfach zu viel davon. Aber immer wieder, wenn es sich ergibt, kochen wir unsere eigene und verwenden sie dann vor allem in Eintöpfen und Suppen.
+<!--more-->
 
 ## Vor der Gemüsebrühe
 Bevor wir Gemüsebrühe machen können, brauchen wir erstmal Gemüse. Wir haben damit ursprünglich angefangen, weil wir neugierig waren und wir unsere Gemüsereste noch irgendwie sinnvoll verwerten wollte. Denn tatsächlich schmeißt man oft sehr viel Gutes weg.

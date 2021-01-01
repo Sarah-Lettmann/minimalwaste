@@ -11,6 +11,7 @@ related-posts: ["0048", "0057", "0075", "0067", "0068", "0053"]
 Es ist nicht immer einfach. Nachhaltig Leben oder zumindest der Versuch kann einem viel abverlangen. Aber man will es ja! Oftmals kommt einem dann aber doch der innere Schweinehund in die Quere. Und das ist in Ordnung, denn niemand ist perfekt.
 
 Trotzdem habe ich ein paar Tipps, wie du es dir im Alltag leichter machen kannst. Am Ende geht es darum sich der vielen Vorteile eines nachhaltigen Lebensstils bewusst zu werden und die richtige Planung zu haben. Viel Spaß.
+<!--more-->
 
 ## 1. Eine kleine Veränderung umsetzen
 Es ist ganz egal, was du dir aussuchst, Hauptsache du setzt es um. Mit dem Rad zum Einkaufen fahren, Küchenkräuter anpflanzen, öfter selbst kochen oder nachts den Strom ausschalten, es spielt wirklich keine Rolle. Wichtig ist, dass du diese Veränderung gut in deinen Alltag integrierst und dir auch anderer Vorteile bewusst wirst (spart Zeit, Geld, Nerven). Beispiel: Packe für Unterwegs immer eine Flasche Wasser und was zu knabbern ein, damit du dein **Geld nicht unnötig ausgibst**.

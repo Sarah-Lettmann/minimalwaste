@@ -11,6 +11,7 @@ related-posts: ["0027", "0015", "0047", "0001", "0043", "0068"]
 Weihnachten ist die schönste Zeit des Jahres! Und ich finde, das trifft vor allem dann zu, wenn man sich von dem vielen Konsum los sagt. Selbst gemachte Weihnachtsgeschenke sind dabei nicht alles - auch die Dekoration kann man leicht selbst machen und sich so Geld und Stress sparen.
 
 In diesem Beitrag möchte ich dir meine nachhaltige Weihnachtsdeko vorstellen. Vieles davon ist von der Familie ausgeliehen, gesammelt oder selbst gemacht. Naja, vieles ist übertrieben, denn ich bin nicht mehr wirklich ein Fan des Deko-Overkill. Aber getreu des Minimalismus: Man braucht ja nicht viel um glücklich zu sein.
+<!--more-->
 
 ## Eine nachhaltige Weihnachtsdeko erspart dir Geld, Zeit und Nerven&shy;zusammen&shy;brüche
 Woran denkst du, wenn dir Weihnachten in den Sinn kommt? Bestimmt genau wie ich an Kerzen, leckere Plätzchen und den Weihnachtsbaum, den man aus seiner Kindheit noch so gut in Erinnerung hat. Das alles sorgt dafür, dass ich jedes Jahr nostalgisch werde. Dieses Jahr ist das erste Weihnachten, das mein Freund und ich in unserer gemeinsamen Wohnung verbringen. Die Jahre vorher habe ich mein kleines Studenten-1-Zimmer-Apartment gar nicht dekoriert, weil ich meistens zu viel mit dem Studium zu tun hatte und über die Weihnachtszeit sowieso zu meinen Eltern gefahren bin. Es hat sich also aus meiner Sicht nicht wirklich gelohnt.

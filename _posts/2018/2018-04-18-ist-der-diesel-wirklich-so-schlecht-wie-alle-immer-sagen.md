@@ -11,6 +11,7 @@ related-posts: ["0033", "0057", "0081", "0063", "0067", "0054"]
 Sicherlich hast du es auch schon mitbekommen: Es soll Fahrverbote für Diesel in Städten geben, weil diese angeblich echte Dreckschleudern sein sollen. Angefangen hat das ganze mit dem VW-Skandal. Jedenfalls habe ich mich seit Anfang der Debatte immer wieder gefragt, warum ausgerechnet der Diesel so schlecht für die Umwelt sein soll und was einen Benziner so viel besser macht.
 
 Diese und ein paar weiter Fragen werde ich dir (und mir) in diesem Blogpost beantworten.
+<!--more-->
 
 ## Abgase
 Zuallererst gucken wir uns mal an, was motorisierte Fahrzeuge für Abgase ausstoßen.

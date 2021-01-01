@@ -9,6 +9,7 @@ keywords: [Europäische Woche der Abfallvermeidung]
 related-posts: ["0044", "0037", "0057", "0066", "0062", "0093"]
 ---
 Wenn man wie ich das Ziel verfolgt Zero Waste zu leben, dann hätte man auch sehr gerne einen Laden in der Nähe, bei dem man unverpackt einkaufen kann. Bei uns hat nun endlich [Unverpackt Darmstadt](https://www.facebook.com/unverpacktdarmstadt/) aufgemacht (wozu ich auch noch einen Beitrag schreiben werde)! Denn die größte Herausforderung ist sicherlich solche Dinge wie Nudeln, Haferflocken oder Mehl ohne Verpackung zu bekommen. Deshalb habe ich für dich eine Karte mit allen Unverpackt-Läden zusammengestellt (die mir bekannt sind).
+<!--more-->
 
 _Update 20.12.2016: Ich habe mich dazu entschlossen Shias Karten von [wastelandrebel.com](http://wastelandrebel.com/) einzubinden. Sie steckt so unglaublich viel Zeit dort hinein und hat schon so viele Läden eingetragen, dass es einfach sinnlos wäre, jetzt auch noch separat weiter zu schreiben. Wenn du vollständige Infos, auch bezüglich kleinerer Geschäfte und Bio-Läden die Spender haben, willst, dann sei dir die [Liste von Shia](http://wastelandrebel.com/de/liste-unverpackt-laeden/) wärmstens empfohlen._
 

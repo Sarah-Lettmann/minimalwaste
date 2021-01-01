@@ -13,6 +13,7 @@ Etwas, das beim Ausmisten immer wieder vergessen wird, ist die digitale Unordnun
 Wo du genau suchen musst, um deine unsichtbare Unordnung zu finden und wie du nach dem Aufräumen besser vorbeugst, möchte ich gerne mit dir teilen. In diesem ersten Teil widmen wir uns erstmal deinen digitalen Dokumenten.
 
 Am Ende des Posts gibt es noch ein PDF zum Download. [Den Leitfaden zum Dokumente strukturieren kannst du dir auch auf meiner Patreon Seite runterladen](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}.
+<!--more-->
 
 ## Was ist digitale bzw. unsichtbare Unordnung?
 Als digitale Unordnung gilt zunächst alles was sich auf deinem **Handy, deinem PC oder in der Cloud** befindet (oder für die altmodischen auf der externen Festplatte). Diesen dingen widmen wir uns diese Woche.

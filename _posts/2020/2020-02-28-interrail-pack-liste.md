@@ -9,6 +9,7 @@ keywords: [Interrail, Interrail Packliste, Interrail Tipps]
 related-posts: ["0071", "0068", "0069", "0070", "0064", "0013"]
 ---
 Unsere Interrail-Reise war wirklich toll und ich kann jedem nur empfehlen es auch mal auszuprobieren. Ohne eine gute Vorbereitung geht allerdings nichts. Die Grundlagen dazu findest du im Beitrag [Interrail Ticket: So funktioniert die Zugreise durch Europa](/blog/interrail-so-funktioniert-die-zugreise-durch-europa). Hier geht es nun darum, was genau man alles einpacken sollte, um möglichst flexibel zu sein.
+<!--more-->
 
 [Du kannst die Packliste außerdem auf meiner Patreon Seite runterladen](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}. Dort gibt es auch noch Bonus-Content zum Thema.
 

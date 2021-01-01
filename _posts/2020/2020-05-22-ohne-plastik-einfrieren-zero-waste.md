@@ -9,6 +9,7 @@ keywords: [ohne Plastik einfrieren, einfrieren Zero Waste]
 related-posts: ["0084", "0079", "0077", "0072", "0065", "0064"]
 ---
 Einfrieren ohne Plastik, das geht? Ja, tatsächlich, und zwar ziemlich gut. Ich schreibe diesen Artikel, weil es scheinbar immer noch viele gibt, die von dieser Idee bisher nichts mitbekommen haben oder schlicht einfach nicht wussten, dass es geht. Darum will ich hier Aufklärung betreiben und dir ein paar Tipps mit an die Hand geben, wie du damit anfangen kannst.
+<!--more-->
 
 Vorab schon mal eine Info: Der Grund warum in der Regel Plastik zum Einfrieren verwendet wird ist, dass Plastik recht flexibel ist. Somit hat das Material wenig Probleme damit, wenn sich Flüssigkeiten im gefrorenen Zustand ausdehnen. Glas ist natürlich starrer und kann dadurch im Gefrierschrank bersten. <mark>Das liegt aber nicht am Glas selbst, sondern an einem zu vollen Glas. Wenn der Inhalt sich bei Gefrieren ausdehnt und nicht genug Platz hat, dann muss das Glas eben dran glauben. Die Lösung: Immer eine gute Menge Luft im Glas lassen!</mark> Das ist etwas, das du beachten solltest.
 

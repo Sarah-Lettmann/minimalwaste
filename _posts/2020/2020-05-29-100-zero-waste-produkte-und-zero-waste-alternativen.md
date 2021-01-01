@@ -11,6 +11,7 @@ related-posts: ["0062", "0079", "0073", "0083", "0029", "0057"]
 Hast du auch schon oft nach einer vollständigen Liste mit allen Zero Waste Alternativen gesucht? Diese Suche ist jetzt vorbei. Das ist zumindest der Anspruch, den ich an diese Liste stelle auf der ich wirklich alle Alternativen sammle, die mir irgendwo unterkommen.
 
 Um die Liste immer aktuell zu halten und alle Neuerungen darin aufzunehmen, kannst du gerne mithelfen. Hinterlass dafür einfach einen Kommentar oder schreib eine Email und ich werde die Liste aktualisieren =) Zur besseren Übersicht habe ich auch noch ein Inhaltsverzeichnis inkludiert.
+<!--more-->
 
 _Disclaimer: Auch wenn ich hier vieles empfehle und auch Links inludiere wo man diese Dinge kaufen kann, soll trotzdem vorweg klar sein: Die nachhaltigste Alternative ist immer noch das was du schon zu Hause hast. Und du solltest es so lange verwenden bis es kaputt geht. Alles andere macht keinen Sinn._
 

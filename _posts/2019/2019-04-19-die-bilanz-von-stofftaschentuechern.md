@@ -11,6 +11,7 @@ related-posts: ["0091", "0084", "0023", "0047", "0035", "0037"]
 Ich hatte ja schonmal darüber geschrieben, wie viel Wasser und Energie herkömmliche Papiertaschentücher gegenüber Stofftaschentüchern verbrauchen. Allerdings habe ich ein paar Komponenten ausgelassen. Diese will ich in diesem Post noch in die Bilanz mit aufnehmen.
 
 Den Post von damals _[Sind Alternativen aus Stoff ökologisch sinnvoll](/blog/sind-alternativen-aus-stoff-oekologisch-sinnvoll)_ empfehle ich dir auch, denn teilweise übernehme ich Annahmen und baue auf diesem auf. Wenn du Lust auf noch mehr Content dieser Art hast, dann lass mir einen Kommentar dar. Außerdem würde mich deine Meinung zu der ganzen Thematik Mehrweg vs. Einweg interessieren.
+<!--more-->
 
 Was ich mir also diesmal außerdem angeguckt habe sind **Lieferwege und Transport** sowohl des fertigen Produkts als auch der Rohstoffe. Außerdem geht es auch um die **Rohstoffe** selbst, die zur Fertigung benötigt werden. **Energie und Wasservbrauch** habe ich mir schon angeguckt, aber möchte das auch nochmal bezogen auf unterschiedliche Resourcen tun. Interessant sind außerdem die **CO2-Emissionen**. Zudem wurde sich gewünscht, dass ich mir die **Auswirkungen auf Wälder und Boden** der verschiedenen Rohstoffe angucke.
 

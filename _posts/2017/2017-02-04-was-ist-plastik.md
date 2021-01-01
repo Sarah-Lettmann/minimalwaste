@@ -9,6 +9,7 @@ keywords: [Plastik]
 related-posts: ["0091", "0056", "0057", "0054", "0063", "0068"]
 ---
 Hallöchen. Heute ist es endlich soweit. Der erste Artikel aus einer ganzen Reihe geht an den Start. Worum es in der Artikel-Reihe geht? Plastik. Und zwar um möglichst viele unterschiedliche Aspekte dieser Stoffe. Schließlich sollte man schon verstehen worum es eigentlich geht und warum Plastik nicht gerade gut für die Umwelt ist. In diesem ersten Beitrag geht es darum, woraus Plastik besteht, woraus es gefertigt wird, um die Giftstoffe, die sich darin befinden, die Ressourcen die genutzt werden, um Plastik zu produzieren und zu verarbeiten und natürlich um die Umweltauswirkungen.
+<!--more-->
 
 Plastik bezeichnet im Allgemeinen Kunststoffe, also **synthetische oder halb-synthetische Stoffe**, die je nach Zusammensetzung unterschiedliche Eigenschaften haben können. Hergestellt werden sie üblicherweise aus Erdöl,  aus dem das organische Grundmaterial gewonnen wird. Um bestimmte Eigenschaften zu erfüllen, werden außerdem noch sogenannte **Additive** hinzugefügt. Unterschieden wird zwischen drei Gruppen von Kunststoffen, die alle bestimmte Eigenschaften haben: **Duroplaste, Thermoplaste und Elastomere**.
 

@@ -11,6 +11,7 @@ related-posts: ["0068", "0069", "0071", "0061", "0067", "0010"]
 Ich wollte schon immer eine richtige Backpacking Reise machen. In Hostels schlafen, nur den Rucksack dabei haben und die Dinge nehmen wie sie kommen. 2019 war es dann soweit. Wir habe unsere Reise geplant. 22 Tage sollten es werden und 12 Städte wollten wir sehen. Von allen Seiten wurde uns gesagt, dass das bestimmt sehr anstrengend sei, aber wir fanden die Idee super. Das hier ist der Reisebericht.
 
 Unsere Strecke sollte wie folgt aussehen: Brüssel - Edinburgh - London - Paris - Zurich - Florenz - Rom - Venedig - Ljubljana - Wien - Budapest - Prag.
+<!--more-->
 
 ## Brüssel
 Unsere Routen hatten wir extra so geplant, dass wir nicht viel zu lange im Zug sitzen mussten. Ein paar von den Strecken haben sich trotzdem etwas gezogen, aber meisten war es total in Ordnung. Unser erstes Ziel war Brüssel, da wir auf jeden Fall auch nach Großbritannien wollten. Die Belgische Hauptstadt schien uns ein guter Zwischenstop zu sein.

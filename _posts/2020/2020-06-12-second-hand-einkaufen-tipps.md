@@ -11,6 +11,7 @@ related-posts: ["0082", "0075", "0059", "0051", "0094", "0042"]
 Weniger Konsum ist sehr wichtig, um nachhaltiger zu leben. Trotzdem ist es normal, dass man Sachen kaufen muss oder will. Die beste und nachhaltigste Methode dafür, ist diese Dinge gebraucht zu kaufen, also Second Hand.
 
 Dabei kann man so gut wie alles Second Hand kaufen: von Technik und Haushaltsgegenständen bis zu Kleidung und Pflanzen. Wo du das alles bekommst und wie du beim Gebrauchtkauf am besten vorgehst, verrate ich dir in diesem Beitrag.
+<!--more-->
 
 ## Wieso du Second Hand kaufen solltest
 Um dich gleich mal vorneweg zu motivieren: Second Hand kaufen braucht zwar etwas Zeit, aber du kannst damit sehr viel Geld sparen. Nebenbei tust du auch noch aktiv etwas gegen Ressourcenverschwendung und Abfall.

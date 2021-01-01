@@ -11,6 +11,7 @@ related-posts: ["0087", "0059", "0053", "0043", "0031", "0049"]
 Minimalismus ist inzwischen ein fester Teil meines Lebens und hat es erheblich verbessert. Daher bin ich auch der festen Überzeugung, dass man selbst mit kleinem Einkommen sehr gut leben kann, es ist alles eine Frage von Prioritäten. Letztens bin ich allerdings über einen Artikel gestolpert, der behauptet, dass Minimalismus vor allem etwas für Privilegierte ist.
 
 Den besagten Artikel findest du hier: [Minimalistisch zu wohnen, können sich vor allem Privilegierte leisten](https://ze.tt/minimalistisch-zu-wohnen-koennen-sich-vor-allem-privilegierte-leisten/). Und das ist nicht der erste Beitrag, der mir über den Weg läuft und eine solche Position vertritt. Also dachte ich damit müsse ich mich mal beschäftigen - denn eigentlich sehe ich das anders.
+<!--more-->
 
 ## Der Minimalismus in seiner Grundform
 Minimalismus ist ein Lebensstil, in dem die essentiellen Dinge im Vordergrund stehen. Es geht darum für einen selbst Klarheit zu schaffen, sich von unnötigem Ballast zu befreien und so Raum für Wesentliches zu schaffen. **Durch das Ausmisten von Dinge, die wir nicht benutzen und nicht wertschätzen, schaffen wir mehr Raum und Freiheit.**

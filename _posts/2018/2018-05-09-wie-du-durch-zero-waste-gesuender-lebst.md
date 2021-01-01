@@ -9,6 +9,7 @@ keywords: [Zero Waste gesünder]
 related-posts: ["0083", "0067", "0054", "0044", "0034", "0026"]
 ---
 Wenn du Zero Waste lebst, dann tust du nicht nur was für die Umwelt, sondern auch für deine Gesundheit. Ja, das ist wirklich so. Und es ergibt sich auch einfach von selbst. Eigentlich tust du deinem ganzen Körper was Gutes. Warum das so ist… Ich werde dir ein paar Gründe aufzählen.
+<!--more-->
 
 ## Fertigprodukte sind kein Thema mehr
 Ja, richtig. Wenn du konsequent dabei bist, dann sind Fertigprodukte taboo oder es gibt sie zumindest nur sehr eingeschränkt. Aber auch wenn du da nicht so strikt bist, tendenziell kocht man, wenn man Müll vermeiden will, öfter und vor allem mit mehr frischen Zutaten.

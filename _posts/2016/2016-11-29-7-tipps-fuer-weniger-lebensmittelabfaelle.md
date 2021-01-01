@@ -9,6 +9,7 @@ keywords: [Lebensmittelabfälle, Lebensmittel wegwerfen]
 related-posts: ["0079", "0077", "0072", "0075", "0064", "0067"]
 ---
 Ich kenne das von mir selbst, auch wenn ich es ungern zugebe. Ich habe mir am Anfang auch keine Gedanken um Lebensmittelabfälle gemacht. Aber Lebensmittelabfälle zu vermeiden ist ebenso wichtig wie Verpackungsmüll zu vermeiden. Denn in die Produktion von Lebensmitteln gehen Unmengen an Ressourcen, Wasser, Energie, Arbeitskraft und Zeit, die dann in die Tonne wandern. Hier zeige ich dir wie du durch sieben einfache Schritte deinen Lebensmittelmüll auf ein Minimum reduzierst.
+<!--more-->
 
 ## Warum sind Lebensmittel&shy;abfälle ein so großes Thema?
 Eine Studie der Universität Stuttgart aus dem Jahr 2012 geht davon aus, dass ca. 11 Mio. Tonnen Lebensmittel in Deutschland jährlich in die Tonne wandern. Dabei entfallen 61% davon auf Privathaushalte, nur 17% auf jeweils die Industrie und Großverbraucher und nur etwas 5% auf den Handel. Großverbraucher sind etwa Restaurants, bei denen Lebensmittelabfälle anfallen, weil die Gäste nicht aufessen. Außerdem machen den Hauptanteil der vermeidbaren und teilweise vermeidbaren Lebensmittelabfälle Gemüse (26 Prozent) und Obst (18 Prozent) aus, gefolgt von Backwaren (15 Prozent) und Speiseresten (12 Prozent).

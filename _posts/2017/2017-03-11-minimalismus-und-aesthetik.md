@@ -9,6 +9,7 @@ keywords: [Minimalismus und Ästhetik]
 related-posts: ["0087", "0061", "0051", "0059", "0030", "0031"]
 ---
 Früher hatte ich Berge an Dekokram. Hier ein Bild, da eine Vase, dann noch eine Decke, damit es auch gemütlich wirkt, und und und. Heute habe ich nicht mehr so viele Dinge. Vor allem habe ich nicht mehr so viel Schnickschnack, der irgendwo rumsteht. Kleine Akzente und klare Linien gefallen mir besser. Minimalistisches Design eben.
+<!--more-->
 
 Vorneweg: Mit was oder wie jemand einrichten möchte ist jedem selbst überlassen. Es gibt unterschiedliche Geschmäcker wie Sand am Meer, also lass jeden das machen, was er für schön, gemütlich oder richtig hält. Bei mir ist es eben nun mal das klassisch minimalistische Design. Viel weiß, klare Linien, leere Oberflächen. Darauf steh' ich.
 

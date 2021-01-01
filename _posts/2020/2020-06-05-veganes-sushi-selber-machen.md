@@ -11,6 +11,7 @@ related-posts: ["0072", "0090", "0067", "0063", "0079", "0075"]
 Nachdem ich mal auf Instagram ein paar Fotos von unserem selbst gemachten veganen Sushi rausgehauen hatte, gab es schnell eine Nachfrage nach einem Rezept. Dem komme ich sehr gerne nach.
 
 Ich bin ein riesiger Sushi-Fan, bislang aber eher von der herkömmlichen Variante mit Fisch. Diese mag ich auch immer noch sehr gerne. Aber seit wir vor ein paar Jahren in Berlin veganes Sushi probiert hatten, waren mein Freund und ich überzeugt. Und seitdem haben wir es auch schon ein paar Mal zu Hause gemacht.
+<!--more-->
 
 ## Die Grundlagen
 Zuerst möchte ich dir die Grundlagen zeigen. Also: Was für Reis braucht man und wie bereitet man ihn zu? Und wie rollt man das Sushi dann? Und natürlich was du alles für Zutaten und Ausrüstung brauchst.

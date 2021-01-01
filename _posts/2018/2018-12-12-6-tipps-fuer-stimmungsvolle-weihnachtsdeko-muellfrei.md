@@ -9,6 +9,7 @@ keywords: [stimmungsvolle Weihnachtsdeko]
 related-posts: ["0016", "0015", "0027", "0052", "0059", "0092"]
 ---
 Auch dieses Jahr soll es wieder was zu nachhaltiger Weihnachtsdeko geben. Denn gerade für Weihnachten finde ich es besonders einfach mit natürlichen Materialien zu dekorieren und das zu nutzen, was man in der draußen so findet. Dieses Jahr möchte ich mal ein paar allgemeine Tipps geben, woher man seine Deko bekommen oder wie man etwas kreativ nutzen kann.
+<!--more-->
 
 ## Tanz der Lichter
 Wenn eines besonders wichtig ist, dann ist es das. Es mag daran liegen, dass die Sonnen in dieser Jahreszeit nicht viel Licht spendet und es viel dunkel ist, aber um Weihnachten werden wir alle wie magisch von den vielen kleinen Lichtern angezogen. Sie machen jeden Raum gemütlich und machen einen irgendwie sentimental.

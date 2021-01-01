@@ -11,6 +11,7 @@ related-posts: ["0046", "0057", "0038", "0023", "0013", "0062"]
 Es ist natürlich. Es ist kompostierbar. Es ist gratis. Schon als ich letztes Jahr meine Zero Waste Reise begann, stieß ich auf das Waschmittel aus Kastanien. Natürlich war ich sofort hin und weg und wollte es unbedingt ausprobieren. Da ich damals aber leider keine eigene Waschmaschine besaß, kein Gefäß für Handwäsche und auch keine Zeit hatte mich mit selbst gemachten Produkten auseinander zu setzen, fiel das ganze dann ins Wasser.
 
 Oder eben nicht. Bis vor gut 3 Wochen hatte ich das ganze dann zugegebener Maßen vergessen. Dann las ich einen Beitrag von Shia auf [wastelandrebel.com](http://wastelandrebel.com/) zum Thema und auch auf [dariadaria.com](http://dariadaria.com/) fand ich einen Artikel zu diesem natürlichen Waschmittel. Sofort war ich wieder Feuer und Flamme und dachte mir: "Yes. Dieses Jahr mach ich das!".
+<!--more-->
 
 Wir waren also vorletztes Wochenende Kastanien sammeln. Ich hatte zum Glück schon ein paar Orte bei uns in der Stadt entdeckt, wo Kastanienbäume stehen (da achtet man vorher ja nicht unbedingt drauf). Wir mussten auch nur zu einem Baum und hatten nach ein paar Minuten schon gut 2,7 Kg gesammelt. Es ging so unglaublich schnell, weil die Kastanien dort dicht beieinander lagen und es nicht unbedingt der Ort war (an einer der Hauptverkehrsstraßen) an denen Mütter mit ihren kleinen sammeln gehen - also gut für uns. Nächstes Wochenende wollen wir dann nochmal los gehen, damit wir auch genug haben, um damit lange auszukommen.
 

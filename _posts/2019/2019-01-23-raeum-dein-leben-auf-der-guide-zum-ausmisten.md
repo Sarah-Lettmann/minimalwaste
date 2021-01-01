@@ -9,6 +9,7 @@ keywords: [Guide zum Ausmisten]
 related-posts: ["0061", "0059", "0043", "0034", "0053", "0003"]
 ---
 Wir sind im neuen Jahr und bei vielen steht bestimmt auch ausmisten auf dem Plan für 2019. Darum gibt es heute einen Guide wie du am besten vorgehst, damit das Ausmisten auch Spaß macht und du mit dem Ergebnis zufrieden bist. Ach ja, und damit du nicht wahnsinnig wirst oder den Verstand verlierst. Denn manchmal hat man so viele Sachen, dass man schier darin unterzugehen scheint. Aber keine Sorge, Ruhe bewahren, Schritt für Schritt vorgehen, dann wird das.
+<!--more-->
 
 ## Der Prozess des Ausmistens
 Ich bin kein großer Fan der Konmarie-Methode. <mark>Das liegt daran, dass ich Ausmisten und Minimalisieren eher als lang anhaltenden Prozess sehen, wohingegen Marie Kondo erreichen will, dass man einmal für das ganze Leben aufräumt.</mark> Daher ist in diesem speziellen Fall auch die Methodik nach Kategorien auszumisten sinnvoll, denn so vergisst man nichts.

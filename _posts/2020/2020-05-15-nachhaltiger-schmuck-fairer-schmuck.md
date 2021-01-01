@@ -11,6 +11,7 @@ related-posts: ["0089", "0011", "0086", "0050", "0042", "0062"]
 Mit fairer Mode habe ich mich ja schon etwas hier auf dem Blog auseinander gesetzt. Neben nachhaltiger Kleidung darf aber auch das Armband oder die Ohrringe nicht fehlen. Diese sollten auch umweltschonend und fair produziert sein. Darum habe ich in diesem Post einige Shops zusammen gesucht, die nachhaltigen und fairen Schmuck verkaufen.
 
 Oft zeichnen sich diese Labels auch dadurch aus, dass sie zwar in Ländern wie Indien, Kenia oder Indonesien produzieren, ihren Arbeitern aber faire Arbeitsbedingungen zukommen lassen und sie auch gerecht entlohnen. Somit tun sie etwas für die Infrastruktur in diesen Ländern und kämpfen gegen soziale Ungerechtigkeit. Das finde ich sehr gut. Außerdem sind natürlich die Materialien in der Regel umweltfreundlich und fair gefördert.
+<!--more-->
 
 ## Was ist das Problem bei konventionellem Schmuck
 Zuerst aber will ich klären wo die Probleme beim Schmuckkauf liegen.

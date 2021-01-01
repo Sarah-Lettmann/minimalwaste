@@ -9,6 +9,7 @@ keywords: [Was kostet Zero Waste im Haushalt]
 related-posts: ["0088", "0040", "0020", "0026", "0055", "0029"]
 ---
 Wenn es um Zero Waste oder im Allgemeinen um Nachhaltigkeit geht, wollen die meisten immer erst mal wissen: “Ist das nicht viel zu teuer?” oder “Kann man sich das als normaler Mensch überhaupt leisten?”. Vor einigen Wochen habe ich bereits einen Post zum Thema [“Was kostet Zero Waste im Badezimmer”](/blog/was-kostet-zero-waste-im-badezimmer/) gemacht. Und es hat sich herausgestellt, dass viele Dinge sogar günstiger sind. Heute widmen wir uns dem Haushalt, also Putzmitteln, Taschentüchern, usw.
+<!--more-->
 
 Die Kosten habe ich wie beim letzten mal bei den Zero Waste Alternativen daraus bezogen, was ich selbst nutze oder kaufe. Für die Preise der herkömmlichen Dinge habe ich mich bei DM, Aldi oder Butlers an wirklich günstigen Produkten orientiert. <mark>Ich vergleiche hier also nichts mit einem Markenprodukt, ja noch nicht mal mit einem verpackten aber vermeintlich nachhaltigen Produkt</mark> sondern nur mit den günstigsten, da ich zeigen will, dass Zero Waste für jeden erschwinglich und sogar sinnvoll ist, wenn man auf’s Geld achten muss.
 

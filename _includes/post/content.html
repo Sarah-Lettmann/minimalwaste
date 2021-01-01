@@ -1,23 +1,28 @@
 <div class="post__content">
   <p class="post__subtitle"><span class="visually-hidden">Untertitel: </span>{{ page.subtitle }}</p>
-  {{ page.excerpt }}
+
+  {% assign content_array = page.content | split: site.excerpt_separator %}
+  {% assign excerpt = content_array | first %}
+  {% assign content = content_array | last %}
+
+  {{ excerpt }}
 
   {% include post/lead-magnet.html %}
 
   {% assign paragraphs = content | split: '<p>' %}
-  {% for p in paragraphs offset:2 limit:4 %}
+  {% for p in paragraphs limit:4 %}
     <p>{{ p }}
   {% endfor %}
 
   {% include ads/inpost.html %}
 
-  {% for p in paragraphs offset:6 limit:4 %}
+  {% for p in paragraphs offset:4 limit:4 %}
     <p>{{ p }}
   {% endfor %}
 
   {% include patreon-banner.html %}
 
-  {% for p in paragraphs offset:10 %}
+  {% for p in paragraphs offset:8 %}
     <p>{{ p }}
   {% endfor %}
 

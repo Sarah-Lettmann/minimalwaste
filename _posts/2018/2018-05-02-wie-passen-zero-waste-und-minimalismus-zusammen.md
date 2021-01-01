@@ -9,6 +9,7 @@ keywords: [Zero Waste und Minimalismus]
 related-posts: ["0051", "0044", "0043", "0062", "0003", "0007"]
 ---
 Seit ich so richtig mit Zero Waste losgelegt habe, kam mir immer wieder folgender Gedanke: Ein richtig krasser Minimalist würde das wahrscheinlich anders machen. Wo liegen also große Unterschiede zwischen Minimalismus und Zero Waste und wo ergänzen sich diese beiden Lebensstile? Irgendwie finde ich das Thema spannend, deshalb werde ich dir das mal in ein paar Punkten erörtern.
+<!--more-->
 
 _Das hier ist allein meine persönliche Meinung und die Punkte beruhen auf meinen eigenen Erfahrungen. Ich will damit niemanden in eine Schublade stecken, ich hatte nur Spaß daran Vergleiche zu ziehen. Also nimmst locker, wenn du irgendwas anders siehst. Auch ich weiß, dass es da genug Gegenbeispiele gibt._
 

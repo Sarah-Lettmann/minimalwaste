@@ -11,6 +11,7 @@ related-posts: ["0094", "0061", "0086", "0080", "0059", "0051"]
 Auf Minimalismus als Lebensstil bin ich das erste mal vor knapp fünf Jahren gestoßen. Und seitdem habe ich einiges dazu gelernt. Minimalismus zu leben hat mir geholfen, besser auf meinen Konsum zu achten und sehr kritisch mit den Dingen zu sein, die ich in meine Wohnung lasse.
 
 Die Wohnung von mir und meinem Freund ist dadurch zwar (fast) immer ordentlich und wir haben relativ wenig Zeug, aber trotzdem sehe ich mich nicht als klassischen Minimalisten. Das muss auch gar nicht sein. Ich finde die grundlegenden Gedanken des Minimalismus können für jeden Menschen hilfreich sein.
+<!--more-->
 
 Deshalb möchte ich dir heute ein paar Tipps für den Anfang geben und verraten wie du am besten am Ball bleibst - quasi den Lebensstil zu verinnerlichen und wirklich Minimalismus leben zu lernen.
 

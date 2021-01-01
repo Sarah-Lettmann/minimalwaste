@@ -11,6 +11,7 @@ related-posts: ["0041", "0024", "0058", "0040", "0066", "0055"]
 Badebomben sind in der Regel die Alternative, wenn man auf müllfreien Badezusatz umsteigen will. Allerdings sind diese meist ziemlich teuer und man bekommt sie auch nicht überall. Deshalb habe ich  zu Anfang des Jahres beschlossen zu lernen, diese selbst zu herzustellen. Hier das Ergebnis.
 
 Vorher habe ich Badebomben meistens bei Lush gekauft. <mark>Mit 7€ das Stück sind mir diese für das regelmäßige Baden aber wirklich zu teuer, selbst wenn man eine Badebombe für vier Bäder nutzen könnte.</mark> Also ein guter Punkt, um mal etwas selbst zu machen.
+<!--more-->
 
 Ein ähnliches Rezept habe ich übrigens schonmal auf [EcoYou als Gastbeitrag](https://ecoyou.de/badekugeln-selber-machen/) veröffentlicht. Ich habe dieses aber nochmal etwas überarbeitet.
 

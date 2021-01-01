@@ -8,9 +8,8 @@ description: "Interrail und Backpacking sind tedenziell günstige Reisemethoden.
 keywords: [Interrail, Interrail Reise, Interrail Kosten]
 related-posts: ["0068", "0069", "0070", "0049", "0013", "0064"]
 ---
-Unsere Reise mit Interrail war wirklich spannend und wir haben viel gesehen. Aber ich habe auch eine Kniffe gelernt, wie man auf so einer Reise Geld sparen kann. Denn bei 22 Tagen unterwegs und 12 Städten kann man nicht immer Essen gehen oder jede kostenpflichtige Sehenswürdigkeit benutzen, das wäre einfach viel zu teuer geworden. Meine Tipps wie du auf einer solchen Reise und auch im Allgemeinen im Urlaub Geld sparen kannst, aber trotzdem nichts einbüßt, möchte ich hier mit dir teilen.
-
-Und keine Sorgen, wenn das alles sehr viel ist. Am Ende gibt es nochmal eine Zusammenfassung.
+Unsere Reise mit Interrail war wirklich spannend und wir haben viel gesehen. Aber ich habe auch eine Kniffe gelernt, wie man auf so einer Reise Geld sparen kann. Denn bei 22 Tagen unterwegs und 12 Städten kann man nicht immer Essen gehen oder jede kostenpflichtige Sehenswürdigkeit benutzen, das wäre einfach viel zu teuer geworden. Meine Tipps wie du auf einer solchen Reise und auch im Allgemeinen im Urlaub Geld sparen kannst, aber trotzdem nichts einbüßt, möchte ich hier mit dir teilen. Und keine Sorgen, wenn das alles sehr viel ist. Am Ende gibt es nochmal eine Zusammenfassung.
+<!--more-->
 
 ## Reiseführer
 Mein erster Tipp lautet: **Lass die Reiseführer zu Hause**. Die Büchlein nehmen im Rucksack nur wertvollen Platz weg und sind vielleicht schon nicht mehr up to date. **Leichter reist du mit Apps** wie [Tripadvisor](https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor) oder [Guides by Lonely Planet](https://play.google.com/store/apps/details?id=com.lonelyplanet.guides). Mit diesen Apps kannst du nicht nur Sehenswürdigkeiten und Veranstaltungen finden, sondern auch Restaurants und Hostels. Dazu aber später mehr.

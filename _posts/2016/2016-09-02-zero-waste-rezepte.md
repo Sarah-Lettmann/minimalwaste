@@ -9,6 +9,7 @@ keywords: [Zero Waste Rezepte, müllfreie Rezepte]
 related-posts: ["0029", "0055", "0039", "0025", "0060", "0066"]
 ---
 Auf dieser Seite findest du eine Sammlung von Rezepten für allerlei Dinge, die man ganz leicht selber herstellen kann. Das geht immer super schnell und einfach und spart dabei auch noch Geld. Gerade Reinigungsmittel und Kosmetika warten mit meist unübersichtlichen Inhaltsstoffliste auf. Und oft sind einige Stoffe nicht genau geprüft, sogar nachweislich schädlich oder schlecht für die Umwelt.
+<!--more-->
 
 Ich habe lange recherchiert und mir Rezepte zusammengestellt, die günstig sind, wirksam und schnell herzustellen. <mark>Alle aufgelisteten Rezepte habe ich schon selbst getestet und einige davon verwende ich schon im Alltag.</mark> Der Rest folgt, wenn ich die Reste an Putzmittel aufgebraucht habe, die hier noch so rum lungern. Viel Spaß beim selbst ausprobieren!
 

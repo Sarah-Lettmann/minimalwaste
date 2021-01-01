@@ -9,6 +9,7 @@ keywords: [Freizeitgestaltung für zu Hause]
 related-posts: ["0074", "0017", "0021", "0043", "0030", "0031"]
 ---
 Ich bin immer wieder auf der Suche nach Ideen, wie man Abende auch mal schön zu Hause verbringen kann. Man muss ja nicht immer weg gehen. Zu Hause hat man es meistens sowieso gemütlicher und man kommt um einiges günstiger weg. Und da man zu Hause viel mehr Freiheiten hat, was man genau macht, sind die Abende meistens auch schöner, geselliger und man führt bessere Gespräche. Ich habe hier mal ein paar Ideen für dich zusammengestellt.
+<!--more-->
 
 ## Die Klassiker
 Ein paar klassische Ideen, die einfach immer gehen.

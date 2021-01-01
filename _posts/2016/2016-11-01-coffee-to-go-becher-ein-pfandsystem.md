@@ -11,6 +11,7 @@ related-posts: ["0022", "0064", "0072", "0065", "0037", "0025"]
 Seit ich versuche Zero Waste zu leben und meinen Müll immer weiter zu reduzieren, kommt mir oft der Gedanke, dass in vielen Bereichen ein Pfandsystem eine einfache und ökologische Lösung wäre. Damit meine ich natürlich Mehrweg, denn Einwegpfand ist eine zwar nicht sinnfreie Erfindung gewesen, aber auch nicht des Rätsels Lösung.
 
 Wieso also kann ich nur manche Milchprodukte im Glas kaufen, aber keine Butter. Wieso sind Ölflaschen und Weinflaschen vom Pfand ausgenommen? Und wieso nur kann es keine mehrfach verwendbaren Coffee-to-go Becher geben? Immer wieder plagen mich diese Gedanken und tauchen ständig auf, wenn ich einkaufe oder in der Stadt unterwegs bin.
+<!--more-->
 
 Natürlich ist mir klar, dass es Lösungsansätze gibt und einige junge Entrepreneure schon lange an Mehrwegsystemen tüfteln, die robust, leicht zu reinigen und am besten noch biologisch abbaubar sind. Das finde ich super! Aber diese müssen leider auch ihren Weg in die freie Wirtschaft und in die Hand/Einkaufstasche des Konsumenten finden. Letztens bin ich dann [bei Twitter über einen Artikel zu diesem Thema gestolpert](http://www.bento.de/nachhaltigkeit/coffee-to-go-ist-bald-kein-muellproblem-mehr-954409/) und habe erfahren, dass sich in Hamburg einige Cafes zusammengetan haben, um ein Mehrwegsystem einzuführen. Das ist natürlich ein wirklich tolle Sache, denn wenn einige mal anfangen, ziehen viele nach.
 

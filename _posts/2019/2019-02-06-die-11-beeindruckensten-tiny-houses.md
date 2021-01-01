@@ -9,6 +9,7 @@ keywords: [Tiny House, Mini-Haus]
 related-posts: ["0059", "0051", "0061", "0045", "0048", "0034"]
 ---
 Die Tiny House Bewegung finde ich unglaublich faszinierend. Nicht nur ausgehend vom Minimalismus - also dem sich Verkleinern, weniger besitzen, mit weniger zufrieden sein - sondern auch, weil Platz und viel Raum für den einzelnen immer mehr zum Problem wird. Die Bevölkerung wächst ständig und immer mehr Menschen ziehen in die Städte - das bedeutet Leben auf engstem Raum. Tiny Houses können eine Möglichkeit sein, diesen kleinen Raum sehr angenehm und lebenswert zu gestalten.
+<!--more-->
 
 <mark>Dahinter stehen oft clevere Raumkonzepte, multifunktionales Mobiliar und eine effiziente Nutzung des wenigen Platzes.</mark> Ich habe mir schon viele Tiny Houses angesehen und dir hier meine “Lieblingsstücke” zusammengestellt.
 

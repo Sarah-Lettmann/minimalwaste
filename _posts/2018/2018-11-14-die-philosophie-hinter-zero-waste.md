@@ -9,6 +9,7 @@ keywords: [Philosophie hinter Zero Waste]
 related-posts: ["0062", "0025", "0084", "0073", "0034", "0083"]
 ---
 Es gibt ein paar einfache Prinzipien, an die man sich bei der Müllreduzierung und -vermeidung halten kann. Das gilt sowohl für den Anfang, als auch für jeden anderen Zeitpunkt. Zero Waste zu werden oder zumindest so wenig Müll wie möglich zu hinterlassen ist ein Prozess. Man kann das kaum über Nacht schaffen und es gibt immer Raum für Verbesserungen. Wonach sollte man sich also richten, wenn man Müll vermeiden will?
+<!--more-->
 
 ## Analysiere deinen Müll
 Zuallererst solltest du deinen Feind kennen - also deinen Müll. Denn wenn du nicht weißt wo er herkommt, kannst du nur schlecht an den richtigen Stellen ansetzen. Du könntest natürlich auch wahllos Dinge austauschen, aber das bringt nicht den gleichen Effekt mit sich. Wenn du deinen Müll kennst, weißt du, welche Dinge du am häufigsten wegschmeißt. Das sind genau die Kandidaten, die wir uns zuerst vornehmen wollen.

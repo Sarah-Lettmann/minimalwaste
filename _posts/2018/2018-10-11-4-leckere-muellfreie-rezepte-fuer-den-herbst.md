@@ -9,6 +9,7 @@ keywords: [müllfreie Rezepte]
 related-posts: ["0092", "0072", "0067", "0085", "0022", "0025"]
 ---
 Passend zum Herbstbeginn gibt es heute ein paar lecker müllfreie Rezepte, die sich leicht herstellen lassen. Dabei spielt natürlich Kürbis eine Hauptrolle - wie sollte es im Herbst sonst sein. Die ersten beiden Rezepte sind eher Grundlagen und diese kann man immer wieder in verschiedenen Gerichten verwenden, nicht nur in den beiden, die ich danach noch vorstelle. Also viel Spaß und lass es dir schmecken!
+<!--more-->
 
 ## Pumpkin Spice (Gewürzmischung)
 Was du brauchst:  

@@ -9,6 +9,7 @@ keywords: [Interrail, Interrail Ticket, Interrail Pass]
 related-posts: ["0069", "0070", "0071", "0075", "0013", "0064"]
 ---
 Im September vergangenen Jahres waren mein Freund und ich auf einer Rundreise durch Europa. Das ganze haben wir klassisch im Backpacker Stil gemacht: mit Rucksäcken auf dem Rücken und im Zug. Möglich war das dank Interrail, das es wie du vielleicht nicht weißt heute immer noch gibt. Ich möchte dir erklären wie du so eine Reise planst und vorbereitest und auf welche Tiefen und Höhen du gespannt sein kannst.
+<!--more-->
 
 ## Recherche
 Zuerst brauchst du natürlich jede Menge Infos. Diese möchte ich dir natürlch auch in diesem Artikel geben, aber darüber hinaus gibt es noch viele weitere Anlaufstellen, wo du unzählige Infos zu Interrail und auch allgemein zu Zugreisen durch Europa bekommst. Das ist nämlich heute immer noch ein Ding und lebt zudem langsam wieder auf, was ich sehr gut finde.

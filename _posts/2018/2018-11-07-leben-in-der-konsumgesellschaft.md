@@ -9,6 +9,7 @@ keywords: [Konsumgesellschaft]
 related-posts: ["0049", "0053", "0061", "0021", "0017", "0051"]
 ---
 Warum ist Minimalismus so ein großer Trend? Weil es eine krasse Gegenbewegung zu unserem aktuell normalen Lebensstil ist: Wir kaufen, kaufen, kaufen, kaufen. Wir leben in einer Konsumgesellschaft, getrieben vom Kapitalismus müssen wir die Wirtschaft ankurbeln, damit es allen weiterhin gut geht. Denn wenn die Wirtschaft wächst, dann ist alles super, richtig? Fraglich. Nach welchen Regeln leben wir eigentlich tagtäglich und wieso sind wir so darauf gepolt immer weiter zu konsumieren? Ich habe mir das mal ein bisschen genauer angeschaut.
+<!--more-->
 
 ### Bedürfnisse vs. Bedarf
 Wir Menschen habe bestimmte Bedürfnisse, die wir befriedigen wollen und wir haben einen Bedarf. Dabei handelt es sich aber nicht um das gleiche. Vielmehr schaffen Bedürfnisse die Grundlage für einen aufkommenden Bedarf.

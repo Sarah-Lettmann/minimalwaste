@@ -8,9 +8,8 @@ description: "Zero Waste kann so einfach sein. Mit diesen Alternativen Zero Wast
 keywords: [Zero Waste Peeling]
 related-posts: ["0076", "0060", "0026", "0066", "0014", "0041"]
 ---
-Bei Zero Waste gilt: Es gibt viele gute Alternativen und einiges kann man auch selbst machen. Das gilt z.B. auch für diese Zero Waste Peelings, die ich dir in diesem Post vorstellen will. Es geht dabei um 3 verschiedene Varianten, damit auch für jeden etwas dabei ist. Ich zeige dir ein Kaffee-Orangen Peeling, ein Lavendel-Salz Peeling und ein Zitronen-Zucker Peeling.
-
-Alle diese Peelings sind sehr einfach herzustellen und bestehen nur aus drei bis vier Zutaten. Also, alles kein Hexenwerk. Los geht's!
+Bei Zero Waste gilt: Es gibt viele gute Alternativen und einiges kann man auch selbst machen. Das gilt z.B. auch für diese Zero Waste Peelings, die ich dir in diesem Post vorstellen will. Es geht dabei um 3 verschiedene Varianten, damit auch für jeden etwas dabei ist. Ich zeige dir ein Kaffee-Orangen Peeling, ein Lavendel-Salz Peeling und ein Zitronen-Zucker Peeling. Alle diese Peelings sind sehr einfach herzustellen und bestehen nur aus drei bis vier Zutaten. Also, alles kein Hexenwerk. Los geht's!
+<!--more-->
 
 _Die Kostenersparnis rechne ich diesmal nicht aus, weil sie sofort ins Auge springt. Die Zutaten kosten alle nur wenige Cents._
 

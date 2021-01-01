@@ -11,6 +11,7 @@ related-posts: ["0091", "0018", "0025", "0036", "0067", "0054"]
 Glas wird immer als nachhaltige Alternative zu Plastik promotet, ähnlich wie Papier. Jährlich werden alleine in Deutschland circa zwei Millionen Tonnen Altglas eingesammlt und recycelt. Aber aus welchen Gründen sind Verpackungen aus Glas soviel nachhaltiger? Wie sieht der Recyclingprozess aus? Wie steht es mit Transportwegen und den damit verbundenen Emissionen? Und welche Rolle in der Rechnung spielen eigentlich Pfandgläser? Auf diese Fragen wollen wir heute Antworten finden.
 
 Zunächst will ich aber ein paar Grundlegende Dinge klären. Nämlich wie Recycling von Glas eigentlich richtig geht, also was in welchen Container kommt und welche Glassorten gar nicht hinein sondern in den Hausmüll gehören.
+<!--more-->
 
 ## Was gehört in den Container?
 Ist doch eigentlich ganz einfach, dachte ich. Braun zu braun, grün zu grün und weiß zu weiß. Tja, allerdings ist es manchmal schwierig die Farben unterscheiden zu können. Oftmals haben Flaschen eher ein grün-bräunliches Glas. Oder was ist beipielsweise mit andersfarbigem Glas, das blau oder rot ist?

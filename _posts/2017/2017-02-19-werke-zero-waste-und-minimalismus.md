@@ -11,6 +11,7 @@ related-posts: ["0062", "0057", "0043", "0044", "0059", "0042"]
 Möchtest du auch gerne mehr zu den Themen Nachhaltigkeit, Zero Waste und Minimalismus erfahren? Mir ist es zu Beginn schwer gefallen Informationen zu finden. Deshalb hier einige Inspiration für dich, damit du zukünftig gut informiert bist und Freunden und Familie Rede und Antwort stehen kannst.
 
 Diese Liste aktualisiere ich momentan nicht mehr.[Dafür führe ich aber eine aktuellere Liste auf meiner Patreon-Seite](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}.
+<!--more-->
 
 ## Bücher
   * [Barfuss in Manhatten](https://www.goodreads.com/book/show/8480729-barfu-in-manhattan)

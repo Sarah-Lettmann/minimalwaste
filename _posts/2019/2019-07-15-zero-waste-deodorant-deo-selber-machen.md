@@ -9,6 +9,7 @@ keywords: [Zero Waste Deodorant, Deo selber machen, mülllfreies Deo]
 related-posts: ["0060", "0024", "0078", "0041", "0040", "0076"]
 ---
 Kein Mensch will stinken. Und obwohl das effektivste Mittel dagegen wohl regelmäßiges Duschen ist, wissen wir doch alle, dass man tagsüber im Job oder unterwegs ganz schön ins Schwitzen geraten kann. Was da hilft ist ein Deo. Aber da das hier ein nachhaltiger und müllfreie Blog ist, soll es bitte ein Zero Waste Deodorant sein. Wie man das selber macht, zeige ich dir heute - einmal zum Sprühen und einmal in einer festen Variante.
+<!--more-->
 
 ## Was kommt rein?
 Die beiden wichtigsten Bestandteile sind Natron und Teebaumöl. **Natron kann Gerüche gut neutralisieren**, aber setzt sich nicht in deine Poren. Wir stellen hier also **keine Anti-Transpirante** her. Das ist aber auch gut so, denn Schwitzen ist richtig und wichtig.

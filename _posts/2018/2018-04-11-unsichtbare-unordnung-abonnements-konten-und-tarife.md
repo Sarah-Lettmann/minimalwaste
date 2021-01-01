@@ -9,6 +9,7 @@ keywords: [Unsichtbare Unordnung]
 related-posts: ["0030", "0028", "0029", "0051", "0053", "0042"]
 ---
 Letzte Woche haben wir uns ja schon deiner Dokumente angenommen. Diese Woche ist der fiese Kleinkram dran. Diese Dinger sind wirklich nervig, denn meistens fressen sie auch noch heimlich still und leise ein Loch in deinen Geldbeutel. Wir widmen uns also heute konkret: Bankkonten, E-Mail Adressen, Abonnements, Newslettern, Tarifen, Sim-Karten, Passwörtern sowie Vereins- und Clubmitgliedschaften.
+<!--more-->
 
 Und falls du den ersten Teil verpasst hast: [Unsichtbare Unordnung: Dokumente Strukturieren](/blog/unsichtbare-unordnung-dokumente-strukturieren)
 

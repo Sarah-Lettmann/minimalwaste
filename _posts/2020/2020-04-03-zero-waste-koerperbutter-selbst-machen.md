@@ -9,6 +9,7 @@ keywords: [Zero Waste Körperbutter, Zero Waste Bodybutter]
 related-posts: ["0060", "0066", "0026", "0024", "0041", "0058"]
 ---
 Schon eine ganze Weile kaufe ich keine normale Bodylotion oder Cremes mehr, sondern mache sie selbst. In diesem Post will ich dir zeigen, wie du mit drei einfachen Zutaten Zero Waste Körperbutter herstellen kannst, und somit einen Ersatz für so ziemlich jede andere Creme da draußen zur Hand hast.
+<!--more-->
 
 ## Das Prinzip
 Es geht hauptsächlich um das Zusammenbringen von verschiedenen Ölen, die dafür sorgen, dass die Haut die Feuchtigkeit besser halten kann. Diese Körperbutter eignet sich als Creme, als Lippenbalsam, Gesichts- und Nagelpflege und kann sogar zum Abschminken verwendet werden. Ich verwende sie für alle diese Bereiche und bin sehr zufrieden damit (zum Abschminken eher selten, da ich kein wasserfestes Makeup benutze).

@@ -13,6 +13,7 @@ related-posts: ["0029", "0039", "0078", "0002", "0041", "0025"]
 Langsam werden die Tage wieder länger, die Vögel fangen an zu singen und die Stimmung wird besser. Der Frühling steht vor der Tür. Somit wird es Zeit entwas aufzuräumen und sauber zu machen, um gut in die wärmeren Tage starten zu können. Dafür möchte ich dir ein paar einfache DIYs zeigen, die natürlich ohne Müll auskommen und dir helfen deine Wohnunung oder dein Haus sauber zu halten.
 
 Letztes Jahr habe ich ja schon meine Basics geszeigt, wenn es um selbst gemachte Reiniger geht. Dieses Mal soll es nicht direkt um Reiniger gehen, sondern um allerlei Mittelchen, die man im Haushalt benötigt. Genauer zeigen will ich dir ein selbstgemachtes **Spülmaschinenpulver** sowie **Klarspüler**. Außerdem gibt es noch ein **Textilspray** mit dem du deine Möbelbezüge und Vorhänge auffrischen kannst und ich zeige dir, wie du deine **Spülbürste effektiv reinigen** kannst. Als kleinen Bonus gibt es noch den Tipp wie du fast jedes **Etikett vom Glas entfernen** kannst. Dann lass uns mal anfangen.
+<!--more-->
 
 ## Das Spülmaschinen&shy;pulver
 Für das Spülmaschinenpulver brauchen wir nur drei Zutaten: **Natron**, **Zitronensäure** und **Waschsoda** (manchmal auch reines Soda genannt). Das bekommst du alles günstig im Unverpackt Laden in deiner Nähe oder in jeder Drogerie. Diese Zutaten mischen wir zu gleichen Teilen zusammen und füllen sie in ein Glas zur Aufbewahrung.

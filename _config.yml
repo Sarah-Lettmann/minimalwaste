@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minimalwaste.de" # the base hostname & protocol for yur site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
 permalink: /blog/:title/
+excerpt_separator: "<!--more-->"
 pagelinks-posts: ["0076", "0059", "0057"]
 featured-posts: ["0084", "0064", "0094", "0051", "0042"]
 start-zero-waste: ["0084", "0083", "0088", "0062", "0073", "0037"]
@@ -59,7 +60,6 @@ defaults:
     values:
       layout: "post"
       author: "sarah-lettmann"
-      excerpt_separator: <!--more-->
   -
     scope:
       path: "" # an empty string here means all files in the project

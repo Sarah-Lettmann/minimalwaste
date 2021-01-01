@@ -9,6 +9,7 @@ keywords: [Alternativen]
 related-posts: ["0084", "0015", "0023", "0026", "0035", "0062"]
 ---
 Zero Waste kann in manchen Dingen sooo einfach sein (Beispiel Mehrwegtrinkflasche + Leitungswasser). Aber in vieler Hinsicht ist es auch echt anstrengend, besonders, wenn man noch seinen Flow finden muss und sich noch nicht mit allem auskennt. Kreativität ist oft gefordert, um Alternativen zu finden. Aber dafür bin ich ja da. In diesem Post zeige ich dir Alternativen für 8 alltägliche Dinge, von denen du nicht denken würdest, dass man sie so einfach ersetzen kann. Also, los geht’s!
+<!--more-->
 
 ## Kaffeefilter
 Kaffee ist für viele ein Muss. Für mich zwar nicht, ich bin leidenschaftliche Teetrinkerin, aber ich wohne mit einem Kaffee-Liebhaber zusammen und, was soll ich sagen, man lernt schnell, dass Kaffee nicht verhandelbar ist.

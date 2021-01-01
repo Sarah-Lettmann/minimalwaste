@@ -9,6 +9,7 @@ keywords: [fragen zum unverpackt einkaufen, unverpackt einkaufen]
 related-posts: ["0065", "0020", "0084", "0013", "0073", "0044"]
 ---
 Immer wieder bekomme ich aus meinem Bekannten- und Verwandtenkreis den Eindruck, dass Zero Waste als sehr spannend und erstrebenswert empfunden wird, aber viele nicht wissen, wie sie das ganze angehen sollen oder einfach sehr unsicher sind. Hier also ein paar typische Fragen, die man sich stellt (erarbeitet mit meinem Papa) und die Antworten darauf.
+<!--more-->
 
 ## 1. Wo bekomme ich Dinge unverpackt?
 Das kann eine durchaus schwierige Frage sein. Falls du in einer größeren Stadt wohnst, ist es inzwischen recht wahrscheinlich, dass es dort einen Unverpackt Laden gibt. Dort bekommt man in der Regel trockene Lebensmittel sehr gut - so wie **Nudeln, Reis, Gewürze, Tee, Süßigkeiten** - aber auch **Öle und Essig, Eier, Milchprodukte** und auch eine kleinere Auswahl an **Obst und Gemüse**. Bei uns in Darmstadt gibt es auch eine kleine Auswahl an **Käse und Würsten**. Aber das Sortiment variiert von Laden zu Laden, also schau vielleicht vorher mal vorbei und entdecke das Angebot.

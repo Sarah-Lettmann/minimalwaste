@@ -11,6 +11,7 @@ related-posts: ["0045", "0028", "0030", "0031", "0051", "0017"]
 Momentan müssen wir alle mehr Zeit drinnen verbringen als uns eigentlich liebt wäre. Und das gerade jetzt wo der Frühling anfängt. Aber man kann eben nur versuchen das beste aus so einer Situation zu machen, weshalb ich hier spontan mal ein paar Ideen für dich zusammen geschrieben habe.
 
 Als gute Ergänzung zu diesem Beitrag empfehle ich dir [15 Ideen für Freizeit­gestaltung zu Hause](/blog/15-ideen-fuer-guenstige-freizeitgestaltung-fuer-zu-hause/)
+<!--more-->
 
 Und lass uns gemeinsam in den Kommentaren noch weitere Ideen sammeln, damit wir alle zusammen die Zeit gut überstehen 😁👇.
 

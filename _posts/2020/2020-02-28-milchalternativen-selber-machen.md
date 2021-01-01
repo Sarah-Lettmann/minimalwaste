@@ -9,6 +9,7 @@ keywords: [Pflanzliche Milch, Milchalternativen]
 related-posts: ["0090", "0085", "0079", "0067", "0077", "0022"]
 ---
 Wenn man was für die Umwelt tun will, ist es keine schlechte Idee ein bisschen weniger tierische Produkte zu konsumieren und stattdessen auf vegane Alternativen umzusteigen. Ein guter erster Ansatzpunkt sind Milchalternativen. Meine liebsten sind Hafermilch und Mandelmilch. Diese will ich dir in diesem Post zeigen.
+<!--more-->
 
 ## Warum Hafer- und Mandelmilch selber machen?
 Positiver Nebeneffekt vom Selbermachen ist das Vermeiden des lästigen Tetrapacks, in dem Hafer-, Mandel-, oder andere Pflanzliche Milch normalerweise kommt. Im Glas habe ich sowas leider noch nicht gesehen.

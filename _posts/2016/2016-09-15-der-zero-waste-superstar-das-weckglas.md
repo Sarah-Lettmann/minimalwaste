@@ -13,6 +13,7 @@ Heute möchte ich dir meinen absoluten Favoriten und Alleskönner in Sachen Aufb
 Es gibt zwar auch allerlei Dosen aus Edelstahl auf dem Markt, aber die sind meistens nicht vollständig dicht, sodass Flüssigkeiten austreten können. Gerade als Transportmittel finde ich sie daher eher ungeeignet. Als Varianten aus Glas verwenden wir zusätzlich zu unseren Weckgläsern auch noch Lock & Lock Glasdosen. In einer großen Form machen wir regelmäßig verschiedene Aufläufe. Wenn was übrig bleibt, kann man einfach den Deckel drauf machen und das ganze im Kühlschrank verstauen. Nachteil dabei: Der Deckel ist leider aus Plastik.
 
 Weckgläser hingegen sind vollständig aus Glas und in vielen unterschiedlichen Formen und Größen erhältlich. Sogar Flaschen gibt es zum Aufbewahren von Säften oder selbst gemachter Nussmilch. Der Deckel wird mit einem Dichtungsring aus Gummi dazwischen mit zwei Klammer am Glas befestigt.
+<!--more-->
 
 ## Einfach zu reinigen, platzsparend aufzubewahren und sehr robust
 Wir verwenden außerdem Gläser mit einer geraden Form, weil solche besonders leicht zu reinigen sind. Dabei ist aber auch der Deckel sehr praktisch, der bei allen Weckgläsern eine einfache Form hat und so ebenfalls schnell und einfach zu reinigen ist. Unsere Gläser kommen mit Deckel und Dichtungsring in die Spülmaschine und sind danach blitzblank. Durch die einfache Form lässt sich auch alles sehr platzsparend im Schrank verstauen - sowohl die Deckel als auch die Gläser lassen sich problemlos stapeln.

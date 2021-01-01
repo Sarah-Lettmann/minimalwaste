@@ -10,9 +10,10 @@ related-posts: ["0086", "0082", "0042", "0089", "0043", "0059"]
 ---
 Faire und nachhaltige Mode ist ein wichtiger Aspekt, wenn man nachhaltiger Leben und seinen ökologischen Fußabdruck klein halten möchte. Zudem kannst du damit für faire Arbeitsbedingungen und Lohn für die Arbeiter eintreten und unterstützt die Verwendung von recycelten oder natürlichen und biologisch abbaubaren Rohstoffen.
 
-Es gibt auch Labels, die sich auf vegane Kleidungsstücke spezialisiert haben. Für die Herstellung ihrer Produkte wird meist recyceltes Plastik oder Bioplastik verwendet. Du hast also die freie Auswahl, egal worauf du bei der Wahl deiner Kleidungsstücke den Schwerpunkt legen möchtest. In dieser Liste habe ich dir allerlei Onlineshops zusammengetragen, die nachhaltig und fair produzierte Mode verkaufen. Man glaubt gar nicht, dass Öko Mode so schick sein kann :D.
+Es gibt auch Labels, die sich auf vegane Kleidungsstücke spezialisiert haben. Für die Herstellung ihrer Produkte wird meist recyceltes Plastik oder Bioplastik verwendet. Du hast also die freie Auswahl, egal worauf du bei der Wahl deiner Kleidungsstücke den Schwerpunkt legen möchtest. In dieser Liste habe ich dir allerlei Onlineshops zusammengetragen, die nachhaltig und fair produzierte Mode verkaufen. Man glaubt gar nicht, dass Öko Mode so schick sein kann.
 
 Nun stellt sich aber immer die Frage: Wieso genau handelt es sich um nachhaltige Mode? Welche Kriterien müssen dafür erfüllt sein? Was muss sichergestellt werden, um eine faire Produktion zu gewährleisten? Hier mal ein kleiner Überblick.
+<!--more-->
 
 ## GOTS Zertifizierung
 Der Global Organic Textile Standard (GOTS) ist eine Zertifizierung für natürlich hergestellte Textilie. Diese müssen zu mindestens 70% aus natürlichen Fasern hergestellt sein, wobei diese auch biologisch erzeugt sein müssen. Das bezieht sich allerdings nicht auf Felle oder Leder.

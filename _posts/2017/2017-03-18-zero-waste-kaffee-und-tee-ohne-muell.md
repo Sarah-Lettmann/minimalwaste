@@ -9,6 +9,7 @@ keywords: [Kaffee ohne Plastik, Zero Waste Tee, Kaffee und Tee ohne Müll]
 related-posts: ["0084", "0037", "0038", "0044", "0064", "0072"]
 ---
 Kaffee und Tee gehören einfach zu unserem Leben. Viele trinken sehr gerne Kaffee oder brauchen ihn sogar, um produktiv zu sein. Ich hingegen trinke dafür lieber Tee. Glücklicherweise gibt es schier unendliche Möglichkeiten Tee und Kaffee ohne Plastik und Zero Waste zuzubereiten.
+<!--more-->
 
 ## Der Klassiker
 Der klassische Kaffee aus der Filtermaschine oder mit dem Handfilter zubereitet.

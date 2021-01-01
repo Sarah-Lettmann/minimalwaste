@@ -12,6 +12,7 @@ Eigentlich sollte die Einleitung zu diesem Post so aussehen: “Es ist soweit. D
 Aber dann hat es den Sonntag, Montag UND(!!) Dienstag, bevor der Post online gehen sollte, geschneit… Naja, nicht wirklich frühlingshaft. Also behelfe ich mir jetzt so (und hoffe und bete, dass der Frühling bald wirklich kommt).
 
 Immer noch will der Winter sich nicht geschlagen geben und scheint sich mit aller Macht gegen die Wärme und Sonnenstrahlen zu wehren, die wir alle so sehr herbeisehnen. Doch nichts desto trotz will man ja vorbereitet sein, wenn das warme Wetter dann plötzlich vor der Tür steht. Deshalb: ran an die Lappen.
+<!--more-->
 
 Ich gehöre ja zu den Personen, die Putzen aus irgendeinem Grund total geil finden. Es ist ein bisschen wie Meditation und ich fühle mich in einer sauberen Umgebung danach einfach wohler. <mark>Unaufgeräumtes oder eine dreckige Umgebung beeinflussen extrem mein Wohlbefinden, weshalb ich immer gleich zur Tat schreite. Das kann man nun vorbildlich nennen oder eben neurotisch, du kannst es dir aussuchen.</mark>
 

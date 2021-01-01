@@ -11,6 +11,7 @@ related-posts: ["0084", "0086", "0062", "0057", "0079", "0077"]
 Mich irritiert immer wieder, dass Zero Waste und generell ein nachhaltiger Lebensstil als teuer angesehen wird. Das stimmt so einfach nicht. Ganz im Gegenteil kann dir ein nachhaltiges Leben sehr viel Geld sparen und das auch noch neben den ganzen anderen Vorteilen, die es mit sich bringt.
 
 Ich habe da mal beispielhaft zu Zero Waste zwei Posts geschrieben in der Kategorie [Zero Waste Kosten](/category/zero-waste-kosten.html) findest du sie. Die Idee ist einfach: Wenn du nicht viel Geld zur Verfügung hast, dann fange mit den Dingen an, die dir Geld sparen.
+<!--more-->
 
 So kannst du in vielen Fällen eine einfach Rechnung anstellen: Wie lange hält etwas und wie viel kostet es. Das kannst du dann mit einer Alternative mit weniger Müll vergleichen. Der Umstieg von Flüssigseife aus dem Wegwerfspender zu Kernseife kann dir somit Geld sparen. Gleiches gilt für eine Menstruationstasse, einen Rasierhobel oder wieder verwendbare Backmatten.
 

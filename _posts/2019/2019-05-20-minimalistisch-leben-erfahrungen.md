@@ -9,6 +9,7 @@ keywords: [minimalistisch leben Erfahrungen, minimalistisch leben Erfahrung]
 related-posts: ["0087", "0059", "0049", "0051", "0053", "0043"]
 ---
 Es ist nun schon über vier Jahre her, dass ich damit angefangen habe, mich mit Minimalismus zu beschäftigen und auszumisten. Welche Erfahrungen ich mit dem minimalistischen Leben gemacht habe und was sich für mich verändert hat, möchte ich mit dir teilen.
+<!--more-->
 
 ## Wie ich zum Minimalismus kam
 Damals bin ich durch YouTube darauf aufmerksam geworden und etwas hat sofort klick gemacht. Ich hatte keine Lust mehr, mich über meinen Besitz zu definieren. Versteh mich nicht falsch, ich wusste damals sehr wohl was mich sonst noch ausmacht. Ich habe z.B. immer sehr viel darauf gegeben, dass ich gut in der Schule war und nicht auf den Kopf gefallen. <mark>Nichtsdestotrotz hat mein Besitz einen Stellenwert und eine Machtstellung in meinem Leben eingenommen, die ich ihm eigentlich nicht zugestehen wollte.</mark> Das kam aber natürlich nicht über Nacht und hat sich schleichend entwickelt.

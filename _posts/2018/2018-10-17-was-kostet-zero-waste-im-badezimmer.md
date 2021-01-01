@@ -11,6 +11,7 @@ related-posts: ["0066", "0041", "0026", "0088", "0076", "0024"]
 Bestimmt hast du einen der folgenden Sätze auch schon gehört oder gedacht: “Unverpackt Einkaufen ist viel zu teuer!”, “Zero Waste kann man sich nicht leisten!”. Naja, dem wollte ich mal nachgehen. Deshalb gibt es hier als ersten Teil einer Serie einen Überblick über die Kosten von Zero Waste Produkten im Badezimmer.
 
 Ich muss zugeben, ich habe keinen vollständigen Überblick über meine Ausgaben, aber immerhin ein Haushaltsbuch und für das Einkaufen von Lebensmitteln und Hygieneprodukten gibt es pro Woche einen Maximalbetrag (den wir fast nie erreichen). Und ich hatte immer das Gefühl, dass wir nicht übermäßig viel für Lebensmittel usw. ausgeben. Trotzdem wollte ich das mal durchrechnen - ist ja auch spannend für dich.
+<!--more-->
 
 <mark>Die Kosten habe ich bei den Zero Waste Alternativen daraus bezogen, was ich nutze oder gekauft habe oder im Unverpackt Laden nachkaufe. Für die Preise der herkömmlichen Produkte habe ich mich bei DM orientiert - und zwar an den günstigen Produkten.</mark> Außerdem habe ich die Kosten jeweils aufs Jahr hochgerechnet, also die Kosten pro Stück mit einer angemessenen Anzahl, die man übers Jahr hinweg von diesem Produkt braucht, multipliziert. Das sind natürlich alles nur Beispiele.
 

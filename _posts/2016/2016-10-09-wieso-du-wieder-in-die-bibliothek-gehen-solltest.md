@@ -11,6 +11,7 @@ related-posts: ["0061", "0051", "0059", "0034", "0030", "0031"]
 Als Minimalist hat man auf seiner Reise sicherlich schon über die gute alte Bibliothek nachgedacht. Denn diese bietet viele Vorteile und kann eine Menge an Geld sparen. Sie ist auch eine gute Möglichkeit in der näheren Umgebung Kontakte aufzubauen und zu lernen. Und als Minimalist bist du somit auf vieles nicht angewiesen, was du sonst zu Hause haben müsstest.
 
 Denn Büchereien bieten inzwischen einen viel größeren Umfang an Medien und Services, als ich es noch in meiner Kindheit erlebt habe. Im Folgenden werde ich dir ein paar dieser Möglichkeiten, wie du deine örtliche Bücherei nutzen kannst, vorstellen.
+<!--more-->
 
 Und es gilt natürlich: Du kannst Bücher, Spiele, Filme und andere Medien spenden. Ich habe schon viele meiner alten Bücher der örtlichen Bücherei gespendet und mir auch neue ausgeliehen. Gespendete Bücher werden entweder in den Bestand aufgenommen oder auf einem kleinen Flohmarkt verkauft. Es hilft deiner Bücherei also immer weiter, wenn du ein paar deiner alten Bücher dort abgibst, auch wenn sie nicht direkt verwendet werden. Und du hast am Ende weniger Zeug zu Hause rumstehen.
 

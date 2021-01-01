@@ -9,6 +9,7 @@ keywords: [Alternativen aus Stoff, Stofftaschentücher]
 related-posts: ["0057", "0015", "0024", "0030", "0028", "0050"]
 ---
 Ich bekomme immer wieder von verschiedenen Seiten zu hören, dass sich die Investition in Alternativen aus Stoff, also Stoffservietten, Stofftaschentücher oder wiederverwendbare Tücher, die man in der Maschine waschen kann, nicht lohnt. Und warum? Weil das angeblich doch sowieso zu viel Wasser und Energie verbraucht. Also habe ich mich hingesetzt und den ganzen Spaß mal bis aufs kleinste bisschen durchgerechnet. Für irgendwas muss das Studium ja gut sein...
+<!--more-->
 
 Virtuelles Wasser
 : Mit virtuelles bzw. latentes Wasser wird die Wassermenge bezeichnet, die nach einer umfassenden Bilanz als insgesamt tatsächlich für die Herstellung eines Produkts anfiel.

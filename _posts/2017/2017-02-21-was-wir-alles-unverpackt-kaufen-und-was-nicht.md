@@ -9,6 +9,7 @@ keywords: [unverpackt kaufen, unverpackt einkaufen]
 related-posts: ["0038", "0062", "0064", "0041", "0084", "0013"]
 ---
 Was können wir alles unverpackt kaufen? Wo kaufen oder bekommen wir diese ganzen Sachen? Und was haben wir bis jetzt leider noch nicht ohne Verpackung gefunden? Das sind denke ich spannende Fragen, wenn man sich mit Zero Waste beschäftigt. Auch wenn wir das Glück haben, dass es inzwischen einen Unverpackt Laden direkt in Darmstadt gibt, kaufen wir viele Sachen in kleinen Geschäften ein. Und es gibt natürlich auch Dinge, die wir dort eben nicht bekommen. Heute möchte ich dir mal zeigen, was das alles ist.
+<!--more-->
 
 Im Unverpackt Laden kaufen wir hauptsächlich trockene Ware ein. Also sowas wie Nudeln, Reis, Salz, Kaffeebohnen, Gewürze, Nüsse, Backwaren, aber auch Öl, Essig, Zahnputztabletten und Toilettenpapier. Aber die Auswahl ist selbstverständlich noch viel Größer. <mark>Es gibt auch Kekse und Süßigkeiten, eine Auswähl an Getränken in Mehrwegflaschen, Seifen, Obst und Gemüse, Eier, Milch und sogar Oliven und eingelegte Tomaten.</mark> Es ist einfach ein Traum. Trotzdem kaufen wir einige Sachen, wie vorher auch schon, eben nicht dort ein. Aber wo kann man denn nun was finden?
 

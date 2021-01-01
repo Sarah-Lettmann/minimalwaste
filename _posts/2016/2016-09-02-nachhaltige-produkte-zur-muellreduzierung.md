@@ -9,7 +9,8 @@ description: "Die meisten Dinge im Haushalt können durch nachhaltige Produkte e
 keywords: [nachhaltige Produkte, Alternativen]
 related-posts: ["0037", "0013", "0062", "0093", "0064", "0073"]
 ---
-Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispielsweise nachhaltige Produkte kaufen und wiederverwenden. Ich habe für dich eine Auflistung aller Alternativen zu herkömmlichen (evtl. in Plastik verpackten) Produkten zusammengestellt. Darunter befinden sich Dinge, die vollständig ohne Verpackung auskommen oder immer wieder verwendet werden können. Ich habe aber auch Dinge aufgeführt, die nicht vollständig auf Verpackung oder Müll verzichten, welche aber vielleicht ein guter Einstieg sind. Denn auch wenig kann viel helfen. 
+Jeder kann einige kleine Dinge ändern, um weniger Müll zu produzieren - beispielsweise nachhaltige Produkte kaufen und wiederverwenden. Ich habe für dich eine Auflistung aller Alternativen zu herkömmlichen (evtl. in Plastik verpackten) Produkten zusammengestellt. Darunter befinden sich Dinge, die vollständig ohne Verpackung auskommen oder immer wieder verwendet werden können. Ich habe aber auch Dinge aufgeführt, die nicht vollständig auf Verpackung oder Müll verzichten, welche aber vielleicht ein guter Einstieg sind. Denn auch wenig kann viel helfen.
+<!--more-->
 
 Außerdem möchte ich anmerken, dass ich nicht alle Produkte selbst benutze und/oder noch nicht ausprobiert habe. Nur weil ein Produkt für jemanden funktioniert, muss es noch lange nicht für dich funktionieren. Diese Liste soll lediglich als Denkanstoß und zur Unterstützung deiner Recherche dienen. Das Ausprobieren bleibt immer noch dir überlassen. Trau dich!
 

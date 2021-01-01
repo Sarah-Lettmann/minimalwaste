@@ -11,6 +11,7 @@ related-posts: ["0049", "0034", "0021", "0078", "0005", "0003"]
 Minimalistisch leben hat so viele Vorteile, dass ich gar nicht recht weiß wo ich anfangen soll. Minimalismus wirkt sich auf so viele Aspekte des Lebens aus. Dabei geht es nicht nur um Einfachheit, sondern vor allem auch um Zufriedenheit und klare Vorstellungen.
 
 Die Vorteile oder Veränderungen, die ich hier niedergeschrieben habe, habe ich, jetzt nach über einem Jahr, alle bei mir selbst bemerkt und war beim Schreiben immer wieder überrascht, wie viel mir zu dem Thema einfällt.
+<!--more-->
 
   * **Der innere Reichtum:** Du besinnst dich auf dich selbst und auf das, was dich ausmacht und wirklich du bist. Es ist egal was du zu Hause stehen hast, selbst wenn es Dinge sind, die dir wichtig sind. Du gewinnst einen gesunden Abstand zu materiellen Gütern.
 

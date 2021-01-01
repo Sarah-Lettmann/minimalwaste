@@ -8,7 +8,10 @@ description: "Jeder kann kleine Dinge tun, um die eigene CO2-Bilanz zu verbesser
 keywords: [CO2-Bilanz, CO2-Fußabdruck]
 related-posts: ["0085", "0086", "0084", "0059", "0067", "0063"]
 ---
-Ganz klar, für die Energiewende müssen wir an den großen Stellschrauben drehen. Trotzdem ist es wichtig wieder bewusster mit Ressourcen umzugehen und sie nicht zu verschwenden, wie wir das alle heute oft tun. Das fängt schon im Haushalt an. Durch die folgenden Tipps will ich dir zeigen, welche kleinen Dinge du verändern kannst und so bewusster mit Ressourcen wie Wasser und Energie umgehst und natürlich deinen Ökologischen Rucksack nach unten korrigierst.
+Ganz klar, für die Energiewende müssen wir an den großen Stellschrauben drehen. Trotzdem ist es wichtig wieder bewusster mit Ressourcen umzugehen und sie nicht zu verschwenden, wie wir das alle heute oft tun. Das fängt schon im Haushalt an.
+
+Durch die folgenden Tipps will ich dir zeigen, welche kleinen Dinge du verändern kannst und so bewusster mit Ressourcen wie Wasser und Energie umgehst und natürlich deinen Ökologischen Rucksack nach unten korrigierst.
+<!--more-->
 
 ## Die großen 4
 Zuerst mal die großen 4 vorneweg, damit sie schon mal aus dem Weg sind und wir uns fortgeschritteneren Tipps zuwenden können. Das sind:

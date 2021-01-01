@@ -11,6 +11,7 @@ related-posts: ["0032", "0033", "0063", "0067", "0075", "0056"]
 Über das Elektroauto wird immer viel diskutiert. Heute möchte ich aber die Aufmerksamkeit auf eine weniger bekannte Alternative lenken: Den Wasserstoffantrieb. Dieser könnte eine Alternative zu Elektrofahrzeugen darstellen oder mit diesen kombiniert werden, um die Verkehrswende vielseitiger zu gestalten.
 
 Ich schaue mir an, wie ein Wasserstoffauto funktioniert, was die Hürden sind und wie umweltfreundlich der Antrieb wirklich ist. Außerdem steht die Frage nach der Umsetzbarkeit im Mittelpunkt.
+<!--more-->
 
 ## Was ist ein Wasserstoffantrieb und wie funktioniert er?
 Theoretisch gibt es zwei unterschiedliche Antriebe für Autos, die mit Wasserstoff funktionieren: Den Wasserstoffverbrennungsantrieb und die mit Wasserstoff betriebene Brennstoffzelle.

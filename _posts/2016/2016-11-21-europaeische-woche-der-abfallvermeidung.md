@@ -9,6 +9,7 @@ keywords: [Europäische Woche der Abfallvermeidung]
 related-posts: ["0046", "0014", "0023", "0035", "0065", "0034"]
 ---
 Heute gibt es mal einen kleinen Extra-Post. Diese Woche ist nämlich [Europäische Woche der Abfallvermeidung (EWAV)](http://www.letscleanupeurope.de/), die ganz im Zeichen von Müllvermeidung, Wiederverwendung und Recycling steht. Also hab ich mir mal ein paar Ideen für dich ausgedacht, wie du dich mit der ganzen Thematik mal ein bisschen vertraut machen kannst. Auch solche kleinen Veränderungen können schon wirklich viel bewirken!
+<!--more-->
 
 ## 1. Stofftaschen nutzen
 Anstatt dir eine Plastiktüte mitzunehmen, um deine Einkäufe nach Hause zu bringen, sei vorbereitet und nimm eine Stofftasche mit. Je nach dem was dir am liebsten ist, kannst du auch zum Rucksack oder Korb greifen, Hauptsache du benutzt ein wieder verwendbares Trageutensil :D. Außerdem musst du nicht jedes Mal zehn Cent für eine Tüte bezahlen - Kleinvieh macht schließlich auch Mist.
