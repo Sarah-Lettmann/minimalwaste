@@ -20,7 +20,7 @@ Zur Herstellung von einer großen Portion oder zwei normalen Portionen brauchst 
 * 2 EL Kakaobutter
 * 2 EL Sheabutter
 
-Wenn du einen Unverpackt-Laden in der Nähe hast, bekommst du all diese Zutaten sehr wahrscheinlich dort. Kokosöl bekommt man im Glas inzwischen in jedem Supermarkt und Discounter. Zur Not kannst du alles auch in größeren Mengen online Bestellen. Sheabutter bekommst du zum Beispiel hier: [Avocadostore: Reine Bio Sheabutter 350ml im Einmachglas](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F141328-reine-bio-sheabutter-350ml-im-einmachglas-finigrana)\*, ebenso wie Kakaobutter: [Avocadostore: Lamazuna Kakaobutter](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fproducts%2F93217-kakaobutter-lamazuna-2)\*.
+Wenn du einen Unverpackt-Laden in der Nähe hast, bekommst du all diese Zutaten sehr wahrscheinlich dort. Kokosöl bekommt man im Glas inzwischen in jedem Supermarkt und Discounter. Zur Not kannst du alles auch in größeren Mengen online Bestellen. Sheabutter bekommst du zum Beispiel hier: [Avocadostore: Reine Bio Sheabutter 350ml im Einmachglas](https://www.avocadostore.de/products/141328-reine-bio-sheabutter-350ml-im-einmachglas-finigrana), ebenso wie Kakaobutter: [Avocadostore: Lamazuna Kakaobutter](https://www.avocadostore.de/products/93217-kakaobutter-lamazuna-2).
 
 Wenn du das Rezept aber erstmal ausprobieren willst, dann bekommst du Sheabutter und Kakaobutter auch bei Alnatura oder DM. Dort sind sie vielleicht nicht am umweltfreundlichsten verpackt, dafür musst du aber am Ende nichts wegschmeißen, wenn dieses Rezept nichts für dich ist. Man weiß ja nie. Geschmäcker sind unterschiedlich 😉.
 
@@ -50,7 +50,3 @@ Die Körperbutter ist im Prinzp beliebig lang haltbar. Ich habe letztens erst di
 Das war mein einfaches Rezept für müllfreie Zero Waste Körperbutter. Noch mal ein Shout-Out an [Lauren Singer von Trash is for Tossers](http://trashisfortossers.com/), die mit ihrem Rezept so ziemlich für jeden Zero Waste Blogger den Grundstein dafür gelegt hat. Lass mich wissen, wie die Körperbutter dir gefällt und was du sonst schon ausprobiert hast. Bis zum nächsten Mal,
 
 \- Sarah
-
-&nbsp;
-
-\* Partnerprogramm mit avocadostore.de

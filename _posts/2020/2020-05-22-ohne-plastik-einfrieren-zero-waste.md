@@ -17,7 +17,7 @@ Vorab schon mal eine Info: Der Grund warum in der Regel Plastik zum Einfrieren v
 Einfach und günstig. Hebe Konservengläser von Marmelade, Saucen oder eingelegtem Gemüse auf und nutze sie, um darin Lebensmittel einzufrieren. Je nach Größe des Glases kann es natürlich für unterschiedliche Zwecke verwendet werden. Kleinere Gläschen eignen sich eher für Sauce, Dips und Babynahrung, größere Gefäße eher für Essenreste oder Vorgekochtes.
 
 ## 2. Glas- oder Edelstahldosen statt Tupper
-Die klassische Tupperdose ist uns allen bekannt. Leider ist diese aber auch bekanntlich nicht plastikfrei. Darum kannst du auf Alternativen wie Glas- oder Edelstahldosen zurück greifen. Wir haben beides zu Hause. Dabei sind aber vor allem die Glasdose ein sehr guter Ersatz für Tupper, da sie Deckel mit einer guten Dichtung haben. Zugegeben sind die Deckel aus Plastik. Diese kommen aber meist nicht direkt mit dem Essen in Berührung. Eine Auswahl an Aufbewahrungsdosen findest du im Avocadostore: [Aufbewahrungsdosen kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fwohnen%2Fkueche-dosen)\*.
+Die klassische Tupperdose ist uns allen bekannt. Leider ist diese aber auch bekanntlich nicht plastikfrei. Darum kannst du auf Alternativen wie Glas- oder Edelstahldosen zurück greifen. Wir haben beides zu Hause. Dabei sind aber vor allem die Glasdose ein sehr guter Ersatz für Tupper, da sie Deckel mit einer guten Dichtung haben. Zugegeben sind die Deckel aus Plastik. Diese kommen aber meist nicht direkt mit dem Essen in Berührung. Eine Auswahl an Aufbewahrungsdosen findest du im Avocadostore: [Aufbewahrungsdosen kaufen](https://www.avocadostore.de/wohnen/kueche-dosen).
 
 ## 3. Stasher Bags als Alternative zu Gefrierbeuteln
 Es gibt tatsächlich eine Alternative zum gemeinen Gefrierbeutel: Den [Stasher Bag](https://www.stasherbag.com/) (durchaus auch unter anderem Namen zu finden). Es handelt sich dabei um Beutel, die aus besonders langlebigen Silikon gemacht sind und so selbst Spülmaschinen und Mikrowellen aushalten ohne Stoffe an die Umgebung abzugeben. Außerdem sind sie frei von allen gängigen Schadstoffen. Zwar nicht komplett plastikfrei, aber ein sehr großer Schritt in die richtige Richtung, vor allem was Zero Waste angeht.
@@ -32,7 +32,7 @@ Selbst im Papier kann man einfrieren. Das eben angesprochene Brot kannst du stat
 Ein Eiswürfelbehälter ist ein sehr vielseitig einsetzbares Gerät. Du kannst darin nicht nur Eiswürfel machen, sondern auch Saucen, Dips oder Kräuter mit etwas Wasser oder Öl einfrieren. Babynahrung, Smoothies, Teig, Kaffee oder Milch sind weitere Ideen.
 
 ## 7. Das Wachspapier
-Eine Methode mit der ich bisher noch keine Erfahrung gemacht habe, ist das Einfrieren in Wachspapier. Aber ähnlich wie beim Stoffbeutel oder dem Papier wird auch das, denke ich, gut funktionieren. Ich habe dazu schon einige Beispiele online gefunden. Auch hier ist aber zu beachten, dass das Lebensmittel nicht fest verschlossen ist und die Haltbarkeit sich daher eher auf ein paar Wochen beschränkt. Immerhin perfekt um den restlichen Käse vom Tapas-Abend einzufrieren. [Wachstücher kaufen](https://www.awin1.com/cread.php?awinmid=19075&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.avocadostore.de%2Fwohnen%2Fkueche-aufbewahrung-wachstuecher)\*.
+Eine Methode mit der ich bisher noch keine Erfahrung gemacht habe, ist das Einfrieren in Wachspapier. Aber ähnlich wie beim Stoffbeutel oder dem Papier wird auch das, denke ich, gut funktionieren. Ich habe dazu schon einige Beispiele online gefunden. Auch hier ist aber zu beachten, dass das Lebensmittel nicht fest verschlossen ist und die Haltbarkeit sich daher eher auf ein paar Wochen beschränkt. Immerhin perfekt um den restlichen Käse vom Tapas-Abend einzufrieren. [Wachstücher kaufen](https://www.avocadostore.de/wohnen/kueche-aufbewahrung-wachstuecher).
 
 ## 8. Einfrieren ohne alles
 Dass geht, wenn du ganze Lebensmittel einfrieren willst wie beispielsweise Bananen, anderes Obst oder auch bestimmte Gemüsesorten. Diese kannst du einfach so in den Gefrierschrank tun, vor Gefrierbrand geschützt werden sie von ihrer Schale.
@@ -53,7 +53,3 @@ Ja, ich weiß, das ist keine plastikfreie Alternative, aber trotzdem erwähnensw
 So, das waren meine Tipps. Wenn du mehr hast, lass es mich gerne wissen. Bis zum nächsten Mal,
 
 \- Sarah
-
-&nbsp;
-
-\* Affiliate-Links

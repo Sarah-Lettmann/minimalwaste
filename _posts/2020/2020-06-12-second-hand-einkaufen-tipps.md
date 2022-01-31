@@ -46,14 +46,14 @@ Allgemeines (Möbel, Haushaltswaren):
 
 Bücher und Medien:
 - [Bücherschränke](https://de.wikipedia.org/wiki/Liste_%C3%B6ffentlicher_B%C3%BCcherschr%C3%A4nke_in_Deutschland): Schränke zum kostenlosen Mitnehmen und Abgeben von Büchern
-- [medimops](https://www.awin1.com/cread.php?awinmid=11364&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.medimops.de%2F)\*: Verkauf von gebrauchten Büchern, Spielen, Filmen und Musik
+- [medimops](https://www.medimops.de/): Verkauf von gebrauchten Büchern, Spielen, Filmen und Musik
 - [Studibuch](https://shop.studibuch.de/): Gebrauchte Fachbücher kaufen und verkaufen
 - Tauschen von Büchern mit Freunden oder der Familie
 
 Klamotten:
 - [kleiderkreisel](https://www.kleiderkreisel.de/): überregional, von privat
 - [mädchenflohmarkt](https://www.maedchenflohmarkt.de/): überregional, von privat, spezialisiert auf Marken- und Designermode
-- [ubup](https://www.awin1.com/cread.php?awinmid=11346&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.ubup.com%2F)\*: Onlineshop mit Rückgaberecht
+- [ubup](https://www.ubup.com/): Onlineshop mit Rückgaberecht
 - [ReSales](https://www.resales.de/): Second Hand Modehaus mit vielen Standorten deutschlandweit
 - [Nachhaltigkeitsbox](https://nachhaltigkeitsbox.com/): Boxen mit Second Hand Kleidung
 - Kleidertausch-Party: Es gibt auch größere Aktionen (kannst du als Veranstaltungen auf Facebook finden), aber du kannst auch deine eigene mit Freunden machen

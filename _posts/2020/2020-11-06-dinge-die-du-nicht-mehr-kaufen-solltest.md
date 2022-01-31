@@ -39,7 +39,7 @@ Der Appeal von Fast Fashion ist durchaus klar: es ist günstig und folgt den neu
 
 Eine bessere Alternative sind nachhaltige Marken oder, wenn man es günstig mag und nicht von bekannten Marken weg will, secondhand einkaufen. Bekannt sind Plattformen wie zum Beispiel Kleiderkreisel, auf denen Klamotten zwischen Privatpersonen getauscht oder gekauft und verkauft werden können.
 
-Es geht aber noch bequemer. Es gibt inzwischen einen großen Secondhand-Onlineshop hier in Deutschland: [ubup.com](https://www.awin1.com/cread.php?awinmid=11346&awinaffid=675357&clickref=&ued=https%3A%2F%2Fwww.ubup.com%2F)\*
+Es geht aber noch bequemer. Es gibt inzwischen einen großen Secondhand-Onlineshop hier in Deutschland: [ubup.com](https://www.ubup.com/)
 
 In diesem Shop lässt es sich gemütlich secondhand Klamotten shoppen und du kannst sie auch wieder zurück schicken, wenn sie dir nicht passen oder gefallen. So ziemlich ein normaler Onlineshop, nur eben nicht Fast Fashion und trotzdem günstig.
 
@@ -111,5 +111,3 @@ Bis zum nächsten Mal,
 &nbsp;
 
 *[cruelty-free]: tierversuchsfrei
-
-\* Affiliate-Link

@@ -1,9 +1,0 @@
-{% assign post-category = page.categories.first %}
-{% case post-category %}
-  {% when "Zero Waste" %}
-    {% include ads/inpost-avocadostore.html %}
-  {% when "Minimalismus" %}
-    {% include ads/inpost-momox.html %}
-  {% else %}
-    {% include ads/inpost-avocadostore.html %}
-{% endcase %}
