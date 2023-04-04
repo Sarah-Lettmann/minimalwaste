@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Auf MinimalWaste gibt es Tipps und Erfahrungsberichte rund um Zero Waste,
   Minimalismus, Fair Fashion und Nachhaltigkeit.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://minimalwaste.de" # the base hostname & protocol for yur site, e.g. http://example.com
+url: "https://sarah-lettmann.github.io/minimalwaste/" # the base hostname & protocol for yur site, e.g. http://example.com
 keywords: [minimalismus, zero waste]
 permalink: /blog/:title/
 excerpt_separator: "<!--more-->"
