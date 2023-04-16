@@ -29,8 +29,6 @@ Bei all diesen Ressourcen handelt es sich natürlich um einen endlichen Vorrat u
 ## Labels und Shops für nachhaltigen Schmuck
 Im Folgenden habe ich eine Liste angelegt, die viele Shops und Labels enthält, die nachhaltig und fair produzierten Schmuck anbieten. Diese Liste wird regelmäßig erweitert und gepflegt.
 
-**Kennst du Marken die sich besonders durch nachhaltig oder fair produzierten Schmuck auszeichnen? Schreib mir einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.**
-
 <table>
   <thead>
     <tr>

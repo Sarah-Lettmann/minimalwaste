@@ -86,8 +86,6 @@ Um den Newsletter zu teilen, kopiere und teile diesen Link: [https://minimalwast
 
 Wenn du MinimalWaste weiter unterstützen willst und Lust auf noch mehr Beiträge hast, dann schau doch mal auf der [Patreon-Seite](https://www.patreon.com/minimalwaste?fan_landing=true) vorbei.
 
-Ideen, Kritik, Feedback? Schreibe mir gerne an [info@minimalwaste.de](mailto:info@minimalwaste.de)
-
 Bis nächsten Monat,
 
 \- Sarah

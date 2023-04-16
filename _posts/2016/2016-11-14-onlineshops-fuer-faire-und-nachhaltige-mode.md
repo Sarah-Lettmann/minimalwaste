@@ -38,8 +38,6 @@ Nun also endlich zu den Shops, die ich so kenne und gefunden habe. Bei einigen w
 
 Letzten habe ich außerdem eine App gefunden, die über nachhaltige Mode informiert und Labels und Shops listet, die nachhaltig produzieren - [Good On You – Ethical Fashion App](https://play.google.com/store/apps/details?id=au.org.goodonyou.goodonyou).
 
-**Kennst du Onlineshops die sich besonders durch nachhaltig, vegan und/oder fair produzierte Kleidung auszeichnen? Schreib mir einfach eine Mail an [info@minimalwaste.de](mailto:info@minimalwaste.de) und ich werde sie in die Liste mit aufnehmen.**
-
 <table>
   <thead>
     <tr>

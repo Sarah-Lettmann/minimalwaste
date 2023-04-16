@@ -63,8 +63,6 @@ Wenn du MinimalWaste weiter unterstützen willst und Lust auf noch mehr Beiträg
 
 Um den Newsletter zu teilen, kopiere und teile diesen Link: [https://minimalwaste.de/newsletter/newsletter-mai-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing](https://minimalwaste.de/newsletter/newsletter-juli-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing)
 
-Ideen, Kritik, Feedback? Schreibe mir gerne an [info@minimalwaste.de](mailto:info@minimalwaste.de)
-
 Bis nächsten Monat,
 
 \- Sarah

@@ -13,8 +13,7 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 ## Verantwortliche Person
 Sarah Lettmann
 64295 Darmstadt  
-Deutschland  
-info@minimalwaste.de
+Deutschland
 
 ## Arten der verarbeiteten Daten
 -	Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).

@@ -421,7 +421,7 @@ Für normales Waschmittel gibt es einige Alternativen, die im Umlauf sind. Wasch
 
 &nbsp;
 
-Ich hoffe du konntest in der Liste viele gute Ideen und Alternativen für ein bisschen mehr Zero Waste im eigenen Haushalt finden. Wenn du weitere Ideen hast, dann lass es mich gerne wissen. Hinterlass einen Kommentar oder schreibe mir an [info@minimalwaste.de](mailto:info@minimalwaste.de).
+Ich hoffe du konntest in der Liste viele gute Ideen und Alternativen für ein bisschen mehr Zero Waste im eigenen Haushalt finden. Wenn du weitere Ideen hast, dann lass es mich gerne wissen.
 
 Bis zum nächsten Mal,
 
