@@ -32,7 +32,7 @@ Für ca. 10 bis 12 Badepralinen brauchst du:
 
 Diese vier Zutaten kannst du natürlich mit beliebigen Düften zusammenmischen. Ich habe mich diesmal für Lavendel entschieden, also einige Tropfen Lavendelöl und einige Blüten.
 
-<mark>Was hast du schon an Kosmetika selbst gemacht und warst du damit erfolgreich? Lass mir doch einen Kommentar da.</mark> Und wenn du meine Posts gut findest und mich gerne unterstützen würdest, dann schau doch mal auf [Patreon](https://www.patreon.com/minimalwaste?fan_landing=true) vorbei.
+<mark>Was hast du schon an Kosmetika selbst gemacht und warst du damit erfolgreich? Lass mir doch einen Kommentar da.</mark>
 
 ## Die Zubereitung
 Zuerst solltest du dich um die Kakaobutter kümmern. Diese muss nämlich über einem Wasserbad geschmolzen werden. Das ist nicht aufwendig, kann aber einen kleinen Moment dauern. Zwischendurch immer mal wieder umrühren, dann geht es schneller.

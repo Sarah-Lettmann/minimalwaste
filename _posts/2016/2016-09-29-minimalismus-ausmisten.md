@@ -13,8 +13,6 @@ Es gibt viele unterschiedliche Herangehensweisen, wenn es ums Entrümpeln, Ausmi
 
 Sie ist nicht in Stein gemeißelt und du kannst gerne Dinge daraus übernehmen und auch Dinge anders machen. Du solltest dabei so vorgehen, dass du dich selbst wohl damit fühlst. Das gleiche gilt übrigens auch für die Geschwindigkeit beim Minimalisierungsprozess. Ich denke allerdings, dass es einige Sachen zu beachten gibt, die du im Hinterkopf behalten solltest, damit du am Ende dieser ersten großen Entrümpelung auch möglichst viel erwischt hast. Viel Spaß beim Lesen und Ausmisten!
 
-[Auf meiner Patreon Seite gibt es auch noch einen Leitfaden für dich](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}.
-
 ## Welche Prinzipien verfolge ich beim Ausmisten?
 Ich finde viele Ansätze, die Marie Kondo bei ihrer KonMari Methode verfolgt, sehr sinnvoll. Beispielsweise sollte jeder Gegenstand ein Zuhause haben, an den er immer wieder zurück gelegt wird. Das hilft, den Gegenstand immer wieder zu finden und leere, einfach zu reinigende Oberflächen zu bewahren. Es ist beispielsweise sinnvoll einen Ort für alle Textilien zu haben oder aber für alle Bücher des Haushalts.
 

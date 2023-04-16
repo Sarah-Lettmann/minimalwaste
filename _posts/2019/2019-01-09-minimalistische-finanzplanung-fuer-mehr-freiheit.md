@@ -11,9 +11,7 @@ related-posts: ["0030", "0031", "0003", "0080", "0043", "0059"]
 Das neue Jahr hat gerade erst begonnen. Jetzt ist die beste Zeit gleich an den Neujahrsvorsätzen zu feilen und die Finanzen stehen da meist ganz weit oben. Ich möchte dir zeigen wie du durch ein paar einfache Vorgehensweisen eine Menge Geld sparst, die Übersicht behältst und mehr Geld für die Altersvorsorge oder den Urlaub zur Verfügung hast. Dazu will ich dir Schritt für Schritt zeigen, wie du deine Finanzen minimalistisch gestaltest. Denn auch im digitalen Raum gilt: Ausmisten und auf die wenigen wichtigen Dinge konzentrieren, hilft Übersicht zu schaffen.
 <!--more-->
 
-_Ich war ja schon immer ein Sparbrötchen, aber seit ich “Minimalistin” bin, kann ich das noch viel extremer ausleben. Und seitdem ich so lebe, gebe ich auch viel weniger Geld aus als zuvor. Außerdem ist eine gute Planung auch nützlich, wenn man auf Zero Waste umsteigen will. Das Geld, das ich noch ausgeben ist außerdem anders verteilt, weil ich andere Prioritäten setze. Ganz oben auf meiner Liste stehen qualitativ hochwertige Lebensmittel._
-
-Für diesen Beitrag habe ich ein paar Downloads vorbereitet. Diese kannst du dir unter anderem [auf meiner Patreon Seite im Bereich Downloads runterladen](https://www.patreon.com/minimalwaste?fan_landing=true){: .patreon}.
+_Ich war ja schon immer ein Sparbrötchen, aber seit ich “Minimalistin” bin, kann ich das noch viel extremer ausleben. Und seitdem ich so lebe, gebe ich auch viel weniger Geld aus als zuvor. Außerdem ist eine gute Planung auch nützlich, wenn man auf Zero Waste umsteigen will. Das Geld, das ich noch ausgeben ist außerdem anders verteilt, weil ich andere Prioritäten setze. Ganz oben auf meiner Liste stehen qualitativ hochwertige Lebensmittel._.
 
 ## Die Strukturierung deiner Finanzen
 Zuerst ein paar Worte wie du dein Geld aufbewahren und managen solltest. Dabei haben Konten natürlich eine wichtige Rolle inne. Aber auch Kreditkarten und Paypal sind heutzutage wichtig, um beispielsweise Hotels buchen oder im Ausland bezahlen zu können.

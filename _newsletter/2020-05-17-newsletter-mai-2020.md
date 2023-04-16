@@ -74,8 +74,6 @@ Wenn du auf der Suche nach einer Anlage bist, die in Nachhaltigkeit und die Umwe
 
 Ich bedanke mich herzlich für's Lesen und für die Unterstützung des Blogs =)
 
-Wenn du MinimalWaste weiter unterstützen willst und Lust auf noch mehr Beiträge hast, dann schau doch mal auf der [Patreon-Seite](https://www.patreon.com/minimalwaste?fan_landing=true) vorbei.
-
 Um den Newsletter zu teilen, kopiere und teile diesen Link: [https://minimalwaste.de/newsletter/newsletter-mai-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing](https://minimalwaste.de/newsletter/newsletter-mai-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing)
 
 Bis nächsten Monat,

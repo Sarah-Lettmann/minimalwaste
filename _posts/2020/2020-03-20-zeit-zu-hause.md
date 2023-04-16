@@ -45,7 +45,7 @@ Im Home Office bietet es sich auch an zwischendurch einfach mal ein paar Squats 
 Und in der letzten Not muss eben auch mal der Küchentisch als Tischtennisplatte herhalten 😂.
 
 ## Frühjahrsputz machen
-Es wird gerade Frühling und somit ist es nun auch Zeit für den jährlichen Frühjahrsputz. [Eine Checkliste zur Orientierung findest du auf meiner Patreon-Seite.](https://www.patreon.com/posts/checkliste-fur-25421420){: .patreon} Außerdem habe ich dem schon mal einen ganzen Post gewidmet: [Frühjahrsputz - Ausmisten und Aufräumen für den Frühling](/blog/fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling/). Genug, um endlich anzufangen!
+Es wird gerade Frühling und somit ist es nun auch Zeit für den jährlichen Frühjahrsputz. Außerdem habe ich dem schon mal einen ganzen Post gewidmet: [Frühjahrsputz - Ausmisten und Aufräumen für den Frühling](/blog/fruehjahrsputz-ausmisten-und-aufraeumen-fuer-den-fruehling/). Genug, um endlich anzufangen!
 
 ## Gemeinsam musizieren
 Falls jemand in deinem Haushalt ein Instrument spielt, vielleicht sogar mehrere Leute, dann könntet ihr gemeinsam Musik machen, neue Stücke lernen und gemeinsam performen. Ich kann mir vorstellen, dass man so die gesamte Familie einbinden kann und auch Kinder dürften daran Spaß haben.

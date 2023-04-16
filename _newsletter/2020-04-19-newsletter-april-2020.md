@@ -84,8 +84,6 @@ Danke für's Lesen.
 
 Um den Newsletter zu teilen, kopiere und teile diesen Link: [https://minimalwaste.de/newsletter/newsletter-april-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing](https://minimalwaste.de/newsletter/newsletter-april-2020/?utm_source=newletter&utm_medium=email&utm_campaign=newsletter-sharing)
 
-Wenn du MinimalWaste weiter unterstützen willst und Lust auf noch mehr Beiträge hast, dann schau doch mal auf der [Patreon-Seite](https://www.patreon.com/minimalwaste?fan_landing=true) vorbei.
-
 Bis nächsten Monat,
 
 \- Sarah
