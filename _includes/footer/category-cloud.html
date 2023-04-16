@@ -4,14 +4,14 @@
     <ul class="category-cloud__list">
     {% for category in site.data.menu %}
       <li class="category-cloud__list-item">
-        <a class="category-cloud__link" href="{{ site.baseurl }}/{{ category.href }}" title="Zur Kategorie {{ category.title }}">
+        <a class="category-cloud__link" href="{{ site.baseurl }}{{ category.href }}" title="Zur Kategorie {{ category.title }}">
           {{ category.title }}
         </a>
       </li>
       {% if category.subcategories %}
         {% for subcategory in category.subcategories %}
           <li class="category-cloud__list-item">
-            <a class="category-cloud__link" href="{{ site.baseurl }}/{{ subcategory.href }}" title="Zur Kategorie {{ subcategory.title }}">
+            <a class="category-cloud__link" href="{{ site.baseurl }}{{ subcategory.href }}" title="Zur Kategorie {{ subcategory.title }}">
               {{ subcategory.title }}
             </a>
           </li>

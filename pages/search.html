@@ -16,8 +16,8 @@ title: "Durchsuche MinimalWaste"
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/js/search-algorithm.js" type="text/javascript"></script>
-<script src="/js/search.js" type="text/javascript"></script>
+<script src="{{ site.baseurl }}/js/search-algorithm.js" type="text/javascript"></script>
+<script src="{{ site.baseurl }}/js/search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
@@ -31,10 +31,10 @@ title: "Durchsuche MinimalWaste"
           '<article class="post post--small">' +
             '<div class="post__text">' +
               '<h3 class="post__title">' +
-                '<a class="post__link" href="{url}" title="Zum Post \'{title}\'">{title}</a>' +
+                '<a class="post__link" href="{ site.baseurl }{url}" title="Zum Post \'{title}\'">{title}</a>' +
               '</h3>' +
               '<div class="post__categories">' +
-                '<a class="post__categories-link" href="{category-url}" title="Zur Kategorie {category}">' +
+                '<a class="post__categories-link" href="{ site.baseurl }{category-url}" title="Zur Kategorie {category}">' +
                   '<span class="visually-hidden">In der Kategorie </span>' +
                   '{category}' +
                 '</a>' +
