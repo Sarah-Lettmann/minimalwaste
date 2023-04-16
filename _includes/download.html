@@ -1,7 +1,7 @@
 {% comment %}
   Einbinden mit {% include download.html name="" path="" size="" %}
 {% endcomment %}
-<a class="download" href="{{ include.path }}" target="_blank" title="Runterladen von '{{ include.name }}'">
+<a class="download" href="{{ site.baseurl }}/{{ include.path }}" target="_blank" title="Runterladen von '{{ include.name }}'">
   <span class="visually-hidden">Runterladen von </span>
   <span class="download__text">{{ include.name }}</span>
   <span class="download__file-info">

@@ -7,17 +7,17 @@
       {% if post %}
         <article class="post">
           <h3 class="post__title post__title--h4">
-            <a class="post__link" href="{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
+            <a class="post__link" href="{{ site.baseurl }}/{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
           </h3>
           <div class="post__categories">
             {% assign cat = site.data.categories[post.categories.first] %}
-            <a class="post__categories-link" href="{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+            <a class="post__categories-link" href="{{ site.baseurl }}/{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
               <span class="visually-hidden">Kategorie </span>
               {{ cat.name }}
             </a>
           </div>
           <div class="cover">
-            <img class="cover__image" src="/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
+            <img class="cover__image" src="{{ site.baseurl }}/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" />
           </div>
         </article>
       {% endif %}

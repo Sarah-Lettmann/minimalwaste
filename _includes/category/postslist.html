@@ -20,7 +20,7 @@
     <ul class="sources__list">
     {% for link in category.links %}
       <li class="sources__list-item">
-        <a class="sources__link" href="{{ link.url }}" target="_blank">{{ link.title }}</a>
+        <a class="sources__link" href="{{ site.baseurl }}/{{ link.url }}" target="_blank">{{ link.title }}</a>
       </li>
     {% endfor %}
     </ul>

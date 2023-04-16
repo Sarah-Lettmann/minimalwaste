@@ -1,14 +1,14 @@
 <!-- primary menu -->
 <ul id="menu-list" class="menu menu--hidden menu--main">
   <li class="menu__item menu__item--home">
-    <a class="menu__link menu__link--home" href="/">
+    <a class="menu__link menu__link--home" href="{{ site.baseurl }}/">
       {% include header/logo.html %}
       <span class="visually-hidden">MinimalWaste Startseite</span>
     </a>
   </li>
   {% for page in site.data.menu %}
   <li class="menu__item">
-    <a class="menu__link" href="{{ page.href }}">{{ page.title }}</a>
+    <a class="menu__link" href="{{ site.baseurl }}/{{ page.href }}">{{ page.title }}</a>
   </li>
   {% endfor %}
 </ul>

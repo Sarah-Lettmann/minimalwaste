@@ -5,7 +5,7 @@
   <ul class="sources__list">
     {% for source in source-file %}
       <li class="sources__list-item">
-        <a class="sources__link" href="{{ source.url }}" title="{{ source.title }} (externer Link)" target="_blank" rel="noreferrer">{{ source.title }}</a>
+        <a class="sources__link" href="{{ site.baseurl }}/{{ source.url }}" title="{{ source.title }} (externer Link)" target="_blank" rel="noreferrer">{{ source.title }}</a>
       </li>
     {% endfor %}
   </ul>

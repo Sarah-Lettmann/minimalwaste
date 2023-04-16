@@ -2,7 +2,7 @@
   Einbinden mit {% include figure.html src="" alt="" title="" caption="" %}
 {% endcomment %}
 <figure>
-  <img src="{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
+  <img src="{{ site.baseurl }}/{{ include.src }}" alt="{{ include.alt }}" title="{{ include.title }}" width="960" height="640" />
   {% if include.caption != "" %}
     <figcaption>{{ include.caption }}</figcaption>
   {% endif %}

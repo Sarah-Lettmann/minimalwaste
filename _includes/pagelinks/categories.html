@@ -3,20 +3,20 @@
   <ul class="pagelinks__categories-list">
     {% for category in site.data.menu %}
     <li class="pagelinks__categories-list-item">
-      <a class="pagelinks__categories-link" href="{{ category.href }}">
+      <a class="pagelinks__categories-link" href="{{ site.baseurl }}/{{ category.href }}">
         <h3 class="pagelinks__categories-title">{{ category.title }}</h3>
         <div class="pagelinks__categories-cover cover cover--background">
-          <img class="pagelinks__categories-image cover__image" src="/assets/category-images/{{ category.title | slugify: 'latin' }}.jpg" alt="" />
+          <img class="pagelinks__categories-image cover__image" src="{{ site.baseurl }}/assets/category-images/{{ category.title | slugify: 'latin' }}.jpg" alt="" />
         </div>
       </a>
     </li>
     {% if category.subcategories %}
       {% for subcategory in category.subcategories %}
       <li class="pagelinks__categories-list-item">
-        <a class="pagelinks__categories-link" href="{{ subcategory.href }}">
+        <a class="pagelinks__categories-link" href="{{ site.baseurl }}/{{ subcategory.href }}">
           <h3 class="pagelinks__categories-title">{{ subcategory.title }}</h3>
           <div class="pagelinks__categories-cover cover cover--background">
-            <img class="pagelinks__categories-image cover__image" src="/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
+            <img class="pagelinks__categories-image cover__image" src="{{ site.baseurl }}/assets/category-images/{{ subcategory.title | slugify: 'latin' }}.jpg" alt="" />
           </div>
         </a>
       </li>

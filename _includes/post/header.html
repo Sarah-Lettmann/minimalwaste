@@ -4,14 +4,14 @@
     <div class="post__categories">
       {% if page.categories.first %}
         {% assign cat = site.data.categories[page.categories.first] %}
-        <a class="post__categories-link" href="{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+        <a class="post__categories-link" href="{{ site.baseurl }}/{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
           <span class="visually-hidden">Kategorie </span>
           {{ cat.name }}
         </a>
         {% for category in page.categories offset:1 %}
           {% assign cat = site.data.categories[category] %}
           |
-          <a class="post__categories-link" href="{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+          <a class="post__categories-link" href="{{ site.baseurl }}/{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
             <span class="visually-hidden">Kategorie </span>
             {{ cat.name }}
           </a>
@@ -20,10 +20,10 @@
     </div>
   </div>
   <div class="cover">
-    <img class="cover__image" src="/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" width="1236" height="650" />
+    <img class="cover__image" src="{{ site.baseurl }}/assets/title-images/{{ page.date | split: '-' | first }}/{{ page.date | split: ' ' | first }}-{{ page.url | remove: '/blog/' | remove: '/'}}.jpg" alt="" width="1236" height="650" />
   </div>
   <div class="post__meta">
-    <img class="post__meta-author-image" src="{{ site[page.author].picture }}" alt="Autor des Posts ist {{ site[page.author].name }}" width="60" height="60" />
+    <img class="post__meta-author-image" src="{{ site.baseurl }}/{{ site[page.author].picture }}" alt="Autor des Posts ist {{ site[page.author].name }}" width="60" height="60" />
     <p class="post__meta-text">
       <span class="visually-hidden">Veröffentlich von </span>
       {{ site[page.author].name }}<br />
