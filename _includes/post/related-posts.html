@@ -7,11 +7,11 @@
       {% if post %}
         <article class="post">
           <h3 class="post__title post__title--h4">
-            <a class="post__link" href="{{ site.baseurl }}/{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
+            <a class="post__link" href="{{ site.baseurl }}{{ post.url }}" title="Zum Post '{{ post.title }}'">{{ post.title }}</a>
           </h3>
           <div class="post__categories">
             {% assign cat = site.data.categories[post.categories.first] %}
-            <a class="post__categories-link" href="{{ site.baseurl }}/{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+            <a class="post__categories-link" href="{{ site.baseurl }}{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
               <span class="visually-hidden">Kategorie </span>
               {{ cat.name }}
             </a>

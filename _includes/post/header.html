@@ -4,14 +4,14 @@
     <div class="post__categories">
       {% if page.categories.first %}
         {% assign cat = site.data.categories[page.categories.first] %}
-        <a class="post__categories-link" href="{{ site.baseurl }}/{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+        <a class="post__categories-link" href="{{ site.baseurl }}{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
           <span class="visually-hidden">Kategorie </span>
           {{ cat.name }}
         </a>
         {% for category in page.categories offset:1 %}
           {% assign cat = site.data.categories[category] %}
           |
-          <a class="post__categories-link" href="{{ site.baseurl }}/{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
+          <a class="post__categories-link" href="{{ site.baseurl }}{{ cat.url }}" title="Zur Kategorie {{ cat.name }}">
             <span class="visually-hidden">Kategorie </span>
             {{ cat.name }}
           </a>

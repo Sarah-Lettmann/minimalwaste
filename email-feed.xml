@@ -17,7 +17,7 @@ layout: null
         <description>{{ post.excerpt | strip_html }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}?utm_source=newletter&amp;utm_medium=email&amp;utm_campaign=newsletter</link>
-        <media:content url="http://minimalwaste.de/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" medium="image" width="600" />
+        <media:content url="http://minimalwaste.de/{{ site.baseurl }}/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" medium="image" width="600" />
         <enclosure url="http://minimalwaste.de/assets/title-images/{{ post.date | split: '-' | first }}/{{ post.date | split: ' ' | first }}-{{ post.url | remove: '/blog/' | remove: '/'}}.jpg" length="150000" type="image/jpeg" />
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         <category>{{ post.categories.first | xml_escape }}</category>
